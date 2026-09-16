@@ -9,7 +9,8 @@
   const nextButton = get('next');
   const count = get('page-count');
   const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
-  let current = Math.max(0, chapters.findIndex(c => c.id === location.hash.slice(1)));
+  const initialHash = location.hash.slice(1);
+  let current = Math.max(0, chapters.findIndex(c => c.id === initialHash));
   let reading = new URLSearchParams(location.search).get('tryb') === 'czytanie';
   body.classList.add('enhanced');
   function updateNavigation() {
@@ -41,11 +42,11 @@
     const params = new URLSearchParams(location.search);
     if (reading) params.set('tryb', 'czytanie'); else params.delete('tryb');
     const query = params.size ? `?${params}` : '';
-    history.replaceState(null, '', `${location.pathname}${query}#${chapters[current].id}`);
+    if (!initial) history.replaceState(null, '', `${location.pathname}${query}#${chapters[current].id}`);
     if (reading) {
       if (!initial) chapters[current].scrollIntoView({behavior: 'instant', block: 'start'});
     } else {
-      showChapter(current, {scroll: !initial});
+      showChapter(current, {scroll: !initial, history: !initial});
     }
   }
   modeButton.addEventListener('click', () => {
@@ -89,5 +90,8 @@
     if (n >= 0 && !reading) showChapter(n, {history: false});
   });
   setReading(reading, true);
-  if (reading) { showChapter(current, {history: false}); requestAnimationFrame(() => chapters[current].scrollIntoView({behavior: 'instant'})); }
+  if (reading) {
+    showChapter(current, {history: false});
+    if (initialHash) requestAnimationFrame(() => chapters[current].scrollIntoView({behavior: 'instant'}));
+  }
 })();

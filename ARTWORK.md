@@ -204,7 +204,7 @@ Constraints: one coherent image, no panel layout. Purely visual metaphor; absolu
 
 ## Tło panelu Psyho i Bagińskiego
 
-Jedna ilustracja o autorstwie i ludzkim wyborze: dwie dłonie wybierają ciepły, niedoskonały kadr spośród wielu szkicowanych możliwości. Wyraźny grafit, kobaltowe konstrukcje i bursztynowe światło. Obraz jest widoczny w całości, bez przygaszania: obok tekstu na komputerze i pod tytułem na telefonie.
+Jedna ilustracja o autorstwie i ludzkim wyborze: dwie dłonie wybierają ciepły, niedoskonały kadr spośród wielu szkicowanych możliwości. Wyraźny grafit, kobaltowe konstrukcje i bursztynowe światło. Obraz jest widoczny w całości, bez przygaszania. Jako duża scena wkomponowana w papier strony prowadzi od tytułu do tekstu na komputerze i telefonie.
 
 Wygenerowano przez wbudowane image_gen, z dialog.webp jako referencją stylu. Plik strony: assets/psyho-choice-v2.webp; podgląd linku: assets/psyho-preview-v2.jpg (ten sam rysunek).
 

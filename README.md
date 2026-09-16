@@ -6,15 +6,15 @@
 
 Ilustrowana adaptacja wykładu Bartosza Naskręckiego „Nie potrzebujemy już matematyków”, AI Summit PJAIT, 16 września 2026.
 
-12 rozdziałów, każdy z własną ilustracją. Każdy slajd od razu pokazuje cały tekst. Czytelnik przechodzi przyciskami Wstecz/Dalej, strzałkami lub gestem przesunięcia; może też wybrać rozdział albo przełączyć się na ciągłe czytanie całości. Spacja zachowuje zwykłe działanie przeglądarki. Działa reduced motion i ciągła wersja bez JavaScriptu. Pełna transkrypcja jest dostępna osobno.
+12 rozdziałów, każdy z własną dużą sceną wkomponowaną w papier strony. Tytuł i autor prowadzą do ilustracji, a cały tekst jest dostępny od razu poniżej. Czytelnik przechodzi przyciskami Wstecz/Dalej, strzałkami lub gestem przesunięcia; może też wybrać rozdział albo przełączyć się na ciągłe czytanie całości. Spacja zachowuje zwykłe działanie przeglądarki. Działa reduced motion i ciągła wersja bez JavaScriptu. Pełna transkrypcja jest dostępna osobno.
 
 ## Psyho i Bagiński
 
-[Streszczenie panelu „Od sztuki po najbrudniejszą robotę”](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski.html): Tomek Bagiński i Przemysław „Psyho” Dębiak, prowadzi Adrian Bąk. Siedem wątków, jedno subtelne szkicowane tło oraz [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html) z odnośnikami do czasu nagrania. Tekst dostępny od razu, bez skryptów ani kontrolek tempa. Zapis obejmuje dostarczone nagranie 52:56; nieczytelne fragmenty są oznaczone. Streszczenie zachowuje opinie i przewidywania jako stanowiska rozmówców.
+[Streszczenie panelu „Od sztuki po najbrudniejszą robotę”](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski.html): Tomek Bagiński i Przemysław „Psyho” Dębiak, prowadzi Adrian Bąk. Siedem wątków, jedna szeroka scena szkicowana oraz [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html) z odnośnikami do czasu nagrania. Tekst dostępny od razu, bez skryptów ani kontrolek tempa. Zapis obejmuje dostarczone nagranie 52:56; nieczytelne fragmenty są oznaczone. Streszczenie zachowuje opinie i przewidywania jako stanowiska rozmówców.
 
 ## Dragan
 
-[Wykład Andrzeja Dragana „Dziury koloru białego”](https://jakiesluchawki.github.io/daniel-opowiesc/dragan.html): streszczenie oraz [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html) ze znacznikami czasu. Cały tekst jest dostępny od razu, a jedno szkicowane tło towarzyszy otwarciu wykładu.
+[Wykład Andrzeja Dragana „Dziury koloru białego”](https://jakiesluchawki.github.io/daniel-opowiesc/dragan.html): streszczenie oraz [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html) ze znacznikami czasu. Cały tekst jest dostępny od razu, a jedna szeroka scena szkicowana łączy tytuł z tekstem.
 
 ## Uruchomienie
 
