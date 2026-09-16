@@ -204,19 +204,18 @@ Constraints: one coherent image, no panel layout. Purely visual metaphor; absolu
 
 ## Tło panelu Psyho i Bagińskiego
 
-Jeden odrębny szkic tła, wygenerowany wbudowanym narzędziem image_gen. Bez tekstu i postaci.
+Jedna ilustracja o autorstwie i ludzkim wyborze: dwie dłonie wybierają ciepły, niedoskonały kadr spośród wielu szkicowanych możliwości. Wyraźny grafit, kobaltowe konstrukcje i bursztynowe światło. Obraz jest widoczny w całości, bez przygaszania: obok tekstu na komputerze i pod tytułem na telefonie.
 
-![Subtelne szkicowane orbity i zagięcia kartki, z pustym środkiem i małym bursztynowym akcentem.](assets/psyho-background.webp)
+Wygenerowano przez wbudowane image_gen, z dialog.webp jako referencją stylu. Plik strony: assets/psyho-choice-v2.webp; podgląd linku: assets/psyho-preview-v2.jpg (ten sam rysunek).
+
+![Dwie szkicowane dłonie wybierają bursztynowy kadr z wielu połączonych możliwości.](assets/psyho-choice-v2.webp)
 
 ```text
-Use case: stylized-concept
-Asset type: ONE subtle background image for a thoughtful editorial website tab, landscape 4:3. This is ambient paper and linework behind content, not a central narrative illustration.
-Input images: Image 1 and Image 2 are STYLE REFERENCES ONLY. Match their handmade graphite pencil texture, pale blue-grey paper, delicate cobalt construction lines and restrained amber warmth. Do not repeat their compositions or subjects. In particular no hands, people, paths, landscapes or opposing circular forms.
-Primary request: an abstract creative field, a spacious unfinished sketch structure made of extremely fine pencil curves, a few lightly folded blank spatial paper planes, and spare cobalt construction orbits. A single tiny ember of warm curiosity sits off to one side near the outer margin. The arrangement conveys openness, creative possibility and thoughtful human warmth entirely through abstract forms.
-Scene/backdrop: luminous very pale blue-grey paper with barely perceptible handmade grain, delicate erasure traces and restrained organic graphite imperfections. No depicted room or specific place.
-Composition/framing: landscape 4:3. Vast breathing room; keep the broad middle 60 percent of the entire image almost empty and very pale, quiet enough for overlaid readable webpage content. Concentrate the delicate handmade pencil structure and slightly denser fine linework along the outer edges and corners. Open asymmetrical spatial folds and curves, elegant and very low contrast. No central focal figure, no large central shape. A tiny amber ember appears near an outer edge, never in the center.
-Style/medium: sophisticated sensitive editorial drawing in thin graphite pencil and exceptionally fine cobalt-blue ink construction lines, nuanced handmade imperfections. Airy, hopeful and lightly technical; no literal information diagram.
-Lighting/mood: very gentle light paper ground, contemplative hope, soft small amber warmth on the periphery, no dramatic illumination.
-Color palette: nearly white pale blue grey paper; very light graphite grey; fine muted cobalt blue; a single very small restrained amber accent.
-Hard constraints: no human figures, hands, people, portraits, faces, animals, profession symbols, robots, humanoid machines or sci-fi cliches. Absolutely no text, words, letters, digits, numbers, equations, pseudo-equations, glyphs, labels, signatures, logos or watermarks anywhere. Paper planes are perfectly BLANK and unmarked. No panel layout, no cartoon, no heavy outlines, no black dense areas, no glossy 3D finish, no strong gradients. Keep the center almost completely empty and all edges refined rather than cluttered.
+Use case: illustration-story.
+Asset type: one editorial landscape illustration for a Polish discussion page, aspect ratio 4:3.
+Primary request: illustrate human authorship and thoughtful choice among a vast abundance of machine-generated possibilities. Make a NEW composition. Input image 1 is a STYLE REFERENCE ONLY, not an edit target.
+Scene and subject: a large, anatomically natural human hand reaches into a fan of overlapping translucent paper frames, studies them, and carefully lifts one frame into the foreground. The chosen frame is visibly different: warm amber, a living irregular hand-drawn gesture, faint creases, graphite fingerprints and human imperfection. The other frames contain light, varied, unfinished abstract visual sketches and are linked by thin cobalt technical construction paths, nodes and branching lines. A subtle second human hand may support the selected frame from below, suggesting collaboration. The subject must be immediately readable and substantial, not merely decorative curves.
+Style and medium: textured pale blue-grey sketchbook paper; confident graphite pencil and charcoal outlines, delicate crosshatching, thin technical blue drawing lines, a restrained amber light at the point of choice. Match the reference's tactile draftsmanship, human hands, technical geometry and hopeful quiet mood. Stronger visible contrast than a faded background: hands and foreground frames have clear dark graphite contour and readable shading at full opacity.
+Composition: landscape 4:3, editorial and elegant. Main motif occupies the central and right two-thirds, fully visible without cropping. The left 30–35 percent is visually calmer for adjacent page typography, with sparse receding frames and traces, but the whole image remains a coherent illustration rather than an empty wash. The selected warm frame and the choosing fingertips form the unmistakable focal point. Complete composition must read beautifully on a phone.
+Constraints: no text whatsoever, no letters, numbers, equations, labels, logos or watermark. No robots, literal computers, screens, futuristic glossy surfaces or photorealistic rendering. No huge blank background, no nearly invisible subject. Keep the image humane, intelligent and full of possibility.
 ```

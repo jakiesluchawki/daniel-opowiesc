@@ -113,16 +113,28 @@ h1,h2{font-family:var(--display);font-weight:400;line-height:1.1;letter-spacing:
 .background-art{position:relative;align-self:center;min-width:0;margin:0;pointer-events:none;user-select:none}
 .background-art img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:contain;opacity:.32;mix-blend-mode:multiply}
 .background-art:after{position:absolute;inset:0;content:'';box-shadow:inset 0 0 2rem 1rem var(--paper)}
-.lecture-hero.with-background{display:block;position:relative;isolation:isolate;padding:clamp(1.5rem,4vw,4rem) 0;min-height:30rem}
-.lecture-hero.with-background .background-art{position:absolute;inset:0;max-width:none;width:100%;z-index:-1;overflow:hidden}
-.lecture-hero.with-background .background-art img{height:100%;object-fit:cover;opacity:.2}
-.lecture-hero.with-background .lecture-hero-copy{max-width:62ch}
+.lecture-hero.with-background{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:clamp(1.25rem,3vw,3.5rem);position:relative;padding:1rem 0 2rem;min-height:0}
+.lecture-hero.with-background .background-art{position:relative;inset:auto;max-width:none;width:100%;z-index:0;margin:0}
+.lecture-hero.with-background .background-art img{height:auto;object-fit:contain;opacity:1}
+.lecture-hero.with-background .background-art:after{display:block;box-shadow:inset 0 0 2rem .75rem var(--paper)}
+.lecture-hero.with-background .lecture-hero-copy{max-width:36rem}
+.lecture-hero.with-background h1{max-width:17ch;font-size:clamp(2.5rem,4.8vw,4.6rem)}
 .lecture-participants{font-size:1rem;line-height:1.7;margin:0 0 1.6rem;color:var(--ink)}
 .lecture-participants span{color:var(--muted);font-size:.9rem}
 .lecture-time{margin-top:1.7rem!important;font-size:.83rem!important;color:var(--blue)}
 .transcript-prose [id^=t-]{scroll-margin-top:2rem}
 @media(min-width:1500px){.enhanced:not(.reading) .chapter{max-width:1650px}}
 @media(max-width:900px){.chapter{gap:1.5rem;grid-template-columns:minmax(0,1fr) minmax(0,.8fr);padding-left:2rem;padding-right:2rem}.prose{font-size:1.1rem}h1,h2{font-size:2.7rem}.chapter-art:after{box-shadow:inset 0 0 1rem .5rem var(--paper)}}
+@media(max-width:900px){
+ .lecture-hero.with-background{grid-template-columns:1fr;gap:0;padding:0}
+ .lecture-hero.with-background .lecture-hero-copy{display:contents}
+ .lecture-hero.with-background .lecture-kicker{grid-row:1}
+ .lecture-hero.with-background h1{grid-row:2;max-width:18ch;font-size:clamp(2.5rem,7vw,3.8rem)}
+ .lecture-hero.with-background .lecture-participants{grid-row:3;margin-bottom:.5rem}
+ .lecture-hero.with-background .background-art{grid-row:4;max-width:38rem;justify-self:center;margin:.5rem 0 1.5rem}
+ .lecture-hero.with-background .lecture-lead{grid-row:5}
+ .lecture-hero.with-background .lecture-actions{grid-row:6}
+}
 @media(max-width:680px){
  .site-header{padding:.8rem 1.2rem;gap:.25rem;align-items:center;flex-wrap:wrap}.lecture-switch{width:100%;gap:1.2rem}.lecture-switch a{font-size:.85rem}.lecture-switch svg{width:1.2rem;height:1.2rem}.wordmark{font-size:1.1rem;gap:.4rem}.wordmark svg{width:1.35rem;height:1.35rem}.header-nav{width:100%;justify-content:space-between;gap:.7rem;font-size:.82rem}.header-nav .source-menu{display:none}.header-nav summary,.text-button{padding:.65rem 0}
  .chapter,.enhanced:not(.reading) .chapter.current{grid-template-columns:1fr;gap:1.3rem;align-items:start;padding:1.3rem 1.5rem 2rem;min-height:0}
@@ -134,6 +146,9 @@ h1,h2{font-family:var(--display);font-weight:400;line-height:1.1;letter-spacing:
  .reading .chapter{padding:2.75rem 1.5rem}.reading .chapter-art img{max-height:25rem}.reading .chapter:first-child{padding-top:1.5rem}.contents{right:-.25rem}.site-footer{padding:2rem 1.5rem}.source-link-mobile{display:block!important}
  .header-nav #chapters-menu .contents{left:0;right:auto}
  .lecture-page{padding:2rem 1.5rem 3.5rem}.lecture-hero{grid-template-columns:1fr;gap:1.5rem;margin-bottom:2.5rem}.lecture-page h1{font-size:clamp(2.5rem,11vw,3.8rem);max-width:18ch}.lecture-lead{font-size:1.2rem}.lecture-summary{padding:2rem 0}.lecture-section,.lecture-section.with-art{grid-template-columns:1fr;gap:1.5rem;padding:2.5rem 0}.background-art{width:100%;max-width:26rem;justify-self:center}.background-art:after{box-shadow:inset 0 0 1rem .5rem var(--paper)}
+ .lecture-hero.with-background h1{font-size:clamp(2.5rem,11vw,3.8rem)}
+ .lecture-hero.with-background .background-art{width:calc(100% + 3rem);max-width:none;margin-left:-1.5rem;margin-right:-1.5rem}
+ .lecture-hero.with-background .background-art:after{box-shadow:inset 0 0 1.25rem .35rem var(--paper)}
 }
 @media(max-width:370px){.header-nav{gap:.5rem;font-size:.76rem}.wordmark svg{display:none}.chapter,.enhanced:not(.reading) .chapter.current{padding-left:1.2rem;padding-right:1.2rem}.reader-controls .nav-button{font-size:.85rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}body{transition:none!important}}

@@ -22,7 +22,7 @@ Desktop: reading column alongside an open illustration. Mobile: chapter label, t
 
 Both lectures share a small header with real links, Daniel and Psyho i Bagiński. The active lecture uses a dark bold label and a thin cobalt underline. On phones the lecture links and local reading actions occupy separate rows. Transcript pages use the same header and offer a return to their lecture.
 
-The additional lecture is a continuous essay: a spacious Romie title, Roobert lead, short summary and readable sections capped at 62ch. One to three decorative sketches sit beside text in their own column or follow it on mobile. Only the drawing receives reduced opacity; text remains at full contrast. There are no images underneath paragraphs.
+The additional lecture is a continuous essay: a spacious Romie title, Roobert lead, short summary and readable sections capped at 62ch. The panel has one substantial graphite illustration about human authorship and choosing among generated possibilities. It is shown at full opacity beside the opening text on desktop and in full composition between participants and lead on mobile. Its subject must be visible and connected to the discussion. Keep paragraphs on clean paper, with full contrast.
 
 ## Motion
 
