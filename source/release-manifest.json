@@ -1,11 +1,6 @@
 {
   "files": [
     {
-      "path": ".DS_Store",
-      "bytes": 8196,
-      "sha256": "f789f73572d16860561655a7b962a53c23cefcc07adff94bb13d31bca7471790"
-    },
-    {
       "path": ".gitignore",
       "bytes": 10,
       "sha256": "cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e"
