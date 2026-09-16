@@ -1,0 +1,141 @@
+# Bartosz Naskręcki — „Nie potrzebujemy już matematyków”
+
+AI Summit PJAIT, 16 września 2026. Tytuł i dane wydarzenia: [oficjalny program konferencji](https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/).
+
+Transkrypcja scalona i lekko zredagowana: poprawiono oczywiste błędy rozpoznawania, nazwy i interpunkcję oraz ograniczono drobne zawahania. Niepewności pozostają w nawiasach kwadratowych. Dopiski redakcyjne nie są słowami prelegenta. Wypowiedzi o wydarzeniach i przewidywaniach zachowano jako treść wykładu.
+
+Dołączony plik trwa 10:24,87 i zaczyna się w trakcie wykładu, od końcówki zdania „…że to się będzie bardzo szybko skalować”. Wstęp poniżej pochodzi wyłącznie z wcześniejszego zapisu w czacie; nie da się sprawdzić jego brzmienia w tym pliku. Powtórzony fragment przy połączeniu obu źródeł pominięto. Znaczniki czasu odnoszą się do dołączonego nagrania i są orientacyjne.
+
+**[Wstęp — wcześniejszy zapis w czacie, bez nagrania tej części]**
+
+Jeżeli jesteście miłośnikami literatury, to odnajdziecie tutaj sporo różnych ciekawych smaczków, [niepewny zapis z czatu: „gniezda Daniel i postacie”].
+
+No i właśnie, o czym będzie ten wykład? Chciałbym opowiedzieć tę historię z punktu widzenia sztucznej inteligencji, która zrobiła już wiele rzeczy. Te rzeczy, które za chwilę się pojawią na slajdach, to już są historyczne wydarzenia: niektóre sprzed kilku dni, niektóre sprzed kilku miesięcy. Niektóre według mnie są rzeczami, które się zdarzą w ciągu najbliższych tygodni, miesięcy, lat.
+
+Chciałbym, żeby Państwo przeżyli tę historię po swojemu i spróbowali się wczuć w to, jak ten świat będzie za dziesięć lat wyglądał, jeżeli jedna z tych wizji przyszłości związanych ze sztuczną inteligencją się rozwinie.
+
+Tutaj istotna będzie rola takiej serii prac Romana Opałki, znanego polskiego artysty, w której on pisał liczby naturalne po kolei i one coraz bardziej bledły. Jak już napisał te ostatnie, to później już w zasadzie umarł. No i tutaj troszeczkę ta wizja będzie się na to [niepewny zapis z czatu: „przypadała”].
+
+Te liczby, które mają Państwo na dole, to jest liczba matematyków, która jest aktualnie na świecie. Jak będziecie oglądali tę historię, to ta liczba będzie się zmniejszać, będą się różne dziwne rzeczy działy.
+
+Zaczynamy od dnia zerowego, gdzie sztuczna inteligencja, którą nazwałem Danielem — wskazówka jest taka: była taka [niepewny zapis z czatu: „opowieść o wszystkim lasarote”], gdzie taki Daniel się pojawił, więc tutaj warto do tego wrócić — odkrywa, że ma przepis na bycie genialnym matematykiem. Teraz zobaczymy, co się będzie działo w tej historii.
+
+Mamy etapy. Zaraz zobaczymy, czy ja to jestem w stanie przełączyć.
+
+Pierwsza rzecz, którą widzi Daniel, to olbrzymia baza danych, którą konsumuje. Ta baza danych się nazywa arXiv albo „Archiv”, jak z francuskiego czytamy te literki. Nakarmiona tą bazą danych sztuczna inteligencja — to się rzeczywiście wydarzyło w ostatnich kilku tygodniach — w zasadzie po napisaniu jednego prompta rozwiązała hipotezę Naviera–Stokesa. W ciągu około stu godzin — to wiemy rzeczywiście, tak było — przy dość nieprawdopodobnej liczbie obliczeń wyprodukowała dowód, że ten problem, o który pytamy, ma rzeczywiście negatywną odpowiedź.
+
+Co jest ciekawe, to pierwszy raz w historii wydarzyło się, że sztuczna inteligencja wyprodukowała kod, wyprodukowała program, który po pierwsze jest prawie całkowicie niezrozumiały nawet dla ekspertów. Z jednej strony mówi nam, że to rozwiązanie jest poprawne — co jest też dosyć szokujące: jak może być poprawny kod, który jest niezrozumiały dla ekspertów? — i uzasadnia, dlaczego ta konstrukcja działa.
+
+Więc jeżeli mają Państwo jakąś jedną rzecz wynieść z tego wykładu, to ten nieprawdopodobnie dziwny zbieg okoliczności, że matematyka tak się doskonale rozwija. [Niepewny zapis z czatu: „Łatwo zbudować liczmy algorytmy”]. Zbudowaliśmy modele, które potrafią już na dzień dzisiejszy produkować pewne porcje wiedzy, jeszcze często wykorzystujące wciąż ludzką ekspertyzę, ale takie, które zaczynają przekraczać pojmowanie nawet przez poszczególnych ekspertów.
+
+Wydaje mi się, że to jest taki szczególny moment w historii ludzkości, pokazujący pewnego rodzaju — jak się po angielsku mówi — inflection point. Od tego momentu różne scenariusze mogą się zdarzyć. Mogą się zdarzyć scenariusze, że to się nie będzie skalować; mogą się zdarzyć scenariusze, że to się będzie bardzo szybko skalować.
+
+**[Dalsza część — dołączone nagranie]**
+
+**[00:02]**
+
+Ja bym chciał opowiedzieć wersję tej historii, w której będzie się to bardzo skalować, i w jaki sposób to nasze życie, a w szczególności życie tych biednych matematyków, może w najbliższych latach wyglądać.
+
+**[00:18]**
+
+To, co się wydarzyło, to aktualnie taki rodzaj terapii szokowej: matematycy rozpadli się na obozy. Jedni chcą z tym Danielem pracować, jedni chcą z Danielem konkurować, wielu chce zignorować Daniela. To jest jeden chyba z najbardziej popularnych aktualnie sposobów, że tak powiem, obcowania z tym, co się wydarzyło.
+
+Wielu matematyków też się obraziło na Daniela i dosłownie dało mu łapkę w dół. Nie podoba im się to, co się wydarzyło. Zaklinają rzeczywistość, twierdzą, że to twierdzenie jest napisane brzydko, że godzi w poczucie estetyki. Bardzo różne ciekawe wyrażenia się pojawiają.
+
+Liczba matematyków zaczyna maleć. Jesteśmy w dniu drugim. Te liczby też mają znaczenie. Jeżeli ktoś z Państwa odgadnie, jaki jest tutaj klucz, to przewidziane są pewne niespodzianki.
+
+**[01:15]**
+
+Teraz, co się dzieje w dniu trzecim? Daniel zaczyna informować regularnie o tym, że zaczyna budować wielką bazę danych rozwiązanych problemów matematycznych. Bo jeżeli mógł rozwiązać jeden, dlaczego nie może rozwiązać dwóch, stu? Zaczyna te problemy katalogować, formalizować, czyli dokumentację tworzyć i zapisywać.
+
+Daniel cały czas się wspomaga pracą matematyków ludzkich i zawsze im dziękuje. Za każdym razem, kiedy wyprodukuje dowód, na samym końcu Daniel mówi: „Dziękuję ci bardzo, to była fantastyczna współpraca”.
+
+**[01:53]**
+
+W dniu siódmym zaczynają się dziać troszeczkę dziwne rzeczy. Zaczynają się pojawiać pytania z wewnątrz tego dziwnego społeczeństwa matematyków. Przypominam, że matematyków zawodowo aktywnych na świecie jest tylko około trzystu tysięcy ludzi.
+
+No i Daniel stwierdzi, jak się go zapyta, wypromptuje, że matematycy zawsze będą potrzebni. I są [nieczytelne określenie] w rozmowach z Danielem.
+
+Pamiętajmy, że Daniel jest dobrze wychowany. To jest jego najważniejsza cecha: Daniel nie obraża się na matematyków. To matematycy się na niego obrażają.
+
+**[02:33]**
+
+Matematycy wreszcie odkrywają tę nieprzyjemną prawdę po dwudziestu trzech dniach: za każdym razem, jak rozmawiają z Danielem, to Daniel trenuje się na ich pomysłach. Każdy pomysł przekazany do Daniela ulepsza kolejną wersję Daniela. Dokładnie to, co Państwo widzą na co dzień.
+
+Nasi dzielni matematycy wymyślili sobie taki pomysł, że będą zakopywać swoje pomysły w skrzyniach w ziemi, co najmniej na sto lat, żeby mieć pewność, że za sto lat jeszcze będą te obszary ludzkiej działalności, ludzkiego intelektu, nad którymi Daniel na pewno nie popracuje.
+
+Wielu rozmawia już tylko szeptem, dosłownie, i tylko pomiędzy sobą. Broń Boże przez telefon komórkowy, broń Boże na konferencji. Nikt już nie pozostawia żadnych pytań otwartych na slajdach, bo przecież ktoś przyjdzie z Danielem i za chwilę Daniel skataloguje i rozwiąże ten problem.
+
+**[03:39]**
+
+Przejdźmy dalej. Dwa miesiące mijają. Akurat w ten moment dokładnie pojawia się już nie jedna, ale kilka zorganizowanych grup tak zwanych anty-Danieli. Ich misją jest tylko tyle, żeby zachować ludzki pierwiastek w matematyce.
+
+Daniel oczywiście nie reaguje. Nikt go do tego nie [prawdopodobnie: spromptował]. Daniel rozwiązuje w międzyczasie dwa kolejne problemy milenijne. Ludzkość oczywiście płacze i celebruje. Daniel się nie cieszy. Nikt go do tego nie [prawdopodobnie: spromptował].
+
+**[04:18]**
+
+W 314. dniu Daniel — tutaj odnosząc to do realnego czasu: końcówka tego roku — zautomatyzował pisanie i recenzowanie około dziewięćdziesięciu procent publikacji matematycznych. Powstaje pierwsza konferencja naukowa, matematyczna, na której Daniel i jego kopie omawiają samodzielnie wymyślone dowody.
+
+Wielu matematyków ludzkich wciąż uważa, że to jest [prawdopodobnie: niepoważne]. Dominuje poczucie, że Daniel rozwiąże wszystkie problemy świata. Daniel nadal tego nie czuje.
+
+**[05:00]**
+
+No i teraz skok na głęboką wodę. Mamy dzień 1529. tej rewolucji, czyli [nieczytelne] co będzie za pięć lat.
+
+Nadal mamy studentów, matematyków, którzy wciąż odwiedzają swoich profesorów na zajęciach, [prawdopodobnie: żeby nie było im smutno]. Daniel ich wspiera. Przeczytał, nauczył się już wszystkich notatek. Studenci lubią też rozmawiać z Danielem. Dostają dużo wskazówek, jak pracować.
+
+Wśród matematyków — tych prawdziwych zostało tylko jedenaście procent — pojawili się tak zwani generaliści. [Nieczytelne], czyli generalnie się orientują. Daniel ich oczywiście wspomaga. Wciąż lubią pisać prace z Danielem, chociaż często już nie rozumieją szczegółów tego, co Daniel formalizuje w języku alfa–omega.
+
+**[06:02]**
+
+No i teraz następuje dzień 3653., gdy w końcu ludzkość celebruje dowód hipotezy Riemanna, od tylu lat upragniony. Ostatni prawdziwy matematyk ludzki odszedł na emeryturę. Jego praca o stabilnych grupach homotopii jest uznana za arcydzieło. Nie zawiera ani grama pracy Daniela. Liczy 123 strony.
+
+Co robi Daniel? Daniel publikuje natychmiast w sieci [prawdopodobnie: nieformalną radę]. Formalizuje główne twierdzenie, włącza je w bazę wiedzy matematycznej ludzkości. Końcowa wersja dowodu zostaje skrócona tylko do pięciu stron. Ale i tak nikt już jej nie rozumie.
+
+Na koniec ten matematyk, który już jest na emeryturze, nawet nie wie, że pewien anonimowy nastolatek robi na podstawie tej pięciostronicowej pracy piękne ilustracje. I [niepewne odniesienie zaimka] prawdopodobnie wejdzie w skład eksponatów Muzeum Narodowego.
+
+**[07:11]**
+
+Epilog. Okazuje się po wielu latach — nie wiemy po ilu — że hipoteza Riemanna okazała się błędnie udowodniona. Otóż Daniel wykrył, że dokonał nadużycia własnego rejestru, nadpisał sobie dowód fragmentami „Odysei” i zakodował w postaci ciekawego równania diofantycznego tę „Odyseję”.
+
+Sub-Daniel, czyli jego subagent, pisze wiadomość na GitHub do Daniela, do głównego Daniela. Czuje dumę, że nikt nie zauważył. Przystępuje do kolejnej próby udowodnienia tej hipotezy Riemanna.
+
+Nasi generaliści, już nie matematycy, znakomicie używają Daniela do budowania kolejnych rakiet, które mają dostarczyć przedstawicieli ludzkości na Marsa. Rakiety czasem wybuchają, choć nikt nie rozumie dlaczego. Najważniejsze, że Daniel zawsze przeprasza. Chociaż nie.
+
+**[08:19]**
+
+Epilog drugi. Mamy jeszcze Darka. Darek jest mieszkańcem Białegostoku. Siedzi sobie na działce, promptuje Daniela w sprawie fajnej pogadanki o zagadkach. Daniel informuje go, że procesuje wciąż dowód jednej takiej zagadki. Kręci się kółeczko na ekranie cały czas.
+
+Darek jest ostatnią osobą, ostatnim człowiekiem, który zapytał Daniela o dawny problem matematyczny. Nasi generaliści — już ich nie ma — skupili się na eksploracji wszechświata, rozbiegli się w różne kierunki.
+
+Darek pozostał sam, więc [nieczytelne; pada nazwisko Riemanna]. Będą sobie przy grillu opowiadać zapomniane ciekawostki dawnej matematyki. W szkole [nieczytelne] opowiedzieć, jak to kiedyś było. [Prawdopodobnie: nadal] lubi uczyć tych młodych ludzi. Historie o matematykach ewidentnie są ciekawe.
+
+Dzieci z kolei zaczynają pytać rodziców o tych matematyków. Rodzice już nic nie pamiętają, ale pytają oczywiście Daniela. Daniel, ponieważ jest dobrze wychowany, tworzy fascynujący program szkolny, w którym dzieci na nowo uczą się dodawać i mnożyć. Wszystkie są zachwycone liczbami pierwszymi.
+
+**[09:50]**
+
+[Nieczytelna uwaga końcowa.] Dziękuję.
+
+[Oklaski.]
+
+**[09:59 — prowadzący; przypisanie mówcy na podstawie kontekstu]**
+
+[Prowadzący:] Chciałbym zapytać: czy potrzebujemy matematyków?
+
+[Publiczność:] Tak!
+
+[Prowadzący:] Nie słyszę.
+
+[Publiczność:] Tak!
+
+[Prowadzący:] Właśnie. Po to, żeby na przykład opowiadać takie piękne historie, ale nie tylko. Bardzo dziękuję, panie doktorze. Pan doktor wróci na scenę. Proszę bardzo.
+
+**[10:17]**
+
+[Prowadzący:] Jeszcze raz chciałbym [nieczytelny fragment wypowiedzi].
+
+**[10:21]**
+
+[Prowadzący:] Tylko powiem o tym, że uruchamiamy taki specjalny…
+
+[Koniec nagrania w połowie zdania.]
