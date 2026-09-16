@@ -10,7 +10,7 @@ A Polish reader opens a link sent by a friend, on a phone during the day or on a
 
 ## Product Purpose
 
-A small collection of Polish lectures shared through one GitHub Pages link. Daniel remains a twelve-chapter illustrated adaptation of Bartosz Naskręcki's lecture: every slide presents its full text immediately, with continuous reading alongside chapter navigation. Psyho i Bagiński is a separate transcript and summary, reached through a real navigation link.
+A small collection of Polish lectures shared through one GitHub Pages link. Daniel remains a twelve-chapter illustrated adaptation of Bartosz Naskręcki's lecture: every slide presents its full text immediately, with continuous reading alongside chapter navigation. Psyho i Bagiński is a separate transcript and summary. Andrzej Dragan’s “Dziury koloru białego” adds a third lecture with the same reading format. Each is reached through a real navigation link.
 
 ## Brand Personality
 

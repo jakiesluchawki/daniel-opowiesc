@@ -1,8 +1,8 @@
-# Ilustracje opowieści i tło panelu
+# Ilustracje trzech wykładów
 
 Dwanaście odrębnych szkiców, po jednym dla każdego rozdziału, wygenerowanych przez wbudowane narzędzie image_gen. Wszystkie mają proporcje 4:3 i nie zawierają tekstu. Pliki WebP zachowują pełne kompozycje oryginałów.
 
-Panel Psyho i Bagińskiego ma jedną dodatkową ilustrację, używaną jako subtelne tło. Jej prompt znajduje się na końcu dokumentu.
+Panel Psyho i Bagińskiego oraz wykład Andrzeja Dragana mają po jednym dodatkowym szkicu. Oba są pokazane w całości i z pełnym kontrastem przy początku tekstu. Ich prompty znajdują się na końcu dokumentu.
 
 ## 01. Pojawia się Daniel
 
@@ -218,4 +218,24 @@ Scene and subject: a large, anatomically natural human hand reaches into a fan o
 Style and medium: textured pale blue-grey sketchbook paper; confident graphite pencil and charcoal outlines, delicate crosshatching, thin technical blue drawing lines, a restrained amber light at the point of choice. Match the reference's tactile draftsmanship, human hands, technical geometry and hopeful quiet mood. Stronger visible contrast than a faded background: hands and foreground frames have clear dark graphite contour and readable shading at full opacity.
 Composition: landscape 4:3, editorial and elegant. Main motif occupies the central and right two-thirds, fully visible without cropping. The left 30–35 percent is visually calmer for adjacent page typography, with sparse receding frames and traces, but the whole image remains a coherent illustration rather than an empty wash. The selected warm frame and the choosing fingertips form the unmistakable focal point. Complete composition must read beautifully on a phone.
 Constraints: no text whatsoever, no letters, numbers, equations, labels, logos or watermark. No robots, literal computers, screens, futuristic glossy surfaces or photorealistic rendering. No huge blank background, no nearly invisible subject. Keep the image humane, intelligent and full of possibility.
+```
+
+## Tło wykładu Andrzeja Dragana
+
+Jeden odrębny szkic: pofałdowana geometria łączy ciemne zagłębienie z jasnym otwarciem; mała postać nadaje scenie ludzką skalę. To metafora pytań i analogii z wykładu, nie diagram fizyczny ani ilustracja potwierdzonego istnienia białej dziury. Obraz pozostaje widoczny w całości na telefonie i komputerze.
+
+Wygenerowano przez wbudowane image_gen, z rozgalezienie.webp jako referencją stylu. Plik strony: assets/dragan.webp; podgląd linku: assets/dragan-preview.jpg (ten sam rysunek).
+
+![Szkic zakrzywionej geometrii, ciemnego zagłębienia, jasnego otwarcia i małego obserwatora.](assets/dragan.webp)
+
+```text
+Use case: illustration-story.
+Asset type: one editorial hero illustration for a Polish essay about Andrzej Dragan's lecture "Dziury koloru białego"; responsive website, 4:3 landscape, full composition visible without cropping on mobile.
+Input image 1: STYLE REFERENCE ONLY. Generate a new composition, do not edit or replicate the reference scene. Borrow its pale blue-gray sketchbook paper, graphite hatching, thin cobalt construction lines and restrained warm amber light.
+Primary request: A single coherent, large, clearly visible hand-drawn landscape of curved geometry, metaphorically connecting scientific analogies one step at a time. A continuous broad folded ribbon of spacetime runs through the scene and contains two distinct openings: one concentrated dark inward depression, and one bright, open outward rising shape from which the cobalt lines gently spread outward. These are an editorial metaphor for black holes, white holes, contrasting direction and curiosity, not a scientific diagram of a proven object.
+Subject and scale: The folded ribbon and its two openings dominate most of the frame and have confident graphite outlines, visible hatching and strong readable shapes. A small full-body human observer on the quiet lower shore studies the connections, providing human scale, not heroic grandeur.
+Style/medium: elegant pencil and colored-pencil drawing on softly textured pale blue-gray paper; architectural sketchbook precision with human warmth, substantial graphite marks, delicate but visible cobalt arcs and construction lines. The main folds retain an expressive handcrafted imperfection. Small warm amber-white light at the outward opening; all other colors muted.
+Composition/framing: one connected landscape, no panels; the whole central motif fits within the frame with comfortable margins, instantly readable at phone size. Both openings and the observer are fully visible. The picture carries its own story, so do not leave the majority of the frame blank.
+Mood: thoughtful, hopeful, curious; quietly awe-inspiring without menace.
+Constraints: absolutely no text, letters, numerals, equations, labels, arrows, logos or watermarks. No portrait likeness, hands close-up, robots, sci-fi machinery, glossy outer-space rendering, realistic black sphere, starfield wallpaper, photographic astrophysics, neon or empty faint curves. Do not copy the door frame, roads or trees from the reference.
 ```

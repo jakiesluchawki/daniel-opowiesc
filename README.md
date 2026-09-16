@@ -1,6 +1,6 @@
-# AI Summit PJAIT — dwie rozmowy o człowieku i AI
+# AI Summit PJAIT — trzy spojrzenia na człowieka i AI
 
-[Opublikowana strona](https://jakiesluchawki.github.io/daniel-opowiesc/) zawiera dwie zakładki, czytelne na telefonie i komputerze.
+[Opublikowana strona](https://jakiesluchawki.github.io/daniel-opowiesc/) zawiera trzy zakładki, czytelne na telefonie i komputerze.
 
 ## Daniel
 
@@ -11,6 +11,10 @@ Ilustrowana adaptacja wykładu Bartosza Naskręckiego „Nie potrzebujemy już m
 ## Psyho i Bagiński
 
 [Streszczenie panelu „Od sztuki po najbrudniejszą robotę”](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski.html): Tomek Bagiński i Przemysław „Psyho” Dębiak, prowadzi Adrian Bąk. Siedem wątków, jedno subtelne szkicowane tło oraz [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html) z odnośnikami do czasu nagrania. Tekst dostępny od razu, bez skryptów ani kontrolek tempa. Zapis obejmuje dostarczone nagranie 52:56; nieczytelne fragmenty są oznaczone. Streszczenie zachowuje opinie i przewidywania jako stanowiska rozmówców.
+
+## Dragan
+
+[Wykład Andrzeja Dragana „Dziury koloru białego”](https://jakiesluchawki.github.io/daniel-opowiesc/dragan.html): streszczenie oraz [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html) ze znacznikami czasu. Cały tekst jest dostępny od razu, a jedno szkicowane tło towarzyszy otwarciu wykładu.
 
 ## Uruchomienie
 

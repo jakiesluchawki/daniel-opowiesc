@@ -20,9 +20,9 @@ Romie Regular for chapter titles; Roobert Regular for narrative and controls, Ro
 
 Desktop: reading column alongside an open illustration. Mobile: chapter label, title, drawing and complete prose follow in one column. Text may scroll vertically. Compact persistent navigation contains only the chapter count, progress and Wstecz/Dalej. Full-reading mode is a natural continuous document.
 
-Both lectures share a small header with real links, Daniel and Psyho i Bagiński. The active lecture uses a dark bold label and a thin cobalt underline. On phones the lecture links and local reading actions occupy separate rows. Transcript pages use the same header and offer a return to their lecture.
+All three lectures share a small header with real links: Daniel, Psyho i Bagiński and Dragan. The active lecture uses a dark bold label and a thin cobalt underline. On phones the lecture links and local reading actions occupy separate rows. Transcript pages use the same header and offer a return to their lecture.
 
-The additional lecture is a continuous essay: a spacious Romie title, Roobert lead, short summary and readable sections capped at 62ch. The panel has one substantial graphite illustration about human authorship and choosing among generated possibilities. It is shown at full opacity beside the opening text on desktop and in full composition between participants and lead on mobile. Its subject must be visible and connected to the discussion. Keep paragraphs on clean paper, with full contrast.
+The additional lectures are continuous essays: a spacious Romie title, Roobert lead, short summary and readable sections capped at 62ch. The panel has one substantial graphite illustration about human authorship and choosing among generated possibilities. It is shown at full opacity beside the opening text on desktop and in full composition between participants and lead on mobile. Its subject must be visible and connected to the discussion. Keep paragraphs on clean paper, with full contrast. Dragan has one distinct folded-geometry sketch, with a dark opening, a warm bright opening and a small human observer. It uses the same responsive layout and full opacity; the drawing is an editorial metaphor, not a scientific diagram.
 
 ## Motion
 

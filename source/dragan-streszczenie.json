@@ -1,0 +1,82 @@
+{
+  "lead": "Od przyspieszającej rakiety do białych dziur. Andrzej Dragan opowiada o wielkich odkryciach jako ciągu małych kroków — i pyta, co ta historia mówi o możliwościach sztucznej inteligencji.",
+  "summaryTitle": "Jak daleko prowadzi jedna analogia?",
+  "summaryParagraphs": [
+    "Wykład zaczyna się od pytania o AI, prowadzi przez teorię względności i wraca do przyszłości nauki. Dragan pokazuje, jak połączenie kilku znanych obserwacji pozwala dojść do zaskakujących wniosków o grawitacji, horyzontach i białych dziurach.",
+    "Jego główna teza dotyczy inteligencji: dostrzeganie wzorców i analogii może być samym mechanizmem twórczości. Prelegent zastanawia się, czy do wielkich odkryć potrzeba czegoś więcej — i gdzie dalszy postęp będzie wymagał nowych eksperymentów."
+  ],
+  "keyPoints": [
+    "Dwie analogie prowadzą w opowieści Dragana od ruchu i przyspieszenia do opisu grawitacji przez geometrię.",
+    "Przyspieszająca rakieta pomaga wyobrazić sobie horyzont: granicę możliwości przesyłania informacji.",
+    "Białe dziury pojawiają się w rozważanym opisie matematycznym; ich istnienie i przyszłość zapadającej się materii pozostają otwartymi pytaniami.",
+    "W fizyce znaczenie mają dane z eksperymentów. Dragan widzi dla AI rolę także w proponowaniu nowych doświadczeń."
+  ],
+  "sections": [
+    {
+      "title": "Czy odkrycie wymaga geniuszu?",
+      "timeSeconds": 80,
+      "paragraphs": [
+        "Dragan przywołuje pytanie: czy model wytrenowany na wiedzy dostępnej przed odkryciem szczególnej albo ogólnej teorii względności potrafiłby sam do niej dojść? Za tym testem kryje się przekonanie, że twórczość zawiera jakiś szczególny pierwiastek, którego maszynie musi brakować.",
+        "Prelegent kwestionuje takie założenie. Dla niego dostrzeganie wzorców, łączenie kropek i znajdowanie analogii należą do definicji inteligencji. Historię fizyki wykorzystuje, żeby przyjrzeć się temu mechanizmowi krok po kroku."
+      ]
+    },
+    {
+      "title": "Grawitacja, winda i obracający się krąg",
+      "timeSeconds": 210,
+      "paragraphs": [
+        "Pierwsza analogia łączy grawitację z przyspieszeniem. Winda ruszająca w górę wciska pasażera w podłogę; podobne odczucie może dawać rakieta. Dragan podkreśla uniwersalność tego efektu: przyspieszająca podłoga zbliża się do różnych swobodnych przedmiotów w ten sam sposób.",
+        "Drugi krok prowadzi do geometrii. Pomiar okręgu na obracającej się platformie, rozpatrywany z uwzględnieniem efektów szczególnej teorii względności, daje zaskakujący stosunek obwodu do średnicy. Dragan łączy tę obserwację z geometrią zakrzywionej przestrzeni Riemanna. Tak przedstawia drogę od opisu ruchu do ogólnej teorii względności."
+      ]
+    },
+    {
+      "title": "Analogie między analogiami",
+      "timeSeconds": 530,
+      "paragraphs": [
+        "Ten sposób myślenia Dragan odnosi do sieci neuronowych. Opisuje je jako kolejne poziomy rozpoznawania podobieństw: jedna warstwa wykrywa wzorce, następna odnajduje relacje między nimi. Powstaje hierarchia analogii.",
+        "Przywołuje też przypisywaną Stefanowi Banachowi myśl o matematykach, którzy widzą podobieństwa między twierdzeniami, dowodami, teoriami i wreszcie samymi analogiami. W tym zestawieniu zdolność maszyny do rozpoznawania wzorców staje się poważnym kandydatem na narzędzie odkrywania."
+      ]
+    },
+    {
+      "title": "Rakieta i granica informacji",
+      "timeSeconds": 660,
+      "paragraphs": [
+        "Żeby opowiedzieć o czarnych dziurach, Dragan wraca do przyspieszającej rakiety. Rysuje jej ruch na diagramie, którego osie oznaczają czas i przestrzeń. Światło wyznacza granicę tego, jak szybko może rozchodzić się informacja.",
+        "Dla stale przyspieszającego obserwatora pojawia się obszar zdarzeń, z którego sygnały nigdy do niego nie dotrą. Prelegent pokazuje tę granicę jako analogię horyzontu. Opowieść o spadającym jabłku ilustruje, jak kontakt może stać się jednostronny: obserwator nadal wysyła sygnały, ale odpowiedź z pewnego obszaru już go nie dosięgnie."
+      ]
+    },
+    {
+      "title": "Skąd pojawia się biała dziura?",
+      "timeSeconds": 1440,
+      "paragraphs": [
+        "Dragan zwraca uwagę na drugą granicę w rozważanym diagramie. Ma ona odwrotny charakter: z jednej strony informacja może wydostawać się na zewnątrz, lecz nie można pokonać tej granicy w przeciwnym kierunku. Tu pojawia się opowieść o białej dziurze.",
+        "W omawianym przez niego idealizowanym rozwiązaniu dotyczącym odwiecznie istniejącej czarnej dziury czarny i biały region są ze sobą powiązane. Dragan przestrzega przed traktowaniem ich jako dwóch całkowicie niezależnych obiektów. Rozróżnia ten opis od pytania o rzeczywistą zapadającą się materię; wspomina hipotezę, według której mogłaby ona po bardzo długim czasie przejść w białą dziurę. Zaznacza, że nie wie, jak będzie naprawdę."
+      ]
+    },
+    {
+      "title": "Jabłko i wielkie połączenia",
+      "timeSeconds": 1980,
+      "paragraphs": [
+        "Wracając do głównej myśli, Dragan opowiada o Newtonie: jabłko i ruch ciał niebieskich można połączyć jednym prawem. Zauważenie pokrewieństwa między zjawiskami pozwala nadać im wspólny opis.",
+        "Podobną wartość widzi w matematyce, gdy pozornie odległe działy okazują się ze sobą związane. Jako przykład podaje geometrię algebraiczną. Wielki krok nauki przedstawia jako odnalezienie mostu między rzeczami, które wcześniej oglądano osobno."
+      ]
+    },
+    {
+      "title": "Fizyka potrzebuje nowych pytań do świata",
+      "timeSeconds": 2190,
+      "paragraphs": [
+        "Według Dragana eksperymenty często zmuszały ludzi do porzucenia wygodnego obrazu rzeczywistości. W ten sposób opowiada o narodzinach teorii względności i teorii kwantowej: trudne wyniki wymagały nowego opisu, a kolejne analogie pomagały go zrozumieć.",
+        "Tu dostrzega różnicę między postępem w matematyce a postępem w fizyce. Teoria fizyczna musi odpowiadać wynikom doświadczeń. Jego zdaniem brak nowych eksperymentów podważających obecny opis może ograniczać zarówno ludzi, jak i AI. Przyszłą rolę modeli widzi także w proponowaniu doświadczeń, które otworzą drogę do nowych teorii."
+      ]
+    },
+    {
+      "title": "Nauczyć się swojej roli na nowo",
+      "timeSeconds": 2460,
+      "paragraphs": [
+        "W zakończeniu Dragan wraca do matematyków i zmiany wywołanej przez AI. Przewiduje, że będą jedną z pierwszych grup zmuszonych do ponownego określenia swojego miejsca. Nie podaje gotowego scenariusza ich przyszłości.",
+        "Pozostawia jednak myśl o możliwej pomocy dla innych: jeśli matematycy znajdą sposób na życie i pracę w tej sytuacji, ich doświadczenie może przydać się kolejnym ludziom. Pytanie o granice maszyn staje się pytaniem o to, jak odnaleźć się po zmianie własnej roli."
+      ]
+    }
+  ],
+  "sourceNote": "Nagranie trwa 42 minuty 22 sekundy i obejmuje zapowiedź oraz wykład. Pełny transkrypt zawiera znaczniki czasu i oznaczenia niepewnych fragmentów. Zapis odwołań do slajdów zachowuje wypowiedzi prelegenta; treść samych slajdów nie była dostępna.",
+  "artworkAlt": "Szkic pofałdowanej geometrii łączącej ciemne zagłębienie z jasnym otwarciem; mała postać obserwuje ją z brzegu."
+}
