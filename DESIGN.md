@@ -6,7 +6,7 @@ A friend opens the link on a phone in daylight, or on a large screen at home. Th
 
 ## Visual direction
 
-One open sheet of a human sketchbook. Huge Romie titles lead into substantial graphite scenes that cross the page. The drawings are part of the publication, rather than thumbnails placed next to text. Pale paper, cobalt construction lines and restrained amber warmth hold the three lectures together.
+One open sheet of a human sketchbook. Romie titles and substantial graphite scenes share the page. The two continuous lectures use large open spreads; Naskręcki’s presentation uses composed single screens. The drawings are part of the publication, rather than thumbnails placed next to text. Pale paper, cobalt construction lines and restrained amber warmth hold the three lectures together.
 
 ## Color
 
@@ -14,13 +14,19 @@ Light blue-grey paper and dark graphite ink. Cobalt guides navigation; amber sta
 
 ## Typography
 
-Licensed Romie Regular carries the large cover and chapter titles. Roobert Regular carries prose and navigation; Roobert Bold marks the active lecture and important actions. No synthetic weights, no text inside raster art. Reading columns remain under 62ch, with body text at least 1.1rem on phones.
+Licensed Romie Regular carries the large cover and chapter titles. Roobert Regular carries prose and navigation; Roobert Bold marks the active lecture and important actions. No synthetic weights, no text inside raster art. Reading columns remain under 62ch, with body text at least 1rem on the smallest presentation view and at least 1.1rem in continuous reading.
 
 ## Covers and chapters
 
-The sequence is title and author, full 4:3 scene, then complete text. Covers and all twelve chapters share this sequence. On large screens art reaches up to 1320px, while the reading column sits below it with a generous left margin. A small part of the paper at the image edges fades into the page; the scene itself retains full opacity. Never use cover cropping or place paragraphs over pencil marks.
+Dragan and the panel retain the sequence title and author, full 4:3 scene, then complete text. On large screens their art reaches up to 1320px, while the reading column sits below with a generous left margin. The continuous version of Daniel also keeps this open, freely scrolling format.
 
-On phones the art reaches both page edges, and the title and paragraphs retain comfortable margins. Accept vertical scrolling. Never shrink a scene to squeeze the whole chapter into one screen.
+Naskręcki’s slides use a separate stylesheet loaded only by the story. One viewport contains a large illustration, heading and all three short paragraphs. On laptops the scene occupies the left half, and the title and text sit together on the right. A CSS grid gives the masthead, scene and navigation their own rows within 100dvh. Never solve overflow by hiding or clipping prose.
+
+On phones the whole composed slide fits between a compact lecturer navigation and the bottom actions. The picture has the remaining space between heading and text and always uses contain. Keep at least 16px body text. Do not turn slides into tall scrolling spreads.
+
+The slides have a short editorial version (45–51 words each). “Czytaj całość” preserves every paragraph of the original longer adaptation. Without JavaScript, only that complete continuous version is shown. Each of the twelve illustrations remains unique; no cover cropping, raster editing or text inside an image.
+
+A small part of the paper at image edges fades into the page. The scene itself retains full opacity. Paragraphs stay on clean paper with full contrast.
 
 ## Reading and navigation
 

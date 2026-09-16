@@ -10,7 +10,7 @@ A Polish reader opens a link sent by a friend, on a phone during the day or on a
 
 ## Product Purpose
 
-A small collection of Polish lectures shared through one GitHub Pages link. Daniel remains a twelve-chapter illustrated adaptation of Bartosz Naskręcki's lecture: every slide presents its full text immediately, with continuous reading alongside chapter navigation. Psyho i Bagiński is a separate transcript and summary. Andrzej Dragan’s “Dziury koloru białego” adds a third lecture with the same reading format. Each is reached through a real navigation link named for its lecturer. Daniel is the story/project name; its lecturer is Naskręcki.
+A small collection of Polish lectures shared through one GitHub Pages link. Daniel remains a twelve-chapter illustrated adaptation of Bartosz Naskręcki's lecture: each slide shows an illustration and all three short paragraphs immediately within one screen. Continuous reading preserves the complete longer adaptation alongside chapter navigation. Psyho i Bagiński is a separate transcript and summary. Andrzej Dragan’s “Dziury koloru białego” adds a third lecture with the same reading format. Each is reached through a real navigation link named for its lecturer. Daniel is the story/project name; its lecturer is Naskręcki.
 
 ## Brand Personality
 
@@ -22,7 +22,7 @@ No robot portraits, neon dashboards, sales slogans, slide-template boxes, stock 
 
 ## Design Principles
 
-The material leads. The reader chooses the pace. Large scenes belong to the page, with text below on clean paper; avoid small image blocks in a right-hand column. Distinguish adaptation, transcription, summary and speculation. Technical images have human warmth. Typography remains readable on phones. Each lecture has a direct link and a clear route back; avoid application-style tabs or a new navigation model.
+The material leads. The reader chooses the pace. Continuous lectures use large scenes with text below on clean paper. Presentation slides pair a substantial scene and readable text within one viewport. Their layout follows their reading purpose; avoid small illustrations on a right-hand margin and avoid making every slide a scrolling article. Distinguish adaptation, transcription, summary and speculation. Technical images have human warmth. Typography remains readable on phones. Each lecture has a direct link and a clear route back; avoid application-style tabs or a new navigation model.
 
 ## Accessibility & Inclusion
 

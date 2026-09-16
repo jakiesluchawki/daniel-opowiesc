@@ -6,7 +6,7 @@
 
 Ilustrowana adaptacja wykładu Bartosza Naskręckiego „Nie potrzebujemy już matematyków”, AI Summit PJAIT, 16 września 2026.
 
-12 rozdziałów, każdy z własną dużą sceną wkomponowaną w papier strony. Tytuł i autor prowadzą do ilustracji, a cały tekst jest dostępny od razu poniżej. Czytelnik przechodzi przyciskami Wstecz/Dalej, strzałkami lub gestem przesunięcia; może też wybrać rozdział albo przełączyć się na ciągłe czytanie całości. Spacja zachowuje zwykłe działanie przeglądarki. Działa reduced motion i ciągła wersja bez JavaScriptu. Pełna transkrypcja jest dostępna osobno.
+12 slajdów, każdy z własną ilustracją i krótką redakcją tekstu. Obraz i wszystkie akapity slajdu są widoczne jednocześnie na jednym ekranie. Dłuższa, dotychczasowa adaptacja jest zachowana w całości pod „Czytaj całość”. Czytelnik przechodzi przyciskami Wstecz/Dalej, strzałkami lub gestem przesunięcia; może też wybrać rozdział albo przełączyć się na ciągłe czytanie całości. Spacja zachowuje zwykłe działanie przeglądarki. Działa reduced motion i ciągła wersja bez JavaScriptu. Pełna transkrypcja jest dostępna osobno.
 
 ## Psyho i Bagiński
 
