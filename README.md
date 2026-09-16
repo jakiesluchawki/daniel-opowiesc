@@ -2,7 +2,7 @@
 
 Ilustrowana adaptacja wykładu Bartosza Naskręckiego „Nie potrzebujemy już matematyków”, AI Summit PJAIT, 16 września 2026.
 
-12 rozdziałów. Akapity odsłaniają się w wybranym tempie, bez automatycznego przechodzenia między rozdziałami. Czytelnik może odsłonić bieżący rozdział lub natychmiast przełączyć się na pełne czytanie. Działa klawiatura, dotyk, reduced motion i ciągła wersja bez JavaScriptu. Pełna transkrypcja jest dostępna osobno.
+12 rozdziałów, każdy z własną ilustracją. Każdy slajd od razu pokazuje cały tekst. Czytelnik przechodzi przyciskami Wstecz/Dalej, strzałkami lub gestem przesunięcia; może też wybrać rozdział albo przełączyć się na ciągłe czytanie całości. Spacja zachowuje zwykłe działanie przeglądarki. Działa reduced motion i ciągła wersja bez JavaScriptu. Pełna transkrypcja jest dostępna osobno.
 
 Strona statyczna, bez zależności uruchomieniowych. GitHub Pages publikuje katalog główny repozytorium. Lokalny podgląd: `python3 -m http.server 8765`.
 

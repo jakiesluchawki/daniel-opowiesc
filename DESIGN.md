@@ -6,7 +6,7 @@ A friend reads a contemplative illustrated notebook on a phone in daylight, paus
 
 ## Visual direction
 
-An open sketchbook of possible futures. Asymmetric full-page drawings share space with clear, substantial text. No panels around paragraphs, no decorative cards.
+An open sketchbook of possible futures. Each of the twelve chapters has its own distinct illustration tied to that scene, with consistent graphite, cobalt construction lines and amber light. Asymmetric full-page drawings share space with clear, substantial text. No panels around paragraphs, no decorative cards or text inside illustrations.
 
 ## Color strategy
 
@@ -18,8 +18,8 @@ Romie Regular for chapter titles; Roobert Regular for narrative and controls, Ro
 
 ## Layout
 
-Desktop: reading column alongside an open illustration. Mobile: title and text lead, drawing follows without blocking navigation. Compact persistent reader controls. Full-reading mode is a natural continuous document.
+Desktop: reading column alongside an open illustration. Mobile: chapter label, title, drawing and complete prose follow in one column. Text may scroll vertically. Compact persistent navigation contains only the chapter count, progress and Wstecz/Dalej. Full-reading mode is a natural continuous document.
 
 ## Motion
 
-Reveal complete paragraphs by opacity and a small translation, no letter-by-letter effect, no automatic chapter changes. First paragraph is immediately readable. Wait based on word count before revealing the next, never hide already-read text. Controls allow reveal now, pause, speed and immediate full reading. Honor prefers-reduced-motion.
+All chapter paragraphs appear immediately. No paragraph or chapter entrance animation, reveal timers, reading-speed settings or automatic chapter changes. Keep only a gentle background-color change between story moods and smooth navigation in the continuous document. Honor prefers-reduced-motion. The space bar remains a native browser action.

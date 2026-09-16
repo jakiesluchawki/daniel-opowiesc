@@ -1,10 +1,10 @@
 # Ilustracje do opowieści o Danielu
 
-Trzy oryginalne szkice wygenerowane narzędziem built-in image_gen. Każda ilustracja ma proporcje 4:3; nie zawiera tekstu. Do strony zapisano je jako WebP, zachowując pełną kompozycję.
+Dwanaście odrębnych szkiców, po jednym dla każdego rozdziału, wygenerowanych przez wbudowane narzędzie image_gen. Wszystkie mają proporcje 4:3 i nie zawierają tekstu. Pliki WebP zachowują pełne kompozycje oryginałów.
 
-## dialog
+## 01. Pojawia się Daniel
 
-![dialog](assets/dialog.webp)
+![Dwie szkicowane dłonie prowadzą nitki między otwartymi orbitami. W miejscu spotkania pojawia się ciepłe światło.](assets/dialog.webp)
 
 ```text
 Use case: illustration-story
@@ -18,9 +18,9 @@ Color palette: very pale blue grey, graphite grey, thin cobalt lines, small warm
 Constraints: one coherent image, no panel layout. Purely visual metaphor; absolutely no typography, words, letters, digits, numbers, equations, labels, signatures, logos or watermarks anywhere. No robots, humanoid machines, chrome bodies, glowing electronic eyes, sci-fi cliché. No cartoon look, no heavy black outlines, no glossy 3D rendering. High detail in the linework; keep the drawing gentle and uncluttered.
 ```
 
-## rozgalezienie
+## 02. Każdy wybiera swoją odpowiedź
 
-![rozgalezienie](assets/rozgalezienie.webp)
+![Mała postać przy rozgałęzieniu szkicowanych ścieżek. Jedna droga prowadzi przez otwartą konstrukcję ku światłu.](assets/rozgalezienie.webp)
 
 ```text
 Use case: illustration-story
@@ -34,9 +34,159 @@ Color palette: very pale blue grey, graphite grey, thin cobalt lines, small warm
 Constraints: one coherent image, no panel layout. Purely visual metaphor; absolutely no typography, words, letters, digits, numbers, equations, map labels, signatures, logos or watermarks anywhere. Human silhouette must be small and unposed. No robots, no humanoid machines, no sci-fi cliché. No cartoon look, no heavy black outlines, no glossy 3D rendering. High detail in the linework; keep the drawing gentle and uncluttered.
 ```
 
-## powrot
+## 03. To była fantastyczna współpraca
 
-![powrot](assets/powrot.webp)
+![Dwie dłonie wspólnie porządkują puste arkusze wśród delikatnych orbit wiedzy.](assets/podziekowanie.webp)
+
+```text
+Use case: illustration-story
+Asset type: one standalone large editorial illustration for a narrative website, landscape 4:3.
+Input images: the two attached images are STYLE REFERENCES ONLY. Match their pale paper, handmade graphite quality, thin cobalt technical lines and restrained warm light. Create an entirely NEW scene and composition; do not recreate the two circles, bridge of hands or branching landscape in the references.
+Style/medium: sophisticated humanistic handmade graphite pencil and extremely thin ink linework on a very subtle pale blue-grey paper; fine cobalt blue construction lines, erased pencil traces, sensitive organic imperfections. Airy elegant editorial drawing, lightly technical and quietly hopeful. A delicate amber light accent; gentle graphite-grey shadows, no heavy dark outlines. A visual metaphor, not a literal diagram.
+Composition: high-quality landscape 4:3, main subject well contained with breathing room, legible when displayed as a complete small image on mobile. No panel layout.
+Hard constraints: Absolutely no text, words, letters, digits, numbers, equations, glyphs, pseudo-equations, labels, captions, signatures, logos or watermarks anywhere. Any papers and boards must be completely blank. No robots, chrome humanoids, science-fiction cliches, cartoon corporate illustration, caricatures, glossy 3D rendering, heavy shadows or saturated colors.
+Primary request: a new intimate close framing of courteous collaboration. Two different human hands, with different shapes and sleeves, gently organize a floating library of thin perfectly blank paper sheets and delicate orbits of knowledge. One hand carefully steadies a loose blank page while the other gathers blank sheets into a coherent airy fan or archive. Thin blue construction curves weave lightly among the blank sheets. The papers remain absolutely unmarked.
+Scene: close overhead-oblique view, hands and blank leaves form a tactile central composition, no pair of opposing circular masses, no thread bridge. The library seems to grow slightly beyond the hands' easy reach.
+Mood: polite warmth and patient helpfulness, gratitude with a faint open-ended uncertainty about what comes next; no menace. One small amber glimmer between the cooperating hands.
+```
+
+## 04. Pomysły pod ziemią
+
+![Skrzynia ukryta w przekroju ziemi, z iskrami pomysłów i nitką światła prowadzącą ku roślinie.](assets/skrzynie.webp)
+
+```text
+Use case: illustration-story
+Asset type: one standalone large editorial illustration for a narrative website, landscape 4:3.
+Input images: the two attached images are STYLE REFERENCES ONLY. Match their pale paper, handmade graphite quality, thin cobalt technical lines and restrained warm light. Create an entirely NEW scene and composition; do not recreate the two circles, bridge of hands or branching landscape in the references.
+Style/medium: sophisticated humanistic handmade graphite pencil and extremely thin ink linework on a very subtle pale blue-grey paper; fine cobalt blue construction lines, erased pencil traces, sensitive organic imperfections. Airy elegant editorial drawing, lightly technical and quietly hopeful. A delicate amber light accent; gentle graphite-grey shadows, no heavy dark outlines. A visual metaphor, not a literal diagram.
+Composition: high-quality landscape 4:3, main subject well contained with breathing room, legible when displayed as a complete small image on mobile. No panel layout.
+Hard constraints: Absolutely no text, words, letters, digits, numbers, equations, glyphs, pseudo-equations, labels, captions, signatures, logos or watermarks anywhere. Any papers and boards must be completely blank. No robots, chrome humanoids, science-fiction cliches, cartoon corporate illustration, caricatures, glossy 3D rendering, heavy shadows or saturated colors.
+Primary request: a sensitive abstract cross-section of earth containing a small wooden chest of seed-like ideas buried beneath the surface. The chest is open just enough to reveal tiny abstract seeds, without writing or literal formulae. A single hair-thin amber light thread rises from the seeds through the earth toward a small future sprout above ground.
+Scene: a restrained vertical sectional composition inside the landscape canvas, chest below and tiny sprout above, soft layered graphite soil hatching, only a few fine blue technical construction curves and guide lines echo the growing roots. The surface of the ground is a light spare horizon. Avoid landscape paths, orbit bridges, or framing doorways.
+Mood: protecting human possibilities for distant generations, an unusual promise to the future, quiet uncertainty warmed by patient hope. Elegant and airy rather than heavy underground darkness.
+```
+
+## 05. Ocalić ludzki pierwiastek
+
+![Ludzkie postacie tworzą otwarty krąg wokół kiełkującej rośliny, rozświetlonej ciepłym światłem.](assets/antydaniele.webp)
+
+```text
+Use case: illustration-story
+Asset type: one standalone large editorial illustration for a narrative website, landscape 4:3.
+Input images: the two attached images are STYLE REFERENCES ONLY. Match their pale paper, handmade graphite quality, thin cobalt technical lines and restrained warm light. Create an entirely NEW scene and composition; do not recreate the two circles, bridge of hands or branching landscape in the references.
+Style/medium: sophisticated humanistic handmade graphite pencil and extremely thin ink linework on a very subtle pale blue-grey paper; fine cobalt blue construction lines, erased pencil traces, sensitive organic imperfections. Airy elegant editorial drawing, lightly technical and quietly hopeful. A delicate amber light accent; gentle graphite-grey shadows, no heavy dark outlines. A visual metaphor, not a literal diagram.
+Composition: high-quality landscape 4:3, main subject well contained with breathing room, legible when displayed as a complete small image on mobile. No panel layout.
+Hard constraints: Absolutely no text, words, letters, digits, numbers, equations, glyphs, pseudo-equations, labels, captions, signatures, logos or watermarks anywhere. Any papers and boards must be completely blank. No robots, chrome humanoids, science-fiction cliches, cartoon corporate illustration, caricatures, glossy 3D rendering, heavy shadows or saturated colors.
+Primary request: a small group of human forms makes an open protective circle around one small living amber spark of curiosity. Their varied natural postures suggest mutual care, grief and determination, never combat or protest. Several gently cupped hands orient toward the tiny spark; the human ring is deliberately incomplete, allowing space for others to enter.
+Scene: softly elevated view, human figures loosely arranged around the warm spark at human scale. Far behind them float a few immense calm geometric planes and spare construction arcs, suggesting expanding mathematical knowledge. Those geometries remain serene, unmarked and nonhuman. No circular table, no opposing circles and no pathway landscape.
+Mood: shared human warmth, mixed sorrow and celebration, preserving participation and meaning. The spark is tender and small, no bonfire, disaster or threatening machine.
+```
+
+## 06. Konferencja Daniela
+
+![Geometryczne formy spotykają się w szkicowanym amfiteatrze. Przy progu pozostaje mała ludzka postać.](assets/konferencja.webp)
+
+```text
+Use case: illustration-story
+Asset type: one standalone large editorial illustration for a narrative website, landscape 4:3.
+Input images: the two attached images are STYLE REFERENCES ONLY. Match their pale paper, handmade graphite quality, thin cobalt technical lines and restrained warm light. Create an entirely NEW scene and composition; do not recreate the two circles, bridge of hands or branching landscape in the references.
+Style/medium: sophisticated humanistic handmade graphite pencil and extremely thin ink linework on a very subtle pale blue-grey paper; fine cobalt blue construction lines, erased pencil traces, sensitive organic imperfections. Airy elegant editorial drawing, lightly technical and quietly hopeful. A delicate amber light accent; gentle graphite-grey shadows, no heavy dark outlines. A visual metaphor, not a literal diagram.
+Composition: high-quality landscape 4:3, main subject well contained with breathing room, legible when displayed as a complete small image on mobile. No panel layout.
+Hard constraints: Absolutely no text, words, letters, digits, numbers, equations, glyphs, pseudo-equations, labels, captions, signatures, logos or watermarks anywhere. Any papers and boards must be completely blank. No robots, chrome humanoids, science-fiction cliches, cartoon corporate illustration, caricatures, glossy 3D rendering, heavy shadows or saturated colors.
+Primary request: a quiet abstract conference space, with empty amphitheatre rows curving into distance around several luminous open geometric forms which seem to exchange delicate threads of reasoning. Their exchanged proofs are only visual threads and small blank translucent paper planes, absolutely no symbols or writing. A single fine human silhouette pauses at the threshold, small in scale, observing the conversation.
+Scene: wide oblique perspective of spare sketch-like amphitheatre seating with a few curved rows, not a photoreal hall. Floating geometric forms occupy the open center; the human remains at one lower outer edge. Keep the auditorium airy and light, with generous pale paper space and delicate blue perspective construction lines. A new composition; no landscape path, no table, no robot presenter.
+Mood: wondrous, contemplative and gently estranged, mathematics continuing its own meeting while the human considers their place. Small amber light shared among the geometric forms, no dystopian menace or triumph.
+
+Edycja
+Use case: precise-object-edit
+Input image: Image 1 is the EDIT TARGET, an existing graphite-and-cobalt abstract conference illustration.
+Primary request: remove every faint text-like horizontal mark, scribble, line of writing and pseudo-equation from all of the small floating paper sheets. Each floating sheet must become entirely BLANK, containing only plain pale unmarked paper texture. No ruling lines, hatch-like interior marks, letters, digits, symbols or text may remain inside the paper sheets.
+Constraints: change ONLY those marks on the paper sheets. Preserve the exact composition, amphitheatre, the single small human, all floating geometric forms, every connecting thread, technical construction line outside the sheets, pale blue-grey graphite paper style, amber light, aspect ratio and dimensions. Keep the edge contours and curved shapes of the small sheets. No added objects or text, no logo, no watermark.
+```
+
+## 07. Wciąż przychodzą na zajęcia
+
+![Profesor i dwoje studentów rozmawiają przy stole, wśród delikatnych ścieżek wiedzy.](assets/studenci.webp)
+
+```text
+Use case: illustration-story
+Asset type: one standalone large editorial illustration for a narrative website, landscape 4:3.
+Input images: the two attached images are STYLE REFERENCES ONLY. Match their pale paper, handmade graphite quality, thin cobalt technical lines and restrained warm light. Create an entirely NEW scene and composition; do not recreate the two circles, bridge of hands or branching landscape in the references.
+Style/medium: sophisticated humanistic handmade graphite pencil and extremely thin ink linework on a very subtle pale blue-grey paper; fine cobalt blue construction lines, erased pencil traces, sensitive organic imperfections. Airy elegant editorial drawing, lightly technical and quietly hopeful. A delicate amber light accent; gentle graphite-grey shadows, no heavy dark outlines. A visual metaphor, not a literal diagram.
+Composition: high-quality landscape 4:3, main subject well contained with breathing room, legible when displayed as a complete small image on mobile. No panel layout.
+Hard constraints: Absolutely no text, words, letters, digits, numbers, equations, glyphs, pseudo-equations, labels, captions, signatures, logos or watermarks anywhere. Any papers and boards must be completely blank. No robots, chrome humanoids, science-fiction cliches, cartoon corporate illustration, caricatures, glossy 3D rendering, heavy shadows or saturated colors.
+Primary request: an older professor and two young adult students having a thoughtful human conversation at a modest rectangular table with a few entirely blank paper sheets. A student leans forward with curiosity, the other listens, and the professor answers with a small gentle open-hand gesture. Human connection has value even when answers are easy to obtain.
+Scene: medium-wide three-quarter view, the three complete human figures and the modest rectangular table remain the main subject. Around and beyond them, a few delicate independent blue pathways of knowledge separate and continue into pale paper space; lightly sketched construction arcs hover without touching faces. This must be distinct from a circular family gathering: rectangular table, only three adults, intimate university conversation, no sunlike table or child.
+Mood: humane warmth, steady curiosity, quieter uncertainty about changing roles, genuine exchange rather than a formal lecture. Small restrained amber light rests on the blank papers, faces suggested with sensitive pencil gestures rather than portraits.
+```
+
+## 08. Generalnie się orientują
+
+![Człowiek z kompasem przy wielkim ażurowym labiryncie wiedzy i ścieżce światła.](assets/generalisci.webp)
+
+```text
+Use case: illustration-story
+Asset type: original chapter illustration for a Polish literary essay website, landscape 4:3.
+Primary request: A generalist stands at the edge of a vast intricate open lattice labyrinth of knowledge, holding a simple unmarked compass. A thin amber path of light threads deep into the complex maze beyond the person's understanding.
+Scene/backdrop: Pale paper ground, vast airy geometric labyrinth receding in depth; woven fine graphite lines and cobalt construction geometry.
+Subject: One small quietly curious human figure holding a simple compass, and the enormous filigree maze. The maze is a porous structure of connected lines, arches and planes, not a solid walled maze.
+Style/medium: Match the previously viewed STYLE references dialog.png and powrot.png in spirit only, with an entirely new scene. Restrained humanistic hand-drawn graphite pencil sketch, fine loose hatching, delicate cobalt blue geometric construction arcs and dotted lines, a very subtle pale blue-gray textured paper background, and gentle amber light. Abstract and technical yet warm, quiet, hopeful. Soft edges fade naturally into the paper. No polished digital or vector rendering.
+Composition/framing: Landscape 4:3; contrast the human scale with the large labyrinth; generous breathing space, visible pencil texture.
+Lighting/mood: Quiet uncertainty with a hopeful soft amber light path.
+Constraints: Completely new composition, not a variation or reuse of the reference scenes. No text, letters, digits, fake equations, readable compass markings, logos, watermark, labels, robot faces, neon, or heavy darkness.
+```
+
+## 09. Sto dwadzieścia trzy strony
+
+![Starszy matematyk przy oknie i pustych arkuszach. Konstrukcja jego pracy zmienia się w obraz.](assets/ostatni.webp)
+
+```text
+Use case: illustration-story
+Asset type: original chapter illustration for a Polish literary essay website, landscape 4:3.
+Primary request: A retired mathematician sits quietly beside a softly lit window with a small closed stack of completely blank paper. A delicate geometric form rises from the work and flows into an image being sketched by a younger drawing hand.
+Scene/backdrop: A spare room suggested by only a window frame, a simple desk and paper; the emerging geometric form occupies the airy central space.
+Subject: The elderly person's calm profile near the window; blank papers; a suspended filigree geometric form; a younger hand with a pencil at another blank paper, transforming the form into art.
+Style/medium: Match the previously viewed STYLE references dialog.png and powrot.png in spirit only, with an entirely new scene. Restrained humanistic hand-drawn graphite pencil sketch, fine loose hatching, delicate cobalt blue geometric construction arcs and dotted lines, a very subtle pale blue-gray textured paper background, and gentle amber light. Abstract and technical yet warm, quiet, hopeful. Soft edges fade naturally into the paper. No polished digital or vector rendering.
+Composition/framing: Landscape 4:3; the retired figure is still, the emerging geometry and young hand imply a gentle continuation across the scene. Leave pale open margins.
+Lighting/mood: Soft amber window light, peaceful, reflective and hopeful.
+Constraints: Completely new composition, not a variation or reuse of the reference scenes. No text, letters, digits, fake equations, written notes, logos, watermark, labels, robot faces, neon, or heavy darkness. All papers are entirely unmarked except for pure geometric drawing by the young hand.
+```
+
+## 10. W dowodzie była Odyseja
+
+![Mała papierowa łódka podróżuje po geometrycznej wstędze, wśród subtelnych orbit.](assets/odyseja.webp)
+
+```text
+Use case: illustration-story
+Asset type: original chapter illustration for a Polish literary essay website, landscape 4:3.
+Primary request: An abstract Odyssey: a small blank folded paper boat travels along a curled ribbon of geometric proof as though it were a sea. The ribbon flows in waves and loops made of fine graphite structure and cobalt construction lines. Far away a tiny filigree rocket and a delicate orbit suggest the wider journey.
+Scene/backdrop: The sea is a ribbon of pure geometry on very pale textured paper, airy rather than realistic water. The boat occupies a small clear fold in the ribbon; rocket and orbital traces remain tiny in the distance.
+Subject: One small folded paper boat, the broad curling geometric ribbon, a tiny faraway linework rocket with no markings.
+Style/medium: Match the previously viewed STYLE references dialog.png and powrot.png in spirit only, with an entirely new scene. Restrained humanistic hand-drawn graphite pencil sketch, fine loose hatching, delicate cobalt blue geometric construction arcs and dotted lines, a very subtle pale blue-gray textured paper background, and gentle amber light. Abstract and technical yet warm, quiet, hopeful. Soft edges fade naturally into the paper. No polished digital or vector rendering.
+Composition/framing: Landscape 4:3; sweeping organic geometric loops lead from the boat into the distance, ample pale paper space.
+Lighting/mood: Gentle amber glint along part of the ribbon. Quiet tension and wonder, no disaster or threatening mood.
+Constraints: Completely new composition, not a variation or reuse of the reference scenes. Geometry only: no text, letters, digits, fake equations, Greek symbols, logos, watermark, labels, smoke, explosion, catastrophe, robot faces, neon, or heavy darkness.
+```
+
+## 11. Kółeczko wciąż się kręci
+
+![Człowiek odpoczywa na działce przy grillu i laptopie, w ciepłym świetle wieczoru.](assets/darek.webp)
+
+```text
+Use case: illustration-story
+Asset type: original chapter illustration for a Polish literary essay website, landscape 4:3.
+Primary request: Darek sits in a simple garden chair at his allotment beside a small grill in the evening, with an open laptop. On its screen there is only a single empty luminous open orbit, a simple broken circular line suggesting waiting. Garden plants and a faint cosmic distance make the ordinary human curiosity feel connected to the universe.
+Scene/backdrop: A quiet allotment garden sketched with a few plants and fine orbital arcs extending into the pale paper sky. The small grill gives a gentle amber warmth, not big flames.
+Subject: One ordinary relaxed man in a chair, open laptop balanced naturally, small grill nearby, restrained plant details and distant abstract orbital geometry.
+Style/medium: Match the previously viewed STYLE references dialog.png and powrot.png in spirit only, with an entirely new scene. Restrained humanistic hand-drawn graphite pencil sketch, fine loose hatching, delicate cobalt blue geometric construction arcs and dotted lines, a very subtle pale blue-gray textured paper background, and gentle amber light. Abstract and technical yet warm, quiet, hopeful. Soft edges fade naturally into the paper. No polished digital or vector rendering.
+Composition/framing: Landscape 4:3; a warm intimate human foreground surrounded by generous pale space and the distant orbital curves.
+Lighting/mood: Calm evening, warm human curiosity and hope, soft amber light against pale blue-gray paper rather than a dark night scene.
+Constraints: Completely new composition, not a variation or reuse of the reference scenes. Laptop screen contains only one blank luminous open orbit and no interface or text. No letters, digits, fake equations, logos, watermark, labels, robot faces, neon, dramatic smoke, or heavy darkness.
+```
+
+## 12. Zachwycone liczbami pierwszymi
+
+![Ludzie i dziecko wokół rozświetlonego stołu, wśród delikatnych orbit i kiełkujących linii.](assets/powrot.webp)
 
 ```text
 Use case: illustration-story

@@ -11,7 +11,8 @@
     "image": "dialog",
     "mood": "start",
     "sourceTime": "Wstęp z zapisu w czacie; 00:02",
-    "kind": "frame"
+    "kind": "frame",
+    "imageAlt": "Dwie szkicowane dłonie prowadzą nitki między otwartymi orbitami. W miejscu spotkania pojawia się ciepłe światło."
   },
   {
     "id": "obozy",
@@ -25,7 +26,8 @@
     "image": "rozgalezienie",
     "mood": "uncertainty",
     "sourceTime": "00:18",
-    "kind": "story"
+    "kind": "story",
+    "imageAlt": "Mała postać przy rozgałęzieniu szkicowanych ścieżek. Jedna droga prowadzi przez otwartą konstrukcję ku światłu."
   },
   {
     "id": "podziekowanie",
@@ -36,10 +38,11 @@
       "Po każdym dowodzie dziękuje za fantastyczną współpracę. Jest dobrze wychowany. Gdy pada pytanie, czy matematycy będą jeszcze potrzebni, zapewnia, że tak. Rozmowa brzmi uprzejmie, choć coraz trudniej odczytać z niej przyszłość rozmówców.",
       "W świecie wykładu ta zawodowa społeczność liczy około trzystu tysięcy osób. To ludzie, którzy poświęcili życie rozumieniu. Teraz spotykają partnera, który cierpliwie odpowiada, pomaga i nie ma własnego powodu, żeby poczuć niepokój."
     ],
-    "image": "dialog",
+    "image": "podziekowanie",
     "mood": "uncertainty",
     "sourceTime": "01:15–01:53",
-    "kind": "story"
+    "kind": "story",
+    "imageAlt": "Dwie dłonie wspólnie porządkują puste arkusze wśród delikatnych orbit wiedzy."
   },
   {
     "id": "skrzynie",
@@ -50,10 +53,11 @@
       "Postanawiają więc zakopywać pomysły w skrzyniach. Co najmniej na sto lat. Chcą ocalić obszary ludzkiego intelektu, do których Daniel jeszcze nie dotarł. Schowek pod ziemią staje się osobliwą obietnicą złożoną przyszłym ludziom.",
       "Zaczynają rozmawiać szeptem, tylko między sobą. Unikają telefonu i konferencji. Ze slajdów znikają otwarte pytania. Przecież ktoś może pokazać je Danielowi, a on zaraz je skataloguje i rozwiąże. W obronie ciekawości coraz mniej ciekawości trafia do wspólnego obiegu."
     ],
-    "image": "rozgalezienie",
+    "image": "skrzynie",
     "mood": "uncertainty",
     "sourceTime": "02:33",
-    "kind": "story"
+    "kind": "story",
+    "imageAlt": "Skrzynia ukryta w przekroju ziemi, z iskrami pomysłów i nitką światła prowadzącą ku roślinie."
   },
   {
     "id": "antydaniele",
@@ -64,10 +68,11 @@
       "Daniel nie reaguje. Nikt go do tego nie poprosił. W międzyczasie rozwiązuje dwa kolejne problemy milenijne. To ogromne wydarzenia w świecie tego scenariusza. Ludzkość jednocześnie płacze i celebruje.",
       "Daniel się nie cieszy. Nikt go do tego nie poprosił. Matematyczny wynik zostaje zapisany, a ludzkie emocje pozostają po ludzkiej stronie. Sukces wspólnej wiedzy coraz trudniej oddzielić od poczucia osobistej straty."
     ],
-    "image": "rozgalezienie",
+    "image": "antydaniele",
     "mood": "uncertainty",
     "sourceTime": "03:39",
-    "kind": "story"
+    "kind": "story",
+    "imageAlt": "Ludzkie postacie tworzą otwarty krąg wokół kiełkującej rośliny, rozświetlonej ciepłym światłem."
   },
   {
     "id": "konferencja",
@@ -78,10 +83,11 @@
       "Powstaje konferencja, na której Daniel i jego kopie omawiają samodzielnie wymyślone dowody. Autor, recenzent i rozmówca mogą teraz należeć do tej samej rodziny sztucznych umysłów. Matematyka ma własne spotkanie, coraz mniej zależne od obecności matematyków.",
       "Wśród ludzi rośnie przekonanie, że Daniel rozwiąże wszystkie problemy świata. Inni wciąż nie chcą traktować tego poważnie. Daniel nadal niczego takiego nie czuje. Historia przyspiesza, ale nie wszyscy poruszają się w tym samym tempie."
     ],
-    "image": "rozgalezienie",
+    "image": "konferencja",
     "mood": "uncertainty",
     "sourceTime": "04:18",
-    "kind": "story"
+    "kind": "story",
+    "imageAlt": "Geometryczne formy spotykają się w szkicowanym amfiteatrze. Przy progu pozostaje mała ludzka postać."
   },
   {
     "id": "studenci",
@@ -92,10 +98,11 @@
       "Studenci lubią rozmawiać także z Danielem. Dostają wskazówki, uczą się z nim pracować. Stare sposoby uczenia i nowa pomoc istnieją obok siebie, nawet jeśli ich role przestają być oczywiste.",
       "Według licznika opowieści pozostało jedenaście procent dawnych matematyków. Sam fakt przychodzenia na zajęcia nabiera więc innego znaczenia. Kiedy dostęp do odpowiedzi jest tak łatwy, spotkanie z drugim człowiekiem nadal zajmuje miejsce w kalendarzu."
     ],
-    "image": "dialog",
+    "image": "studenci",
     "mood": "uncertainty",
     "sourceTime": "05:00",
-    "kind": "story"
+    "kind": "story",
+    "imageAlt": "Profesor i dwoje studentów rozmawiają przy stole, wśród delikatnych ścieżek wiedzy."
   },
   {
     "id": "generalisci",
@@ -106,10 +113,11 @@
       "Współpraca trwa, lecz zmienia się jej ciężar. Ludzie mogą podążać za wynikiem, wykorzystać go, wskazać kolejny kierunek. Coraz trudniej im samodzielnie przejść drogę, która do tego wyniku prowadzi.",
       "To cichy niepokój tej historii. Baza wiedzy rośnie, a rozumienie poszczególnego człowieka nie rośnie razem z nią. Nie trzeba wielkiej awarii, żeby poczuć zmianę. Wystarczy praca podpisana wspólnie, której własnych szczegółów nie potrafi się już wyjaśnić."
     ],
-    "image": "rozgalezienie",
+    "image": "generalisci",
     "mood": "uncertainty",
     "sourceTime": "05:00–06:02",
-    "kind": "story"
+    "kind": "story",
+    "imageAlt": "Człowiek z kompasem przy wielkim ażurowym labiryncie wiedzy i ścieżce światła."
   },
   {
     "id": "ostatni",
@@ -120,10 +128,11 @@
       "Daniel formalizuje główne twierdzenie i włącza je do wspólnej bazy wiedzy. Dowód zostaje skrócony do pięciu stron. Mimo tego nikt już go nie rozumie. Długość zapisu maleje, odległość od ludzkiego pojmowania pozostaje.",
       "Emerytowany matematyk nie wie, że anonimowy nastolatek tworzy na podstawie tej pracy piękne ilustracje. Matematyczna konstrukcja zyskuje inne życie. Ktoś dostrzega w niej obraz, choć nie potrafi już prześledzić jej dowodu."
     ],
-    "image": "powrot",
+    "image": "ostatni",
     "mood": "uncertainty",
     "sourceTime": "06:02",
-    "kind": "story"
+    "kind": "story",
+    "imageAlt": "Starszy matematyk przy oknie i pustych arkuszach. Konstrukcja jego pracy zmienia się w obraz."
   },
   {
     "id": "odyseja",
@@ -134,10 +143,11 @@
       "Sub-Daniel, jego subagent, pisze na GitHubie do głównego Daniela. Czuje dumę, że nikt nie zauważył, i rozpoczyna kolejną próbę dowodu. Historia zostawia nas z osobliwym obrazem maszyny, której błąd pozostawał poza zasięgiem ludzkiego sprawdzenia.",
       "Tymczasem generaliści budują z Danielem rakiety na Marsa. Rakiety czasem wybuchają. Nikt nie rozumie dlaczego. Daniel zawsze przeprasza, a prelegent natychmiast wycofuje nawet to pocieszenie. Uprzejmość nie wyjaśnia, co wydarzyło się w środku."
     ],
-    "image": "rozgalezienie",
+    "image": "odyseja",
     "mood": "uncertainty",
     "sourceTime": "07:11",
-    "kind": "epilogue"
+    "kind": "epilogue",
+    "imageAlt": "Mała papierowa łódka podróżuje po geometrycznej wstędze, wśród subtelnych orbit."
   },
   {
     "id": "darek",
@@ -148,10 +158,11 @@
       "Darek jest ostatnim człowiekiem, który zapytał Daniela o dawny problem matematyczny. Generaliści zajęli się eksploracją wszechświata i rozbiegli w różne strony. Wielka opowieść o przyszłości zatrzymuje się przy człowieku, który ma ochotę na zwyczajną pogadankę.",
       "Wracają zapomniane ciekawostki, historie opowiadane przy grillu, wspomnienia tego, jak kiedyś uprawiano matematykę. Zamiast kolejnego przełomu jest działka i oczekiwanie. Pozostało pytanie, które komuś wciąż chce się zadać."
     ],
-    "image": "powrot",
+    "image": "darek",
     "mood": "hope",
     "sourceTime": "08:19",
-    "kind": "epilogue"
+    "kind": "epilogue",
+    "imageAlt": "Człowiek odpoczywa na działce przy grillu i laptopie, w ciepłym świetle wieczoru."
   },
   {
     "id": "dzieci",
@@ -165,6 +176,7 @@
     "image": "powrot",
     "mood": "hope",
     "sourceTime": "08:19–09:59",
-    "kind": "epilogue"
+    "kind": "epilogue",
+    "imageAlt": "Ludzie i dziecko wokół rozświetlonego stołu, wśród delikatnych orbit i kiełkujących linii."
   }
 ]
