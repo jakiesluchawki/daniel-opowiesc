@@ -54,10 +54,12 @@ h1,h2{letter-spacing:-.035em;line-height:1.1;margin:0}
 .lecture-hero h1,.chapter-heading h1,.chapter-heading h2{font-size:clamp(3.3rem,9.4vw,9rem);line-height:1.02;letter-spacing:-.045em;max-width:19ch}
 .lecture-participants,.chapter-byline{margin:1.7rem 0 0;font-size:1rem;line-height:1.7;color:var(--ink)}
 .lecture-participants span,.chapter-byline span{color:var(--muted);font-size:.9rem}
-.background-art,.chapter-art{position:relative;width:min(100%,1320px);margin:clamp(-2rem,-2vw,-.5rem) auto 0;pointer-events:none;user-select:none}
-.background-art img,.chapter-art img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:contain;opacity:1;mix-blend-mode:multiply;mask-image:linear-gradient(to right,transparent,rgb(0 0 0) 6%,rgb(0 0 0) 94%,transparent),linear-gradient(to bottom,transparent,rgb(0 0 0) 5%,rgb(0 0 0) 93%,transparent);mask-composite:intersect}
+.background-art,.chapter-art,.article-spread{position:relative;width:100%;max-width:none;margin:2.5rem 0;pointer-events:none;user-select:none}
+.background-art picture,.chapter-art picture,.article-spread picture{display:block;width:100%}
+.background-art img,.chapter-art img,.article-spread img{display:block;width:100%;height:auto;object-fit:contain;opacity:1;mix-blend-mode:normal;mask-image:none}
+.article-spread{margin:clamp(2.5rem,5vw,5rem) 0}
 .background-art:after,.chapter-art:after{display:none}
-.lecture-intro,.chapter-copy{position:relative;z-index:2;max-width:var(--measure);margin:-1.25rem var(--gutter) 0 var(--reading-inset);padding-bottom:1rem}
+.lecture-intro,.chapter-copy{position:relative;z-index:2;max-width:var(--measure);margin:2.5rem var(--gutter) 0 var(--reading-inset);padding-bottom:1rem}
 .lecture-lead{margin:0;font-size:clamp(1.2rem,1.8vw,1.65rem);line-height:1.65;letter-spacing:-.01em;text-wrap:pretty;max-width:42ch}
 .lecture-actions{display:flex;flex-wrap:wrap;gap:.75rem 2rem;margin-top:2rem;font-size:.9rem}
 .lecture-actions a{padding:.5rem 0}
@@ -122,9 +124,27 @@ h1,h2{letter-spacing:-.035em;line-height:1.1;margin:0}
 .site-header{display:flex;flex-direction:column;align-items:stretch;gap:.15rem;padding:.75rem var(--gutter)}
 .collection-label{font-size:.72rem;margin-bottom:.3rem}.lecture-switch{justify-content:space-between;gap:.8rem}.lecture-switch a{font-size:.86rem}.header-nav{justify-content:space-between;gap:.5rem;font-size:.78rem}.header-nav .source-menu{display:none}.header-nav #chapters-menu .contents{left:0;right:auto}
 .lecture-hero-copy,.chapter-heading{padding-top:2.5rem}.lecture-kicker,.chapter-meta{font-size:.78rem;margin-bottom:1.2rem}.lecture-hero h1,.chapter-heading h1,.chapter-heading h2{font-size:clamp(2.8rem,12.5vw,4.4rem);line-height:1.06;letter-spacing:-.04em;max-width:18ch}
-.lecture-participants,.chapter-byline{font-size:.92rem;margin-top:1.25rem}.background-art,.chapter-art{margin:.75rem 0 0;width:100%}.background-art img,.chapter-art img{mask-image:linear-gradient(to bottom,transparent,rgb(0 0 0) 5%,rgb(0 0 0) 94%,transparent);mask-composite:add}
+.lecture-participants,.chapter-byline{font-size:.92rem;margin-top:1.25rem}.background-art,.chapter-art{margin:1.75rem 0;width:100%}.background-art img,.chapter-art img{mask-image:none}
 .lecture-intro,.chapter-copy{margin-top:1rem}.lecture-lead{font-size:1.2rem;line-height:1.7}.prose{font-size:1.12rem;line-height:1.85}.lecture-hero{margin-bottom:3.5rem}.lecture-actions{gap:.6rem 1.2rem;margin-top:1.5rem;font-size:.85rem}.lecture-summary{padding-bottom:1.5rem}.lecture-page h2{font-size:2.25rem;line-height:1.15}.lecture-summary p,.lecture-summary li,.lecture-section p,.lecture-section li{font-size:1.1rem}.chapter{padding-bottom:3rem}.reading .chapter+.chapter{padding-top:1rem}
 .enhanced:not(.reading) .reader-controls{padding:.5rem var(--gutter) calc(.5rem + env(safe-area-inset-bottom))}.navigation-row{gap:.25rem 1rem;flex-wrap:wrap}.page-count{font-size:.8rem;min-width:3.2rem}.chapter-progress{gap:.3rem;max-width:none}.chapter-progress button{height:1.65rem;padding:.7rem 0}.chapter-navigation{width:100%;justify-content:space-between;gap:1rem}.nav-button{font-size:.9rem}.enhanced:not(.reading) main{padding-bottom:7.5rem}.transcript-prose{font-size:1.08rem;line-height:1.85}.transcript-page{padding-top:2.5rem}
 }
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}body{transition:none}}
-@media print{.site-header,.reader-controls,.chapter-art,.background-art,.site-footer{display:none!important}.chapter,.enhanced:not(.reading) .chapter{display:block!important;padding:1rem 0!important;break-inside:avoid}.chapter-heading,.chapter-copy,.lecture-intro,.lecture-summary,.lecture-section,.transcript-page{margin:0!important;padding:0!important;width:auto!important;max-width:none!important}.chapter-heading h1,.chapter-heading h2,.lecture-hero h1,h2{font-size:2rem!important}.prose,.lecture-page p{font-size:12pt!important}.lecture-section-index{position:static;font-size:1rem}main{padding:0!important}body{background:oklch(99% .005 245)}}
+@media print{.site-header,.reader-controls,.chapter-art,.slide-scene,.background-art,.article-spread,.site-footer{display:none!important}.chapter,.enhanced:not(.reading) .chapter{display:block!important;padding:1rem 0!important;break-inside:avoid}.chapter-heading,.chapter-copy,.lecture-intro,.lecture-summary,.lecture-section,.transcript-page{margin:0!important;padding:0!important;width:auto!important;max-width:none!important}.chapter-heading h1,.chapter-heading h2,.lecture-hero h1,h2{font-size:2rem!important}.prose,.lecture-page p{font-size:12pt!important}.lecture-section-index{position:static;font-size:1rem}main{padding:0!important}body{background:oklch(99% .005 245)}}
+
+/* The glossary is an annotated margin of the publication. */
+.reference-note{margin:.25rem 0 2.25rem;font-size:.85rem;line-height:1.6;color:var(--muted)}
+.glossary-page .lecture-hero-copy h1{font-size:clamp(3rem,8vw,7.5rem);max-width:20ch}
+.glossary-page .lecture-intro{margin-top:2.5rem}
+.glossary-index{display:flex;flex-wrap:wrap;gap:.65rem 1.5rem;max-width:var(--measure);margin:3rem var(--gutter) 4rem var(--reading-inset);font-size:.88rem;line-height:1.75}
+.glossary-column{max-width:var(--measure);margin:0 var(--gutter) 0 var(--reading-inset)}
+.glossary-entry{padding:2rem 0 3rem;scroll-margin-top:2rem}
+.glossary-entry .lecture-kicker{font-size:.75rem;letter-spacing:.03em;margin:0 0 .6rem}
+.glossary-entry h2{font-size:clamp(2.2rem,3.5vw,3.25rem);margin-bottom:1.2rem;overflow-wrap:anywhere}
+.glossary-entry p{font-size:1.12rem;line-height:1.8;margin:0 0 1rem;text-wrap:pretty}
+.glossary-entry .glossary-example{color:var(--muted)}
+.glossary-entry .glossary-context,.glossary-entry .glossary-sources,.glossary-entry .glossary-verification{font-size:.9rem;line-height:1.7}
+.glossary-entry blockquote{margin:1.5rem 0 2rem;padding:0}
+.glossary-entry blockquote p{font-family:var(--display);font-size:clamp(1.75rem,3vw,2.5rem);line-height:1.35}
+.glossary-section-title{margin:4rem 0 2rem!important}
+@media(max-width:900px){.glossary-index,.glossary-column{width:calc(100% - 2*var(--gutter));margin-left:auto;margin-right:auto}}
+@media(max-width:700px){.lecture-switch{gap:.3rem}.lecture-switch a{font-size:.75rem}}

@@ -1,31 +1,22 @@
-# AI Summit PJAIT — wykłady i rozmowy o człowieku i AI
+# AI Summit PJAIT · 16 września 2026
 
-[Opublikowana strona](https://jakiesluchawki.github.io/daniel-opowiesc/) zawiera cztery zakładki, czytelne na telefonie i komputerze.
+[Otwórz kolekcję](https://jakiesluchawki.github.io/daniel-opowiesc/).
 
-## Daniel
+Pięć zakładek: **Naskręcki / Psyho i Bagiński / Dragan / Rosiak / Q&A**, a osobno [Słowniczek](slowniczek.html). Daniel to nazwa projektu i bohater adaptacji; prelegentem jest Bartosz Naskręcki.
 
-Ilustrowana adaptacja wykładu Bartosza Naskręckiego „Nie potrzebujemy już matematyków”, AI Summit PJAIT, 16 września 2026.
+- [Naskręcki](index.html): 12 pełnoekranowych scen, po dwa warianty ilustracji — szeroki i pionowy. Trzy krótkie akapity każdego slajdu są widoczne od razu. „Czytaj całość” i tryb bez JavaScriptu zachowują wszystkie 36 akapitów dłuższej adaptacji. Strzałki, Spacja, Wstecz/Dalej, spis rozdziałów, hash i swipe obsługują przejścia.
+- [Psyho i Bagiński](psyho-baginski.html), [Dragan](dragan.html), [Rosiak](panel-finalowy.html): ciągłe artykuły, każdy z panoramicznym otwarciem i jednym przepleceniem ilustracyjnym. Pełne transkrypty, pobieranie TXT/Markdown i odnośniki do lokalnych czasów nagrań.
+- [Q&A](qa.html): 12 wątków, jedna szeroka ilustracja i [pełny transkrypt](qa-transkrypcja.html). Trzy nagrania 24:42, 7:05, 17:41 dają około 49:29 zachowanego materiału. Dwie przerwy mają nieznaną długość. Każda część zachowuje swój zegar, np. `t-p2-0036`.
+- [Słowniczek](slowniczek.html): pojęcia oraz cytaty, autorzy i dzieła; źródła zewnętrzne i powroty do konkretnych fragmentów transkryptów.
 
-12 slajdów, każdy z własną ilustracją i krótką redakcją tekstu. Obraz i wszystkie akapity slajdu są widoczne jednocześnie na jednym ekranie. Dłuższa, dotychczasowa adaptacja jest zachowana w całości pod „Czytaj całość”. Czytelnik przechodzi przyciskami Wstecz/Dalej, strzałkami lub gestem przesunięcia; może też wybrać rozdział albo przełączyć się na ciągłe czytanie całości. Spacja zachowuje zwykłe działanie przeglądarki. Działa reduced motion i ciągła wersja bez JavaScriptu. Pełna transkrypcja jest dostępna osobno.
+## Redakcja i źródła
 
-## Psyho i Bagiński
+Opinie oraz przewidywania należą do prelegentów. Adaptacje i streszczenia są redakcyjne. Transkrypty zachowują jawne luki i niepewne odczyty; nie przypisano nierozpoznanych głosów na podstawie listy uczestników. Wstęp Naskręckiego pochodzi z wcześniejszego zapisu tekstowego, nie z zachowanego nagrania. Trop Daniel/Houellebecq pozostaje niepewny. Wersja wypowiedzi Banacha w wykładzie jest parafrazą, nie zweryfikowanym dosłownym cytatem. Autoteliczność jest wyraźna w trzeciej części Q&A; podobne słowo w pierwszej części pozostaje niepewne.
 
-[Streszczenie panelu „Od sztuki po najbrudniejszą robotę”](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski.html): Tomek Bagiński i Przemysław „Psyho” Dębiak, prowadzi Adrian Bąk. Siedem wątków, jedna szeroka scena szkicowana oraz [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html) z odnośnikami do czasu nagrania. Tekst dostępny od razu, bez skryptów ani kontrolek tempa. Zapis obejmuje dostarczone nagranie 52:56; nieczytelne fragmenty są oznaczone. Streszczenie zachowuje opinie i przewidywania jako stanowiska rozmówców.
+Skład wydarzeń i prowadzący: [oficjalny program](https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/). Surowe audio i prywatne ścieżki robocze nie są publikowane.
 
-## Dragan
+## Technika i obrazy
 
-[Wykład Andrzeja Dragana „Dziury koloru białego”](https://jakiesluchawki.github.io/daniel-opowiesc/dragan.html): streszczenie oraz [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html) ze znacznikami czasu. Cały tekst jest dostępny od razu, a jedna szeroka scena szkicowana łączy tytuł z tekstem.
+Statyczny HTML/CSS/JS, bez zależności uruchomieniowych i bez zewnętrznych fontów. GitHub Pages publikuje root istniejącej gałęzi `codex/opowiesc`. Lokalny podgląd: `python3 -m http.server 8765`.
 
-## Panel finałowy — Rosiak, Dukaj, Dragan i Naskręcki
-
-[„Co jeszcze pozostało dla człowieka? Stan gry na 2026”](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy.html). Prowadzi Dariusz Rosiak; rozmawiają Jacek Dukaj, Andrzej Dragan i Bartosz Naskręcki. Streszczenie redakcyjne, jedna duża szkicowana ilustracja i [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html) ze znacznikami czasu i oznaczeniem niepewnych fragmentów. Zapis obejmuje dostarczone nagranie 54:55; opinie i przewidywania zachowano jako stanowiska rozmówców.
-
-## Uruchomienie
-
-Strona statyczna, bez zależności uruchomieniowych. GitHub Pages publikuje katalog główny repozytorium. Lokalny podgląd: `python3 -m http.server 8765`.
-
-## Źródło i redakcja
-
-Adaptacja nie jest wiernym zapisem słów prelegenta ani jego oficjalną publikacją. Podstawą jest scalona transkrypcja: nagranie trwające 10 minut 25 sekund oraz wcześniejszy zapis wstępu. Nieczytelne fragmenty pominięto w adaptacji i oznaczono w [transkrypcji](source/transkrypcja.md). Prognozy zachowano jako elementy literackiego scenariusza.
-
-[Oficjalny program konferencji](https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/). [Ilustracje i pełny zestaw promptów](ARTWORK.md). Ilustracje powstały przez built-in image_gen. Fonty Romie i Roobert dostarczył właściciel strony, potwierdzając licencję. Strona korzysta z dostarczonych plików webfont, bez plików desktop.
+Romie i Roobert pochodzą od właściciela strony, który potwierdził licencję. [ARTWORK.md](ARTWORK.md) opisuje wszystkie 31 nowych grafik, dokładne prompty, generate/edit i pochodzenie. [Manifest ilustracji](source/fullbleed-art.json) podaje publiczne ścieżki i rzeczywiste wymiary. Podglądy JPG to wyłącznie ponowne kodowanie istniejących obrazów, bez dodatkowego tekstu. [Design](DESIGN.md) · [Produkt](PRODUCT.md).

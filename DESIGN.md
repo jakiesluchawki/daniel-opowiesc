@@ -1,43 +1,21 @@
 # Design
 
-## Scene
+Otwarty, lekko techniczny szkicownik: grafit, kobalt i oszczędne ciepłe światło na jasnym papierze. Ludzki, abstrakcyjny, pełen nadziei. Bez ramek, kart, miniatur przy artykule i tekstu w rastrze.
 
-A friend opens the link on a phone in daylight, or on a large screen at home. They read a quiet illustrated publication, with their own pace and room to linger over a drawing.
+Romie Regular tworzy tytuły, Roobert Regular/Bold tekst i nawigację. Lokalne licencjonowane webfonty. Kolumna tekstu zachowuje czytelną długość wiersza; na najmniejszym slajdzie tekst ma minimum 16 px.
 
-## Visual direction
+## Dwanaście slajdów
 
-One open sheet of a human sketchbook. Romie titles and substantial graphite scenes share the page. The continuous lectures and panels use large open spreads; Naskręcki’s presentation uses composed single screens. The drawings are part of the publication, rather than thumbnails placed next to text. Pale paper, cobalt construction lines and restrained amber warmth hold the collection together.
+Każdy ma osobny motyw oraz obrazy 1672×941 i 941×1672, przygotowane przez generatywny outpainting wcześniejszych scen. Obraz pokrywa cały viewport (`cover`), również pod nagłówkiem i kontrolkami. Na szerokim ekranie główny motyw jest po lewej, tekst po prawej. Na telefonie motyw zajmuje górną część, a proza dolną. Przezroczysta papierowa warstwa przebiega przez całe tło i podnosi kontrast; nie tworzy prostokąta pod artykułem.
 
-## Color
+Trzy krótkie akapity są od razu widoczne wraz z tytułem, bez przewijania, odliczania i odsłaniania. „Czytaj całość” zachowuje wszystkie 36 oryginalnych akapitów adaptacji. Bez JS dostępna jest ta sama długa wersja. Obrazy wczytywane są dla bieżącego i następnego slajdu, z wariantem dopasowanym do ekranu.
 
-Light blue-grey paper and dark graphite ink. Cobalt guides navigation; amber stays inside the art. OKLCH neutrals remain slightly tinted. Daniel's uncertain chapters become a little cooler, and its human ending becomes warmer. Main text keeps full contrast.
+## Artykuły i transkrypty
 
-## Typography
+Psyho i Bagiński, Dragan oraz Rosiak mają po dwie szerokie ilustracje: otwarcie i jedno przeplecenie w środku. Otwarcia panoramiczne mają 1860×846 (Rosiak: 1859×846), przeplecenia 1672×941. Na telefonie otwarcia korzystają również z wcześniejszych pionowo wygodniejszych scen 4:3. Q&A ma jeden obraz 1672×941. Szerokie obrazy dochodzą do krawędzi strony, tekst pozostaje w spokojnej kolumnie.
 
-Licensed Romie Regular carries the large cover and chapter titles. Roobert Regular carries prose and navigation; Roobert Bold marks the active lecture and important actions. No synthetic weights, no text inside raster art. Reading columns remain under 62ch, with body text at least 1rem on the smallest presentation view and at least 1.1rem in continuous reading.
+Jedenaście stron HTML ma pięć wspólnych linków wydarzeń oraz dostęp do Słowniczka. Adnotacje przy transkryptach prowadzą do objaśnień; słowniczek odsyła do fragmentów źródłowych. Niepewności są częścią zapisu, nie ukrytym przypisem technicznym.
 
-## Covers and chapters
+## Sterowanie i dostępność
 
-Dragan and both panels retain the sequence title and speakers, full 4:3 scene, then complete text. On large screens their art reaches up to 1320px, while the reading column sits below with a generous left margin. The continuous version of Daniel also keeps this open, freely scrolling format. The final panel has one original illustration of four people weaving a path through unfinished geometry.
-
-Naskręcki’s slides use a separate stylesheet loaded only by the story. One viewport contains a large illustration, heading and all three short paragraphs. On laptops the scene occupies the left half, and the title and text sit together on the right. A CSS grid gives the masthead, scene and navigation their own rows within 100dvh. Never solve overflow by hiding or clipping prose.
-
-On phones the whole composed slide fits between a compact lecturer navigation and the bottom actions. The picture has the remaining space between heading and text and always uses contain. Keep at least 16px body text. Do not turn slides into tall scrolling spreads.
-
-Very short phone screens use tighter gutters, a smaller title and less paragraph spacing, while retaining 16px text. Validate content against the slide's available height and the top of the controls, not just the browser viewport: visible text must never sit behind navigation. The smallest checked canvas is 320 × 568px.
-
-The slides have a short editorial version (45–51 words each). “Czytaj całość” preserves every paragraph of the original longer adaptation. Without JavaScript, only that complete continuous version is shown. Each of the twelve illustrations remains unique; no cover cropping, raster editing or text inside an image.
-
-A small part of the paper at image edges fades into the page. The scene itself retains full opacity. Paragraphs stay on clean paper with full contrast.
-
-## Reading and navigation
-
-The masthead names the lecturers and moderator: Naskręcki, Psyho i Bagiński, Dragan, Rosiak. Daniel is the name of the story/project, not its speaker. All eight pages share the same real links. A neutral AI Summit label establishes the collection; local actions sit separately on small screens.
-
-The additional lectures and panels are continuous essays. A large marginal section number guides desktop reading, moving above its heading on mobile. Space rather than repeated boxes or rules separates ideas. Transcripts continue as quiet readable pages, with time anchors and downloads. The final panel identifies its moderator and all three participants on the cover; individual statements remain unattributed where the recording does not establish the speaker.
-
-Daniel retains Wstecz/Dalej, chapter selection, arrows, swipe and continuous reading. Its persistent control strip is a light typographic line, with the count and progress kept compact. All twelve illustrations are distinct.
-
-## Motion and access
-
-Every paragraph is present immediately. No timed reveal, speed controls, auto-advance or special space-bar action. Reduced motion disables smooth scrolling and the gentle paper-color transition. Keyboard focus remains visible. Without JavaScript, the whole story remains readable. Print removes navigation and artwork while retaining complete text.
+Strzałki i Spacja przechodzą między slajdami, działa swipe, TOC i bezpośredni hash. Brak automatycznych przejść i regulatorów tempa. Semantyczne nagłówki, widoczny fokus, skip links, reduced motion i tryb druku. Testy slajdów: 320×568, 375×667, 390×844, 1024×768, 1366×768, 1440×900. Artykuły i transkrypty: szerokości 320, 390, 768 i 1440.

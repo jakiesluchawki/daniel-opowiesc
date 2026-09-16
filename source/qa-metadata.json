@@ -1,0 +1,54 @@
+{
+  "title": "Pytania na koniec",
+  "event": "AI Summit PJAIT 2026",
+  "date": "2026-09-16",
+  "moderator": "Grzegorz Dobiecki",
+  "participants": [
+    "Andrzej Dragan",
+    "Bartosz Naskręcki",
+    "Tomasz Bagiński",
+    "Jacek Dukaj",
+    "Przemysław „Psyho” Dębiak"
+  ],
+  "program_time": "19:00–19:45",
+  "program_source": "https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/",
+  "duration_seconds": 2968.938667,
+  "duration_display": "49:29",
+  "recordings": [
+    {
+      "part": 1,
+      "duration_seconds": 1482.368,
+      "duration_display": "24:42",
+      "time_basis": "local_to_recording"
+    },
+    {
+      "part": 2,
+      "duration_seconds": 425.152,
+      "duration_display": "7:05",
+      "time_basis": "local_to_recording"
+    },
+    {
+      "part": 3,
+      "duration_seconds": 1061.418667,
+      "duration_display": "17:41",
+      "time_basis": "local_to_recording"
+    }
+  ],
+  "gaps": [
+    {
+      "between_parts": [
+        1,
+        2
+      ],
+      "duration_seconds": null
+    },
+    {
+      "between_parts": [
+        2,
+        3
+      ],
+      "duration_seconds": null
+    }
+  ],
+  "transcript_note": "Trzy lokalne zegary i dwie luki o nieznanej długości; fragmenty nieczytelne i niepewne pozostają oznaczone."
+}

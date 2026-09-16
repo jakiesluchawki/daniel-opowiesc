@@ -1,0 +1,1634 @@
+{
+  "terms": [
+    {
+      "id": "autotelicznosc",
+      "term": "Autoteliczność",
+      "definition": "Wartość czynności, której cel tkwi w niej samej. Tworzenie może być ważne dzięki samemu przeżyciu twórcy, niezależnie od sprzedaży, uznania czy użyteczności rezultatu.",
+      "example": "W Q&A pada propozycja, że osobiste doświadczenie tworzenia zachowa wartość także wtedy, gdy AI przygotuje lepiej oceniany utwór.",
+      "category": "Sztuka i filozofia",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1157",
+          "label": "Q&A 3 · 11:57 · autoteliczność sztuki"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1255",
+          "label": "Q&A 3 · 12:55 · wartość przeżycia"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Słownik języka polskiego: autoteliczny",
+          "url": "https://sjp.pl/autoteliczny"
+        }
+      ]
+    },
+    {
+      "id": "intersubiektywnosc",
+      "term": "Intersubiektywność",
+      "definition": "Dostępność czegoś więcej niż jednemu podmiotowi: możliwość wspólnego dostrzegania, komunikowania lub sprawdzania. Nie oznacza, że wszyscy muszą się zgadzać.",
+      "example": "Dyskusja przeciwstawia prywatne przeżycie twórcy temu, co można zarejestrować, porównać i ocenić wspólnie.",
+      "category": "Sztuka i filozofia",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0714",
+          "label": "Q&A 1 · 07:14 · świat intersubiektywny"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1319",
+          "label": "Q&A 3 · 13:19 · wspólna rzeczywistość"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Słownik języka polskiego: intersubiektywny",
+          "url": "https://sjp.pl/intersubiektywny"
+        }
+      ]
+    },
+    {
+      "id": "sprawczosc",
+      "term": "Sprawczość",
+      "definition": "Zdolność działania i wpływania na przebieg zdarzeń. W dyskusji o twórczości obejmuje możliwość podejmowania własnych decyzji i zachowania kontroli nad procesem.",
+      "example": "Bagiński i Psyho rozważają znaczenie własnego udziału w tworzeniu, nawet gdy wynik pracy maszyny może być dobry.",
+      "category": "Sztuka i filozofia",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-0551",
+          "label": "05:51 · kontrola kreatywna"
+        },
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-2902",
+          "label": "29:02 · sprawczość"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Agency",
+          "url": "https://plato.stanford.edu/entries/agency/"
+        }
+      ]
+    },
+    {
+      "id": "emergencja",
+      "term": "Emergencja",
+      "definition": "Pojawianie się własności na poziomie całego układu, których opis różni się od opisu pojedynczych składników. To pojęcie nie rozstrzyga samo w sobie, czy własności te dają się wyjaśnić przez składniki.",
+      "example": "Temperatura i ciśnienie są w panelu przykładami przejścia od opisu mikroświata do własności zbiorowych.",
+      "category": "Sztuka i filozofia",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-0722",
+          "label": "07:22 · poziomy opisu"
+        },
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-2022",
+          "label": "20:22 · nowe własności"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Emergent Properties",
+          "url": "https://plato.stanford.edu/entries/properties-emergent/"
+        }
+      ]
+    },
+    {
+      "id": "redukcjonizm",
+      "term": "Redukcjonizm",
+      "definition": "Podejście szukające wyjaśnienia złożonego zjawiska przez jego składniki lub teorię bardziej podstawową. Możliwość takiego wyjaśnienia nie jest automatycznie tym samym co praktyczna zdolność przewidywania.",
+      "example": "W panelu pytanie o człowieka jako układ fizyczny prowadzi do sporu o rozumienie, oryginalność i wartość przeżycia.",
+      "category": "Sztuka i filozofia",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-0347",
+          "label": "03:47 · umysł i mechanizm"
+        },
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-0722",
+          "label": "07:22 · skale opisu"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Scientific Reduction",
+          "url": "https://plato.stanford.edu/entries/scientific-reduction/"
+        }
+      ]
+    },
+    {
+      "id": "platonizm-matematyczny",
+      "term": "Platonizm matematyczny",
+      "definition": "Stanowisko, że obiekty matematyczne istnieją niezależnie od naszych umysłów i praktyk. W tej perspektywie matematyk odkrywa prawdy, zamiast ustanawiać je dowolnie.",
+      "example": "W panelu stanowisko to pojawia się przy pytaniu o matematykę jako język poznawania świata.",
+      "category": "Sztuka i filozofia",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-1114",
+          "label": "11:14 · stanowisko platonistyczne"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Platonism in the Philosophy of Mathematics",
+          "url": "https://plato.stanford.edu/entries/platonism-mathematics/"
+        }
+      ]
+    },
+    {
+      "id": "problem-indukcji",
+      "term": "Problem indukcji",
+      "definition": "Pytanie, co uzasadnia przechodzenie od dotychczasowych obserwacji do ogólnych praw lub przewidywań. Powtarzalność w przeszłości nie daje logicznej gwarancji, że wzorzec utrzyma się w przyszłości.",
+      "example": "Panel pyta o granice wnioskowania z doświadczenia; podobna ostrożność dotyczy prognoz tempa rozwoju AI.",
+      "category": "Sztuka i filozofia",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-3640",
+          "label": "36:40 · indukcja"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy: The Problem of Induction",
+          "url": "https://plato.stanford.edu/entries/induction-problem/"
+        }
+      ]
+    },
+    {
+      "id": "heurystyka",
+      "term": "Heurystyka",
+      "definition": "Praktyczna metoda szukania rozwiązania, która upraszcza poszukiwanie, lecz nie musi gwarantować najlepszego wyniku ani sukcesu w każdym przypadku.",
+      "example": "Pytanie do Psyho dotyczy kreatywności przy wymyślaniu sposobów rozwiązywania otwartych zadań.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-1345",
+          "label": "13:45 · heurystyka i kreatywność"
+        }
+      ],
+      "sources": [
+        {
+          "title": "MIT OpenCourseWare: Thinking",
+          "url": "https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/pages/thinking/"
+        }
+      ]
+    },
+    {
+      "id": "optymalizacja",
+      "term": "Optymalizacja",
+      "definition": "Szukanie rozwiązania najlepszego według przyjętego kryterium, z uwzględnieniem ograniczeń. Wybór kryterium jest częścią problemu: inny cel może dać inny najlepszy wynik.",
+      "example": "Rozmowa oddziela sprawność poszukiwania od decyzji, co ma zostać uznane za wartościowy rezultat.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-1345",
+          "label": "13:45 · optymalizacja"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1319",
+          "label": "Q&A 3 · 13:19 · mierzalność i optymalizacja"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stanford University: Introduction to Optimization",
+          "url": "https://web.stanford.edu/class/engr62/notes/notes.pdf"
+        }
+      ]
+    },
+    {
+      "id": "problem-stopu",
+      "term": "Problem stopu",
+      "definition": "Problem rozstrzygnięcia, czy dany program dla danego wejścia zakończy działanie. Nie istnieje algorytm rozwiązujący go poprawnie dla wszystkich programów i wejść.",
+      "example": "W panelu służy jako przykład zasadniczej granicy obliczeń; nie oznacza, że zakończenia żadnego konkretnego programu nie da się sprawdzić.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-2245",
+          "label": "22:45 · ograniczenia obliczeń"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Alan Turing: On Computable Numbers, with an Application to the Entscheidungsproblem",
+          "url": "https://academic.oup.com/plms/article-abstract/s2-42/1/230/1491926"
+        }
+      ]
+    },
+    {
+      "id": "formalizacja-dowodu",
+      "term": "Formalizacja dowodu",
+      "definition": "Zapisanie założeń, twierdzenia i kroków dowodu w precyzyjnym języku formalnym. Asystent dowodzenia może sprawdzić zgodność kroków z przyjętymi regułami.",
+      "example": "Daniel kataloguje i formalizuje wyniki. Mechaniczne sprawdzenie zapisu i ludzkie zrozumienie argumentu są w opowieści odrębnymi sprawami.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0115",
+          "label": "01:15 · katalogowanie dowodów"
+        },
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0602",
+          "label": "06:02 · skrócony dowód"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lean: Propositions and Proofs",
+          "url": "https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/"
+        }
+      ]
+    },
+    {
+      "id": "prawda-a-dowod",
+      "term": "Prawda a dowód",
+      "definition": "Prawdziwość dotyczy tego, czy zdanie zachodzi w rozważanej interpretacji. Dowód jest uzasadnieniem otrzymanym według określonych reguł i założeń; pojęć tych nie należy utożsamiać bez dodatkowych warunków.",
+      "example": "Końcówka Q&A sygnalizuje rozróżnienie prawdy i dowodu, ale dalsze zdania nagrania pozostają częściowo nieczytelne.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1655",
+          "label": "Q&A 3 · 16:55 · prawda i dowód"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Lean: Propositions and Proofs",
+          "url": "https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/"
+        },
+        {
+          "title": "Alan Turing: On Computable Numbers, with an Application to the Entscheidungsproblem",
+          "url": "https://academic.oup.com/plms/article-abstract/s2-42/1/230/1491926"
+        }
+      ]
+    },
+    {
+      "id": "rownanie-diofantyczne",
+      "term": "Równanie diofantyczne",
+      "definition": "Równanie wielomianowe, dla którego szuka się rozwiązań całkowitych. Prosty przykład to poszukiwanie całkowitych trójek spełniających x² + y² = z².",
+      "example": "W fikcyjnym epilogu Daniel koduje Odyseję w równaniu diofantycznym. Nie jest to równanie różniczkowe.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0711",
+          "label": "07:11 · Odyseja w równaniu"
+        }
+      ],
+      "sources": [
+        {
+          "title": "MIT: Theory of Computation, Lecture 6",
+          "url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/7405f6112c8ca7242e1edd9a021c1e63_MIT18_404f20_lec6.pdf"
+        }
+      ]
+    },
+    {
+      "id": "hipoteza-riemanna",
+      "term": "Hipoteza Riemanna",
+      "definition": "Przypuszczenie, że wszystkie nietrywialne zera funkcji dzeta Riemanna mają część rzeczywistą równą 1/2. Jest związane z rozmieszczeniem liczb pierwszych.",
+      "example": "W opowieści Naskręckiego jej dowód oraz późniejsze wykrycie błędu należą do scenariusza przyszłości, a nie relacji o potwierdzonym rozwiązaniu.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0602",
+          "label": "06:02 · hipotetyczny dowód"
+        },
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0711",
+          "label": "07:11 · błąd w dowodzie"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Clay Mathematics Institute: Riemann Hypothesis",
+          "url": "https://www.claymath.org/millennium/riemann-hypothesis/"
+        }
+      ]
+    },
+    {
+      "id": "arxiv-preprint",
+      "term": "arXiv i preprint",
+      "definition": "arXiv jest otwartym repozytorium prac naukowych. Preprint to wersja pracy udostępniona przed formalną publikacją lub recenzją; samo umieszczenie w repozytorium nie potwierdza poprawności wyniku.",
+      "example": "We wstępie z czatu repozytorium stanowi zasób wiedzy dla Daniela. Brzmienia tego wstępu nie ma w dołączonym pliku audio.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "wstep-z-czatu",
+          "label": "Wstęp z czatu · arXiv",
+          "needle": "arXiv"
+        }
+      ],
+      "sources": [
+        {
+          "title": "arXiv: About",
+          "url": "https://info.arxiv.org/about/index.html"
+        }
+      ]
+    },
+    {
+      "id": "problemy-milenijne",
+      "term": "Problemy milenijne",
+      "definition": "Siedem wybitnych problemów matematycznych wybranych przez Clay Mathematics Institute. Nagrody dotyczą poprawnie rozwiązanych problemów; głośne ogłoszenie dowodu nie jest jego uznaniem.",
+      "example": "Opowieść wykorzystuje rozwiązywanie kolejnych problemów jako miarę przewagi Daniela. Navier–Stokes w niezweryfikowanym wstępie wymaga osobnej ostrożności.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0339",
+          "label": "03:39 · kolejne problemy"
+        },
+        {
+          "page": "transkrypcja.html",
+          "anchor": "wstep-z-czatu",
+          "label": "Wstęp z czatu · Navier–Stokes",
+          "needle": "Naviera"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Clay Mathematics Institute: Riemann Hypothesis",
+          "url": "https://www.claymath.org/millennium/riemann-hypothesis/"
+        },
+        {
+          "title": "Clay Mathematics Institute: Navier–Stokes Equation",
+          "url": "https://www.claymath.org/millennium/navier-stokes-equation/"
+        }
+      ]
+    },
+    {
+      "id": "siec-neuronowa",
+      "term": "Sieć neuronowa i perceptron",
+      "definition": "Sieć neuronowa przekształca dane przez połączone jednostki o dobieranych wagach. Prosta jednostka sumuje ważone wejścia i stosuje funkcję aktywacji; perceptron jest jednym z klasycznych modeli takiej jednostki.",
+      "example": "Dragan używa modelu sieci, aby opisać przechodzenie od prostych operacji do rozpoznawania bardziej złożonych relacji.",
+      "category": "AI",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0832",
+          "label": "08:32 · model sieci"
+        },
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-0324",
+          "label": "03:24 · wczesny model neuronów"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google: Machine Learning Glossary",
+          "url": "https://developers.google.com/machine-learning/glossary"
+        },
+        {
+          "title": "McCulloch, Pitts: A Logical Calculus of the Ideas Immanent in Nervous Activity",
+          "url": "https://link.springer.com/article/10.1007/BF02478259"
+        }
+      ]
+    },
+    {
+      "id": "iloczyn-skalarny",
+      "term": "Iloczyn skalarny",
+      "definition": "Operacja na dwóch wektorach dająca liczbę: w zwykłych współrzędnych sumuje iloczyny odpowiadających sobie składowych. Wiąże się z długościami wektorów i kątem między nimi.",
+      "example": "W wykładzie jest składnikiem obliczenia ważonej sumy wejść w jednostce sieci neuronowej.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0832",
+          "label": "08:32 · wektory i wagi"
+        }
+      ],
+      "sources": [
+        {
+          "title": "OpenStax: The Dot Product",
+          "url": "https://openstax.org/books/calculus-volume-3/pages/2-3-the-dot-product"
+        }
+      ]
+    },
+    {
+      "id": "llm",
+      "term": "Duży model językowy (LLM)",
+      "definition": "Model uczony na danych językowych, mający bardzo wiele parametrów i służący między innymi do generowania tekstu. Wielkość nie daje sama w sobie gwarancji prawdziwości odpowiedzi.",
+      "example": "Dyskusja łączy wzrost możliwości modeli z pytaniami o dowody, programowanie i kontrolę nad pracą.",
+      "category": "AI",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-1709",
+          "label": "17:09 · cele rozwoju modeli"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0347",
+          "label": "Q&A 1 · 03:56 · zmiana możliwości modeli"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google: Machine Learning Glossary",
+          "url": "https://developers.google.com/machine-learning/glossary"
+        }
+      ]
+    },
+    {
+      "id": "agent-ai",
+      "term": "Agent AI",
+      "definition": "System, w którym model dobiera kolejne działania i narzędzia, aby realizować cel. Taki sposób pracy może obejmować wiele kroków, sprawdzanie wyników i ponawianie prób.",
+      "example": "Psyho mówi o oddawaniu agentom części kontroli kreatywnej; w opowieści Naskręckiego pojawia się subagent Daniela.",
+      "category": "AI",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-0551",
+          "label": "05:51 · praca agentów"
+        },
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0711",
+          "label": "07:11 · sub-Daniel"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Anthropic: Building Effective Agents",
+          "url": "https://www.anthropic.com/engineering/building-effective-agents"
+        }
+      ]
+    },
+    {
+      "id": "prompt",
+      "term": "Prompt",
+      "definition": "Wejście kierowane do modelu: pytanie, instrukcja lub kontekst. Może wyznaczać zadanie i format odpowiedzi, lecz nie gwarantuje, że system poprawnie wykona zamierzoną pracę.",
+      "example": "Darek pyta Daniela o problem, a jego oczekiwanie na wynik staje się elementem epilogu.",
+      "category": "AI",
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0153",
+          "label": "01:53 · rozmowa z Danielem"
+        },
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0819",
+          "label": "08:19 · pytanie Darka"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google: Machine Learning Glossary",
+          "url": "https://developers.google.com/machine-learning/glossary"
+        }
+      ]
+    },
+    {
+      "id": "alignment",
+      "term": "Alignment",
+      "definition": "Problem dostosowania działania systemów AI do ludzkich intencji i wartości. Obejmuje pytanie, czy system realizuje pożądany cel także poza łatwymi do sprawdzenia przypadkami.",
+      "example": "W panelu o twórczości łączy się z obawą o kontrolę i koncentrację władzy w laboratoriach AI.",
+      "category": "AI",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-4251",
+          "label": "42:51 · alignment i władza"
+        }
+      ],
+      "sources": [
+        {
+          "title": "OpenAI: Our Approach to Alignment Research",
+          "url": "https://openai.com/index/our-approach-to-alignment-research/"
+        }
+      ]
+    },
+    {
+      "id": "rekurencyjne-samodoskonalenie",
+      "term": "Rekurencyjne samodoskonalenie",
+      "definition": "Pętla, w której system pomaga ulepszać kolejne systemy, a te zwiększają możliwości dalszego ulepszania. Zakres i trwałość takiej pętli są pytaniami badawczymi, a nie gwarancją nieograniczonego przyspieszenia.",
+      "example": "Panel rozważa modele programujące i wspierające badania nad następnymi modelami.",
+      "category": "AI",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-4359",
+          "label": "43:59 · cel laboratoriów"
+        },
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-4540",
+          "label": "45:40 · automatyzacja badań"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Chen, Wang, Qu: Recursive Self-Improvement in AI",
+          "url": "https://arxiv.org/abs/2607.07663"
+        }
+      ]
+    },
+    {
+      "id": "skalowanie",
+      "term": "Skalowanie",
+      "definition": "Zwiększanie zasobów, rozmiaru lub liczby równoległych działań systemu. W AI bada się zależności między danymi, obliczeniami, liczbą parametrów i jakością wyników.",
+      "example": "Wykłady rozważają scenariusz dalszego przyspieszenia; zależności empiryczne nie przesądzają, że każde powiększenie systemu da dowolnie duży postęp.",
+      "category": "AI",
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0002",
+          "label": "00:02 · scenariusz skalowania"
+        },
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-4540",
+          "label": "45:40 · tysiące asystentów"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Kaplan i in.: Scaling Laws for Neural Language Models",
+          "url": "https://arxiv.org/abs/2001.08361"
+        }
+      ]
+    },
+    {
+      "id": "osobliwosc-technologiczna",
+      "term": "Osobliwość technologiczna (Singularity)",
+      "definition": "Hipotetyczny etap, w którym rozwój technologii i ponadludzkiej inteligencji radykalnie zmienia warunki życia, utrudniając przewidywanie dalszej przyszłości za pomocą dotychczasowych analogii.",
+      "example": "Stwierdzenie, że już w niej jesteśmy, jest w panelu opinią rozmówcy, nie ustalonym faktem ani uzgodnioną diagnozą.",
+      "category": "AI",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-3258",
+          "label": "32:58 · diagnoza rozmówcy"
+        },
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-4824",
+          "label": "48:24 · trudność prognozowania"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Vernor Vinge: The Coming Technological Singularity",
+          "url": "https://ntrs.nasa.gov/citations/19940022856"
+        }
+      ]
+    },
+    {
+      "id": "ai-slop",
+      "term": "AI slop",
+      "definition": "Potoczne określenie masowo produkowanych treści generowanych przez AI, stawiających ilość ponad jakość. Nie jest nazwą wszystkich materiałów tworzonych z pomocą modeli.",
+      "example": "Psyho zwraca uwagę na rosnącą różnicę między kosztem generowania treści a kosztem oceny i odnajdywania wartościowych prac.",
+      "category": "AI",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-3331",
+          "label": "33:31 · zalew treści"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google: Machine Learning Glossary",
+          "url": "https://developers.google.com/machine-learning/glossary"
+        }
+      ]
+    },
+    {
+      "id": "efekt-sieciowy",
+      "term": "Efekt sieciowy",
+      "definition": "Sytuacja, w której wartość produktu lub systemu zależy od liczby innych użytkowników bądź dostępnych zgodnych usług. Może sprzyjać utrwaleniu popularnego standardu.",
+      "example": "W Q&A to argument za przewagą platformy; pada też kontrargument, że użytkownicy AI łatwo zmieniają dostawcę.",
+      "category": "Technologia i społeczeństwo",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-1343",
+          "label": "Q&A 1 · 13:52 · przewaga standardu"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Katz, Shapiro: Systems Competition and Network Effects",
+          "url": "https://pubs.aeaweb.org/doi/10.1257/jep.8.2.93"
+        }
+      ]
+    },
+    {
+      "id": "uklad-odniesienia",
+      "term": "Układ inercjalny i nieinercjalny",
+      "definition": "Układ inercjalny to taki, w którym swobodne ciało porusza się jednostajnie po prostej. Układ przyspieszający lub obracający się jest nieinercjalny; opis ruchu wymaga w nim uwzględnienia dodatkowych efektów.",
+      "example": "Przyspieszająca rakieta i obracający się układ są w wykładzie narzędziami do myślenia o grawitacji.",
+      "category": "Fizyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0613",
+          "label": "06:13 · obracający się układ"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-2201",
+          "label": "22:01 · obserwatorzy"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Einstein Online: The Elevator, the Rocket, and Gravity",
+          "url": "https://www.einstein-online.info/en/spotlight/equivalence_principle/"
+        }
+      ]
+    },
+    {
+      "id": "zasada-rownowaznosci",
+      "term": "Zasada równoważności",
+      "definition": "Lokalna równoważność efektów grawitacji i odpowiedniego przyspieszenia układu odniesienia. Lokalność jest istotna: różnice pola grawitacyjnego na większym obszarze mogą ujawnić efekty pływowe.",
+      "example": "Dragan wychodzi od analogii grawitacji do przyspieszenia, a następnie stosuje ją do opisu rakiety i czarnej dziury.",
+      "category": "Fizyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0344",
+          "label": "03:44 · analogia Einsteina"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-1117",
+          "label": "11:17 · lokalność analogii"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Einstein Online: The Elevator, the Rocket, and Gravity",
+          "url": "https://www.einstein-online.info/en/spotlight/equivalence_principle/"
+        }
+      ]
+    },
+    {
+      "id": "skrocenie-lorentza",
+      "term": "Skrócenie Lorentza",
+      "definition": "Obiekt poruszający się względem obserwatora inercjalnego ma w kierunku ruchu długość mniejszą od swojej długości spoczynkowej. Pomiar wymaga określenia jednoczesności w układzie obserwatora.",
+      "example": "Wykład przywołuje ten efekt przy przejściu od ruchu do geometrii. Sama nazwa w nagraniu jest oznaczona jako niepewna.",
+      "category": "Fizyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0659",
+          "label": "06:59 · możliwe przywołanie efektu"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Einstein Online: Length Contraction",
+          "url": "https://www.einstein-online.info/en/explandict/length-contraction/"
+        }
+      ]
+    },
+    {
+      "id": "czasoprzestrzen",
+      "term": "Czasoprzestrzeń",
+      "definition": "Połączony opis przestrzeni i czasu, w którym pojedyncze zdarzenie ma współrzędne przestrzenne oraz czasową. W teorii względności różni obserwatorzy mogą inaczej dzielić ten opis na przestrzeń i czas.",
+      "example": "Diagramy omawiane przez Dragana służą do rozważania ruchu, światła i granic dostępnych obszarów.",
+      "category": "Fizyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-1342",
+          "label": "13:42 · opis ruchu"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-1854",
+          "label": "18:54 · horyzont"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Einstein Online: Spacetime",
+          "url": "https://www.einstein-online.info/en/explandict/spacetime/"
+        }
+      ]
+    },
+    {
+      "id": "horyzont-zdarzen",
+      "term": "Horyzont zdarzeń",
+      "definition": "Granica obszaru, z którego sygnał nie może dotrzeć do odległego obserwatora. Dla czarnej dziury oznacza brak drogi ucieczki na zewnątrz nawet dla światła; nie jest materialną powierzchnią.",
+      "example": "Dragan zestawia horyzont czarnej dziury z ograniczeniem dostępu do zdarzeń w opisie przyspieszającego obserwatora.",
+      "category": "Fizyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-1854",
+          "label": "18:54 · granica obserwacji"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-1922",
+          "label": "19:22 · czarna dziura i rakieta"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NASA: Black Holes",
+          "url": "https://science.nasa.gov/universe/black-holes/"
+        },
+        {
+          "title": "Einstein Online: The Elevator, the Rocket, and Gravity",
+          "url": "https://www.einstein-online.info/en/spotlight/equivalence_principle/"
+        }
+      ]
+    },
+    {
+      "id": "biala-dziura",
+      "term": "Biała dziura",
+      "definition": "Hipotetyczny obiekt związany z odwróceniem w czasie opisu czarnej dziury: można się z niego wydostać, lecz nie można do niego wejść z zewnątrz. Nie jest potwierdzonym obserwacyjnie obiektem astronomicznym.",
+      "example": "W wykładzie pojawia się jako element rozważanego opisu geometrycznego. Nie wynika z tego obserwacyjne potwierdzenie partnera każdej czarnej dziury.",
+      "category": "Fizyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-2547",
+          "label": "25:47 · odwrócona sytuacja"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-2846",
+          "label": "28:46 · czarna i biała dziura"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Haggard, Rovelli: Black Hole Fireworks",
+          "url": "https://arxiv.org/abs/1407.0989"
+        }
+      ]
+    },
+    {
+      "id": "asymptota",
+      "term": "Asymptota",
+      "definition": "Prosta lub krzywa, do której wykres zbliża się w określonym granicznym zachowaniu. Sam fakt istnienia asymptoty nie oznacza, że wykres nigdy nie może jej przeciąć.",
+      "example": "W opisie ruchu i granic osiągalnych zdarzeń pojawiają się linie, do których zbliża się trajektoria.",
+      "category": "Matematyka i programowanie",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-1854",
+          "label": "18:54 · graniczne zachowanie"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-2503",
+          "label": "25:03 · odwrócona sytuacja"
+        }
+      ],
+      "sources": [
+        {
+          "title": "OpenStax: Limits at Infinity and Asymptotes",
+          "url": "https://openstax.org/books/calculus-volume-1/pages/4-6-limits-at-infinity-and-asymptotes"
+        }
+      ]
+    },
+    {
+      "id": "kwantyfikacja",
+      "term": "Kwantyfikacja",
+      "definition": "Ujmowanie zjawiska w kategoriach ilościowych: nadawanie mu miar, liczb lub porównywalnych wskaźników. To, że coś da się zmierzyć, nie rozstrzyga jeszcze, jaką ma wartość dla człowieka.",
+      "example": "W Q&A pojawia się w prognozie, że wspólnie dostępne rezultaty będą rejestrowane, mierzone i optymalizowane.",
+      "category": "Technologia i społeczeństwo",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1319",
+          "label": "Q&A 3 · 13:19 · rejestracja i pomiar"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Słownik języka polskiego: kwantyfikacja",
+          "url": "https://sjp.pl/kwantyfikacja"
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "banach-analogie",
+      "title": "Stefan Banach: analogie między analogiami",
+      "kind": "parafraza",
+      "explanation": "Dragan przedstawia stopniowanie zdolności matematyków od analogii między twierdzeniami po analogie między analogiami. Stanisław Ulam w autobiografii przypisuje Banachowi krótszą, dwuczłonową wersję tej myśli.",
+      "verification": "Przypisanie ma oparcie w relacji Ulama. Czterostopniowa wersja wykładu nie została potwierdzona jako dosłowny cytat Banacha; zapis o dowodach jest w transkrypcji niepewny.",
+      "sources": [
+        {
+          "title": "Los Alamos: Stan Ulam — Vita, Excerpts from Adventures of a Mathematician",
+          "url": "https://permalink.lanl.gov/object/tr?what=info%3Alanl-repo%2Flareport%2FLA-UR-87-3600-02"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0936",
+          "label": "09:36 · Banach i analogie",
+          "needle": "Stefan Banach"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-3438",
+          "label": "34:38 · analogie teorii",
+          "needle": "Banach"
+        }
+      ]
+    },
+    {
+      "id": "opalka-liczenie",
+      "title": "Roman Opałka — OPALKA 1965 / 1–∞",
+      "kind": "inspiracja",
+      "explanation": "Cykl kolejno zapisywanych liczb służy jako obraz upływu czasu i zanikania. W praktyce artysta stopniowo rozjaśniał tło kolejnych obrazów, zmniejszając kontrast białych liczb.",
+      "verification": "Identyfikacja cyklu i metoda rozjaśniania są potwierdzone w opisie kolekcji. Wypowiedź we wstępie pochodzi tylko z zapisu w czacie.",
+      "sources": [
+        {
+          "title": "Starak Family Foundation: Roman Opałka",
+          "url": "https://starakfoundation.org/en/kolekcja/f/20"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "wstep-z-czatu",
+          "label": "Wstęp z czatu · Opałka",
+          "needle": "Romana Opałki"
+        }
+      ]
+    },
+    {
+      "id": "daniel-literatura",
+      "title": "Daniel i nieustalone odwołanie literackie",
+      "kind": "niepewne",
+      "explanation": "Zapis w czacie zawiera uszkodzoną wskazówkę „opowieść o wszystkim lasarote”. Możliwość wyspy Michela Houellebecqa jest kandydatem do identyfikacji, a nie odtworzonym tytułem wypowiedzi.",
+      "verification": "Dołączone audio nie obejmuje tej wskazówki. Nie rozstrzygnięto tytułu ani tego, czy prelegent wskazał Houellebecqa; link wydawcy dokumentuje wyłącznie istnienie kandydata.",
+      "sources": [
+        {
+          "title": "Penguin Random House: The Possibility of an Island",
+          "url": "https://www.penguinrandomhouse.com/books/83040/the-possibility-of-an-island-by-michel-houellebecq/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "wstep-z-czatu",
+          "label": "Wstęp z czatu · literacki Daniel",
+          "needle": "lasarote"
+        }
+      ]
+    },
+    {
+      "id": "homer-odyseja",
+      "title": "Homer — Odyseja",
+      "kind": "inspiracja",
+      "explanation": "W fikcyjnym epilogu Daniel odkrywa fragmenty Odysei w swoim zapisie dowodu i koduje poemat w równaniu diofantycznym. To literacki motyw błędu i utraty kontroli.",
+      "verification": "Tytuł jest czytelny w nagraniu. Odwołanie do Homera identyfikuje znane dzieło; prelegent nie cytuje jego wersów.",
+      "sources": [
+        {
+          "title": "Perseus / Tufts University: Homer, Odyssey",
+          "url": "https://atlas.perseus.tufts.edu/library/urn%3Acts%3AgreekLit%3Atlg0012.tlg002/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0711",
+          "label": "07:11 · Odyseja w dowodzie",
+          "needle": "Odysei"
+        }
+      ]
+    },
+    {
+      "id": "navier-stokes-ogloszenie",
+      "title": "Navier–Stokes: niezweryfikowane ogłoszenie rozwiązania",
+      "kind": "niepewne",
+      "explanation": "Wstęp z czatu przypisuje AI rozwiązanie „hipotezy Naviera–Stokesa” w około stu godzin. Nie ustalono publikacji ani dokładnego problemu, do którego odnosi się ta wypowiedź.",
+      "verification": "Brak tego fragmentu w audio. Oficjalna strona Clay opisuje problem milenijny jako nierozwiązany; nie można przedstawiać zapisu z czatu jako dowodu jego rozwiązania.",
+      "sources": [
+        {
+          "title": "Clay Mathematics Institute: Navier–Stokes Equation",
+          "url": "https://www.claymath.org/millennium/navier-stokes-equation/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "wstep-z-czatu",
+          "label": "Wstęp z czatu · stu godzin pracy",
+          "needle": "Naviera"
+        }
+      ]
+    },
+    {
+      "id": "riemann-fikcyjny-dowod",
+      "title": "Riemann: dowód w opowieści o Danielu",
+      "kind": "inspiracja",
+      "explanation": "Upragniony dowód hipotezy Riemanna, jego formalizacja i późniejsze wykrycie błędu są etapami scenariusza Naskręckiego.",
+      "verification": "Hipoteza jest rzeczywistym problemem matematycznym; opis wydarzeń należy do fikcji wykładu.",
+      "sources": [
+        {
+          "title": "Clay Mathematics Institute: Riemann Hypothesis",
+          "url": "https://www.claymath.org/millennium/riemann-hypothesis/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0602",
+          "label": "06:02 · celebracja dowodu",
+          "needle": "hipotezy Riemanna"
+        },
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0711",
+          "label": "07:11 · wykrycie błędu",
+          "needle": "błędnie udowodniona"
+        }
+      ]
+    },
+    {
+      "id": "riemann-geometria",
+      "title": "Bernhard Riemann — geometria zakrzywionej przestrzeni",
+      "kind": "parafraza",
+      "explanation": "Dragan przywołuje Riemanna jako autora matematycznego języka, z którego korzysta opis grawitacji. Zachowane wystąpienie Riemanna dotyczy podstaw geometrii.",
+      "verification": "Źródło potwierdza temat tekstu Riemanna. Nie potwierdzamy określenia „doktorat” ani osi czasu ze słabo rozpoznanego fragmentu wykładu.",
+      "sources": [
+        {
+          "title": "Bernhard Riemann: On the Hypotheses Which Lie at the Bases of Geometry",
+          "url": "https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Geom/WKCGeom.html"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0801",
+          "label": "08:01 · Riemann i geometria",
+          "needle": "Riemann"
+        }
+      ]
+    },
+    {
+      "id": "einstein-grawitacja",
+      "title": "Albert Einstein: grawitacja i przyspieszenie",
+      "kind": "parafraza",
+      "explanation": "Główna analogia wykładu prowadzi od przyspieszającego obserwatora do lokalnego opisu grawitacji.",
+      "verification": "Zasada równoważności jest potwierdzona w źródle instytutu Maxa Plancka; analogii nie należy rozszerzać na dowolny obszar bez uwzględnienia jej lokalności.",
+      "sources": [
+        {
+          "title": "Einstein Online: The Elevator, the Rocket, and Gravity",
+          "url": "https://www.einstein-online.info/en/spotlight/equivalence_principle/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0344",
+          "label": "03:44 · pierwsza obserwacja Einsteina",
+          "needle": "Einsteina"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0219",
+          "label": "Q&A 1 · 02:45 · pytanie o następnego Einsteina"
+        }
+      ]
+    },
+    {
+      "id": "coulomb-newton",
+      "title": "Coulomb i Newton: podobieństwo praw sił",
+      "kind": "parafraza",
+      "explanation": "Dragan porównuje zależność od odległości w elektrostatyce i grawitacji. Oba wskazane prawa mają postać odwrotnie proporcjonalną do kwadratu odległości.",
+      "verification": "Podobieństwo jest potwierdzone w podręcznikach. Nie oznacza pełnej tożsamości elektromagnetyzmu i grawitacji.",
+      "sources": [
+        {
+          "title": "OpenStax: Coulomb’s Law",
+          "url": "https://openstax.org/books/university-physics-volume-2/pages/5-3-coulombs-law"
+        },
+        {
+          "title": "OpenStax: Newton’s Law of Universal Gravitation",
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/13-1-newtons-law-of-universal-gravitation"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0420",
+          "label": "04:20 · wzory Coulomba i Newtona",
+          "needle": "Coulomba"
+        }
+      ]
+    },
+    {
+      "id": "newton-jablko",
+      "title": "Newton i jabłko",
+      "kind": "inspiracja",
+      "explanation": "Opowieść o Newtonie i spadającym jabłku pojawia się jako narzędzie myślenia przez analogię między ruchem na Ziemi i w kosmosie.",
+      "verification": "Potwierdzono kontekst prawa grawitacji, nie przeprowadzono audytu wszystkich historycznych szczegółów anegdoty.",
+      "sources": [
+        {
+          "title": "OpenStax: Newton’s Law of Universal Gravitation",
+          "url": "https://openstax.org/books/university-physics-volume-1/pages/13-1-newtons-law-of-universal-gravitation"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-3311",
+          "label": "33:11 · Newton i analogia",
+          "needle": "Newton"
+        }
+      ]
+    },
+    {
+      "id": "lorentz-poincare-larmor",
+      "title": "Lorentz, Poincaré i możliwe przywołanie Larmora",
+      "kind": "niepewne",
+      "explanation": "Końcówka wykładu wspomina poprzedników Einsteina w pracach o ruchu, świetle i transformacjach. Część nazw oraz szczegółów czasowych jest nieczytelna.",
+      "verification": "Lorentz i Poincaré są rozpoznawalni w kontekście; Larmor pozostaje kandydatem. Nie potwierdzono opowiedzianej chronologii ani dokładnego udziału każdej osoby.",
+      "sources": [
+        {
+          "title": "Einstein Online: Length Contraction",
+          "url": "https://www.einstein-online.info/en/explandict/length-contraction/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-3639",
+          "label": "36:39 · prace przed Einsteinem",
+          "needle": "Lorentz"
+        }
+      ]
+    },
+    {
+      "id": "schwarzschild",
+      "title": "Możliwe przywołanie Karla Schwarzschilda",
+      "kind": "niepewne",
+      "explanation": "W historycznym fragmencie wykładu pojawia się kandydat do nazwiska autora rozwiązania równań Einsteina dla pola masy punktowej.",
+      "verification": "Źródło dokumentuje tekst Schwarzschilda. Nie rozstrzyga uszkodzonego nazwiska w audio ani pozostałych szczegółów wypowiedzi.",
+      "sources": [
+        {
+          "title": "Karl Schwarzschild: On the Gravitational Field of a Mass Point",
+          "url": "https://arxiv.org/abs/physics/9905030"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-3220",
+          "label": "32:20 · kontekst historyczny"
+        }
+      ]
+    },
+    {
+      "id": "mcculloch-pitts-1943",
+      "title": "McCulloch i Pitts — model neuronów z 1943 roku",
+      "kind": "niepewne",
+      "explanation": "W panelu pojawia się odwołanie do wczesnego logicznego modelu aktywności nerwowej. Pasuje do artykułu Warrena McCullocha i Waltera Pittsa z 1943 roku.",
+      "verification": "Tytuł, autorzy i data artykułu są potwierdzone u wydawcy. Uszkodzone nazwiska w transkrypcji pozostają jawnie niepewne.",
+      "sources": [
+        {
+          "title": "McCulloch, Pitts: A Logical Calculus of the Ideas Immanent in Nervous Activity",
+          "url": "https://link.springer.com/article/10.1007/BF02478259"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-0324",
+          "label": "03:24 · początki modelowania neuronów"
+        }
+      ]
+    },
+    {
+      "id": "fukuyama",
+      "title": "Francis Fukuyama — koniec historii i nienazwana nowa książka",
+      "kind": "parafraza",
+      "explanation": "Panel przywołuje koniec historii jako znane odniesienie oraz wspomina nową książkę Fukuyamy, nie podając czytelnego tytułu.",
+      "verification": "The End of History and the Last Man jest potwierdzonym tytułem u wydawcy. Nowej książki nie identyfikujemy na podstawie samej daty, biografii autora czy podobieństwa tematu.",
+      "sources": [
+        {
+          "title": "Simon & Schuster: The End of History and the Last Man",
+          "url": "https://www.simonandschuster.com/books/The-End-of-History-and-the-Last-Man/Francis-Fukuyama/9780743284554"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-0933",
+          "label": "09:33 · Fukuyama",
+          "needle": "Fukuyama"
+        }
+      ]
+    },
+    {
+      "id": "leiden-deklaracja",
+      "title": "Deklaracja lejdejska o AI i matematyce",
+      "kind": "parafraza",
+      "explanation": "Dokument Leiden Declaration on Artificial Intelligence and Mathematics mówi między innymi o ludzkim rozumieniu, rzetelności i odpowiedzialności. Autorstwo, uznanie i odpowiedzialność pozostają po stronie ludzi.",
+      "verification": "Potwierdzono dokument z 2 czerwca 2026, DOI 10.5281/zenodo.20302944. W panelu Naskręcki koryguje interpretację pytania; deklaracja nie jest prostym zakazem współpracy z AI.",
+      "sources": [
+        {
+          "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+          "url": "https://leidendeclaration.ai/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-1335",
+          "label": "13:35 · pytanie o deklarację",
+          "needle": "deklar"
+        },
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-1402",
+          "label": "14:02 · korekta i odpowiedzialność"
+        }
+      ]
+    },
+    {
+      "id": "michal-aniol",
+      "title": "Michał Anioł: artysta a wartość dzieła",
+      "kind": "inspiracja",
+      "explanation": "Nazwisko służy w panelu do pytania, czy wartość dzieła zależy od istnienia i udziału konkretnego twórcy.",
+      "verification": "Źródło instytucji dokumentuje twórczość Michała Anioła. Nazwisko w panelu jest czytelne; drugiego nazwiska nie odtwarzamy i nie przypisujemy artyście słów rozmówcy.",
+      "sources": [
+        {
+          "title": "Watykan: Sistine Chapel",
+          "url": "https://www.vatican.va/content/vatican/en/ra/cappella-sistina.html"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-1610",
+          "label": "16:10 · istnienie twórcy",
+          "needle": "Michał Anioł"
+        }
+      ]
+    },
+    {
+      "id": "perfekcyjna-niedoskonalosc",
+      "title": "Jacek Dukaj — Perfekcyjna niedoskonałość",
+      "kind": "inspiracja",
+      "explanation": "Czytelnik przywołuje książkę podczas pytania o opisy percepcji i matematyki wykraczających poza ludzkie możliwości. Jest to jego interpretacja lektury, nie cytat z powieści.",
+      "verification": "Tytuł i autor potwierdzone na oficjalnej stronie Jacka Dukaja; pierwsze wydanie: Wydawnictwo Literackie, 2004. Pytanie uczestnika jest interpretacją książki, nie jej dosłownym cytatem.",
+      "sources": [
+        {
+          "title": "Jacek Dukaj: Perfekcyjna niedoskonałość",
+          "url": "https://dukaj.pl/pl/book/an-ideal-imperfection"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-2213",
+          "label": "22:13 · percepcja pozaludzka",
+          "needle": "Perfekcyjna niedoskonałość"
+        }
+      ]
+    },
+    {
+      "id": "matrix",
+      "title": "Matrix: żart o ludziach jako bateriach",
+      "kind": "inspiracja",
+      "explanation": "Panel zestawia opowieść o symulowaniu układu nerwowego z motywem ludzi używanych jako baterie w Matrixie.",
+      "verification": "Film jest identyfikowalny; anegdota o wcześniejszym scenariuszu i decyzji producentów pozostaje niezweryfikowana, a nazwisko Wachowskich jest w zapisie niepewne.",
+      "sources": [
+        {
+          "title": "Warner Bros.: The Matrix",
+          "url": "https://www.warnerbros.com/movies/matrix"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-3139",
+          "label": "31:39 · żart z Matrixa",
+          "needle": "Matrixie"
+        },
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-3225",
+          "label": "32:25 · anegdota o scenariuszu"
+        }
+      ]
+    },
+    {
+      "id": "mordor",
+      "title": "Mordor: metafora zagrożenia",
+      "kind": "inspiracja",
+      "explanation": "Nazwa krainy ze świata Tolkiena pojawia się jako żartobliwy obraz zagrożenia, po którym rozmówca wraca do realnych ryzyk AI.",
+      "verification": "Oficjalne archiwum Tolkiena dokumentuje Mordor na mapach do Władcy Pierścieni. W panelu jest to aluzja kulturowa, nie cytat ani opis konkretnego technicznego zagrożenia.",
+      "sources": [
+        {
+          "title": "The Tolkien Estate: Maps",
+          "url": "https://www.tolkienestate.com/painting/maps/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-4310",
+          "label": "43:10 · obraz zagrożenia",
+          "needle": "Mordor"
+        }
+      ]
+    },
+    {
+      "id": "katedra",
+      "title": "Katedra — opowiadanie Dukaja i film Bagińskiego",
+      "kind": "inspiracja",
+      "explanation": "Film jest przywoływany w przedstawieniu Tomasza Bagińskiego oraz w Q&A o możliwości rozpoznania wartości dzieła wśród masowo generowanych treści. Adaptacja wyrasta z opowiadania Jacka Dukaja.",
+      "verification": "Film i nominacja do Oscara w kategorii krótkometrażowej animacji są potwierdzone przez Akademię; źródło autora potwierdza opowiadanie i adaptację.",
+      "sources": [
+        {
+          "title": "Academy Awards: 2003 — The Cathedral",
+          "url": "https://www.oscars.org/oscars/ceremonies/2003"
+        },
+        {
+          "title": "Jacek Dukaj: Katedra",
+          "url": "https://www.dukaj.pl/pl/book/the-cathedral"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-0618",
+          "label": "06:18 · przedstawienie Bagińskiego",
+          "needle": "Katedry"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-1551",
+          "label": "Q&A 1 · 15:51 · pytanie do Bagińskiego o Katedrę"
+        }
+      ]
+    },
+    {
+      "id": "wiedzmin",
+      "title": "Wiedźmin — serial w przedstawieniu Bagińskiego",
+      "kind": "inspiracja",
+      "explanation": "Moderator wymienia serial przy przedstawianiu dorobku Tomasza Bagińskiego.",
+      "verification": "Oficjalna zapowiedź Netflix z 17 maja 2017 wymienia Tomka Bagińskiego jako producenta wykonawczego. To potwierdzenie roli, nie rekonstrukcja nieczytelnych fragmentów przedstawienia.",
+      "sources": [
+        {
+          "title": "Netflix: The Witcher Saga Coming to Netflix",
+          "url": "https://about.netflix.com/en/news/the-witcher-saga-coming-to-netflix"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-0618",
+          "label": "06:18 · przedstawienie Bagińskiego",
+          "needle": "Wiedźmin"
+        }
+      ]
+    },
+    {
+      "id": "baggins",
+      "title": "Baggins — niepewne przezwisko w zapowiedzi",
+      "kind": "niepewne",
+      "explanation": "Podczas przedstawienia Bagińskiego prowadzący próbuje użyć zasłyszanego przezwiska. Możliwy zapis brzmi Baggins.",
+      "verification": "Odczyt jest oznaczony w transkrypcji jako niepewny. Nie przesądzamy aluzji do konkretnego bohatera Tolkiena.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-0618",
+          "label": "06:18 · możliwe przezwisko",
+          "needle": "Baggins"
+        }
+      ]
+    },
+    {
+      "id": "comedian-banan",
+      "title": "Maurizio Cattelan — Comedian, banan przyklejony taśmą",
+      "kind": "inspiracja",
+      "explanation": "Przywołany bez tytułu banan sprzedany za około sześć milionów dolarów odpowiada pracy Comedian. Sotheby’s odnotowało sprzedaż za 6,2 mln dolarów w listopadzie 2024.",
+      "verification": "Identyfikacja opiera się na jednoznacznym opisie przedmiotu, kwoty i czasu; tytułu ani nazwiska artysty nie dopisano do transkrypcji.",
+      "sources": [
+        {
+          "title": "Sotheby’s: Fall 2024 Auction Results",
+          "url": "https://www.sothebys.com/en/articles/sothebys-fall-2024-auction-results"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-3154",
+          "label": "31:54 · cena i wartość sztuki",
+          "needle": "banan"
+        }
+      ]
+    },
+    {
+      "id": "liderzy-ai-ostrzegaja",
+      "title": "Amodei, Altman i Musk: parafraza ostrzeżeń",
+      "kind": "parafraza",
+      "explanation": "Moderator opowiada o sygnałach ostrzegawczych liderów AI. Wypowiedź stylizuje ich stanowiska na mowę bezpośrednią, lecz nie podaje sprawdzalnego źródła tych konkretnych słów.",
+      "verification": "Istnieją różne dokumenty o ryzyku i spowolnieniu: oświadczenie CAIS oraz list o pauzie w rozwoju z 2023 roku. Nie dowodzą one opisanej jednej, aktualnej fali ani identycznego stanowiska wszystkich wymienionych osób.",
+      "sources": [
+        {
+          "title": "Center for AI Safety: Statement on AI Extinction Risk",
+          "url": "https://safe.ai/work/statement-on-ai-extinction-risk"
+        },
+        {
+          "title": "Future of Life Institute: Pause Giant AI Experiments",
+          "url": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-3755",
+          "label": "37:55 · ostrzeżenia liderów",
+          "needle": "Daria Amodeia"
+        }
+      ]
+    },
+    {
+      "id": "szymborska",
+      "title": "Wisława Szymborska: odtworzenie i karykatura",
+      "kind": "cytat z wypowiedzi",
+      "quotedText": "Gdyby próbować odtworzyć Szymborską, to będzie karykatura Szymborskiej.",
+      "explanation": "Rozmówca używa Szymborskiej jako przykładu twórczości, której odtworzenie nie jest tym samym co nowy, własny utwór.",
+      "verification": "Nazwisko jest potwierdzone przez dwa pełne ASR i dodatkowy klip. Nie wymieniono tytułu wiersza i nie identyfikujemy go z domysłu.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0553",
+          "label": "Q&A 1 · 06:03 · przykład Szymborskiej"
+        }
+      ]
+    },
+    {
+      "id": "bach",
+      "title": "Możliwe przywołanie Sebastiana Bacha",
+      "kind": "niepewne",
+      "explanation": "Uszkodzony fragment dyskusji o muzyce może zawierać nazwisko Bacha. Obok padają niepewne określenia matematyczne.",
+      "verification": "Bach jest czytelny tylko w jednym pełnym ASR; drugie przejście i klip nie rozstrzygają. Nie dopisano imienia Johann, utworu ani argumentu o transformacji Fouriera.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0553",
+          "label": "Q&A 1 · 06:03 · niepewny przykład muzyczny"
+        }
+      ]
+    },
+    {
+      "id": "niemadre-mieso",
+      "title": "„Człowiek to niemądre mięso” — autor nieustalony",
+      "kind": "cytat",
+      "quotedText": "Człowiek to niemądre mięso.",
+      "explanation": "Krótka metafora jest przywołana w sporze o analogię i sztukę.",
+      "verification": "Słowa są zgodne w obu pełnych rozpoznaniach i klipie. Brak trwałego przypisania autora; nie przypisujemy ich Szymborskiej, Tuwimowi ani Steinhausowi.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0623",
+          "label": "Q&A 1 · 06:23 · metafora człowieka"
+        }
+      ]
+    },
+    {
+      "id": "steinhaus",
+      "title": "Hugo [niepewne: Steinhaus] i nierozpoznany aforyzm",
+      "kind": "niepewne",
+      "explanation": "Po możliwym nazwisku matematyka następuje bardzo uszkodzony fragment, prawdopodobnie przytoczenie metafory.",
+      "verification": "Nazwisko i cytat pozostają nierozstrzygnięte po dwóch pełnych ASR i klipie. Nie wstawiamy znanego aforyzmu z pamięci.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0623",
+          "label": "Q&A 1 · 06:23 · możliwe nazwisko i aforyzm"
+        }
+      ]
+    },
+    {
+      "id": "tuwim",
+      "title": "Julian [niepewne: Tuwim] — uszkodzona anegdota",
+      "kind": "niepewne",
+      "explanation": "Możliwe nazwisko poety pojawia się po sporze o metafory i odwołaniu do możliwego Steinhausa.",
+      "verification": "Oba ASR uszkadzają nazwisko, klip daje inny odczyt. Treść anegdoty i relacja między osobami nie zostały odtworzone.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0623",
+          "label": "Q&A 1 · 06:54 · możliwe przywołanie poety"
+        }
+      ]
+    },
+    {
+      "id": "picasso",
+      "title": "[Niepewne: Picasso] i nierozpoznany cytat",
+      "kind": "niepewne",
+      "explanation": "W dyskusji o inspiracji pojawia się kandydat do nazwiska Picassa, a następnie nieczytelny aforyzm.",
+      "verification": "Nazwisko nie jest zgodnie potwierdzone przez przejścia ASR. Nie dopisano znanych wersji o pożyczaniu, kradzieży ani podziale na dobrych i wielkich artystów.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-2105",
+          "label": "Q&A 1 · 21:17 · możliwy aforyzm"
+        }
+      ]
+    },
+    {
+      "id": "album-fotograficzny",
+      "title": "Album fotograficzny — tytuł nieustalony",
+      "kind": "niepewne",
+      "explanation": "W odpowiedzi o tworzeniu w absurdalnym wszechświecie rozmówca wspomina album własnych zdjęć i przyjemność fotografowania.",
+      "verification": "Tytuł pozostaje nieczytelny. Nie został dobrany na podstawie dorobku fotografa.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-1939",
+          "label": "Q&A 1 · 19:39 · album i osobiste tworzenie"
+        }
+      ]
+    },
+    {
+      "id": "wojciech-rozmowa",
+      "title": "Wojtek / Wojciech — nieczytelne nazwisko",
+      "kind": "niepewne",
+      "explanation": "Rozmówca odwołuje się do wcześniejszej dyskusji z osobą o tym imieniu.",
+      "verification": "Oba przejścia rozpoznania dają odmienne, uszkodzone nazwisko. Nie identyfikujemy rozmówcy ani publikacji z domysłu.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0504",
+          "label": "Q&A 1 · 05:12 · wspomnienie wcześniejszej rozmowy"
+        }
+      ]
+    },
+    {
+      "id": "badacz-odejscie",
+      "title": "Odejście badacza AI — nieustalona tożsamość",
+      "kind": "niepewne",
+      "explanation": "Moderator pyta o odejście badacza i jego ostrzegawczy komunikat. Nazwisko i możliwa nazwa Anthropic są w audio niepewne.",
+      "verification": "Dwa pełne ASR i filtrowany klip nie odzyskały nazwiska. Wiadomość o podobnym odejściu w internecie nie dowodzi tożsamości osoby wymienionej w nagraniu.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p2-0400",
+          "label": "Q&A 2 · 04:00 · odejście badacza"
+        }
+      ]
+    },
+    {
+      "id": "incydent-agentow",
+      "title": "Incydent przy wypuszczeniu agentów — nierozpoznana nazwa",
+      "kind": "niepewne",
+      "explanation": "Rozmówca przywołuje niedawny incydent, lecz nazwy organizacji i dokładny opis pozostają uszkodzone.",
+      "verification": "Nie identyfikujemy wydarzenia jako konkretnego incydentu Hugging Face lub OpenAI na podstawie samych fonetycznych kandydatów.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-0437",
+          "label": "Q&A 3 · 04:37 · przykład incydentu"
+        }
+      ]
+    },
+    {
+      "id": "stanowski",
+      "title": "Stanowski — odniesienie do oglądalności mediów",
+      "kind": "parafraza",
+      "explanation": "Nazwisko pojawia się w rozmowie o mediach. Generalizację, że wszyscy oglądają tę samą osobę, natychmiast kontestuje replika „Nie wszyscy”.",
+      "verification": "Słowo jest rozpoznawalne, ale nie ustalono konkretnej audycji ani nie sprawdzano danych o widowni.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1020",
+          "label": "Q&A 3 · 10:31 · oglądalność i kontrargument"
+        }
+      ]
+    },
+    {
+      "id": "sutton",
+      "title": "[Niepewne: Richard Sutton] i wizja zastąpienia ludzi",
+      "kind": "niepewne",
+      "explanation": "Rozmówca przywołuje osobę związaną z możliwym uczeniem przez wzmacnianie, a następnie przedstawia aprobatę dla przyszłości zastąpienia ludzi.",
+      "verification": "ACM potwierdza rolę Suttona w uczeniu przez wzmacnianie, ale nie rozstrzyga uszkodzonego nazwiska w nagraniu. Nie przypisujemy mu jako zweryfikowanego cytatu tej wizji ani zdania o człowieku jako ogniwie pośrednim.",
+      "sources": [
+        {
+          "title": "ACM: 2024 Turing Award — Barto and Sutton",
+          "url": "https://awards.acm.org/binaries/content/assets/press-releases/2025/march/turing-award-2024.pdf"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1448",
+          "label": "Q&A 3 · 14:48 · możliwy Sutton i uczenie"
+        }
+      ]
+    },
+    {
+      "id": "pilat",
+      "title": "[Niepewne: Poncjusz Piłat] i pytanie o prawdę",
+      "kind": "niepewne",
+      "explanation": "Na końcu Q&A pojawia się możliwe odwołanie do Piłata podczas rozmowy o prawdzie i dowodzie.",
+      "verification": "Nazwisko pozostaje kandydatem. Poprzednia kwestia jest rozbieżna w ASR; nie wstawiono kanonicznego cytatu biblijnego ani numeru wersetu.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1655",
+          "label": "Q&A 3 · 16:55 · możliwa aluzja biblijna"
+        }
+      ]
+    },
+    {
+      "id": "katedra-widz-pytanie",
+      "title": "Pytanie widza: Katedra wśród masowych treści",
+      "kind": "parafraza",
+      "explanation": "Moderator odczytuje pytanie o możliwość rozpoznania wartości filmu w świecie bardzo licznych, podobnych rezultatów twórczych.",
+      "verification": "To pytanie nadesłane przez widza, nie stwierdzenie moderatora ani potwierdzona prognoza. Nieczytelne słowa pozostają w transkrypcji oznaczone.",
+      "sources": [
+        {
+          "title": "Academy Awards: 2003 — The Cathedral",
+          "url": "https://www.oscars.org/oscars/ceremonies/2003"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-1702",
+          "label": "Q&A 1 · 17:05 · cytowane pytanie widza"
+        }
+      ]
+    },
+    {
+      "id": "baginski-nic",
+      "title": "Bagiński: AI jako pomocnik w jego pracy",
+      "kind": "cytat",
+      "quotedText": "Nic. Ale jest bardzo sprawnym pomocnikiem […]",
+      "explanation": "Po bezpośrednim pytaniu, co AI zrobiła w jego pracy lepiej w ostatnich dwunastu miesiącach, pada odpowiedź „Nic”, a następnie ocena jej jako sprawnego pomocnika i przyspieszacza.",
+      "verification": "Adresat pytania jest jednoznaczny. Zakres wypowiedzi to osobista praca i subiektywna ocena Bagińskiego; nie wolno rozszerzać jej na całą branżę.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-0716",
+          "label": "Q&A 3 · 07:16 · pytanie do Bagińskiego"
+        }
+      ]
+    },
+    {
+      "id": "autotel-proces",
+      "title": "Wartość samego tworzenia",
+      "kind": "cytat",
+      "quotedText": "Tylko sam proces tworzenia uzasadnia jego wartość […]",
+      "explanation": "W Q&A propozycja autoteliczności wiąże wartość sztuki z osobistym procesem tworzenia, nawet jeśli rezultat AI zostanie uznany za lepszy.",
+      "verification": "Tekst jest czytelny w redakcji porównanej z dwoma ASR. Nie przypisujemy wypowiedzi konkretnej osobie wyłącznie na podstawie tematyki.",
+      "sources": [],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1157",
+          "label": "Q&A 3 · 11:57 · definicja w wypowiedzi"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1255",
+          "label": "Q&A 3 · 12:55 · własne przeżycie"
+        }
+      ]
+    }
+  ]
+}

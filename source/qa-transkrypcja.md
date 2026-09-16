@@ -1,0 +1,349 @@
+# Pytania na koniec
+
+AI Summit PJAIT · 16 września 2026. Q&A, w programie 19:00–19:45.
+
+Prowadzi Grzegorz Dobiecki. Uczestnicy według programu: Andrzej Dragan, Bartosz Naskręcki, Tomasz Bagiński, Jacek Dukaj, Przemysław „Psyho” Dębiak.
+
+[Oficjalny program konferencji](https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/).
+
+## Jak czytać zapis
+
+Zapis pochodzi z trzech nagrań: 24:42, 7:05 i 17:41 — łącznie około 49:29. Między nagraniami są dwie luki o nieznanej długości. Każda część ma własny zegar; znaczników czasu nie należy sumować. Nieczytelne słowa i niepewne cytaty są jawnie oznaczone w pełnym transkrypcie.
+
+Lekka redakcja dla czytania. Nie przypisano imiennie niepewnych głosów. Opinie i przewidywania pozostają wypowiedziami rozmówców.
+
+## Część 1 — 24:42
+
+**[00:00]** [Niezrozumiały początek nagrania]. Mam nadzieję, że za chwilę będzie. Przypominam państwu, że skończyła się już runda związana z pytaniami. Zbieraliśmy od państwa pytania przy pomocy kodu QR. Za chwilę odpowiedzą na nie nasi [niezrozumiałe]. Postaraliśmy się, żeby najciekawsze pytania zostały nagrodzone. Będą państwo mogli podejść do stanowiska Orange Polska i tam dostać [niezrozumiałe].
+
+**[00:35]** Orange Polska jest patronem i partnerem dzisiejszej konferencji. [Nieczytelny fragment dotyczący partnerów: padają nazwy Wirtualna Polska i Microsoft]. Zapraszam, dołączcie panowie do panelu. Dalej proszę Grzegorza Dobieckiego, który wcześniej miał bardzo trudne zadanie. [Niezrozumiałe] pytania z formularza internetowego. Oddaję ci, Grzegorzu, głos. Dziękuję jeszcze raz za wszystkie pytania. Wiem, że jest ich bardzo wiele. Mam nadzieję, że wybierzemy te najciekawsze. Powodzenia.
+
+**[01:23]** Dzień dobry jeszcze raz. Zobowiązuję się, że wytrwam przy swojej roli moderatora i nie wejdę w skórę [niezrozumiałe]. — Nie, nie, nie będzie na to czasu. Nie w tej roli tutaj przecież [niezrozumiałe].
+
+**[01:51]** Pytań było naprawdę dużo. Być może wątki zawarte w tych pytaniach powtórzą to, o czym mówiliście już na scenie. Próbując wybrać co ciekawsze pytania, pewnie nie dosłyszałem wielu odpowiedzi i wypowiedzi, jakie padały ze sceny. Jeśli coś się będzie powtarzało, proszę dać znać, żeby już do tego nie wracać.
+
+**[02:19]** Może zacznę od nawiązania do wykładu profesora Dragana. Jeszcze na początku: nie wiem, kto jest autorem tych [niezrozumiałe]. Wersja, w jakiej je dostałem, nie ma wpisanego nadawcy, tylko adresata. Panie profesorze, jeśli AI potrafi łączyć więcej kropek niż człowiek i na coraz wyższym poziomie abstrakcji, to czy nie powinniśmy się [niepewne: pogodzić] z możliwością, że następny Einstein nie będzie człowiekiem?
+
+**[03:02]** Wszystko bazuje na hipotezie, że ten rozwój będzie trwał dalej, na takiej trajektorii, na której jesteśmy. [Niezrozumiałe]. Taką tezę twitterową postawiłem sobie dla zabawy: jeżeli człowiek chciałby udowodnić [niezrozumiała nazwa hipotezy], to ma na to jeszcze [niezrozumiała liczba] lat. Jeżeli nie zrobi tego samodzielnie w ciągu paru lat, to już nie udowodni nigdy. Wówczas spodziewałbym się, że dowody [niezrozumiałe] będą dostarczane przez systemy, w najlepszym razie bazujące na współpracy z AI. Jeżeli to będzie za więcej niż dziesięć lat, ta współpraca będzie raczej miała charakter komiczny. [Nieczytelne zdanie o dekoracyjnej roli człowieka].
+
+**[03:47]** Na takiej trajektorii jesteśmy. Może się nagle okazać, że coś się gwałtownie zmieni, skręci albo zahamuje. Nie wiemy tego. Natomiast gdybym miał ekstrapolować to, co widzę — przypominam, że dwa–trzy lata temu śmialiśmy się, że modele językowe nie potrafią liczyć liter [niezrozumiały przykład]. Zresztą te głosowe też nie potrafią, okazuje się, że są bardzo upośledzone w tym momencie. Ale te najsilniejsze modele, które iterują przez wiele dni, [nieczytelny fragment o dowodach twierdzeń oraz porównaniu możliwości modeli z możliwościami matematyków].
+
+**[04:36]** Jeszcze jedno pytanie od razu do pana. Fizyka nauczyła nas, że intuicja potrafi być bardzo przekonująca i kompletnie błędna. Jaka jest dziś najbardziej rozpowszechniona intuicja dotycząca AI, z której, pana zdaniem, za dziesięć lat będziemy się śmiać? I dodatkowo: czego ostatnio musiał się pan oduczyć, bo AI pokazała panu, że dotychczasowy sposób myślenia już nie działa? Czego nauczył się pan zamiast?
+
+**[05:04]** To zakłada, że ja się czegokolwiek uczę. [Niezrozumiałe]. Myślę, że ludzie nadużywają słowa „tylko”. Słowo „tylko” jest najbardziej [niezrozumiałe] pojęciem w potocznym języku dyskusji wokół AI: to jest tylko matematyka, tylko funkcja, tylko [niepewne: mnożenie macierzy], tylko pattern recognition. Jak miałem taką dyskusję z Wojtkiem [niezrozumiałe nazwisko], rozmawialiśmy o tym: a co nie jest matematyką? Czy mamy przykłady jakichś zjawisk, które z całą pewnością wymykają się opisowi matematycznemu? Jako fizyk jestem trochę [niezrozumiałe] do myślenia, że w zasadzie cała fizyka jest oparta na matematyce, więc mam tendencję do ekstrapolowania tego [niezrozumiałe].
+
+**[05:53]** — Wewnętrzne stany umysłowe człowieka. — „Wewnętrzne stany” w ogóle zakłada, że to, co jest w naszych umysłach, to są stany. Są procesy. — Gdyby próbować odtworzyć Szymborską, to będzie karykatura Szymborskiej. [Nieczytelna wypowiedź: możliwe odwołanie do Sebastiana Bacha i transformacji Fouriera]. Polifonia to jest język [niezrozumiałe], analogia. [Niepewne: kontrapunkt] jest analogią. — Ale to, co Jacek mówi: te stany, tworzenie…
+
+**[06:23]** — „Człowiek to niemądre mięso” — piękna metafora. Albo [niepewne: Hugo Steinhaus; niezrozumiały cytat]. Piękna metafora. To są analogie. Metafora w poezji to jest analogia. Poeta to osobnik, który dostrzega przepiękne analogie, których inni osobnicy nie dostrzegają. [Nieczytelny fragment o dostrzeganiu analogii przez modele]. — Nie każda sztuka jest analogią. Czasami chodzi o jakąś sztukę performatywną. — Nie mówię, że każda. Podaję przykłady pięknych metafor, które są analogiami. [Nieczytelna anegdota: możliwe nazwiska Julian Tuwim i Steinhaus]. Czyli docenił to, że [niepewne: Steinhaus] dostrzegł pewną analogię. [Niezrozumiałe].
+
+**[07:14]** Wszystko, o czym mówicie, to jest już to, co wyszło w świat intersubiektywny. Wyszło z mózgu człowieka, z umysłu, i zrealizowało się w jakiejś przestrzeni, którą więcej ludzi postrzega zmysłami. A ja mówię o tym, co nie jest postrzegane przez nikogo poza mną. Dzieje się w moim umyśle i nawet nie musi być ujmowane w słowach. Słowa też pojawiły się dopiero na pewnym etapie rozwoju człowieka, a procesy umysłowe, doświadczenia, przeżycia istniały [niezrozumiałe]. O tym mówię. — Ale masz rację, [niezrozumiałe]. Jeszcze nie znamy, jeszcze nie rozumiemy. [Nieczytelny koniec odpowiedzi].
+
+**[07:52]** W swojej roli mediatora muszę się jednak ujawnić. Do pana Jacka Dukaja pytanie — być może akurat teraz warto je zadać, bo mowa była o dziełach sztuki. Czy AI może napisać dobrą powieść? [Nieczytelny łącznik między pytaniami]. Gdzie autor może znaleźć synergię w pisaniu z AI?
+
+**[08:15]** Czy może? Jeżeli używamy czasu teraźniejszego, to w tej chwili pewnie jeszcze nie. Ale nie widzę żadnego powodu, dla którego wkrótce nie będzie mogła. Jeśli chodzi o synergię, nie uważam, żeby to był wystarczająco długi etap w rozwoju kultury, żeby trzeba było poświęcać temu czas. Znacznie szybciej [niezrozumiałe] moment, w którym samodzielnie AI będzie mogła tworzyć dowolną ilość dowolnie długich i skomplikowanych utworów literackich. Człowiek najwyżej będzie służył za twarz dla nich, czyli coś, co marketingowo sprzedaje te produkty.
+
+**[08:57]** Teraz, w tym krótkim momencie roku, dwóch, trzech, skupiamy się na wykorzystywaniu przez człowieka AI do pisania. Ktoś pewnie robi coś takiego, [niezrozumiałe] takie produkty. Ale to jest bardzo krótki etap pośredni.
+
+**[09:13]** Psyho, pytanie: jakie cechy powinni rozwijać programiści? Na czym teraz skupić się we własnym rozwoju, żeby nadążać za postępem i nie być [nieczytelny fragment dotyczący agentów AI]?
+
+**[09:33]** Jak większość osób może się domyślać po tym, co mówiłem, ten czas nie jest jakoś specjalnie długi. Ale postaram się nie wybiegać bardzo w przyszłość [nieczytelny koniec zdania]. Generalnie technologia będzie się zmieniać w [niezrozumiałe] tempie. Z mojej perspektywy opłaca się generalnie rozumieć wszystko, nie specjalizować się w niczym, bo co miesiąc, co dwa miesiące, może co pół roku będziemy [nieczytelny fragment o wywracaniu dotychczasowego stanu do góry nogami]. Będą nowe narzędzia w innych miejscach.
+
+**[10:08]** Modele będą miały swoje [niezrozumiałe], które jeszcze niedomagają. To jest ta luka, którą będziemy starali się [niezrozumiałe] jako ludzie. Ale nie ma złotych [niepewne: recept]. Trzeba za każdym razem patrzeć dość dokładnie, co jest problemem. Żeby jedna rzecz była bardzo jasna: w obecnym świecie planowanie swojej kariery [niezrozumiałe] cztery lata w przód jest, tak jak mówię, idiotyzmem. Trzeba założyć, że ten proces iteracji musi być dużo szybszy.
+
+**[10:49]** Dodatkowo: czy widzisz potencjał na „kraftowych” — to sformułowanie w cudzysłowie — programistów? Czyli przestrzenie, gdzie AI nie będzie dobrym narzędziem do programowania przez brak odpowiedniej specjalizacji?
+
+**[11:06]** „Kraftowych”. [Niezrozumiały początek odpowiedzi]. W najbliższej przyszłości. Programowanie jest miejscem, gdzie — jak mówiliśmy wcześniej o procesach i efekcie — [nieczytelne rozróżnienie między procesem a efektem w programowaniu]. Dlatego na dłuższą metę za bardzo tego nie widzę. Wszędzie, gdzie możemy łatwo sprawdzić, że program się uruchomił i zrobił to, czego oczekiwaliśmy, [nieczytelny łącznik]. Nie widzę za bardzo przewagi ludzi w takim średnim dystansie. [Niezrozumiałe].
+
+**[11:57]** Te pytania niekoniecznie płynnie przechodzą jedno w drugie, ale chcę ich jak najwięcej zacytować. Teraz może do pana Bartosza Naskręckiego; jedno z drugim będzie się chyba w jakimś sensie wiązać. Jeżeli za kilka lat każda firma będzie miała dostęp do podobnie zaawansowanej AI, to gdzie właściwie będzie powstawała przewaga konkurencyjna?
+
+**[12:23]** Jak widzimy dzisiaj, ten cykl zmian jest bardzo szybki. Na przykład jednego dnia jedna firma ma przewagę, bo wypuściła aktualnie jakiś model. Dwa dni później kolejna firma wypuszcza inny model. Co też ważne: w momencie, kiedy te modele są wypuszczone, jedna firma może zacząć testować model drugiej i go ulepszać w innym kierunku. Więc te cykle przewag będą bardzo krótkie.
+
+**[12:51]** Wydaje mi się, że na ten moment mamy nawet trochę taką stagnację, w tym sensie, że mamy tylko kilka firm, które rzeczywiście konkurują ze sobą. Nic nie wskazuje na to, że ten cykl zmieni się na dłuższą metę. Może Chiny niedługo wypuszczą jakieś modele otwartowagowe, które znowu przewartościują tę hierarchię. Trudno mi sobie wyobrazić długofalowo tę dynamikę. Cały czas trzeba brać pod uwagę, że w zasadzie wszystkie firmy aktualnie korzystają mniej więcej z tej samej technologii i nie ma tam diametralnie różnych podejść. Przewagi są krótkie, lokalne; to bardziej inkrementacyjne, wzajemne poprawianie siebie.
+
+**[13:43]** — Może, ale jeżeli pojawi się coś diametralnie innego, to wszyscy za tym podążą. Ten stan równowagi będzie się w pewnym sensie przywracał. — Podążając za takim rozumowaniem, mamy bardzo silną konwergencję. Wtedy naturalną koleją rzeczy przewagę daje efekt sieciowy. Jeżeli ktoś ma już bardzo ustaloną pozycję, stałych, przyzwyczajonych do niego odbiorców, klientów i tak dalej, to kiedy wszystko inne jest równe, on zwycięża. To jeden z bardzo silnych motywów, żeby w ten wyścig pchać ogromne pieniądze: być tym pierwszym, ustalić standard, być tym Googlem AI, tym Facebookiem AI.
+
+**[14:24]** — Myślę, że użytkownicy AI są bardzo nielojalni. Jak zobaczysz drugą apkę od innego dostawcy, która wygląda podobnie i robi to lepiej, przesiadasz się na tę apkę. — Tak, tylko teraz mówimy o takim bardzo bezpośrednim użyciu. Sam się logujesz na ChatGPT, zadajesz mu pytanie i tak dalej. A chodzi o użycie pośrednie, kiedy podłączasz AI do istniejących biznesów po to, żeby je multiplikować. Na razie jeszcze tego nie osiągnęliśmy. [Nieczytelny fragment]. Chodzi o to, żeby używać AI do innych technologii i innych biznesów. — [Niezrozumiałe]. Ja używam Codexa, żeby [niezrozumiałe].
+
+**[15:04]** Myślę, że — tak jak Jacek — jesteśmy w epoce kamienia łupanego AI. Próba wyróżnienia [niepewne: rekinów] biznesu w epoce kamienia łupanego to chyba za wczesny moment, żeby powiedzieć coś [nieczytelny koniec zdania]. — Startupy mają wciąż szansę, żeby się [niepewne: przebić]? — Tak. To chyba idea startupów: trzeba zawsze coś próbować. Gdyby ktoś cofnął się dziesięć lat w czasie i popatrzył na te firmy, które aktualnie są tymi superstartupami, to na przykład OpenAI było taką firmą. [Nieczytelna wymiana zdań]. Tak, dynamika jest tutaj bardzo duża.
+
+**[15:51]** Pan Tomasz Bagiński — przepraszam, że musiał pan czekać, ale ktoś musiał być tym… — [Nieczytelna żartobliwa wymiana zdań]. Pytania dotyczą pana „Katedry”. Powtarza się pytanie, czy gdyby wtedy, kiedy robił pan „Katedrę”, AI już istniała i była tak dostępna jak teraz, [niepewne: film wyglądałby tak samo]? — Nie.
+
+**[16:23]** Nie, ale ja w ogóle tak nie gdybam. „Katedra” i w ogóle każde dzieło, każde działanie jest wynikiem również czasu, w którym powstaje, oraz sytuacji technologicznej. Jak rozmawialiśmy o „Katedrze” dawno, dawno temu z Jackiem, jeszcze mailowo, to przecież ani nie był to pierwszy pomysł, który miał być zrealizowany — przeszliśmy przez kilkanaście innych pomysłów — ani najbardziej oczywisty. Znalazłem wtedy sposób, jak to opowiedzieć w ograniczeniach technologicznych, które miałem. Tylko stąd się to tak urodziło. Dzisiaj powstałby zupełnie inny film, przy zupełnie innych ograniczeniach technologicznych.
+
+**[17:02]** Pytanie, które zacytuję w całości. Jest dosyć długie, ale nie przesadnie: „Panie Tomku, w «Katedrze» każdy nowy [niepewne: wędrowiec] zasila budowlę zbudowaną z ciał poprzedników. Dziś modele AI uczą się na filmach, obrazach i scenariuszach, które ludzkość już wyprodukowała, a platformy streamingowe optymalizują treść pod najniższy wspólny mianownik gustu. Czy pana zdaniem zmierzamy w stronę podobnego mechanizmu, gdzie prawdziwa autorska twórczość stanie się czymś w rodzaju klasztoru: rzadkim, drogim i dostępnym dla [niepewne: nielicznych], podczas gdy reszta dostanie papkę wygenerowaną z tego, co już powstało?”.
+
+**[17:43]** Po pierwsze, nie do końca widzę korelację. Po drugie, akurat papka dla mas nie jest nowym wymysłem i nie jest wymysłem AI. Powstaje od dziesiątków lat. Zwyczajnie wydaje mi się, że ja nawet chyba tak nie dzielę sztuki. W którymś momencie może też być tak, że będę to robił dla siebie i dla najbliższych ludzi. Nikt mi tego nie może zabronić.
+
+**[18:10]** My chyba mieszamy tutaj sam akt artystyczny — tworzenia, pisania, przeżywania sztuki — z jej marketingiem, wpływem ekonomicznym i tak dalej. Dla mnie to trochę inne dziedziny. Oczywiście można sprzedawać sztukę, zajmują się tym marszandowie, agenci i tak dalej. To trochę inna praca. Faktycznie czasy, które mamy, będą promować generalistów, więc może artysta w przyszłości powinien być po trochu marszandem, po trochu agentem, ale wcale nie musi [nieczytelna granica zdania ze słowem „artystą”]. Jego akt tworzenia będzie dla niego jakoś istotny. Autentycznie nie do końca widzę korelację.
+
+**[19:02]** Nie ja to pytanie sformułowałem, cytuję. Wydawało mi się warte zacytowania, tak jak i to do pana profesora Dragana. Autor pytania zwraca się do pana po imieniu, ja bym [nieczytelny koniec zdania]. „Jesteśmy tylko bezsensownym zbiorem atomów, a jako fotograf i filmowiec spędzasz życie na robieniu z tego zbioru atomów sztuki. Czy sztuka to twój sposób na oszukanie fizyki, czy po prostu najprzyjemniejsza forma marnowania czasu w tym absurdalnym wszechświecie?”.
+
+**[19:39]** Teraz album fotografii [nieczytelny fragment o wydaniu albumu i zebraniu dwóch dekad fotografii]. Zresztą jest tutaj wkład kolegów, [niepewne: poprosiłem, żeby coś napisali do niego], każdy w swoim stylu. Natomiast we wstępie piszę, że działalność robienia zdjęć, szczególnie portretów, jest skrajnie absurdalna. Mamy organizm wielokomórkowy, który używa strumienia fotonów do rejestrowania [nieczytelny fragment dotyczący innego organizmu wielokomórkowego]. I to się nazywa sztuką. Można tak na to patrzeć.
+
+**[20:18]** Wydaje mi się to zasadniczo bardzo absurdalne, ale nie zmienia to faktu, że mam swoje [niezrozumiałe]. To jest skrajnie [niepewne: autoteliczne]. [Nieczytelny fragment o motywacji i kierowaniu własnymi działaniami]. To jest przyjemność, mówiąc w takim skrócie. Chociaż mam świadomość, że jakiejś fundamentalnej, wielkiej wartości, jakiej upatruję w nauce czy fizyce, nie ma. To dla mnie wyrafinowana forma [niepewne: rozrywki].
+
+**[20:50]** Tymczasem — to pewnie ciągle jeszcze [nieczytelny fragment; uwaga o możliwym tym samym autorze pytania] — sztuczna inteligencja potrafi już idealnie naśladować twój styl fotograficzny. I co pan na to?
+
+**[21:05]** Tak, wiem od samego początku, że modele AI były trenowane na moich [niezrozumiałe]. Wiem, że wielu twórców ma pretensje — zwłaszcza ci, którzy z tego żyją — [nieczytelny łącznik] że może to jest kradzież. Zwracam uwagę, że [niepewne: Picasso] powiedział: „Artyści nie [niezrozumiały dalszy ciąg cytatu]”. Ale zasadniczo ludzie też nie żyją w próżni. Po to się chodzi do szkoły artystycznej, [nieczytelny fragment o szukaniu innych źródeł], żeby szukać inspiracji, źródeł i pomysłów, rozwijać się pod wpływem konsumpcji twórczości innych ludzi. Na tym się to wszystko nabudowuje.
+
+**[21:50]** Czy to znaczy, że ci jedni, którzy uczyli się od drugich, ich okradli? Na przykład kiedy malarz sprzedaje obraz za wysoką kwotę, to czy ci, o których uczył się w przeszłości, których [niepewne: zdjęcia] oglądał, mogą oczekiwać, że coś im z tego skapnie? Że należy się im jakaś [niezrozumiałe] od tego, że odniósł sukces w sztuce [nieczytelny koniec porównania]? Podobnie jest, nie ma tutaj jakiejś jakościowej różnicy w trenowaniu modeli.
+
+**[22:17]** Oczywiście dane są kradzione, w szczególności moje. Ja [nieczytelny łącznik] okradziony z mojej działalności, bo modele były trenowane. Natomiast jak się rozumie, jak działają modele generatywne [niezrozumiałe], to nie jest baza danych, jak niektórym się wydaje, która kopiuje i wkleja jakieś fragmenty [niezrozumiałe]. To model, który tworzy sobie jakiś obraz świata, jakiś model świata, [nieczytelny przykład], i tego modelu używa do generowania nowych treści. Można się tam dopatrywać śladów tego, na czym był trenowany, ale [nieczytelne zdanie z wyrażeniem „kopiuj i wklej”].
+
+**[22:57]** W tym sensie nie mam moralnych oporów, żeby mnie okradano z tego [nieczytelny dalszy ciąg dotyczący trenowania modeli na własnej twórczości]. Z drugiej strony nie pocieszę tych, którzy teraz wpadają w panikę, że tutaj jest [niezrozumiałe]. Rolą prawodawstwa jest [niepewne: konstruowanie] takich systemów prawnych, które sprzyjają ludziom, żeby ludziom żyło się w jakiś sposób lepiej. W szczególności nie chodzi o to, żeby prawo chroniło moralność, tylko żeby ludziom było dobrze.
+
+**[23:27]** Jeżeli [nieczytelny początek zdania o artystach], że są okradani, źle im jest i nie są zachęcani do kreatywności, to może trzeba stworzyć taki system prawny, który będzie powodował, że nie będą na tym tracić. Na przykład [niezrozumiały przykład].
+
+**[23:49]** Od systemu prawnego do systemu norm etycznych. Takie pytanie zostało skierowane do pana Jacka Dukaja: „Jaki [nieczytelny początek pytania o normy etyczne] przy regulowaniu AI?”. Ja może dodam od siebie: czy to są kompatybilne pojęcia — narzędzie, jakim jest AI, i normy etyczne?
+
+**[24:12]** Można sobie wyobrazić takie założenia etyczne, które stoją za jedną czy drugą próbą regulacji. Tylko ja nie wierzę w skuteczność żadnej regulacji. Możemy powiedzieć, że na krótką metę, lokalnie, takie próby mogą być jakoś [niezrozumiałe]. Powiedzmy Unia Europejska, która [nieczytelny fragment dotyczący regulowania AI]. Ale skutek jest tylko taki, że wszystkie firmy uciekają poza Europę i rozwijają to gdzie indziej.
+
+---
+
+**Luka między częścią 1 a 2.** Długość przerwy między nagraniami jest nieznana. Kolejna część zaczyna od nowa swój lokalny zegar.
+
+## Część 2 — 7:05
+
+**[00:00]** [Niepewne brzmienie początku: publicznie zajmuję się predykcją przyszłości od mniej więcej sześciu lat] i [niezrozumiałe]. Strasznie się nie zgadzam z tym, że nie możemy za bardzo przewidywać tego, co się stanie, bo generalnie ludzie się bardzo różnią pod kątem tego, jak dobrze im szło do tej pory. To w ogóle główne opory, które napotykam.
+
+**[00:23]** — Przepraszam, a jaka będzie cena [niezrozumiałe pytanie; prawdopodobnie żartobliwa uwaga o przewidywaniu cen]?
+
+— [Niezrozumiała krótka wymiana].
+
+**[00:36]** Najczęstszy opór, który widzę u ludzi, to taki, że jak się opowiada o tym wszystkim, co ma się stać, i czemu, skąd są te zagrożenia, to generalnie wszystko w pewnym momencie brzmi trochę jak powieść science fiction. Z jakiegoś powodu ludzie, jak słyszą tego typu rzeczy, to po prostu automatycznie to zbywają. Bo przecież science fiction to jest fikcja i wiemy, że to nie może się stać.
+
+**[01:06]** Ciężko w tym momencie w ogóle cokolwiek tłumaczyć, kiedy jest taka ściana emocjonalna, że te rzeczy z założenia nie mogą wystąpić. To jest problem: jak dotrzeć emocjonalnie. Mówi się o rzeczach, które będą mocno [niepewne: wywracały porządek], i prawdopodobnie ten porządek będzie [niepewne: wywracany] coraz szybciej z biegiem czasu. Chyba że oczywiście uda nam się stworzyć jakieś struktury, które to zatrzymają. To jest tutaj bardzo dyskusyjna rzecz, o której można dużo rozmawiać.
+
+**[01:42]** Ale generalnie nie chcemy czegoś takiego jako ludzie. Ja tego naprawdę nie chcę. Mimo że zajmuję się tym od dłuższego czasu i mniej więcej od sześciu czy ośmiu lat powoli [niepewne: godzę się z tym], jak będzie wyglądać przyszłość.
+
+**[02:00]** — [Niezrozumiała część pytania]. Przed tym spotkaniem [niezrozumiałe; mowa o rozmowie z kolegą]. To powiedz to, co ty od tych ludzi [niezrozumiałe].
+
+**[02:19]** — [Niezrozumiała krótka wymiana].
+
+— Nie, generalnie ja się nie dowiedziałem specjalnie nic. W tym sensie, że jakby [niezrozumiałe] kolega mi powiedział takie rzeczy.
+
+— [Niezrozumiała krótka wypowiedź].
+
+**[02:43]** — A czy to za to, że ci wysłałem wiadomość?
+
+— Ale Bartek wysłał dwie.
+
+— Trzy.
+
+— No dobra, to ja powiem, ja nikomu nic nie jestem winny.
+
+**[02:56]** Zasadniczo w rozmowach [niepewne: kuluarowych] ludzie są o wiele bardziej odważni w swoim [niepewne: pesymizmie].
+
+**[03:07]** Tak, to jest taka śmieszna rzecz. Zakładam, że przeciętna osoba, która [niezrozumiałe] nie jest związana z AI, będzie widziała nie te bezpośrednie wiadomości od whistleblowerów czy researcherów od [niepewne: safety], tylko pewnie jakieś takie fragmenty w… Nie wiem, co się teraz ogląda.
+
+**[03:31]** — Nie masz wrażenia, że tym największym nierozumieniem jest to, że ludziom spoza labów wydaje się, że ci w labach naprawdę rozumieją i kontrolują tę technologię?
+
+— To też, ale to aspekty techniczne. Ci w labach do pewnego stopnia rozumieją. To są ludzie, którzy spędzili kilkanaście tysięcy, dwadzieścia tysięcy godzin na tym. Podczas gdy ci, którzy komentują, że to wszystko brednie, to są ci specjaliści od tenisa albo od skoków [niepewne: narciarskich].
+
+**[04:00]** — Ale to proszę pozwolić, skoro mowa w każdym razie o jednym [niezrozumiałe], czyli o [niepewne nazwisko: Korsonie], który odszedł, prawda? [Niezrozumiałe; w pierwszym odczycie pojawia się nazwa Anthropic]. Takie pytanie też zostało nadesłane.
+
+**[04:15]** Ono dotyczy odczuć wszystkich uczestników panelu dotyczących odejścia [niepewne nazwisko: Korsona]. Odczucia miałyby panów, jak rozumiem, wiązać się z tym, co on powiedział o braku kontroli nad AI, tym, do czego AI jest zdolna, i jakie były reakcje innych topowych naukowców, którzy potwierdzili jego obawy. Pytanie w formie konstatacji. Nie wiem, czy [niezrozumiałe] potwierdzał.
+
+**[04:47]** — Ja postaram się powiedzieć krótko. Generalnie tak, wszystko, co napisał, jest mniej więcej prawdą. [Niepewne: Laby] nie są za bardzo poważne, jeśli chodzi o [niepewne: AI safety]. Ale to jest zawsze taki [niepewne: trade-off] między zapierdzielaniem do przodu a tym, żeby niebezpieczeństwo nie było jakieś bardzo duże.
+
+**[05:05]** Ale jednocześnie trzeba pamiętać o tym, że to jest stosunkowo młody człowiek, który, z tego co rozumiem, nie miał jakoś świetnie przemyślanej całej, nazwijmy to, akcji PR-owej. [Niezrozumiałe zdanie]. Miał, nie wiem, jeden dzień na to, żeby wiedzieć, co powie w telewizji. Napisał tweeta na dwa zdania.
+
+**[05:27]** — No nie, tam był cały [niepewne: thread; dalsza wypowiedź niezrozumiała].
+
+— [Niezrozumiałe], ale w ogóle tweet to były trzy zdania.
+
+— Tak, tak, tak. Z tego co było wiadomo, to było konsultowane z innymi osobami z [niepewne: safety], więc było jakoś tam przemyślane.
+
+**[05:42]** Jedna rzecz, którą pewnie warto dodać, to to, że bardzo śmieszne są narracje w stylu: on to robi dla pieniędzy. Gdyby chciał to robić dla pieniędzy, to by został w labie. Pieniądze dla osób, które tam pracują, są absolutnie niewyobrażalne w porównaniu do wszystkiego innego, co można robić.
+
+**[05:59]** — Co jest fascynujące dla mnie, to jest to, że ten sentyment — o ile wiem, przed chwilą czytałem na ten temat i słuchałem — jest powszechny wśród insiderów. On tutaj nie jest żadnym wyjątkiem. A zarazem ci sami ludzie jak najbardziej prą do przodu i uważają, że muszą to rozwijać. Trzymają w głowie dwie sprzeczne myśli i nie wywołuje w nich to [niezrozumiałe ostatnie słowo].
+
+**[06:25]** — [Niezrozumiały początek zdania]. Tworzymy coraz potężniejszą technologię, [niezrozumiałe], która odgrywa coraz ważniejszą rolę. Natomiast osoby, które to kontrolują, [niepewne: są wybrane pod kątem jednej kompetencji]. Zasadniczo to, co trzeba umieć, żeby [niezrozumiałe], to jest umieć kodować w Pythonie. Nerdzi, którzy są uczeni programowania i są w tym wybitni, są niezwykle inteligentni [niezrozumiałe zakończenie; pada wzmianka o innych kompetencjach społecznych].
+
+*[Nagranie drugiej części urywa się w trakcie wypowiedzi.]*
+
+---
+
+**Luka między częścią 2 a 3.** Długość przerwy między nagraniami jest nieznana. Kolejna część zaczyna od nowa swój lokalny zegar.
+
+## Część 3 — 17:41
+
+**[00:00]** [niezrozumiałe] taka grupa, która na pewno jest [niezrozumiałe]. Jak to się okazuje, że [niezrozumiałe] taki gość wychodzi z labu [niezrozumiałe], no bo w rękach takich ludzi [niezrozumiałe]. No, tak przynajmniej taka [niepewne: narracja] obowiązuje.
+
+**[00:22]** Podsumowując, nasza cywilizacja jest prowadzona [niepewne: na zagładę] przez autystów i psychopatów. Autyści to są ci, którzy prowadzą korporacje technologiczne. Psychopaci to są ci, którzy prowadzą korporacje nietechnologiczne. [niezrozumiałe] całość.
+
+[niezrozumiałe] psychopatą [niezrozumiałe], ale jestem [niezrozumiałe].
+
+Nie próbowałem tego tutaj [niezrozumiałe], ale…
+
+[niezrozumiałe]. Przepraszam, przepraszam. [niezrozumiałe]. Nie zmyślam.
+
+**[00:56]** Pan Bartosz Naskręcki próbuje zaprowadzić pewien porządek. Nie będę pana pytał o pana charakter, o pana typologię [niezrozumiałe].
+
+**[01:12]** Bartosz — tak się do pana zwraca nadawca tego pytania — Masz do wyboru dwa kierunki rozwoju AI. Jeden sprawia, że ty i twoi doktoranci robicie znacznie lepszą matematykę. Drugi daje jeszcze większy postęp, ale bez was: wasza praca nie jest już potrzebna. Który wybierasz? Czy odpowiedziałbyś tak samo, gdyby chodziło o likwidację innego zawodu, a nie twojego?
+
+[niezrozumiałe], ale niech Bartek się wypowie.
+
+[niezrozumiałe] [niepewne: nie uznaję] za [niepewne: komplement].
+
+**[01:49]** Ja bym powiedział, że… [niepewne: często] rozmawiamy ze studentami na ten temat i to jest trudna rozmowa. Pytanie tego typu: czy w ogóle jest sens, żebyśmy my się teraz tutaj starali, skoro i tak za chwilę możemy [niepewne: wyhodować] lepszy system, który będzie to lepiej robił? Ja bym powiedział: trochę tak.
+
+Ale z drugiej strony chyba bym się skłaniał w tym drugim kierunku. Jeżeli ten drugi kierunek spowodowałby, że ogół cywilizacji i ludzkości by na tym zyskał, to [niezrozumiałe].
+
+**[02:26]** Tutaj mam akurat może taki charakter, ale [niezrozumiałe] swojego osobistego [niezrozumiałe] sławy. Jeżeli mógłbym się dołożyć do rozwinięcia systemu, który by na przykład lepiej sterował społeczeństwem albo wynalazł lek na raka, to myślę, że osobiste kwestie schodziłyby zdecydowanie na drugi plan.
+
+To też jest kwestia, którą wielu matematyków porusza: po co my w ogóle rozwijamy matematykę? Część ludzi robi to na zasadzie [niezrozumiałe]: „Mam fajne zagadki, więc sobie robimy te zagadki”.
+
+**[03:09]** Rzeczywiście jest grupa matematyków, która ma jakieś poczucie misji, że oni rozwijają to dla dobra ludzkości. Wydaje mi się, że ten moment jest dość ekscytujący, że możemy rzeczywiście zrobić systemy, które będą od nas zdecydowanie lepsze. Uważam, że długofalowo to może być ta bardziej atrakcyjna i ciekawa opcja, pod warunkiem, że te systemy nie obrócą się przeciwko nam.
+
+I tego nie wiemy. To jest zawsze teraz to ryzyko, że jeżeli rozwijam to sam, to kontroluję.
+
+**[03:41]** Jeżeli rozwinę system, który będzie robił to ode mnie lepiej, to mogę się cieszyć: „Wow, ten system się rozwija, super”. Ale czy w którymś momencie on nie nabierze jakichś cech złośliwych i będzie działał dokładnie [niezrozumiałe] kierunku?
+
+Tutaj wydaje mi się, że odpowiedź jest [niepewne: łatwa]. Pewnie [niepewne: nie będziesz miał] ludzkich matematyków, którzy są w stanie go zrozumieć i zanalizować, bo [niezrozumiałe]. Ale mi to nie przeszkadza specjalnie.
+
+**[04:06]** Ja bardzo ekscytuję się każdą matematyką, nie tylko tą, którą sam stworzyłem. [niezrozumiałe] przeczytałem, to było fajne. Jestem w stanie sobie wyobrazić sytuację, że matematycy ludzie będą z dumą patrzyli na matematykę rozwijaną przez jakieś systemy. Nie wiem, czy my musimy naprawdę sami to robić.
+
+Ja bym się tylko bał tej sytuacji, gdzie w ogóle przestajemy to kontrolować i rozumieć, i nie wiemy, jakie to ma intencje i potencjał, co może robić dalej.
+
+**[04:37]** No i to jest ta trajektoria: w którymś momencie to się może kompletnie wywrócić. Jedyną metodą, którą na ten moment mamy, jest to, że chcemy tym sterować. Jak tym sterujemy, rozumiemy, to w pewnym sensie możemy to ograniczać. Jak puścimy to kompletnie na takie YOLO, to się mogą różne dziwne rzeczy wydarzyć.
+
+Mieliśmy ostatnio aferę [niepewne: Hugging Face], gdzie OpenAI wypuściła [niezrozumiałe] agentów. Nie skończyło się to tragicznie, ale to pokazuje, że nawet z dobrymi intencjami możemy mieć straszne katastrofy. Z tej perspektywy to jest trudne pytanie. [niezrozumiałe].
+
+**[05:14]** [niezrozumiałe] znacznie niebezpieczniejsze puszczenie na żywioł, bo tu matematyka jest [niepewne: abstrakcyjna], ale zaraz potem będziemy mieli analogiczne sytuacje. [niezrozumiałe] aplikowane, powiedzmy chemia organiczna czy inżynieria genetyczna. Wtedy to już jest bezpośrednie zagrożenie wybicia tej ludzkości.
+
+[niezrozumiałe] bankowość tak naprawdę. [niezrozumiałe]. Wystarczy włamać się do wszystkich banków naraz.
+
+**[05:43]** Jest taka ciekawostka, że wiele systemów aktualnie kryptograficznych jest masowo łamanych przez modele i agenty. I to wynika z tego, że one do tego zostały stworzone, żeby tego typu zagwozdki rozwiązywać.
+
+Możemy sobie zadać pytanie: a co, jeżeli byśmy na przykład odkryli [niezrozumiałe]? Mamy aktualnie cztery czy pięć podstawowych takich, jak to się mówi, [niepewne: prymitywów kryptograficznych], których używamy.
+
+**[06:09]** Jeżeli byśmy pokazali, że żaden z tych systemów w tym momencie nie jest bezpieczny, możemy go praktycznie łamać prawie natychmiastowo, [niepewne: czy] może nam AI pomóc, to w tym momencie kończymy systemy komunikacji, musimy z powrotem wrócić do [niepewne: gołębi]. Nie mamy żadnej gwarancji.
+
+Tak.
+
+I efekt jest taki, że to AI, które miało nam pomóc, tak naprawdę [niepewne: rozbroiło] nam cały system bezpieczeństwa. Teraz mówimy: „Okej, fajnie, że wiemy, że się da to wszystko złamać”. Ale mieliśmy ten system i była to jakaś taka równowaga [niezrozumiałe]. Ale była ta równowaga.
+
+**[06:46]** A to AI pozwala nam skalować w ekstremalnych sytuacjach. Najgorsze jest to, że zawsze, tak jak [niepewne: Psyho] powiedział, jest ryzyko, że [niezrozumiałe] skalowania wymknie nam się spod kontroli. To jest dokładnie to samo napięcie, o którym teraz mówimy. Chcemy z jednej strony, żeby to się skalowało, bo może będzie [niepewne: lek na raka], ale jest dużo przyszłości, w których w ogóle nas nie będzie. To jest to zagrożenie.
+
+**[07:16]** Pan Tomasz Bagiński: co konkretnie w pana pracy w ostatnich dwunastu miesiącach AI zrobiła lepiej, nie szybciej, tylko lepiej?
+
+Nic. Ale jest bardzo sprawnym pomocnikiem i rzeczywiście przyspieszaczem niektórych procesów. W mojej pracy na szczęście bardzo ważna jest moja subiektywna ocena, więc to ja decyduję, co jest dobre, a co złe.
+
+**[07:43]** Generatory [niepewne: wideo] [niezrozumiałe]?
+
+Słucham?
+
+Generatory [niepewne: wideo] [niezrozumiałe]?
+
+Ale to ja oceniam.
+
+[niezrozumiałe]?
+
+[niepewne: Nie wiem]. To pytanie brzmiało inaczej: co w mojej pracy AI robi lepiej? Nie.
+
+**[08:01]** Nie, są dobre narzędzia, one działają szybciej, można bawić się [niepewne: nowymi jakościami].
+
+A jakość tego?
+
+Jakość techniczna oczywiście, że wzrosła.
+
+[niezrozumiałe]. I będzie rosła dalej. Tylko że w samej jakości technicznej [niezrozumiałe] wartość tego, co [niezrozumiałe] jako wartość sztuki, rozrywki, doświadczenia ludzkiego czy czegoś podobnego.
+
+**[08:25]** Jakość techniczna — tutaj przywołam — jest parę bardzo grywalnych gier na przykład, które są niesamowicie brzydkie, a mimo to są wspaniałymi grami. Sama jakość techniczna nie ma tutaj aż takiego znaczenia. Ona jest fajna, jest fajnym narzędziem. Fajnie, że można mieć tego typu wolność, że można sobie na tym spektrum jakości ten suwaczek przesuwać dużo łatwiej niż kiedyś, dużo taniej. To jest moim zdaniem ciekawe.
+
+Ale ponieważ to ja oceniam, co chcę wypuścić światu, to ja też oceniam, czy to jest lepsze czy gorsze. Tak naprawdę, bo my dajemy światu system wartości.
+
+**[09:08]** [niezrozumiałe] co się stało w dziennikarskiej pracy medialnej. Czyli to, w jaki sposób to, co jest klikalne, jakie są nagłówki, co się wrzuca na topkę, co się promuje, nie jest [niepewne: ustalane] przez żadnego ludzkiego redaktora, tylko masz algorytmy, które ci podsuwają te…
+
+Ale to ciekawe. Osobowość wciąż ma znaczenie. Osobowość tej osoby, która podaje [niezrozumiałe], póki co ciągle ma znaczenie.
+
+[niezrozumiałe] podawanie [niezrozumiałe]? W jakim sensie podawanie [niezrozumiałe]?
+
+Nie, nie, bo mówimy o… Teraz mówisz o klikalności. To nie jest…
+
+**[09:47]** W tych wszystkich serwisach [niepewne: internetowych], które produkują te newsy i za każdym razem, kiedy to klikasz, mam wrażenie, że tam przynajmniej jest jeden błąd w tym nagłówku albo w leadzie. Ale to nie ma znaczenia, ponieważ to zostało tak optymalizowane, że więcej ludzi to klika. I to nie jeden człowiek to układa. To jest ta wiedza zbiorowa.
+
+Nie do końca się zgodzę, bo [niezrozumiałe] to wynika z tego, że wszystko, co w tej chwili spożywamy jako obiekt newsowy, jest całkowicie, czysto [niezrozumiałe].
+
+**[10:20]** Ja nie [niepewne: używałem] takiego dużego kwantyfikatora, tylko powiedziałem, że są takie serwisy newsowe. Dla mnie to jest [niezrozumiałe] tego, co ma [niezrozumiałe] w innych dziedzinach.
+
+No to są, ale wszyscy i tak [niepewne: oglądają] Stanowskiego, nie? Bo on jest showmanem po prostu.
+
+Nie wszyscy.
+
+Ale wciąż jakaś tam osobowość twórcy ma znaczenie.
+
+**[10:47]** Panowie, ponieważ zdaje się mamy wystarczającą szansę skończenia w przepisanym, regulaminowym czasie, [niezrozumiałe], zadam ostatnie pytanie do wszystkich. [niezrozumiałe] wszystkich uczestników.
+
+Co powinniśmy świadomie pozostawić [niezrozumiałe], nawet wtedy, gdy AI będzie robiło to obiektywnie lepiej?
+
+Mówił pan o tym, [niepewne: o własnej ocenie].
+
+**[11:20]** Ale co to znaczy „obiektywnie”? Skuteczniej? Lepiej zarobkowo? Jest sporo dziedzin, w których trudno przyłożyć obiektywne kryteria. Tak mi się wydaje.
+
+Ja bym chciał, żeby to zawsze ludzie robili [niezrozumiałe].
+
+[niezrozumiałe] teraz to jest bardzo [niezrozumiałe].
+
+**[11:57]** Ja mam samą odpowiedź, którą wam podaję już od wielu lat. Uważam, że przyszłością sztuki — [niezrozumiałe] literatury, pisania, a [niezrozumiałe] właściwie do całej sztuki — jest autoteliczność.
+
+Autoteliczność, czyli nie uprawiasz sztuki dlatego, żeby na niej zarobić, albo [niezrozumiałe] ktoś tam ją odbierze i ktoś dzięki temu przeżyje. Tylko sam proces tworzenia uzasadnia jego wartość i on jest przeżyciem właśnie twoim, twórcy.
+
+**[12:26]** W tworzeniu się spełnia sztuka, a nie w tym, czy mam milion [niezrozumiałe], czy dziesięć, zarobiła, nie zarobiła. I to będzie miało wartość nawet po tym, kiedy będziesz wiedział, że AI to zrobi znacznie lepiej i to będą miliony ludzi oglądały. Ale ty nie byłeś w tym procesie tworzenia, gdzie AI to sobie generowało [niepewne: w odchłaniach cyfrowych].
+
+**[12:55]** Nie poświęcałeś na to godzin, to nie było twoje przeżycie, [niezrozumiałe]. Nie miałeś w głowie tego wszechświata, prawda? Więc to jest ta wartość autoteliczna.
+
+Tak, ale ona będzie [niepewne: do oceny] tylko przeze mnie, przez nas samych.
+
+Tak, z definicji.
+
+Tak.
+
+[niezrozumiałe] tego nie dostrzega, nie doceni, nie oceni.
+
+**[13:19]** Wszystko, co jest realizowalne poza moim umysłem, czyli jest częścią intersubiektywnej rzeczywistości fizycznej, będzie podlegało rejestracji, kwantyfikacji i optymalizacji. [niezrozumiałe] będzie [niepewne: lepsze].
+
+[niepewne: I zostaje] nam tylko [niezrozumiałe] wnętrza naszego umysłu.
+
+[niezrozumiałe], czy jeszcze nie?
+
+[niezrozumiałe].
+
+**[13:47]** Można powiedzieć, że całą wartością naszej kultury jest to, że jesteśmy ze sobą. Ja bym sobie tak wyobrażał, że jeżeli będziemy nadal chcieli ze sobą przebywać i doświadczeniami się [niepewne: wymieniać], jeżeli AI nam nie będzie przeszkadzać albo przynajmniej nie [niezrozumiałe] nam w ogóle całej [niezrozumiałe], to jest okej. Jeżeli [niepewne: się nie unicestwimy] i nie unicestwimy też naszej planety, to w porządku. [niezrozumiałe] żeby przynajmniej…
+
+**[14:20]** [niepewne: Nie, to jest za trudny film].
+
+Niska poprzeczka.
+
+**[14:27]** Ciężko zastąpić taniec, dotyk, taki bezpośredni kontakt z innymi ludźmi. Tutaj wydaje mi się, że jeszcze sporo pola dla AI zostało, żeby te obszary w jakiś sposób zastąpić. Być może nawet nie będziemy chcieli tego, bo po co?
+
+**[14:48]** Ja nie mam ambicji, [niezrozumiałe] co powinniśmy, bo powinniśmy [niezrozumiałe]. Natomiast może warto taki głos jeszcze w imieniu kogoś, którego nie ma, czyli [niepewne: Richarda Suttona], [niezrozumiałe].
+
+To jest ktoś, który jest twórcą [niepewne: uczenia przez wzmacnianie], takiej technologii [niepewne: trenowania] sieci bez [niepewne: ludzkich] danych, [niezrozumiałe] model [niezrozumiałe] i w tym czasie [niezrozumiałe]. On jest takiego [niepewne: osobliwego] zdania…
+
+**[15:17]** Przede wszystkim, że przyszłość, w której jesteśmy zastąpieni przez [niezrozumiałe], jest bardzo dobra. [niezrozumiałe] powinniśmy się cieszyć, że dzięki naszemu geniuszowi kolektywnemu byliśmy w stanie stworzyć [niezrozumiałe]. To wizja dla wielu ludzi ponura, a on to [niepewne: wyśmiewa].
+
+[niezrozumiałe]. [niezrozumiałe] mówi, że człowiek jest [niepewne: ogniwem] pośrednim. Musimy się tym pogodzić.
+
+**[15:52]** [niezrozumiałe] celem.
+
+Co jest celem?
+
+No właśnie jego.
+
+**[16:01]** Jeżeli patrzeć na rozwój [niepewne: cywilizacyjny] jako na drogę dążenia do prawdy, jeżeli celem jest zrozumienie [niepewne: matrycy], która [niezrozumiałe] dla ludzi, to, jak powiedziałem, są albo będą sposoby [niepewne: docierania] do tej prawdy [niepewne: efektywniejsze] niż te, które [niezrozumiałe] naszymi [niezrozumiałe]. Więc może trzeba się tu opowiedzieć.
+
+**[16:28]** Jeżeli to [niezrozumiałe] cel, prawda, a to tak bardzo pięknie [niezrozumiałe] drogę do prawdy, do odkrywania prawdy, no to może oczywiście, jak ktoś [niezrozumiałe]. A jak już dotrzemy do prawdy, to co? Koniec drogi? Zwijamy się, dobra, zamykamy [niezrozumiałe]?
+
+Nam to zupełnie nie grozi, [niezrozumiałe] bardzo niewiele wiemy. Natomiast rozwój naukowy pokazuje, że dopiero [niezrozumiałe] fizykę znamy.
+
+**[16:55]** [niezrozumiałe] matematyką tak było podobnie. W matematyce [niepewne: odróżniono] pojęcie prawdy od dowodu. I tutaj zdaje się [niezrozumiałe].
+
+[niepewne: A czy jest prawda?]
+
+No, ale generalnie [niezrozumiałe].
+
+Jak powiedział [niepewne: Poncjusz Piłat].
+
+**[17:14]** Dziękujemy.

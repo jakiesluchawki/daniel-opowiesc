@@ -1,0 +1,221 @@
+{
+  "mode": "built-in image_gen",
+  "story": {
+    "daniel": {
+      "basedOn": "assets/dialog.webp",
+      "desktop": {
+        "path": "assets/daniel-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/daniel-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "obozy": {
+      "basedOn": "assets/rozgalezienie.webp",
+      "desktop": {
+        "path": "assets/obozy-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/obozy-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "podziekowanie": {
+      "basedOn": "assets/podziekowanie.webp",
+      "desktop": {
+        "path": "assets/podziekowanie-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/podziekowanie-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "skrzynie": {
+      "basedOn": "assets/skrzynie.webp",
+      "desktop": {
+        "path": "assets/skrzynie-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/skrzynie-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "antydaniele": {
+      "basedOn": "assets/antydaniele.webp",
+      "desktop": {
+        "path": "assets/antydaniele-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/antydaniele-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "konferencja": {
+      "basedOn": "assets/konferencja.webp",
+      "desktop": {
+        "path": "assets/konferencja-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/konferencja-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "studenci": {
+      "basedOn": "assets/studenci.webp",
+      "desktop": {
+        "path": "assets/studenci-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/studenci-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "generalisci": {
+      "basedOn": "assets/generalisci.webp",
+      "desktop": {
+        "path": "assets/generalisci-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/generalisci-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "ostatni": {
+      "basedOn": "assets/ostatni.webp",
+      "desktop": {
+        "path": "assets/ostatni-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/ostatni-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "odyseja": {
+      "basedOn": "assets/odyseja.webp",
+      "desktop": {
+        "path": "assets/odyseja-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/odyseja-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "darek": {
+      "basedOn": "assets/darek.webp",
+      "desktop": {
+        "path": "assets/darek-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/darek-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    },
+    "dzieci": {
+      "basedOn": "assets/powrot.webp",
+      "desktop": {
+        "path": "assets/dzieci-full-desktop.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "mobile": {
+        "path": "assets/dzieci-full-mobile.webp",
+        "width": 941,
+        "height": 1672
+      }
+    }
+  },
+  "articles": {
+    "psyho": {
+      "hero": {
+        "path": "assets/psyho-full-hero.webp",
+        "width": 1860,
+        "height": 846,
+        "mobile": {
+          "path": "assets/psyho-choice-v2.webp",
+          "width": 1448,
+          "height": 1086
+        }
+      },
+      "interlude": {
+        "path": "assets/psyho-full-interlude.webp",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    "dragan": {
+      "hero": {
+        "path": "assets/dragan-full-hero.webp",
+        "width": 1860,
+        "height": 846,
+        "mobile": {
+          "path": "assets/dragan.webp",
+          "width": 1448,
+          "height": 1086
+        }
+      },
+      "interlude": {
+        "path": "assets/dragan-full-interlude.webp",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    "final": {
+      "hero": {
+        "path": "assets/final-full-hero.webp",
+        "width": 1859,
+        "height": 846,
+        "mobile": {
+          "path": "assets/panel-finalowy.webp",
+          "width": 1448,
+          "height": 1086
+        }
+      },
+      "interlude": {
+        "path": "assets/final-full-interlude.webp",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    "qa": {
+      "hero": {
+        "path": "assets/qa-full-hero.webp",
+        "width": 1672,
+        "height": 941
+      }
+    }
+  }
+}

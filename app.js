@@ -27,7 +27,9 @@
   function showChapter(index, {focus = false, scroll = false, history = true} = {}) {
     current = Math.max(0, Math.min(chapters.length - 1, index));
     chapters.forEach((c, i) => c.classList.toggle('current', i === current));
-    chapters.slice(current, current + 2).forEach(c => { c.querySelector('.chapter-art img').loading = 'eager'; });
+    chapters.slice(current, current + 2).forEach(c => {
+      c.querySelector(reading ? '.chapter-art img' : '.slide-scene img').loading = 'eager';
+    });
     body.dataset.mood = chapters[current].dataset.mood;
     updateNavigation();
     if (history) window.history.replaceState(null, '', `${location.pathname}${location.search}#${chapters[current].id}`);
@@ -71,7 +73,7 @@
   }));
   document.addEventListener('keydown', event => {
     if (reading || event.altKey || event.ctrlKey || event.metaKey || /^(INPUT|TEXTAREA|SELECT|BUTTON|SUMMARY|A)$/.test(event.target.tagName)) return;
-    if (event.key === 'ArrowRight') { event.preventDefault(); showChapter(current + 1, {focus: true, scroll: true}); }
+    if (event.key === 'ArrowRight' || event.code === 'Space') { event.preventDefault(); showChapter(current + 1, {focus: true, scroll: true}); }
     if (event.key === 'ArrowLeft') { event.preventDefault(); showChapter(current - 1, {focus: true, scroll: true}); }
   });
   let touch = null;
