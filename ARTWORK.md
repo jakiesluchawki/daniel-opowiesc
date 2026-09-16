@@ -1,6 +1,8 @@
-# Ilustracje do opowieści o Danielu
+# Ilustracje opowieści i tło panelu
 
 Dwanaście odrębnych szkiców, po jednym dla każdego rozdziału, wygenerowanych przez wbudowane narzędzie image_gen. Wszystkie mają proporcje 4:3 i nie zawierają tekstu. Pliki WebP zachowują pełne kompozycje oryginałów.
+
+Panel Psyho i Bagińskiego ma jedną dodatkową ilustrację, używaną jako subtelne tło. Jej prompt znajduje się na końcu dokumentu.
 
 ## 01. Pojawia się Daniel
 
@@ -200,3 +202,21 @@ Color palette: very pale blue grey, graphite grey, thin cobalt lines, small warm
 Constraints: one coherent image, no panel layout. Purely visual metaphor; absolutely no typography, words, letters, digits, numbers, equations, labels, signatures, logos or watermarks anywhere. No literal childish cartoon, no caricatures, no stock corporate people illustration. No robots, no humanoid machines, no sci-fi cliché. No heavy black outlines, no glossy 3D rendering. High detail in the linework; keep the drawing gentle and uncluttered.
 ```
 
+## Tło panelu Psyho i Bagińskiego
+
+Jeden odrębny szkic tła, wygenerowany wbudowanym narzędziem image_gen. Bez tekstu i postaci.
+
+![Subtelne szkicowane orbity i zagięcia kartki, z pustym środkiem i małym bursztynowym akcentem.](assets/psyho-background.webp)
+
+```text
+Use case: stylized-concept
+Asset type: ONE subtle background image for a thoughtful editorial website tab, landscape 4:3. This is ambient paper and linework behind content, not a central narrative illustration.
+Input images: Image 1 and Image 2 are STYLE REFERENCES ONLY. Match their handmade graphite pencil texture, pale blue-grey paper, delicate cobalt construction lines and restrained amber warmth. Do not repeat their compositions or subjects. In particular no hands, people, paths, landscapes or opposing circular forms.
+Primary request: an abstract creative field, a spacious unfinished sketch structure made of extremely fine pencil curves, a few lightly folded blank spatial paper planes, and spare cobalt construction orbits. A single tiny ember of warm curiosity sits off to one side near the outer margin. The arrangement conveys openness, creative possibility and thoughtful human warmth entirely through abstract forms.
+Scene/backdrop: luminous very pale blue-grey paper with barely perceptible handmade grain, delicate erasure traces and restrained organic graphite imperfections. No depicted room or specific place.
+Composition/framing: landscape 4:3. Vast breathing room; keep the broad middle 60 percent of the entire image almost empty and very pale, quiet enough for overlaid readable webpage content. Concentrate the delicate handmade pencil structure and slightly denser fine linework along the outer edges and corners. Open asymmetrical spatial folds and curves, elegant and very low contrast. No central focal figure, no large central shape. A tiny amber ember appears near an outer edge, never in the center.
+Style/medium: sophisticated sensitive editorial drawing in thin graphite pencil and exceptionally fine cobalt-blue ink construction lines, nuanced handmade imperfections. Airy, hopeful and lightly technical; no literal information diagram.
+Lighting/mood: very gentle light paper ground, contemplative hope, soft small amber warmth on the periphery, no dramatic illumination.
+Color palette: nearly white pale blue grey paper; very light graphite grey; fine muted cobalt blue; a single very small restrained amber accent.
+Hard constraints: no human figures, hands, people, portraits, faces, animals, profession symbols, robots, humanoid machines or sci-fi cliches. Absolutely no text, words, letters, digits, numbers, equations, pseudo-equations, glyphs, labels, signatures, logos or watermarks anywhere. Paper planes are perfectly BLANK and unmarked. No panel layout, no cartoon, no heavy outlines, no black dense areas, no glossy 3D finish, no strong gradients. Keep the center almost completely empty and all edges refined rather than cluttered.
+```

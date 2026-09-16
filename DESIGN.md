@@ -20,6 +20,10 @@ Romie Regular for chapter titles; Roobert Regular for narrative and controls, Ro
 
 Desktop: reading column alongside an open illustration. Mobile: chapter label, title, drawing and complete prose follow in one column. Text may scroll vertically. Compact persistent navigation contains only the chapter count, progress and Wstecz/Dalej. Full-reading mode is a natural continuous document.
 
+Both lectures share a small header with real links, Daniel and Psyho i Bagiński. The active lecture uses a dark bold label and a thin cobalt underline. On phones the lecture links and local reading actions occupy separate rows. Transcript pages use the same header and offer a return to their lecture.
+
+The additional lecture is a continuous essay: a spacious Romie title, Roobert lead, short summary and readable sections capped at 62ch. One to three decorative sketches sit beside text in their own column or follow it on mobile. Only the drawing receives reduced opacity; text remains at full contrast. There are no images underneath paragraphs.
+
 ## Motion
 
 All chapter paragraphs appear immediately. No paragraph or chapter entrance animation, reveal timers, reading-speed settings or automatic chapter changes. Keep only a gentle background-color change between story moods and smooth navigation in the continuous document. Honor prefers-reduced-motion. The space bar remains a native browser action.

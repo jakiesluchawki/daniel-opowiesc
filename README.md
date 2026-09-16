@@ -1,8 +1,18 @@
-# Daniel: opowieść o matematyce i ludzkiej ciekawości
+# AI Summit PJAIT — dwie rozmowy o człowieku i AI
+
+[Opublikowana strona](https://jakiesluchawki.github.io/daniel-opowiesc/) zawiera dwie zakładki, czytelne na telefonie i komputerze.
+
+## Daniel
 
 Ilustrowana adaptacja wykładu Bartosza Naskręckiego „Nie potrzebujemy już matematyków”, AI Summit PJAIT, 16 września 2026.
 
 12 rozdziałów, każdy z własną ilustracją. Każdy slajd od razu pokazuje cały tekst. Czytelnik przechodzi przyciskami Wstecz/Dalej, strzałkami lub gestem przesunięcia; może też wybrać rozdział albo przełączyć się na ciągłe czytanie całości. Spacja zachowuje zwykłe działanie przeglądarki. Działa reduced motion i ciągła wersja bez JavaScriptu. Pełna transkrypcja jest dostępna osobno.
+
+## Psyho i Bagiński
+
+[Streszczenie panelu „Od sztuki po najbrudniejszą robotę”](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski.html): Tomek Bagiński i Przemysław „Psyho” Dębiak, prowadzi Adrian Bąk. Siedem wątków, jedno subtelne szkicowane tło oraz [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html) z odnośnikami do czasu nagrania. Tekst dostępny od razu, bez skryptów ani kontrolek tempa. Zapis obejmuje dostarczone nagranie 52:56; nieczytelne fragmenty są oznaczone. Streszczenie zachowuje opinie i przewidywania jako stanowiska rozmówców.
+
+## Uruchomienie
 
 Strona statyczna, bez zależności uruchomieniowych. GitHub Pages publikuje katalog główny repozytorium. Lokalny podgląd: `python3 -m http.server 8765`.
 

@@ -19,6 +19,11 @@ button:disabled{cursor:default;opacity:.45}
 .site-header{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1.15rem clamp(1.25rem,4vw,4.5rem);position:relative;z-index:10}
 .wordmark{color:var(--ink);text-decoration:none;font-weight:600;font-size:1.2rem;letter-spacing:-.03em;display:flex;align-items:center;gap:.6rem}
 .wordmark svg{width:1.75rem;height:1.75rem;color:var(--blue)}
+.lecture-switch{display:flex;align-items:center;gap:clamp(.9rem,1.6vw,1.5rem);min-width:0}
+.lecture-switch a{display:inline-flex;align-items:center;gap:.5rem;min-height:2.75rem;padding:.65rem 0;border-bottom:1px solid transparent;color:var(--muted);font-size:.9rem;font-weight:400;white-space:nowrap;text-decoration:none}
+.lecture-switch a[aria-current=true]{color:var(--ink);font-weight:700;border-bottom-color:var(--blue)}
+.lecture-switch a:hover{color:var(--blue)}
+.lecture-switch svg{width:1.35rem;height:1.35rem;flex:none;color:var(--blue)}
 .header-nav{display:flex;align-items:center;gap:clamp(.5rem,1.5vw,1.7rem);font-size:.9rem}
 .text-button,.header-nav summary{border:0;background:none;padding:.65rem .25rem;font-weight:600;cursor:pointer;white-space:nowrap}
 .header-nav>a{padding:.65rem .25rem;color:var(--ink);text-decoration:none}
@@ -82,14 +87,44 @@ h1,h2{font-family:var(--display);font-weight:400;line-height:1.1;letter-spacing:
 .site-footer p{max-width:65ch}
 .transcript-page{max-width:52rem;margin:0 auto;padding:2rem 1.5rem 5rem}
 .transcript-page h1{max-width:22ch;font-size:clamp(2rem,5vw,3.4rem);margin-top:1rem}
+.transcript-page h2{max-width:28ch;font-size:clamp(1.6rem,3vw,2.1rem);margin:2.5rem 0 1.2rem}
 .transcript-page .transcript-prose{font-family:var(--story);line-height:1.85;font-size:1.08rem}
 .transcript-page .transcript-prose p{margin:0 0 1.4rem}
 .transcript-page .transcript-prose strong{font-family:var(--ui);font-size:.88rem;font-weight:600;color:var(--blue)}
 .transcript-page .record-note{font-family:var(--ui);font-size:.9rem;color:var(--muted)}
+.lecture-page{max-width:76rem;margin:0 auto;padding:clamp(2rem,5vw,5rem) clamp(1.5rem,5vw,4.5rem) 5rem;position:relative}
+.lecture-hero{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:clamp(2rem,5vw,5rem);align-items:center;margin-bottom:clamp(2.5rem,5vw,4.5rem)}
+.lecture-hero-copy,.lecture-section-copy{position:relative;z-index:1;min-width:0;max-width:62ch}
+.lecture-kicker{margin:0 0 1rem;color:var(--muted);font-size:.85rem;font-weight:400;line-height:1.6}
+.lecture-page h1{max-width:20ch;margin:0 0 1.35rem;font-size:clamp(3rem,5.5vw,5.1rem)}
+.lecture-lead{max-width:40ch;margin:0;font-size:clamp(1.2rem,2vw,1.6rem);line-height:1.65;text-wrap:pretty}
+.lecture-summary{max-width:62ch;margin:0 0 1.5rem;padding:clamp(2rem,4vw,3rem) 0;border-top:1px solid var(--line)}
+.lecture-page h2{max-width:24ch;margin:0 0 1.3rem;font-size:clamp(2rem,3.2vw,3rem);line-height:1.16}
+.lecture-page h3{margin:1.75rem 0 1rem;font-family:var(--display);font-size:1.8rem;font-weight:400;line-height:1.25}
+.lecture-section{position:relative;padding:clamp(2.5rem,5vw,4rem) 0;border-top:1px solid var(--line)}
+.lecture-section.with-art{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.72fr);align-items:center;gap:clamp(2rem,5vw,5rem)}
+.lecture-summary p,.lecture-summary li,.lecture-section p,.lecture-section li{font-size:clamp(1.1rem,1.35vw,1.23rem);line-height:1.75;text-wrap:pretty}
+.lecture-summary p,.lecture-section p{max-width:62ch;margin:0 0 1.25em}
+.lecture-summary p:last-child,.lecture-section p:last-child{margin-bottom:0}
+.lecture-summary ul,.lecture-section ul{max-width:62ch;margin:1.5rem 0;padding-left:1.25rem}
+.lecture-summary li+li,.lecture-section li+li{margin-top:.65rem}
+.lecture-actions{display:flex;flex-wrap:wrap;gap:.7rem 1.5rem;margin-top:1.75rem;font-size:.9rem}
+.lecture-source{max-width:62ch;padding-top:1.5rem;border-top:1px solid var(--line);color:var(--muted);font-size:.9rem;line-height:1.7;overflow-wrap:anywhere}
+.background-art{position:relative;align-self:center;min-width:0;margin:0;pointer-events:none;user-select:none}
+.background-art img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:contain;opacity:.32;mix-blend-mode:multiply}
+.background-art:after{position:absolute;inset:0;content:'';box-shadow:inset 0 0 2rem 1rem var(--paper)}
+.lecture-hero.with-background{display:block;position:relative;isolation:isolate;padding:clamp(1.5rem,4vw,4rem) 0;min-height:30rem}
+.lecture-hero.with-background .background-art{position:absolute;inset:0;max-width:none;width:100%;z-index:-1;overflow:hidden}
+.lecture-hero.with-background .background-art img{height:100%;object-fit:cover;opacity:.2}
+.lecture-hero.with-background .lecture-hero-copy{max-width:62ch}
+.lecture-participants{font-size:1rem;line-height:1.7;margin:0 0 1.6rem;color:var(--ink)}
+.lecture-participants span{color:var(--muted);font-size:.9rem}
+.lecture-time{margin-top:1.7rem!important;font-size:.83rem!important;color:var(--blue)}
+.transcript-prose [id^=t-]{scroll-margin-top:2rem}
 @media(min-width:1500px){.enhanced:not(.reading) .chapter{max-width:1650px}}
 @media(max-width:900px){.chapter{gap:1.5rem;grid-template-columns:minmax(0,1fr) minmax(0,.8fr);padding-left:2rem;padding-right:2rem}.prose{font-size:1.1rem}h1,h2{font-size:2.7rem}.chapter-art:after{box-shadow:inset 0 0 1rem .5rem var(--paper)}}
 @media(max-width:680px){
- .site-header{padding:.8rem 1.2rem;gap:.5rem;align-items:center}.wordmark{font-size:1.1rem;gap:.4rem}.wordmark svg{width:1.35rem;height:1.35rem}.header-nav{gap:.7rem;font-size:.82rem}.header-nav .source-menu{display:none}.header-nav summary,.text-button{padding:.65rem 0}
+ .site-header{padding:.8rem 1.2rem;gap:.25rem;align-items:center;flex-wrap:wrap}.lecture-switch{width:100%;gap:1.2rem}.lecture-switch a{font-size:.85rem}.lecture-switch svg{width:1.2rem;height:1.2rem}.wordmark{font-size:1.1rem;gap:.4rem}.wordmark svg{width:1.35rem;height:1.35rem}.header-nav{width:100%;justify-content:space-between;gap:.7rem;font-size:.82rem}.header-nav .source-menu{display:none}.header-nav summary,.text-button{padding:.65rem 0}
  .chapter,.enhanced:not(.reading) .chapter.current{grid-template-columns:1fr;gap:1.3rem;align-items:start;padding:1.3rem 1.5rem 2rem;min-height:0}
  .chapter-copy{display:contents}.chapter-meta{grid-row:1!important;margin-bottom:0!important}.chapter h1,.chapter h2{grid-row:2;margin-bottom:0!important}.chapter-art{grid-row:3}.prose{grid-row:4}.adaptation-label{grid-row:5;margin-top:0!important}.end-note{grid-row:6}
  .chapter-meta{font-size:.83rem;margin-bottom:.8rem;gap:.75rem}h1,h2,.chapter:first-child h1{font-size:clamp(2.4rem,10.4vw,3.2rem);max-width:18ch;line-height:1.14;margin-bottom:1.35rem;letter-spacing:-.022em}.prose{font-size:1.12rem;line-height:1.77;max-width:48ch}.prose p{margin-bottom:1.05em}
@@ -97,6 +132,8 @@ h1,h2{font-family:var(--display);font-weight:400;line-height:1.1;letter-spacing:
  .enhanced:not(.reading) main{padding-bottom:7.5rem}.enhanced:not(.reading) .reader-controls{padding:.55rem 1.2rem calc(.55rem + env(safe-area-inset-bottom))}.navigation-row{gap:.4rem .7rem;flex-wrap:wrap}.chapter-progress{gap:.3rem;max-width:none;min-width:0}.page-count{font-size:.78rem;min-width:3.1rem}
  .chapter-navigation{width:100%;justify-content:space-between;margin-top:.15rem;margin-left:0}.nav-button{min-height:2.7rem;padding:.55rem .8rem}.nav-button.next{min-width:7rem}.nav-button.previous{min-width:2.75rem}
  .reading .chapter{padding:2.75rem 1.5rem}.reading .chapter-art img{max-height:25rem}.reading .chapter:first-child{padding-top:1.5rem}.contents{right:-.25rem}.site-footer{padding:2rem 1.5rem}.source-link-mobile{display:block!important}
+ .header-nav #chapters-menu .contents{left:0;right:auto}
+ .lecture-page{padding:2rem 1.5rem 3.5rem}.lecture-hero{grid-template-columns:1fr;gap:1.5rem;margin-bottom:2.5rem}.lecture-page h1{font-size:clamp(2.5rem,11vw,3.8rem);max-width:18ch}.lecture-lead{font-size:1.2rem}.lecture-summary{padding:2rem 0}.lecture-section,.lecture-section.with-art{grid-template-columns:1fr;gap:1.5rem;padding:2.5rem 0}.background-art{width:100%;max-width:26rem;justify-self:center}.background-art:after{box-shadow:inset 0 0 1rem .5rem var(--paper)}
 }
 @media(max-width:370px){.header-nav{gap:.5rem;font-size:.76rem}.wordmark svg{display:none}.chapter,.enhanced:not(.reading) .chapter.current{padding-left:1.2rem;padding-right:1.2rem}.reader-controls .nav-button{font-size:.85rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}body{transition:none!important}}

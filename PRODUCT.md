@@ -10,7 +10,7 @@ A Polish reader opens a link sent by a friend, on a phone during the day or on a
 
 ## Product Purpose
 
-A chapter-based illustrated adaptation of Bartosz Naskręcki's lecture about Daniel, an AI mathematician. Success means the complete story can be shared through one GitHub Pages link. Every slide presents its full text immediately, and continuous reading is available alongside chapter navigation.
+A small collection of Polish lectures shared through one GitHub Pages link. Daniel remains a twelve-chapter illustrated adaptation of Bartosz Naskręcki's lecture: every slide presents its full text immediately, with continuous reading alongside chapter navigation. Psyho i Bagiński is a separate transcript and summary, reached through a real navigation link.
 
 ## Brand Personality
 
@@ -22,7 +22,7 @@ No robot portraits, neon dashboards, sales slogans, slide-template boxes, stock 
 
 ## Design Principles
 
-The story leads. The reader chooses the pace. Distinguish adaptation, transcription and speculation. Technical images have human warmth. Typography remains readable on phones.
+The material leads. The reader chooses the pace. Distinguish adaptation, transcription, summary and speculation. Technical images have human warmth. Typography remains readable on phones. Each lecture has a direct link and a clear route back; avoid application-style tabs or a new navigation model.
 
 ## Accessibility & Inclusion
 

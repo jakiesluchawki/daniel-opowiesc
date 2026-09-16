@@ -1,0 +1,667 @@
+# Od sztuki po najbrudniejszą robotę
+
+Panel dyskusyjny — AI Summit PJAIT, 16 września 2026.
+
+Rozmówcy: **Tomek Bagiński** i **Przemysław „Psyho” Dębiak**. Prowadzi **Adrian Bąk**.
+
+Czas dostarczonego nagrania: **52 minuty 56 sekund**.
+
+## O zapisie
+
+Nagranie zaczyna się w trakcie pytania prowadzącego. Transkrypt obejmuje dostępną część rozmowy. Zapis lekko zredagowano: dodano interpunkcję oraz usunięto część powtórzeń i wtrąceń.
+
+Jakość dźwięku jest nierówna. **[nieczytelne]** oznacza słowo lub fragment, którego nie udało się wiarygodnie odczytać; **[niepewne: …]** — możliwy, lecz niepotwierdzony odczyt. Etykiety rozmówców pojawiają się w rozpoznawalnych miejscach; pozostałe zmiany wypowiedzi oznaczono myślnikami. Znaczniki czasu odnoszą się do początku pliku, nie do całego wydarzenia.
+
+Opinie, szacunki i przewidywania pozostawiono jako wypowiedzi rozmówców. Ten zapis jest opracowaniem nagrania, a nie oficjalną publikacją uczestników.
+
+[Oficjalny program panelu](https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/).
+
+## Transkrypt
+
+**[00:00]**
+
+**Prowadzący:** Ty nie uważasz, że to jest twój największy sukces w życiu, ale to jest wielka sztuka. Ale czy to była dla ciebie taka najbrudniejsza robota do wykonania, czy to było coś więcej? Bo myślę, że to jest takie pytanie, które nam dobrze otworzy tę dyskusję.
+
+**Psyho:** Tak zupełnie szczerze, to wydaje mi się… Znaczy, to, co było na tym konkursie, było taką bardzo czystą robotą. Bo miałem jasno ustalone zasady konkursu, to wszystko, jak będzie działać, jasny system oceniania.
+
+**[00:32]**
+
+Co jest brudną robotą, to jak konkurs się skończy, odpowiadanie wszystkim na maile, że: „Ej, powiedz [nieczytelne], do naszej gazety, wywiadu”. To jest bardzo brudne. A jeszcze jak jest trochę polityki, to jest bardzo brudne. Więc wszystko, co robiłem wcześniej, było niesamowicie czyste, a teraz [nieczytelne].
+
+**Prowadzący:** No dobrze, zapytam się o tę brudniejszą robotę. Ej, powiedz, co ty tak naprawdę zrobiłeś? Bo ja rozumiem, że tutaj jest takie towarzystwo też branżowe, ale nie tylko. Jakbyś spróbował wyjaśnić komuś, kto nigdy nie napisał, nie wiem, linijki kodu, co ty [nieczytelne] sztucznej inteligencji? [nieczytelne], się szerokim [nieczytelne] mówiło, nie tylko w Polsce.
+
+**[01:08]**
+
+**Psyho:** Okej, miałem nadzieję, że po tylu miesiącach już nie będę [nieczytelne] tego pytania, ale spróbuję odpowiedzieć.
+
+Więc jest coś takiego jak [niepewne: konkursy programistyczne], a przynajmniej było. Bo nie wiem, czy wiecie, ale [nieczytelne].
+
+No więc były dwa typy konkursów. Nie no, jeszcze są, jeszcze są [nieczytelne]. Konkursy programistyczne takie bardziej klasyczne, które przypominają trochę [nieczytelne] łamigłówki, i optymalizacyjne, w których się specjalizuję. [nieczytelne] też w drugich.
+
+**[01:40]**
+
+I te konkursy optymalizacyjne polegają na tym, że jest dane jakieś zadanie. [nieczytelne] skomplikowane. Bo dobre zadanie optymalizacyjne polega na tym, że to się czyta i nie ma najmniejszego [nieczytelne]. I wtedy wiemy, że jest całkiem spoko.
+
+To trochę przypomina taki, można powiedzieć, małoskalowy research. Czyli to są zadania otwarte, które rozwiązujemy [nieczytelne]. Patrzymy na zadanie, zastanawiamy się, o co tam w ogóle chodzi. Mamy jakiś pomysł, implementujemy go, dostajemy jakiś wynik. Na podstawie tego robimy jakieś wnioski, co potem daje [nieczytelne].
+
+**[02:15]**
+
+Więc na tym polegał konkurs. W sensie było jedno zadanie, trzeba było [nieczytelne] program. I sztuczna inteligencja tak samo startowała w tym konkursie i mniej więcej to samo robiła. Tylko że sztuczna inteligencja… No, uwielbiam ten [niepewne: buzzword], [nieczytelne]. Ale w zasadzie to był jakiś customowy system napisany przez OpenAI konkretnie pod te zawody.
+
+I to, co jest ciekawe, to wtedy to był taki superspecjalistyczny system, nad którym [niepewne: siedziało] trochę osób przez jakiś czas. Zakładam, że koszta obsługi tego… Nie koszta obsługi, koszta [niepewne: inferencji] były bardzo wysokie.
+
+**[02:58]**
+
+A w tym roku też był ten konkurs, była kolejna edycja. I ja powiedziałem w styczniu organizatorom, że chyba ich [niepewne: posrało] i nie będę występował, bo to nie ma żadnego sensu dla mnie. Ale mogę przyjechać jako komentator. W skrócie: ludziom nie poszło za dobrze, tak jak można [nieczytelne].
+
+— Kto wygrał ten mecz?
+
+— Nie, nie kto wygrał, tylko jaką przewagą. To jest lepsze pytanie. No, oni nie mieli żadnych szans. Jakby tyle, co jesteśmy w stanie powiedzieć, to jeszcze taki zwykły model, który jest dostępny dla ogółu ludzkiego, nie wygrałby wtedy z [nieczytelne].
+
+**[03:37]**
+
+Ale to, co zrobił znowu, ponownie, taki customowy system zrobiony przez mały team z OpenAI, osiągnął taki wynik… Konkurs [nieczytelne] trwał trzydzieści cztery godziny, w tej [niepewne: oryginalnej] edycji. Ale gdybym w tym czasie starał się [niepewne: dostarczyć] ten wynik, to myślę, że musiałbym [nieczytelne] parę tygodni. Więc jakby jest taka gigantyczna przepaść.
+
+Ale z kolei w tym roku [nieczytelne] było bardzo dobrze. Uważam, że w zeszłym roku [nieczytelne]. Ja wygrałem po trzech latach nieprogramowania. Po prostu przyjechałem na konkurs i [nieczytelne] okej.
+
+**[04:13]**
+
+**Prowadzący:** [nieczytelne] taki wniosek, że to jest coraz bardziej zaawansowane, że teraz trudniej [nieczytelne] w tym konkursie?
+
+**Psyho:** Tak. W styczniu, jak [niepewne: mailowałem] z organizatorami, to powiedziałem im, że [nieczytelne]. W tym roku odbył się konkurs ponownie w Tokio. Napisałem organizatorom, że jestem pewien… Znaczy to, że ludzie nie wygrają, to było jasne. A to, co dla mnie miało osobiście większe znaczenie, to w tym momencie agenci AI, których można było używać do pewnego stopnia na konkursie, na tyle mocno wpływają na sam przebieg konkursu, że osoba korzystająca z agentów AI jest nieporównywalnie lepsza niż osoba, która nie korzysta z agentów.
+
+**[04:58]**
+
+— Ja startowałem… [nieczytelne].
+
+— Tak, tak. [nieczytelne].
+
+— Proszę Państwa, [nieczytelne].
+
+**[05:10]**
+
+**Psyho:** Ja startowałem w tych konkursach, bo lubię wyzwania intelektualne. Można powiedzieć, że dużą częścią mojej takiej identyfikacji jako osoby jest to, że startowałem w różnych sportach umysłowych, konkursach. [nieczytelne] jedną z nich, aczkolwiek [nieczytelne] szło naprawdę dobrze.
+
+Więc [nieczytelne]. W każdym razie w momencie, kiedy [nieczytelne], sam [nieczytelne], samą radość z tego, że ja też [nieczytelne], że dobrze mi idzie, że mamy wszyscy równe szanse, trochę jak w sportach fizycznych. Tylko że [nieczytelne] fizyczną część [nieczytelne] w głowie.
+
+**[05:51]**
+
+No i to zostało [nieczytelne], bo w momencie, kiedy używamy agentów, w dużej mierze [niepewne: outsourcujemy] bardzo dużą część kreatywnej kontroli do AI. I przestało mi to pasować, że wprowadzamy losowość, bo to trochę zależy od tego, jak poszło temu agentowi. Jak [niepewne: zapytamy] agenta sto razy na tym samym problemie, to [nieczytelne] pójdzie trochę inaczej. I [nieczytelne] taki [nieczytelne] segway do sztuki, że [niepewne: outsourcujemy] [nieczytelne].
+
+**[06:18]**
+
+**Prowadzący:** No tak, ale powiedziałeś, że ty lubisz intelektualne wyzwania. Myślę, że te intelektualne wyzwania są też bliskie naszemu kolejnemu gościowi, czyli Tomaszowi Bagińskiemu, człowiekowi [niepewne: sztuki], reżyserowi, animatorowi, twórcy nominowanej do Oscara „Katedry”, producentowi wykonawczemu serialu „Wiedźmin”. [nieczytelne] [niepewne: Baggins], bo skoro tutaj mamy Psyho, to też się posłużę [nieczytelne], który wczoraj podsłyszałem przy okazji rozmowy z Jackiem Dukajem.
+
+Tomaszu, jeżeli chodzi o wyzwania intelektualne: czy sztuczna inteligencja tobie poprawia zdolność do takich wyzwań, czy raczej w jakiś sposób je zaburza? Czy ty widzisz w tym korzyść czy niekorzyść?
+
+**[07:10]**
+
+**Tomasz Bagiński:** To jest kilka pytań w jednym. I wydaje mi się, że…
+
+— Czy masz tutaj pseudonim [niepewne: Baggins], tak? [nieczytelne] od tego zacząć?
+
+— Nie wiem, zdarza mi się używać tego pseudonimu. Jego źródłosłów jest pewnie znajomy [nieczytelne] fan literatury fantastycznej, fantasy, która być może nie przetrwała [nieczytelne] od trzydziestu lat [nieczytelne].
+
+Ale ja nie wiem, czy to jest właściwy kąt natarcia. Czy podchodzenie od strony intelektualnej do działania artystycznego, sztuki i zabawy trochę też, czy to ma sens. Bo wydaje mi się, że tu mieszamy troszeczkę światy.
+
+**[07:52]**
+
+Ja lubię powtarzać taką jedną rzecz: jeżeli coś robię i chcę to przedstawić ludziom jako ja, jako artysta, [niepewne: i tego przecież nikt nie może zabronić]… Bo sztuka na szczęście nie jest do końca dziedziną przemysłową. Myśmy nauczyli się tak myśleć, bo się pojawiło coś takiego jak przemysły kreatywne.
+
+Więc nagle się okazało, że pojawiło się bardzo dużo ludzi, którzy po prostu pracują w tych fabrykach, wypuszczają te filmy seryjnie, wypuszczają te gry seryjnie i tak dalej, i tak dalej. Więc zaczęliśmy trochę myśleć o tym jako o przemyśle, jako o czymś skalowalnym.
+
+Ale to nie do końca tak jest. Bo jeżeli ja robię coś i chciałbym tym czymś podzielić się z widownią, no to mi zależy na tym, żeby to było trochę moje.
+
+**[08:36]**
+
+A [nieczytelne] być może maszyna to nawet zrobi lepiej, to ja nie przeczę, ale to nie będzie moje. I tutaj wchodzimy w obszar pewnych emocji i pewnych relacji, gdzie taka zwykła matematyczna skalowalność, że: „Okej, dobra, ale ta maszyna w tym czasie zrobi tysiąc obrazków, a ja zrobię tylko pół”, to nie ma żadnego znaczenia, bo one nie będą moje.
+
+Więc ludzie, którzy przychodzą zobaczyć moją rzecz… A wydaje mi się, że wciąż w czasach AI będą ludzie, którzy będą chcieli słuchać analogowej muzyki, którzy będą chcieli grać w analogowe gry, którzy będą chcieli [nieczytelne] relacje z innymi ludźmi.
+
+**[09:15]**
+
+Tutaj wydaje mi się, że mamy dowód, że nie oglądacie tego Państwo na ekranie internetu, a my nie jesteśmy wygenerowanymi awatarami, tylko jesteśmy [niepewne: takimi żywymi] ludźmi. Przyszliście nas tak naprawdę zobaczyć.
+
+— Jeszcze [nieczytelne] głosy, że świat to symulacja, [nieczytelne] tę wątpliwość, że w ogóle żyjemy w takim świecie bazowym, [nieczytelne].
+
+— Ja bym ignorował.
+
+**[09:42]**
+
+Ale to jest przecież ten stary zakład, już nie pamiętam, jak on się do końca nazywa. Ale jeżeli jest to symulacja, to my [nieczytelne] symulacji nie jesteśmy w stanie do końca tego stwierdzić. Więc lepiej założyć, że to jest świat rzeczywisty, a nie to, że jak skoczymy z bloku, to wyrosną nam skrzydła.
+
+— Może nie, bo akurat zasady tej gry i tej symulacji na to nie pozwalają po prostu. Więc musimy i tak grać w ramach tej symulacji.
+
+**[10:08]**
+
+To, co chcę powiedzieć, to to, że jeżeli wchodzimy w tego typu subiektywne ocenianie rzeczywistości, no to wtedy to AI troszeczkę… No, troszeczkę inaczej trzeba do tego przykładać.
+
+I ja oczywiście używam narzędzi AI-owych, ale ja się bardzo mocno zajmuję tą stroną mniej może teoretyczną, bardziej taką inżynierską. Jak to AI wchodzi po prostu w prawdziwe życie, w tak zwane błoto, nazwijmy to. I tutaj wiele fajnych narzędzi można sobie znaleźć.
+
+Ale jak wciąż jeszcze, dopóki wszyscy nie zginiemy w nuklearnym ogniu… A nie obstawiam tej rzeczywistości. Niektórzy tutaj już może obstawiają, ja akurat nie.
+
+— Myślę, że [nieczytelne] blisko [nieczytelne].
+
+— Ale ja jestem optymistą, wbrew pozorom, jeżeli chodzi o przyszłość. I gdzieś tam na tym poziomie [nieczytelne] nic mi nie odbiera tak naprawdę.
+
+**[11:06]**
+
+**Prowadzący:** No dobrze, to jakby podsumowując, bo ty starasz się powiedzieć, że w takim razie w twojej branży kreatywnej nie liczy się ilość, nie liczą się wyniki czy kto będzie pierwszy…
+
+**Tomasz Bagiński:** Trochę się liczą, to zależy gdzie.
+
+**Prowadzący:** Tak, ale ważna jest ta wartość, ważna jest ta jakość, jakieś takie [niepewne: celowanie], użycie tych narzędzi, które rzeczywiście przynosi ci korzyść. Więc jakbym cię zapytał… To może inaczej: gdzie sztuczna inteligencja przynosi ci w tym momencie największą korzyść? Gdzie ty ją wykorzystujesz?
+
+**[11:35]**
+
+**Tomasz Bagiński:** Ja wykorzystuję ją tam, gdzie po prostu jest ileś tam rzeczy, procesów w trakcie pracy nad filmem, nie wiem, kawałkiem muzycznym, ilustracją, które są niesłychanie upierdliwe i zawsze były upierdliwe.
+
+I czasem jeżeli ten koncept na pracę… Jeżeli mamy już jakiś pomysł, którym chciałbym się podzielić z widownią, no to wtedy chcę skrócić jak najbardziej ten czas spędzony na procesach nieciekawych, a raczej skupić się na tym, żeby tę wizję swoją jak najlepiej [niepewne: dokręcić], jak najlepiej przekazać.
+
+**[12:09]**
+
+**Prowadzący:** W procesach nieciekawych, czyli nietwórczych, tak?
+
+**Tomasz Bagiński:** Czasem one są twórcze dla niektórych, ale nie dla mnie na przykład. No bo każdy z nas jest inny, więc każdy z tych ludzi, którzy tworzą, być może znajdzie tę pomoc w tych narzędziach w innym miejscu niż ja. Ale dla mnie akurat jest to bardzo przydatny zestaw młotków.
+
+Ktoś mi kiedyś, niedawno zupełnie, dał bardzo fajne porównanie. Dostaliśmy… Wkręcaliśmy te wkręty śrubokrętem, teraz wkręcamy je wkrętarką elektryczną i to jest o wiele wygodniejsze. Ale to [niepewne: wciąż trochę my] decydujemy, gdzie wkręcamy i jak budujemy ten [niepewne: mebel], jeżeli chcemy mieć nasz autorski [niepewne: mebel].
+
+**[12:51]**
+
+— Ja bym powiedział, że trochę nie używamy wkrętarki, tylko przychodzi tutaj pan Zenek i wkręca za nas, a my patrzymy i [nieczytelne].
+
+— Możemy to w ten sposób zrobić. Ale ja też… No, są dzieła sztuki zbiorowe, filmy takimi dziełami sztuki są, gdzie część, duża część, [niepewne: właściwie] całość pracy kreatywnej i pracy twórczej, jest oparta na dialogu i odbijaniu pomysłów od innych ludzi, i też jakimś tam rodzaju wybierania tych pomysłów.
+
+Tutaj to doświadczenie z [niepewne: dużych] planów filmowych jest bardzo fajne przy pracy z AI, bo to też się trochę wybiera to, co tutaj AI podaje. Jak się okazuje, w tym wyborze jest praca, jest wartość jakaś.
+
+I póki co jeszcze maszyny nie są w tym bardzo dobre. Pewnie będą, ale wtedy pojawi się jeszcze kolejny poziom i kolejny poziom abstrakcji, który będziemy [niepewne: musieli dodawać].
+
+**[13:45]**
+
+**Prowadzący:** [nieczytelne], to skoro weszliśmy na taki szeroki [nieczytelne] ocean, cytując klasyka… Mówi się o kreatywności AI właśnie w kontekście sztuki, ale zdecydowanie rzadziej się mówi w kontekście programowania. Czy w twojej robocie, mówiąc krótko, w heurystyce, nie wiem, optymalizacji, w ogóle istnieje coś, co zasługuje na miano takiego pojęcia jak kreatywność?
+
+**Psyho:** Tak.
+
+— Dziękuję.
+
+**[14:16]**
+
+**Psyho:** Nie, ja to popularnie nazywam, jak dużo osób, ale pewnie nie wszyscy… Popularnie to nazywamy problem solvingiem. To jest… No, rozwiązywanie problemów jest kreatywne. [nieczytelne] są tam aspekty kreatywne.
+
+No możemy je, pewnie tak samo jak w sztuce, [nieczytelne], tak samo mówić o aspektach kreatywnych i aspektach takich bardziej inżynieryjnych, procesowych, [nieczytelne].
+
+Czyli procesowe możemy nazwać to, że mamy pomysł i musimy go przekonwertować na kod. I nadal w tym przekonwertowaniu na kod będą aspekty ciekawe, ale też dużo będzie takiej [nieczytelne] pracy. Więc to jest tak, że chcielibyśmy trochę się tego [nieczytelne] pozbyć, żeby nie było, no bo to jest trudne.
+
+**[15:00]**
+
+Jak już wiemy, co chcemy zrobić, wiemy, że [niepewne: zrobimy] to na sto procent, to potem zostaje tylko [nieczytelne] konwertować czas, kawę i ból [niepewne: pleców] na to [nieczytelne].
+
+— Ból [niepewne: pleców] zaczyna się z pewnego roku życia, więc to jest [nieczytelne] prawda.
+
+— To trochę polega na tym, że w momencie, kiedy już mamy [nieczytelne] AI, to te rzeczy się tak trochę nakładają na siebie. W sensie [nieczytelne] robieniu gier, [nieczytelne] miałem własne studio, więc to było [nieczytelne]. [nieczytelne] nie pytałem, bo ktoś się pytał, nie wiem [nieczytelne] trudny i czasochłonny, [nieczytelne] robienia tego [nieczytelne], więc bardzo [nieczytelne].
+
+— [Niepewne: Jest dużo problemów], tak?
+
+**[15:51]**
+
+— Ja zresztą mam nadzieję, że [niepewne: porozmawiamy z] tej własnej perspektywy człowieka, który zaczyna.
+
+— O, tak, tak. Ale o robieniu gier warto pogadać w ogóle. I tutaj myślę, że może nawet byśmy byli w stanie się zgodzić, bo bardzo duża trudność w robieniu gier w ogóle nie polega na tych technicznych elementach, które [nieczytelne]. To polega na zabawie. Ta gra jest fajna, zabawna czy nie?
+
+— [nieczytelne] z Tomkiem [nieczytelne].
+
+— Ja [nieczytelne] większości rzeczy będziemy się zgadzać z Tomkiem, ale na potrzeby tego panelu możemy udawać, że tak nie jest. [nieczytelne] ciekawiej.
+
+**[16:28]**
+
+Ale aktualnie AI jest beznadziejne [nieczytelne] w tych rzeczach. Takich, gdzie jest proces decyzyjny, jest dużo powodów. [nieczytelne] powodów jest takich czysto technicznych. Jak na przykład modele w stylu czata nie mają inputu wideo, nie mogą analizować czegoś takiego ciągłego. Więc jakby prosić je o zrobienie gry, to one tak naprawdę nie mogą testować, jak ta gra wygląda dokładnie.
+
+W sensie mogą [nieczytelne], zobaczą, jak wyglądają dane, że, nie wiem, robimy [niepewne: platformówkę w 2D], więc będą wiedziały, że [nieczytelne] znajduje się w takich [nieczytelne], ale nie będą miały w ogóle dostępu do tego [nieczytelne] gry. Tutaj nie mają w ogóle możliwości. To jest jeden aspekt.
+
+**[17:09]**
+
+I drugi aspekt jest taki, [nieczytelne], że ludzi, którzy tworzą te modele, bardzo to nie obchodzi, żeby te modele były w tym dobre. To nie jest aktualny priorytet i [niepewne: nie będzie w priorytetach] jeszcze przez bardzo długi czas. W związku z tym, że priorytetem jest przyspieszenie rozwoju samej sztucznej inteligencji. A do tego jest potrzebna dobra matematyka, świetne programowanie, dobry problem solving, ale nie zmysł artystyczny czy jakiś creative writing.
+
+— [nieczytelne]. No dobrze, z drugiej strony [nieczytelne], które powstają szybciej. Jest wiele głosów…
+
+**[17:40]**
+
+– …mówiących o tym, że teraz można zrobić grę komputerową dzięki sztucznej inteligencji, która będzie na takim samym poziomie albo nawet lepszym. Która jednocześnie nie będzie zaburzać procesu twórczego, w takim sensie, że to nie będzie [nieczytelne], ale jednak [nieczytelne] wykonywanie będzie szybsze.
+
+– Ja bym z tym mocno dyskutował, bo wiesz, chciałbym zobaczyć tych ludzi tutaj i dowiedzieć się, co oni w ogóle wiedzą o procesie robienia gier. Znaczy, jasne, są aspekty, które możemy [niepewne: znacznie przyspieszyć], tak jak generacja assetów, prototypowanie. Ale w grach jest milion małych mikrodecyzji, które są wyrażone w kodzie, są wyrażone w assetach.
+
+**[18:20]**
+
+Jak robimy platformówkę 2D, to to, jak robimy, nie wiem, [nieczytelne] platformę, feeling gracza. Te rzeczy nie są do końca dostępne dla tych modeli. I tak można, [nieczytelne] gier, można pracować na [nieczytelne], ale [nieczytelne] powoduje, że gra nie jest [niepewne: grywalna], tak? Bo też tutaj przy tym [nieczytelne].
+
+– Tomek, ty się zaśmiałeś, jak [niepewne: zadałem] to pytanie.
+
+– Nie, no bardzo chciałbym zobaczyć te gry, bo [niepewne: póki co] ich nie ma, nie?
+
+**[18:51]**
+
+Znaczy, jest paru rzeczywiście niezłych twórców, którzy w tej chwili tworzą gry za pomocą AI. Z reguły są to ludzie o gigantycznym doświadczeniu, kilkanaście lat doświadczenia w projektowaniu gier. I wcale im szybko nie idzie, bo oni wiedzą też o tym, że żeby gra działała, żeby była fajna, ciekawa, to w nią trzeba po prostu grać godzinami, dniami, miesiącami, sprawdzać.
+
+Nawet jeżeli ta maszyna mi wszystko zrobi, ona mi po prostu od samego początku do samego końca wymyśli tę całą grę, no to przecież ja, jako ta osoba, która będzie tym okienkiem decyzyjnym…
+
+**[19:28]**
+
+…tą bramką decyzyjną tej gry, muszę w nią zagrać. Coś mi się nie podoba, będę chciał to zmienić. I ja tu będę spowalniał ten proces, bo zwyczajnie jestem człowiekiem. Nie mam mocy przerobowych tysiąca maszyn.
+
+A maszyny póki co jeszcze nie są tak dobre w tym. I być może kiedyś się pojawią, może nawet niedługo, jakiś rodzaj [nieczytelne]. Że te maszyny będą, nie wiem, w jakimś rodzaju gier, w którym takie coś można odpalić. To pewnie jakieś massive multiplayer games. Być może się pojawi jakiś rodzaj [nieczytelne], gdzie się będą, nie wiem, wzmacniać tylko te misje…
+
+**[20:01]**
+
+…w które ludzie grają, na przykład [nieczytelne] dużo ludzi gra. I na pewno to będzie się działo z contentem wideo. Tylko że mi się wydaje, że też będą ludzie, którzy się tym po prostu szybko zmęczą.
+
+Jakby się okaże, że może ja na przykład wolę zagrać w grę gorszą, ale napisaną przez człowieka. Bo ja mogę potem temu człowiekowi napisać [nieczytelne]. Na przykład. Na przykład, bo to przecież wymiana emocji, nie?
+
+Co z tego, że ja AI napiszę, że [nieczytelne]?
+
+**[20:34]**
+
+Nic to nie zmienia, nie? Nie będzie tu żadnej wymiany emocji, żadnego uczucia, nic. Więc pewnie będę chciał też interakcji z człowiekiem.
+
+– Mówisz o tym, że AI nie zrobi się smutno, jak ją obrazisz?
+
+– Być może się zrobi, tylko że nie będzie ta emocja dla mnie dostępna do końca.
+
+– W każdym razie, jak rozumiem, jesteście [niepewne: przekonani], że świat gier, o którym rozmawiamy, to jest ta przestrzeń bliższa sztuce, to jest projektowanie gier, niż najbrudniejszej robocie, że potrzeba tego…
+
+**[21:13]**
+
+– Nie, nie, jest tam jedno i drugie. Pamiętajmy, jest jedno i drugie, bo to najbrudniejsza robota i ta niedoskonałość świata, która tam to wszystko spowalnia. To się fajnie zateoretyzuje, nie, że gra to jest jakiś tam teoretyczny twór. A ona potem jest testowana w świecie rzeczywistym przez ludzi.
+
+I to nie tylko dotyczy gier, bo jest masa innych przedsięwzięć ludzkich, które są po prostu testowane w świecie rzeczywistym. I ten [nieczytelne] tam wpada wtedy między te wspaniale zaprojektowane przez maszynę zębatki.
+
+**[21:46]**
+
+I tak się okazuje, że coś zgrzyta i coś nie działa, i [nieczytelne]. Więc jedno i drugie, na szczęście.
+
+– A jeżeli chodzi o przemysł filmowy, czy na przykład, tak sprowadzając też do konkretu, do ostatniego sezonu „Wiedźmina” na przykład, gdzie jest planowane użycie jakichś narzędzi wspomagających [nieczytelne]? Takie rzeczy się dzieją? Czy możesz o tym mówić?
+
+– Po pierwsze, nie bardzo mogę o tym mówić, bo sezon jest jeszcze przed premierą.
+
+**[22:17]**
+
+Po drugie, w tej chwili w dużych korporacjach filmowych nie mówi się „AI”, mówi się „uczenie maszynowe”.
+
+– Może [nieczytelne].
+
+– A uczenie maszynowe to jest w grafice i w VFX-ach, na przykład w animacji, od dwudziestu lat co najmniej, jak nie dłużej. Te algorytmy tylko ewoluują. Teraz to troszeczkę przyspieszyło, ale to nie jest nic nowego.
+
+Więc ktoś, kto jest, nie wiem, anti-AI, no to powinien zrozumieć, że ludzie też używają Photoshopa wyładowanego AI po same dziurki w nosie…
+
+**[22:50]**
+
+…używają narzędzi montażowych, które są wyładowane uczeniem maszynowym po same dziurki w nosie. I gdzieś tam to nie jest nic nowego. Szum wokół tego jest nowy, ale same narzędzia mają w sobie modele sztucznej inteligencji, nawet takie zaawansowane, pewnie od kilkunastu lat. Ale właściwie od samego początku jakieś neuralne systemy do wspomagania animacji.
+
+**[23:20]**
+
+– Ja bym trochę to jednak dzielił. W sensie rozumiem, o czym mówisz, ale to, że mamy modele generujące wideo, no to jest…
+
+– Nie, nie, to jest nowe. Tylko modele generujące wideo nie są aż taką gigantyczną zmianą, wbrew pozorom, jeżeli chodzi w ogóle o skalę przemysłu filmowego. To jest trochę… Mógłbym opowiadać godzinami, dlaczego, ale…
+
+– Mówisz na stan dzisiejszy?
+
+– Na stan dzisiejszy i nie wiem, czy nie będzie też tak w przyszłości. Znowu, jak oglądamy film, to my potem może chcemy znać tego aktora…
+
+**[23:56]**
+
+…przyjść na tę premierę, na którą przyjdzie ta piękna aktorka w tej pięknej sukni i tak dalej. I potrzebujemy całej tej dodatkowej warstwy kontekstu wokół tego całego filmu.
+
+Więc samo to, że my możemy sobie wygenerować godzinę czy dwie godziny filmu [niepewne: w] pięć minut, to automatycznie nie nadaje wartości temu. Tylko kontekst dookoła nadaje.
+
+– Oczywiście, jasne, możemy wchodzić tutaj w branżowe niuanse i to też tam odkryjemy kilka ciekawych rzeczy. Natomiast też rozumiesz, o co próbuję się może trochę tak okrężną drogą, ale jednak zapytać.
+
+**[24:28]**
+
+Znaczy, pytanie jest bardzo proste: czy tobie od czasu rozwoju generatywnej sztucznej inteligencji, od 2022 roku, a działasz przecież w swojej branży, w swoich branżach bardzo długo, czy tobie to po prostu coś ułatwiło? Czy tobie się pracuje szybciej, lepiej? A może wręcz przeciwnie, może masz trochę inne doświadczenie?
+
+– Zależy od projektu. Ja akurat używam tych narzędzi z dużą zabawą do robienia bardzo krótkich żarcików, które po prostu wcześniej bym ich nie robił. Bo wpadam na pomysł, chciałbym zabawić publiczność tym pomysłem i jestem w stanie zainwestować w ten pomysł kilka godzin…
+
+**[25:05]**
+
+…dzień życia, żeby tę publiczność [niepewne: zabawić]. Ale nie jestem w stanie zainwestować trzech miesięcy, tak jak było trzy lata czy cztery lata temu, bo to jest zbyt [niepewne: błahe]. Po prostu.
+
+– A czy gdyby egzekucja tego pomysłu, wykonanie go [niepewne: w języku polskim], zajmowała dziesięć sekund, czy miałbyś satysfakcję z tego?
+
+– [nieczytelne]
+
+– Ja się mogę [niepewne: rozmyślić].
+
+– Nie wiem. Na razie jeszcze nie miałem tego typu sytuacji, bo z reguły jest tak, że to, co widzą ludzie, też nigdy nie jest pierwszą wersją.
+
+**[25:39]**
+
+Więc nawet jeżeli to będzie dziesięć sekund… Ja tutaj dam taki przykład. Strasznie dużo gadam, za chwilę oddam głos, ale jest taki jeden przykład, który wydaje mi się dosyć barwny. Mianowicie: czy montażysta w filmie jest artystą? Wydaje się, że jest.
+
+A montażysta przecież dostaje wszystkie te ujęcia za darmo od produkcji. To nie jest tak, że on tam był na tym planie. Czasem był, ale tam [nieczytelne]. De facto dostaje te dziesiątki, setki godzin materiału, z których potem wyłapuje te momenty emocji u aktorów…
+
+**[26:11]**
+
+…te momenty, nie wiem, ciekawy kąt, tutaj coś fajnie weszło w rytm. Podkłada muzykę, jedną, drugą, trzecią. Kurczę, ta nie zadziałała, ta zadziałała, ta jest fajna, ta nie jest fajna. [nieczytelne] tak bardzo nie różni się od pracy z generatywnymi modelami, które też nam [niepewne: wypluwają] za darmo bardzo dużo ujęć.
+
+Ale ile jest tych dobrych filmów generatywnych? No jest parę, bo zajęli się tym talentowani montażyści, talentowani ludzie. Ale jest o wiele mniej, niż ta skala tego przemysłu by pozwalała…
+
+**[26:42]**
+
+…o wiele mniej. Bo tu wchodzi ten sam proces, o którym rozmawialiśmy w grach. Ktoś to musi obejrzeć, sprawdzić jeden, drugi, trzeci raz. Więc nawet jak mi to wygeneruje w dziesięć sekund, to nie sądzę, żeby od pierwszego strzału było to dokładnie takie, jakie ja chcę.
+
+– Ja bym tutaj się czepił tego, że pierwszymi [niepewne: early adopterami] tego techu są zazwyczaj osoby, które [nieczytelne] techem, a mają bardzo mało doświadczenia w tego typu branżach.
+
+– To też, to też.
+
+– I nie zdają sobie sprawy z poziomu skomplikowania przeciętnej produkcji, czy growej, czy filmowej. Że to, co im się wydaje, że: „O Jezu, można teraz zrobić jedno ujęcie w sekundę zamiast dwóch tygodni”…
+
+**[27:25]**
+
+– [nieczytelne]
+
+– Tak naprawdę, jeśli rozmawiamy o czymś więcej, czyli poziomie skomplikowania [nieczytelne] dziesięć sekund, o których wspomniałeś. Czyli to jest też pytanie o to, czy liczy się efekt, czy wystarczający efekt. Na przykład to, czy gra będzie grywalna, czy nie będzie grywalna. Czy liczy się też proces? Przykładamy w ogóle wagę do tego procesu? To raz, czy przykładamy wagę, ale także czy my go rozumiemy w ogóle? Żebyśmy rozumieli, jak działa ten proces, jak on został przeprowadzony.
+
+Tutaj bym jeszcze teraz się odwołał do nauki, do badania naukowego…
+
+**[27:57]**
+
+…czy do takiej sprawy, która w ostatnich tygodniach odbiła się szerokim echem. Gdzie umiejscowić tak naprawdę ostatnie osiągnięcie nauki, ale też sztucznej inteligencji, przede wszystkim sztucznej inteligencji, czyli rozwiązanie, a przynajmniej częściowe, równań Naviera–Stokesa, które są podstawą mechaniki płynów. Tutaj moja wiedza na ten temat się kończy.
+
+Ale jakby nie chodzi o samo to rozwiązanie…
+
+**[28:27]**
+
+…tylko chodzi mi o to, czy nam wystarczy prawidłowa odpowiedź, czy nam wystarczy efekt, czy jednak potrzebne jest coś więcej?
+
+– Dobra, to jest to, nad czym myślałem [nieczytelne] długo i nie mam dalej żadnej sensownej odpowiedzi. Z mojego doświadczenia, to tak powiem bardziej [niepewne: empirycznie], patrząc na ludzi wokół mnie i powiedzmy trochę dalej, no to każdy ma tak, że ma te swoje sfery kreatywne. I to są te miejsca, gdzie [nieczytelne] proces.
+
+**[29:02]**
+
+A na wszystko inne to ma trochę [nieczytelne] i liczy się zazwyczaj tylko efekt. W sensie lubimy dzielić ludzi na tych kreatywnych, na tych konsumentów, [nieczytelne], którzy chcą mieć władzę nad światem. Ale w praktyce jest tak… Tak samo możemy mówić o sprawczości.
+
+W praktyce jest tak, że każdy z nas ma swoje kreatywne sfery. Tą kreatywną sferą może być [nieczytelne], może być robienie filmów, gier…
+
+**[29:35]**
+
+…ale też może być po prostu wysławianie się, pisanie, może jakaś [niepewne: stand-upowa komedia].
+
+– Może granie w piłkę.
+
+– Albo ubieranie się, to jakieś ciuchy sobie dobieramy. Ale tak, sport też będzie czymś takim, więc…
+
+– [nieczytelne] sensu życiu, tak? Mówisz o takiej [niepewne: sprawczości].
+
+– Do jakiegoś stopnia tak. W sensie, bo to jest osobna wartość, która daje nam ten sens życia. [nieczytelne], że ciężko o tym mówić. Więc tak samo jak w matematyce…
+
+**[30:06]**
+
+…tak samo w wielu innych dziedzinach będziemy mieć ludzi, którzy po prostu chcą efekt, a chcą, żeby ten proces był fajny. I trochę problemem… I do tej pory [nieczytelne] taki fajny świat, w którym to, jeżeli ktoś się interesuje tym procesem, to zazwyczaj wnosi dużą wartość. I powiedzmy ekonomicznie to się wszystko spina, że jedni i drudzy mogą jakoś tak [nieczytelne] bardzo fajnie.
+
+I teraz AI zaburza [nieczytelne] bardzo mocno. I nie wiemy do końca… Znaczy, dobra, ja będę [nieczytelne], że nie wiemy do końca. Ja mam swoje przeświadczenia.
+
+– Jak będzie? Czy kiedy będzie koniec?
+
+– Tak.
+
+**[30:42]**
+
+– To musisz nam powiedzieć, kiedy będzie koniec.
+
+– A może przypadkiem czas [nieczytelne].
+
+– Może [nieczytelne] minut.
+
+– Może jeszcze [nieczytelne].
+
+– No dobra, to może [nieczytelne] to, że AI często [niepewne: drastycznie zaburza] tę ekonomię. Na przykład w grach w tej chwili [nieczytelne], żeby zrobić dobrą [niepewne: rzecz], to AI jeszcze tak bardzo nie pomaga nam w tym. Ale jeżeli chcemy po prostu sklonować coś, co było zrobione tysiąc razy, i najlepiej jeżeli ktoś nam [nieczytelne] kod do tego typu gier, to to nie będzie aż tak bardzo trudne.
+
+**[31:24]**
+
+W sensie, w tym AI nam pomoże. Więc ta ekonomia się zaburza, bo robienie tego, co popularnie nazywamy slopem, jest w tej chwili ekstremalnie tanie. W momencie, kiedy robienie tych ambitnych rzeczy… koszt tego nie spadł aż tak bardzo. I [niepewne: konsumenci] tego typu [nieczytelne] muszą się dostosować.
+
+Ciężko powiedzieć, jak się zmieni rynek, bo w tym momencie mamy problem [niepewne: z podażą]. I to jest w ogóle taką bardzo ciekawą rzeczą.
+
+– Ale to jest bardzo duży [nieczytelne].
+
+**[31:54]**
+
+– Tak, ale możesz wyjaśnić ten [nieczytelne].
+
+– Ale to, o czym mówisz, jest o tyle ciekawe, że to dotyka właśnie kontekstu wokół. Czyli czy jesteśmy poza samym produktem w stanie wykreować taki kontekst dookoła, żeby ten produkt był fajny, sprzedawalny, ludzie go chcieli?
+
+Ja lubię przytaczać przykład sprzed bodajże dwóch lat, gdzie za sześć milionów dolarów został sprzedany banan przyklejony do ściany. I to była wielka sztuka. I w dodatku ekonomicznie artyście najwyraźniej bardzo się opłaciła.
+
+**[32:26]**
+
+Ale nie z powodu tego, że tyle jest wart banan przyklejony do ściany, tylko z powodu kontekstu wokół, opowieści, takiej gry społecznej, która się wokół tego zbudowała.
+
+[nieczytelne] Jacek. Jacek napisał o tym książkę [niepewne: „Dnia oporu”], właśnie o szukaniu sensu w tym wszystkim, projektowaniu nowych gier społecznych. I gdzieś tam być może część kreatywności ludzkiej przesunie się w tym kierunku właśnie.
+
+**[32:58]**
+
+W pole takiego projektowania tych społecznych gier. I zobaczymy, jak bardzo AI na to będzie wpływało.
+
+Ja jestem zdania, że mniej więcej od roku jesteśmy już w Singularity, czyli nie do końca możemy przewidzieć przyszłość na bazie starych… na bazie analogii historycznych. Więc trochę idziemy w ciemność, nie wiemy, co się wydarzy.
+
+Ale mi się wydaje, że jeszcze sporo pola do wymyślania nowych gier społecznych i nowych narracji wokół tego wszystkiego będzie, nawet jeżeli to wszystko przemysłowo tak niesamowicie przyspieszy.
+
+**[33:31]**
+
+– Ja chciałem wrócić do tego [nieczytelne], żeby nie było [nieczytelne]. Więc generalnie z AI mamy taki magiczny problem, że koszt generacji contentu generalnie nam maleje. I teraz pomińmy, jak dobrej jakości jest ten content. Ale koszt oceny contentu może niekoniecznie pozostaje ten sam, ale drastycznie zwiększa się rozjazd między tymi dwoma rzeczami.
+
+Teraz jeżeli ten koszt jest bardzo duży, to w tym momencie zalew ogromną ilością slopowatych rzeczy jest problemem dla tych dzieł, które są wysokiej jakości.
+
+**[34:08]**
+
+I mamy trochę rozwiązań tego problemu, ale generalnie one są bardzo kiepskie. Mamy tam popularnych artystów, mamy social media [nieczytelne], ale to powoduje, że ciężko w tym momencie będzie się przebić nowym. I oczywiście zawsze [nieczytelne], zawsze może [nieczytelne].
+
+– A jeżeli [nieczytelne], jeżeli popatrzymy na [niepewne: Steama], kiedyś było tak, że gier nie trzeba było marketować, bo gier wychodziło generalnie bardzo mało.
+
+**[34:39]**
+
+[nieczytelne] platforma gier [nieczytelne]. Teraz w tej chwili każda gra musi mieć bardzo silny marketing. Bez tego ani rusz. Takim ekstremalnym przypadkiem jest [niepewne: rynek gier mobilnych]. Generalnie ten zalew tej uzależniającej kupy, bo tak to można [niepewne: nazwać]. [Niepewne: Ponad dziewięćdziesiąt dziewięć procent] kasy jest w grach, które [nieczytelne], [niepewne: jedyne, po co tam są, to uzależniają].
+
+To tak strasznie zdominowało rynek, że w tym momencie [nieczytelne] na komórkę można robić…
+
+**[35:13]**
+
+…[nieczytelne] dużo pracy [nieczytelne] można zrobić. To jest w końcu taki zupełnie inny, unikalny [niepewne: interfejs]. To ludzie przestali to robić…
+
+**[35:20]**
+
+— Ze względu na to, że ta platforma jest tak [niepewne: techniczna], że nie da się przebić z niczym [niepewne: minimalnie] ambitniejszym. To jest [nieczytelne]. Tego typu gry... Większość osób, które tam pracują, to są data scientists, którzy [nieczytelne] wszystkie statystyki, a te [nieczytelne] w tym samym stanie. I to czeka prawdopodobnie bardzo dużo innych [nieczytelne]. Ale to też oznacza, że ludzie, którzy szukają trochę innych gier, już tam po prostu nie szukają gier.
+
+— Tak, ale no...
+
+**[35:53]**
+
+— [niepewne: Wędrują] do miejsc, w których koszt wejścia jest dużo większy, czyli jest ciężej wygenerować dużo contentu. I w tym momencie oczywiście jest duża szansa, że będziemy znajdować nowe miejsca, gdzie te koszty są spore. I to w jakiś sposób [nieczytelne] całość.
+
+— Ja... Mi się tak wydaje, że gdzieś tam mimo wszystko jest ileś nisz jeszcze nie do końca wyeksplorowanych. I to też dotyczy handlu. To też dotyczy reklamy. To też dotyczy jakiejś takiej...
+
+**[36:23]**
+
+— Powiedzmy, tej narracji o produkcie, nie? Gdzie być może nawet AI będzie nam pomagało w znajdowaniu tych miejsc. Być może stanie się bardzo dobre w budowaniu takiej narracji o produkcie. Ale mi się wydaje, że tu jest jeszcze niesłychanie dużo do odkrycia. Po prostu. Że my nawet nie zaczęliśmy eksplorować niektórych obszarów związanych czy z reklamą, czy z docieraniem do ludzi, czy, nie wiem, budzeniem emocji u widowni. I gdzieś tu widzę pole...
+
+**[36:53]**
+
+— Dla przeniesienia się umysłów kreatywnych. Że gdzieś tutaj jeszcze będzie być może ta ocena człowieka potrzebna przez jakiś czas. Potem oczywiście dojdzie... Jak zaczniemy, nie wiem, sczytywać mózgi, emocje prosto z mózgu i tak dalej, to być może się to jeszcze bardziej skomplikuje. Ale zobaczymy. Ja mam takie mocne przekonanie, że ciężko się z poziomu takiego naszego, trochę jednak zwierzęcego, małpiego mózgu...
+
+**[37:24]**
+
+— Wykreowanego ewolucją, przeznaczonego do zupełnie innych rzeczy... Bo my jesteśmy zbudowani do tego, żeby, nie wiem, uciekać przed tygrysem, przetrwać zimę na korzonkach i grzybkach, i tak dalej. Że trochę ciężko z poziomu tego typu mózgu analizować, co się nam wydarzy cywilizacyjnie, bo prawdopodobnie nie do końca rozumiemy w ogóle rzeczywistość.
+
+— Są też osoby, które próbują ją przewidywać...
+
+**[37:55]**
+
+— Jest ich nawet całkiem sporo. Co więcej, mam takie poczucie, bo teraz tutaj zmierzam do tej debaty medialnej, publicznej, która toczy się w ostatnich tygodniach, że to się pojawia tak falami. Mamy na przykład taki moment, kiedy to się zaczęło od Daria Amodeia, szefa firmy [niepewne: Anthropic], który mówi: „Nie no, słuchajcie, jednak [nieczytelne], przeszarżowaliśmy, trzeba to spowolnić [nieczytelne] rozwój sztucznej inteligencji, bo to wszystko idzie za szybko”. Później pod niego podłączają się kolejni, podłącza się Sam Altman, podłącza się Elon Musk.
+
+**[38:25]**
+
+— I tak się zastanawiam, bo rozmawiamy tutaj na różne tematy dzisiaj od godzin porannych: jaki to ma wpływ w ogóle? To znaczy, czy rzeczywiście powinniśmy się takimi sygnałami niepokoić? Czy powinniśmy jakoś uwzględniać to, co się dzieje gdzieś tam na górze, to, co słyszymy z [nieczytelne], przy tym, co robimy? I czy w ogóle powinniśmy [nieczytelne]? Czy powinniśmy teraz zacząć mówić inaczej o tym wszystkim? Że skoro szykują się nam trudne czasy, to może nie powinniśmy być...
+
+**[38:55]**
+
+— [niepewne: Takimi] optymistami, jeżeli ktoś jest optymistą, oczywiście.
+
+— Ale wpływ na co konkretnie? Na wyceny spółek? Czy...?
+
+— Nie, bo... Bo [niepewne: znasz tę] dyskusję, prawda?
+
+— Oczywiście, że znam. No i to jest jakiś rodzaj tam PR i narracji, które trzeba tam budować. Bo...
+
+— Ale to jest odpowiedź.
+
+— Tylko że znowu wybierzmy konkretnie: wpływ na co konkretnie, nie? Poza tym, że powstaje jakiś rodzaj narracji, żeby być może...
+
+**[39:28]**
+
+— Teorii jest bardzo dużo, ale być może nie dopuścić nikogo innego do tego rynku. My się tutaj dogadamy we trójkę, [nieczytelne], budują sobie taką fajną bandę i będą kontrolować rozwój AI na obszarze tak zwanej kultury zachodowej, nie? No, w tym są gigantyczne pieniądze. Ja doskonale rozumiem tę narrację od tej strony. Tylko czy to jest pytanie o to właśnie? Czy to jest pytanie o zagładę, która nas czeka?
+
+**[40:00]**
+
+— Co ja akurat nie do końca [niepewne: wiem].
+
+— **Adrian Bąk:** Nie, to jest pytanie o wszystko po trochu, no bo koniec końców jednak ważne są emocje, prawda? To znaczy ważne są rzeczy, które robimy wciąż jako ludzie, ale ważne jest to też, w jakim środowisku się odbywa. I na przykład, nie wiem, Psyho, jak ty słyszysz, że szefowie big techu mówią, że my tracimy kontrolę... Że jest takie [nieczytelne], że się pojawia, że powoli tracimy kontrolę. Ta utrata kontroli... Sobie myślisz, że tak rzeczywiście jest? Czy się z tym zgadzasz?
+
+**[40:32]**
+
+— **Psyho:** [nieczytelne] temat. Tak żeby było jasne: mogę [nieczytelne] trzy godziny... No, trochę więcej, pewnie ze trzy dni, a co najmniej [nieczytelne], żeby tak sensownie przedstawić. Postaram się zrobić jak najbardziej skróconą wersję i [nieczytelne] postaram się zrobić jak najobiektywniej potrafię. Generalnie jest tak, że jest dużo ludzi, którzy zastanawiali się od długiego czasu, jak będzie wyglądał świat w momencie, kiedy [nieczytelne]...
+
+**[41:02]**
+
+— [niepewne: Superpotentne modele]. No i tak się złożyło, że ci ludzie, którzy tym się zajmowali, zajmowali się [nieczytelne] sztuczną inteligencją. I w dużej mierze to są ludzie, którzy teraz [nieczytelne]. W sensie, jeżeli mówimy o tym, że Dario Amodei gada o tym, że skończy się świat, to nie jest tak, że on zaczął to mówić miesiąc temu czy dwa miesiące temu. To jest tak, że on generalnie mówi o tym od kilkunastu lat i [nieczytelne] nic się nie zmieniło. W sensie to na razie jest cały czas to samo.
+
+**[41:32]**
+
+— Więc jestem zawsze zmęczony tym, że mamy gadkę o tym, że jest bardzo dużo... Znaczy, dobra, jakby trochę PR też oczywiście [nieczytelne]. Znowu jest bardziej skomplikowane, ale mamy ten aspekt. Ci ludzie od kilkunastu lat [nieczytelne] mówią wszystko konsekwentnie i generalnie bardzo dobrze [nieczytelne], jak [nieczytelne]. W związku z tym [nieczytelne] to, co mówili, i [niepewne: samemu to ocenić]. Tak więc to jest jeden aspekt. Drugi aspekt jest taki, że jest dużo osób, które oczywiście się temu przeciwstawiają.
+
+**[42:06]**
+
+— To są bardzo często ludzie, którzy mają bardzo mało wiedzy. Też bardzo często mają interes monetarny w tym, żeby było inaczej. Trzeba brać to pod uwagę. Jeżeli mielibyśmy jakieś konkretne odpowiedzi, [niepewne: mogę się] wtedy dalej odnieść. Trzecią sprawą jest to, żeby nie było tak, że Dario i inni są tacy wspaniali, bo nie są. [nieczytelne] podejście w każdym razie mniej więcej wygląda tak. Tak człowiekowo można na to spojrzeć, że: „No dobrze, [nieczytelne]”. Ale to są [nieczytelne] ludzie i zazwyczaj jest tak, że [nieczytelne] pełną wiedzę o sobie, ale bardzo mało wiedzy o innych. Więc każdy ma przekonanie, że jest tym dobrym.
+
+**[42:51]**
+
+— Tak więc jeżeli [nieczytelne], to będzie dobrze. Ale jeżeli [nieczytelne], no to wygra ktoś inny i o tym innym ciężko nam [nieczytelne]. Czyli Sam myśli, że Sam jest dobry, a Dario jest zły. Dario mówi, że Sam jest zły i każdy sobie po prostu ma rację. Tak więc nikt nie chce oddawać władzy. A kolejnym problemem jest to, że nie jest tak, że mamy tylko ten problematyczny alignment i inne rzeczy wokół. Tak że oczywiście mamy też problem z koncentracją władzy.
+
+**[43:21]**
+
+— Czyli jeżeli oddalibyśmy, nie wiem, [nieczytelne] Anthropicowi, bo wierzymy, że Anthropic jest dobry, to [nieczytelne] strasznie dużo wpływu. No i nie oszukujmy się: oni mają tam jakiś [niepewne: bias światopoglądowy], swoje własne [nieczytelne]. Więc mamy taki, w bardzo dużym uproszczeniu, gigantyczny suwak, którym wybieramy, czy chcemy, żeby było bardziej bezpiecznie na świecie, ale jednocześnie była koncentracja władzy, czy chcemy zminimalizować [nieczytelne], chcemy zmniejszyć koncentrację władzy. To nie jest nowy suwak zresztą. Tak, przy czym ja nie wiem, ile razy w historii świata było to, że... No, to [niepewne: pewnie] nie jest bardzo realne.
+
+**[43:59]**
+
+— Powiem tylko jeszcze o innej rzeczy, bo to jest takie [nieczytelne]. Wydaje mi się, że mamy ten i następny panel, więc trochę [nieczytelne]. Ale aktualnie perspektywa jest taka, że, tak jak wspomniałem wcześniej, wszystkie laby... Celem labów od zawsze i znowu [nieczytelne] dziesięć lat wcześniej i to [nieczytelne], było zmaksymalizowanie tempa rozwoju sztucznej inteligencji. To, że są te modele, które wspaniale programują, nie wynika z tego, że laby chciały zrobić modele, które świetnie programują...
+
+**[44:33]**
+
+— Wynika z tego, że chciały maksymalnie zwiększyć [nieczytelne]. I przy okazji musiały zrobić rzeczy, które pomagają w tym, między innymi programowanie. Czyli laby [niepewne: zapierdalają] do przodu tak strasznie szybko, jak mogą, a przy okazji starają się [niepewne: nie wyłożyć się] finansowo przy [nieczytelne] kwartałach. I to jest... Tak wygląda ta perspektywa. I teraz aktualnie jest tak, że większość researchu w tych labach jest już zautomatyzowana.
+
+**[45:04]**
+
+— W sensie, pomijając tam [niepewne: research space], pomijając jakieś [niepewne: big bets] z dużymi projektami, z dużymi eksperymentami. Jak ktoś dużo koduje, to jest w stanie zauważyć, jaki był postęp w modelach pod kątem [niepewne: kodowania]. Ten postęp jest widoczny od kilku miesięcy. Wiemy, że mniej więcej zajmuje trzy–cztery miesiące, więc takie opóźnienie między tym, co [nieczytelne] mają dostępne [nieczytelne] u siebie, a tym, co ludzie mają dostępne. Generalnie dopiero wchodzimy w taki moment od paru miesięcy, w którym [niepewne: laby] wewnątrz są w stanie przyspieszyć tempo [nieczytelne]...
+
+**[45:40]**
+
+— Mają pieniądze [nieczytelne] i są w stanie [nieczytelne] mnóstwo intelektualnej pracy do tych modeli. Czyli każdy z tych [nieczytelne], można powiedzieć, [nieczytelne] asystentów. Zresztą jak mówię [niepewne: rzesze], mam na myśli tysiące, bo takie mają możliwości skalowania. Więc dopiero od tego momentu, mniej więcej od paru miesięcy, wchodzimy w tempo, kiedy ten rozwój AI zacznie się przyspieszać. I tak, pewnie będą jakieś [nieczytelne], ale [nieczytelne]. Jeżeli ktoś śledzi bardzo na bieżąco, to będzie wiedział, że [nieczytelne], generalnie [nieczytelne] to był bardzo duży skok...
+
+**[46:18]**
+
+— [nieczytelne] to jest gigantyczny skok. Modele w tej chwili są w stanie przejść [niepewne: z marszu] [nieczytelne]. To było absolutnie niewykonalne. Jak przez lata żartowaliśmy sobie, [nieczytelne] modeli. Jakby po prostu było w stanie [nieczytelne]. Jak to jest możliwe? Przecież to jest dekady przed nami, a właściwie to jest trochę [nieczytelne] rzeczywiste na dzisiaj. To nie jest tak [nieczytelne] dla wszystkich. [nieczytelne]...
+
+**[46:48]**
+
+— To jest perspektywa, która [nieczytelne]. To jest [nieczytelne], jak rozumiem, [nieczytelne], że to wszystko będzie w takim czasie.
+
+— W tym czasie?
+
+— To, o czym mówiłeś, czyli że to wszystko tak szybko [nieczytelne], że to jest taki czas...
+
+— W sensie ja mówię o tym, żeby było jasne, że dopiero teraz wchodzimy w moment [nieczytelne] i będzie się rozwijać bardzo szybko, jeżeli [nieczytelne]...
+
+— **Adrian Bąk:** Dobrze, to tak już zmierzając do końca. Oczywiście zapytałem o to, co się dzieje na świecie...
+
+**[47:20]**
+
+— Bo tak jak my prawdopodobnie mamy już pewnie jakąś tam ugruntowaną pozycję zawodową, ale wracając do początków naszej dyskusji, bo wspomnieliśmy o studentach, to pewnie wielu jest takich młodych ludzi, też pewnie na tej uczelni, którzy też słuchają tego wszystkiego i sobie myślą: „No dobrze, ale skoro ci wszyscy najwięksi mówią, że to może czas trochę zwolnić, albo że za chwilę będziemy się [nieczytelne], czy w ogóle warto w to wchodzić? Czy w ogóle warto się tym zajmować? Czy może trochę nie przeformułować tych swoich planów...?”
+
+**[47:51]**
+
+— Jeżeli takie plany były. I takie też pytanie chcę wam postawić: czy warto?
+
+— Zależy co, bo to znowu my nadajemy wartość, nie? To my budujemy zasady gry. Jeżeli ktoś, nie wiem, bardzo się źle czuje we współczesnym świecie, to, nie wiem, zostaje amiszem, być może.
+
+— [niepewne: AI-miszem].
+
+— [niepewne: AI-miszem]. Wymyśla sobie inny zestaw zasad gry, w którą zaczyna grać, tej społecznej, nie?
+
+**[48:24]**
+
+— I wydaje mi się, że my jesteśmy rzeczywiście teraz w takim okresie transformacji, że takie decyzje w sposób sensowny jest bardzo ciężko podjąć. No bo tym się charakteryzuje singularity: ciężko przewidzieć, co się za chwilę wydarzy. Trochę nam się wywaliły stare modele świata, a nowy model świata jeszcze nam nie do końca się zbudował. Więc tutaj faktycznie ciężko coś doradzać na przyszłość. I tutaj ja, będąc optymistą, jestem też przekonany, że będziemy świadkami rzeczy absolutnie strasznych...
+
+**[48:55]**
+
+— Związanych z AI, bo gdzieś po drodze, w trakcie tej transformacji, prawdopodobnie coś bardzo złego się z tym wydarzy. Tylko że znowu mam takie poczucie, że my dosyć ciągle słabo rozumiemy rzeczywistość, bo jesteśmy zbyt ograniczeni po prostu, żeby w ogóle zrozumieć, czym rzeczywistość jest. I być może w tej rzeczywistości są jakieś blokady, jakieś mechanizmy, jakieś miejsca, które ten cały proces wywrócą, zmienią, przekręcą.
+
+**[49:27]**
+
+— Zobaczmy, że programiści rzadko są z jakiegoś powodu dyktatorami i prezydentami. Programistami [nieczytelne] zazwyczaj [niepewne: zarządzają] znacznie głupsi od nich.
+
+— A czy to jest taki może bardzo...?
+
+— Nie wiem.
+
+— Bo okazuje się, że inteligencja być może nie jest do końca funkcją władzy, nie?
+
+**[49:58]**
+
+— [nieczytelne] inteligencji. Są też tacy [nieczytelne], którzy powiedzieli po prostu, że polityka jest najważniejsza.
+
+— Być może, ale tego do końca nie wiem, bo naprawdę mechanizmy świata... No to filozofowie [niepewne: spierają się] nad mechanizmami świata.
+
+— No dobrze, [nieczytelne].
+
+— Ja chciałem [nieczytelne].
+
+— O, tak.
+
+— Nie wiem, czy to będzie dobra odpowiedź. Po pierwsze, chciałem tylko dodać, że ty powiedziałeś, że mało rozumiemy świat. Wydaje mi się, że będziemy coraz mniej rozumieć świat.
+
+— Tak podejrzewam, bo to w sumie też nie jest tak...
+
+**[50:28]**
+
+— No bo to jest [niepewne: naturalny stan] dla człowieka, że będziemy po prostu... Tutaj [niepewne: Bóg AI walnął piorunem] gdzieś. No okej...
+
+— No trzeba się [nieczytelne]...
+
+— Widać miał powód, tak?
+
+— A tak po prostu wracając do tego pytania, jeśli jeszcze je dobrze pamiętam: jesteśmy w takim momencie, gdzie... Oczywiście jest masa różnych zagrożeń i może być [nieczytelne], to [nieczytelne], ale też dzięki [nieczytelne] pojedyncza jednostka ma największą [nieczytelne], jaką kiedykolwiek miała w historii. Pomijając tam jakichś tam [nieczytelne], którzy sobie [nieczytelne] i coś robili.
+
+**[51:03]**
+
+— Więc jeżeli szukacie jakiejś takiej motywacji, można się teraz wszystkiego dużo szybciej nauczyć. A to dalej ma jeszcze bardzo duże znaczenie.
+
+— Tak, zdecydowanie popieram tego pana.
+
+— Tak, to też jest. Ale jeżeli chcecie zrobić jakąś firmę, [nieczytelne] prototypuje się [nieczytelne], nieporównywalnie szybciej. Bo zawsze tutaj w branży [niepewne: growej] się śmieję, że było takie stanowisko jak idea man. To ten człowiek z pomysłem, który nie potrafił zrobić absolutnie nic innego.
+
+**[51:34]**
+
+— Dzisiaj ten człowiek może [nieczytelne] zrobić rzeczy i w międzyczasie może się całkiem szybko nauczyć. Więc naprawdę w ciągu paru dni, godzin często można się [nieczytelne] dużo nauczyć. Ja w tej chwili robię projekty programistyczne w kilka minut, które by mi zajęły po kilka dni. W sensie kilka minut [niepewne: promptu], a potem idę się położyć na macie [nieczytelne], bo potrzebuję tego.
+
+— Nie wiem, czy uda się znaleźć lepszą motywację. Cały świat stoi [nieczytelne], wszystko jest demokratyzowane...
+
+**[52:07]**
+
+— Oprócz tego, że [niepewne: musicie wybulić] 200 [niepewne: dolarów], tam euro, na pakiet [niepewne: Pro] [nieczytelne].
+
+— Ale spytajcie [nieczytelne] swojej uczelni, [nieczytelne].
+
+— Zgadzam się w stu procentach. [nieczytelne] kogoś, kto chce coś zrobić, niekoniecznie może spędzić pięć lat na studiach, nie? [nieczytelne] może coś zrobić. To te możliwości są niebywałe. Ale być może to miejsce, o którym mówimy, nie powinno [nieczytelne]...
+
+— To jest dobry moment, bo to jest [nieczytelne]. Ucieka nam czas, [nieczytelne]...
+
+**[52:40]**
+
+— **Adrian Bąk:** Tak, [niepewne: aż się prosi], żeby w tym momencie zakończyć i powiedzieć słynne słowa: „Tym optymistycznym akcentem kończymy tę debatę”. Psyho, Tomasz Bagiński, [nieczytelne], bardzo dziękuję.
