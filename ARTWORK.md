@@ -239,3 +239,26 @@ Composition/framing: one connected landscape, no panels; the whole central motif
 Mood: thoughtful, hopeful, curious; quietly awe-inspiring without menace.
 Constraints: absolutely no text, letters, numerals, equations, labels, arrows, logos or watermarks. No portrait likeness, hands close-up, robots, sci-fi machinery, glossy outer-space rendering, realistic black sphere, starfield wallpaper, photographic astrophysics, neon or empty faint curves. Do not copy the door frame, roads or trees from the reference.
 ```
+
+
+## Panel finałowy: Co jeszcze pozostało dla człowieka?
+
+„Co jeszcze pozostało dla człowieka? Stan gry na 2026”, AI Summit PJAIT, 16 września 2026.
+
+Wbudowane image_gen; jedna nowa generacja. Referencja wyłącznie do stylu: assets/rozgalezienie.webp. Scena jest metaforą redakcyjną, nie portretem rozmówców ani diagramem naukowym. Cztery osoby wspólnie splatają drogę przez niedokończoną geometrię, ku małej roślinie. Grafit, kobalt i oszczędne ciepłe światło.
+
+Pliki końcowe: `assets/panel-finalowy.webp` i `assets/panel-finalowy-preview.jpg`, 1448 × 1086. Konwersja formatu zachowuje pełną kompozycję bez kadrowania.
+
+### Dokładny prompt
+
+```text
+Use case: illustration-story.
+Asset type: one large 4:3 editorial illustration for the final AI Summit PJAIT 2026 panel, "Co jeszcze pozostało dla człowieka? Stan gry na 2026". A responsive illustrated publication; the full composition must remain visible on a phone, without cropping.
+Input image 1: STYLE REFERENCE ONLY. Borrow the cool blue-gray paper, graphite hatching, fine cobalt construction lines, restrained amber light and handcrafted precision. Generate an entirely new composition; do not copy the reference's door frame, branching roads, trees, spheres or arrangement.
+Primary request: A thoughtful and hopeful human scene at the edge of the unknown. Four small, distinct, anonymous human figures converse together on a quiet shore. Their different postures show listening, curiosity and choosing a direction. Before them stretches a very large open, unfinished geometric structure: curved skeletal surfaces and irregular graphite connections, with visible gaps and unfinished joints. They are collectively weaving or drawing a delicate bridge/path from hand-drawn graphite and cobalt threads, carrying their shared choices into this uncertain space. Near the last visible connection, one small living plant grows.
+Subject and scale: The unfinished open structure and the emerging fine-lined bridge dominate most of the frame. Four people are fully visible and readily recognizable as a group, around one tenth of the image height. Keep them anonymous, not likenesses or portraits of the panelists. Hands remain natural small details, never close-ups. The plant is modest but discernible. Show a meaningful scene, not a faint decorative vignette.
+Style/medium: substantial confident pencil outlines, soft graphite hatching and delicately technical blue construction marks on a pale cool sketchbook sheet. Architectural imagination with warm human imperfection; the structure remains a metaphor for possibilities, not a labeled scientific or engineering diagram.
+Composition/framing: a single continuous landscape, no panels or boxes. The scene occupies most of the page while leaving breathing paper around the edges. All four people, the beginning of the bridge and the plant remain inside the frame. No framed artwork within the artwork.
+Lighting/mood: contemplative, curious, human, hopeful without triumphant certainty. Small amber warmth follows part of the newly drawn path; most of the scene remains restrained pale blue-gray and graphite.
+Constraints: no text, letters, numerals, equations, labels, logos, watermarks, UI or arrows. No table or conference room, portraits, robots, neon, glossy sci-fi, starfields, realistic astrophysics, black/white hole pair, hands close-up, or replica of the reference's branching road/door frame. Preserve strong readable graphite detail, never nearly empty faint curves.
+```

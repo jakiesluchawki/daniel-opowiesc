@@ -62,4 +62,14 @@
  .story-body.enhanced:not(.reading) .slide-prose{font-size:1rem;line-height:1.375}
  .story-body.enhanced:not(.reading) .slide-prose p{margin-bottom:.5em}
 }
+@media(max-width:700px) and (max-height:620px){
+ .story-body.enhanced:not(.reading){--gutter:1rem}
+ .story-body.enhanced:not(.reading) .chapter.current{grid-template-rows:auto minmax(3.5rem,1fr) auto;padding:.3rem var(--gutter);gap:.2rem}
+ .story-body.enhanced:not(.reading) .chapter-heading h1,.story-body.enhanced:not(.reading) .chapter-heading h2{font-size:1.75rem}
+ .story-body.enhanced:not(.reading) .chapter-meta{margin-bottom:.2rem}
+ .story-body.enhanced:not(.reading) .chapter-byline{margin-top:.2rem}
+ .story-body.enhanced:not(.reading) .chapter-art{width:calc(100% + 2rem);margin:0 -1rem}
+ .story-body.enhanced:not(.reading) .slide-prose{line-height:1.3}
+ .story-body.enhanced:not(.reading) .slide-prose p{margin-bottom:.35em}
+}
 @media print{.slide-prose{display:none!important}.full-prose{display:block!important}.story-body.enhanced:not(.reading){display:block;height:auto}.story-body.enhanced:not(.reading) #story{height:auto}}

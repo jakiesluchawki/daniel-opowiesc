@@ -6,7 +6,7 @@ A friend opens the link on a phone in daylight, or on a large screen at home. Th
 
 ## Visual direction
 
-One open sheet of a human sketchbook. Romie titles and substantial graphite scenes share the page. The two continuous lectures use large open spreads; Naskręcki’s presentation uses composed single screens. The drawings are part of the publication, rather than thumbnails placed next to text. Pale paper, cobalt construction lines and restrained amber warmth hold the three lectures together.
+One open sheet of a human sketchbook. Romie titles and substantial graphite scenes share the page. The continuous lectures and panels use large open spreads; Naskręcki’s presentation uses composed single screens. The drawings are part of the publication, rather than thumbnails placed next to text. Pale paper, cobalt construction lines and restrained amber warmth hold the collection together.
 
 ## Color
 
@@ -18,11 +18,13 @@ Licensed Romie Regular carries the large cover and chapter titles. Roobert Regul
 
 ## Covers and chapters
 
-Dragan and the panel retain the sequence title and author, full 4:3 scene, then complete text. On large screens their art reaches up to 1320px, while the reading column sits below with a generous left margin. The continuous version of Daniel also keeps this open, freely scrolling format.
+Dragan and both panels retain the sequence title and speakers, full 4:3 scene, then complete text. On large screens their art reaches up to 1320px, while the reading column sits below with a generous left margin. The continuous version of Daniel also keeps this open, freely scrolling format. The final panel has one original illustration of four people weaving a path through unfinished geometry.
 
 Naskręcki’s slides use a separate stylesheet loaded only by the story. One viewport contains a large illustration, heading and all three short paragraphs. On laptops the scene occupies the left half, and the title and text sit together on the right. A CSS grid gives the masthead, scene and navigation their own rows within 100dvh. Never solve overflow by hiding or clipping prose.
 
 On phones the whole composed slide fits between a compact lecturer navigation and the bottom actions. The picture has the remaining space between heading and text and always uses contain. Keep at least 16px body text. Do not turn slides into tall scrolling spreads.
+
+Very short phone screens use tighter gutters, a smaller title and less paragraph spacing, while retaining 16px text. Validate content against the slide's available height and the top of the controls, not just the browser viewport: visible text must never sit behind navigation. The smallest checked canvas is 320 × 568px.
 
 The slides have a short editorial version (45–51 words each). “Czytaj całość” preserves every paragraph of the original longer adaptation. Without JavaScript, only that complete continuous version is shown. Each of the twelve illustrations remains unique; no cover cropping, raster editing or text inside an image.
 
@@ -30,9 +32,9 @@ A small part of the paper at image edges fades into the page. The scene itself r
 
 ## Reading and navigation
 
-The masthead names the lecturers: Naskręcki, Psyho i Bagiński, Dragan. Daniel is the name of the story/project, not its speaker. All six pages share the same real links. A neutral AI Summit label establishes the collection; local actions sit separately on small screens.
+The masthead names the lecturers and moderator: Naskręcki, Psyho i Bagiński, Dragan, Rosiak. Daniel is the name of the story/project, not its speaker. All eight pages share the same real links. A neutral AI Summit label establishes the collection; local actions sit separately on small screens.
 
-The two additional lectures are continuous essays. A large marginal section number guides desktop reading, moving above its heading on mobile. Space rather than repeated boxes or rules separates ideas. Transcripts continue as quiet readable pages, with time anchors and downloads.
+The additional lectures and panels are continuous essays. A large marginal section number guides desktop reading, moving above its heading on mobile. Space rather than repeated boxes or rules separates ideas. Transcripts continue as quiet readable pages, with time anchors and downloads. The final panel identifies its moderator and all three participants on the cover; individual statements remain unattributed where the recording does not establish the speaker.
 
 Daniel retains Wstecz/Dalej, chapter selection, arrows, swipe and continuous reading. Its persistent control strip is a light typographic line, with the count and progress kept compact. All twelve illustrations are distinct.
 

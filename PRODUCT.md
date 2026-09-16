@@ -10,7 +10,7 @@ A Polish reader opens a link sent by a friend, on a phone during the day or on a
 
 ## Product Purpose
 
-A small collection of Polish lectures shared through one GitHub Pages link. Daniel remains a twelve-chapter illustrated adaptation of Bartosz Naskręcki's lecture: each slide shows an illustration and all three short paragraphs immediately within one screen. Continuous reading preserves the complete longer adaptation alongside chapter navigation. Psyho i Bagiński is a separate transcript and summary. Andrzej Dragan’s “Dziury koloru białego” adds a third lecture with the same reading format. Each is reached through a real navigation link named for its lecturer. Daniel is the story/project name; its lecturer is Naskręcki.
+A small collection of Polish lectures and panels shared through one GitHub Pages link. Daniel remains a twelve-chapter illustrated adaptation of Bartosz Naskręcki's lecture: each slide shows an illustration and all three short paragraphs immediately within one screen. Continuous reading preserves the complete longer adaptation alongside chapter navigation. Psyho i Bagiński is a separate transcript and summary. Andrzej Dragan’s “Dziury koloru białego” uses the same continuous reading format. The final panel “Co jeszcze pozostało dla człowieka? Stan gry na 2026” adds Dariusz Rosiak’s conversation with Jacek Dukaj, Andrzej Dragan and Bartosz Naskręcki: a summary, a complete timecoded transcript and one background illustration. Each is reached through a real navigation link named for its lecturer or moderator. Daniel is the story/project name; its lecturer is Naskręcki.
 
 ## Brand Personality
 

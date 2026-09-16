@@ -1,6 +1,6 @@
-# AI Summit PJAIT — trzy spojrzenia na człowieka i AI
+# AI Summit PJAIT — wykłady i rozmowy o człowieku i AI
 
-[Opublikowana strona](https://jakiesluchawki.github.io/daniel-opowiesc/) zawiera trzy zakładki, czytelne na telefonie i komputerze.
+[Opublikowana strona](https://jakiesluchawki.github.io/daniel-opowiesc/) zawiera cztery zakładki, czytelne na telefonie i komputerze.
 
 ## Daniel
 
@@ -15,6 +15,10 @@ Ilustrowana adaptacja wykładu Bartosza Naskręckiego „Nie potrzebujemy już m
 ## Dragan
 
 [Wykład Andrzeja Dragana „Dziury koloru białego”](https://jakiesluchawki.github.io/daniel-opowiesc/dragan.html): streszczenie oraz [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html) ze znacznikami czasu. Cały tekst jest dostępny od razu, a jedna szeroka scena szkicowana łączy tytuł z tekstem.
+
+## Panel finałowy — Rosiak, Dukaj, Dragan i Naskręcki
+
+[„Co jeszcze pozostało dla człowieka? Stan gry na 2026”](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy.html). Prowadzi Dariusz Rosiak; rozmawiają Jacek Dukaj, Andrzej Dragan i Bartosz Naskręcki. Streszczenie redakcyjne, jedna duża szkicowana ilustracja i [pełny transkrypt](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html) ze znacznikami czasu i oznaczeniem niepewnych fragmentów. Zapis obejmuje dostarczone nagranie 54:55; opinie i przewidywania zachowano jako stanowiska rozmówców.
 
 ## Uruchomienie
 
