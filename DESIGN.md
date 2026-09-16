@@ -14,7 +14,7 @@ Restrained pale-blue and graphite neutrals, cobalt for navigation and constructi
 
 ## Typography
 
-Literata for the story, Manrope for controls. Literata is chosen for sustained Polish reading; Manrope feels like practical pencil annotations. Main text at least 1.1rem mobile, fluid larger type on desktop. Headings plain, not italic. Lines stay under 62ch.
+Romie Regular for chapter titles; Roobert Regular for narrative and controls, Roobert Bold for UI emphasis. The user selected this pair and supplied licensed local webfont files. Use real font weights, no synthetic bold. Main text at least 1.1rem mobile, fluid larger type on desktop. Headings plain, not italic. Lines stay under 62ch.
 
 ## Layout
 
