@@ -1,0 +1,3927 @@
+# AI Summit PJAIT 2026 — skrypt wykładów
+
+AI Summit PJAIT · 16 września 2026
+
+## Jak korzystać ze skryptu
+
+Ten skrypt łączy dwanaście merytorycznych sesji konferencji w jeden tekst do czytania, wyszukiwania i nauki. Pomija promocję, komunikaty organizacyjne i powtarzające się streszczenia. Nie jest jednolitym dosłownym stenogramem całej transmisji.
+
+Siedem pierwszych rozdziałów to autorskie szczegółowe opracowania, oparte na automatycznych napisach pełnego nagrania. Pięć kolejnych zawiera merytoryczne fragmenty zredagowanych zapisów materiałów dostarczonych przez użytkownika, później porównanych z pełną transmisją. Dopiski redakcyjne i uzupełnienia pozostają oznaczone. Nagłówki tematyczne służą nawigacji i są redakcyjne.
+
+Niepewne słowa, nazwiska i atrybucje zachowano w nawiasach kwadratowych. Opinie, przykłady, prognozy i oceny faktów pozostają stanowiskami prelegentów. Skład panelu nie oznacza pewnej identyfikacji każdego głosu. Braków nie uzupełniano wiedzą spoza nagrania.
+
+Czasy siedmiu opracowań odnoszą się do pełnej transmisji. Pięć dostarczonych zapisów zachowuje lokalne zegary nagrań; Q&A ma trzy oddzielne części i trzy lokalne zegary. Linki „Pełne nagranie” używają globalnego czasu wideo, orientacyjnego z dokładnością kilku sekund.
+
+[Oficjalny program konferencji](https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/) · [Czytnik skryptu](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html) · [Słowniczek](https://jakiesluchawki.github.io/daniel-opowiesc/slowniczek.html)
+
+## Spis sesji
+
+1. [Rokosz — Od surrealizmu do sztucznej inteligencji: ciągłość czy przełom?](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-rokosz)
+2. [Media cyfrowe — AI & Digital Media](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-digital-media)
+3. [Idziak — AI z punktu widzenia emeryta](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-idziak)
+4. [Wdrożenia — AI & Wdrożenia](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-wdrozenia)
+5. [AI i P&L — AI WCHODZI DO P&L. PO OBU STRONACH](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-pnl)
+6. [Biznes — AI & BUSINESS](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-business)
+7. [Cyberbezpieczeństwo — AI & CYBERSECURITY](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-cybersecurity)
+8. [Naskręcki — Nie potrzebujemy już matematyków](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-daniel)
+9. [Psyho i Bagiński — Od sztuki po najbrudniejszą robotę](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-psyho)
+10. [Dragan — Dziury koloru białego](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-dragan)
+11. [Rosiak — Co jeszcze pozostało dla człowieka? Stan gry na 2026](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-final)
+12. [Q&A — Pytania i odpowiedzi](https://jakiesluchawki.github.io/daniel-opowiesc/skrypt.html#s-qa)
+
+## 01. Rokosz — Od surrealizmu do sztucznej inteligencji: ciągłość czy przełom?
+
+**Autorskie szczegółowe opracowanie**
+
+Prelegent: Jacek Rokosz.
+
+Autorskie opracowanie prelekcji na podstawie polskich automatycznych napisów pełnego streamu PJAIT. Czas odnosi się do tego wideo. Historyczne zależności i anegdoty przypisano Rokoszowi; nie przedstawiono ich jako osobno potwierdzonych ustaleń. Pominięto zapowiedzi, autopromocję i dialog odtwarzanego filmu.
+
+Jacek Rokosz patrzy na AI przez historię animacji. W jego opowieści najciekawsza zmiana nie polega wyłącznie na skróceniu produkcji: maszyna potrafi również zachować ekspresję ręki i przesunąć uwagę twórcy na inne zadania.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/rokosz.html)
+
+### Niepokój artysty potrzebuje kontekstu
+
+#### Pełne nagranie · około 00:25:18–00:27:55
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/rokosz.html#w-01) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=1518s)
+
+Jacek Rokosz zaczyna od pytań, które słyszy od studentów i znajomych animatorów: czy zostanie dla nich praca, czy nadal warto uczyć się klatek kluczowych i opowiadania historii. Sam patrzy na technologię z perspektywy twórcy, który używa jej intuicyjnie, a nie projektuje jej mechanizmów.
+
+Jego sposobem oswojenia zmiany jest poszukiwanie dłuższej historii. Animacja od początku łączyła wyobraźnię z urządzeniami: nieruchoma kreska, lalka lub model otrzymywały ruch i emocje dzięki rejestracji kolejnych obrazów. Techniczna zależność sztuki nie zaczęła się wraz z generatywnymi modelami.
+
+### Samolot poprawiany po kawałku
+
+#### Pełne nagranie · około 00:27:55–00:30:58
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/rokosz.html#w-02) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=1675s)
+
+Rokosz przywołuje przypisaną Richardowi Dawkinsowi analogię konstruowania samolotu. Prymitywny pojazd nie od razu staje się sprawną maszyną. Kolejne drobne poprawki skrzydeł, kadłuba i napędu pozwalają mu stopniowo lecieć dalej. Taką perspektywę proponuje również wobec rozwoju animacji.
+
+W tej opowieści AI jest kolejnym etapem ewolucji narzędzi, a nie początkiem automatyzacji. Widoczne przełomy mają wcześniejsze, mniej efektowne próby i usprawnienia. Prelegent szuka ich także w analogowych rozwiązaniach, żeby nie utożsamiać całej historii pomocy technicznej z komputerami.
+
+### Mniej rysować, zachować ruch
+
+#### Pełne nagranie · około 00:30:58–00:33:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/rokosz.html#w-03) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=1858s)
+
+Pierwsze usprawnienia dotyczą samej konstrukcji ruchu. Powtarzający się cykl pozwala wykorzystać te same rysunki ponownie. Innym pytaniem jest liczba zmian potrzebnych w sekundzie: oszczędność pracy nie może sprawić, że widz zamiast ruchu zobaczy serię oddzielnych obrazów.
+
+Rokosz rozróżnia szybki gest i subtelne emocje. W jego praktycznym przykładzie bieg lub skok może tolerować rzadsze zmiany, natomiast pocałunek czy delikatny gest wymagają ich więcej. Optymalizacja nie polega więc na jednej stałej recepturze; zależy od tego, co ma odczytać widz.
+
+### Taśma produkcyjna wchodzi do studia
+
+#### Pełne nagranie · około 00:33:02–00:37:03
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/rokosz.html#w-04) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=1982s)
+
+W historycznej interpretacji Rokosza kryzys gospodarczy końca lat dwudziestych przyspieszył przemysłowe organizowanie filmu. Studia potrzebowały szybciej i taniej produkować dla publiczności dysponującej mniejszą ilością pieniędzy. Punktem odniesienia stała się praca podzielona między wyspecjalizowane działy.
+
+Prelegent opisuje przepływ materiału między scenarzystami, reżyserami, animatorami i kolejnymi zespołami. Zyskiem jest przewidywalna produkcja; kosztem może być ujednolicenie. Łączy tę zmianę również z dominacją powtarzalnych schematów opowiadania, przedstawiając własną interpretację przemysłowego kina, a nie niepodważalną cezurę całej sztuki.
+
+### Ciało aktora pomaga rysunkowi
+
+#### Pełne nagranie · około 00:37:03–00:39:04
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/rokosz.html#w-05) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=2223s)
+
+Na przykładzie studia Disneya Rokosz pokazuje ambicję przesuwania granic technicznych: dźwięk, kolor i pełny metraż są w jego opowieści kolejnymi wyzwaniami produkcji. Szczególnie interesuje go sposób ułatwienia animowania ludzkich postaci w Królewnie Śnieżce.
+
+Opisuje nagranie aktorów, których ruch następnie odrysowywano. Rotoskopia daje animatorowi materiał zamiast konieczności wymyślania każdej pozy ciała od początku. Rokosz zestawia tę technikę ze współczesnym przechwytywaniem ruchu: zmieniają się urządzenia, pozostaje pomysł wykorzystania już istniejącego zachowania.
+
+### Sto jeden psów i problem skali
+
+#### Pełne nagranie · około 00:39:04–00:46:38
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/rokosz.html#w-06) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=2344s)
+
+Produkcja 101 Dalmatyńczyków stawia problem szczególnie czytelny: wiele postaci, a na każdej ruchome plamy. Rokosz prowadzi słuchaczy przez dawny proces. Animator szkicuje klatki, następny dział przenosi kontury na przezroczysty materiał, nakłada kolory, a kamera rejestruje obrazy nad namalowanym tłem.
+
+Każdy etap wymaga ręcznej pracy, a światłoczuła taśma dokłada ryzyko pomyłki. Prelegent wspomina własny film lalkowy: przypadkowe błyski ukrył, dodając dźwięk odległego grzmotu. Technologia jest tu zarazem ograniczeniem i okazją do pomysłowego rozwiązania; jej niedoskonałość nie wyklucza twórczego rezultatu.
+
+### Maszyna zachowuje ślad ręki
+
+#### Pełne nagranie · około 00:46:38–00:48:48
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/rokosz.html#w-07) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=2798s)
+
+Kserograficzne przenoszenie rysunków zmienia nie tylko tempo. Według Rokosza animatorzy zyskują widoczny ślad własnego szkicu, którego wcześniejsze ręczne obrysowywanie mogło pozbawiać ekspresji. Nierówność i przypadkowość linii stają się estetyczną zaletą procesu, zamiast usterką wymagającą usunięcia.
+
+Zmiana ma też konsekwencje dla pracy innych osób. Prelegent opisuje utratę potrzeby ręcznego tuszowania oraz przesunięcie części pracownic do kolorowania. To ważne napięcie jego argumentu: narzędzie może uwolnić jednych twórców, jednocześnie zmieniając lub likwidując zadania wykonywane przez pozostałych.
+
+### Oszczędzać pracę dla czegoś ważniejszego
+
+#### Pełne nagranie · około 00:48:48–00:51:22
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/rokosz.html#w-08) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=2928s)
+
+Pokaz fragmentu filmu domyka techniczne przykłady. Rokosz zwraca uwagę również na śnieg: w jego relacji efekt powstał z nagranych przed kamerą płatków śniadaniowych, poddanych obróbce obrazu i nałożonych na animację. Nie trzeba było osobno rysować każdego spadającego elementu.
+
+Wniosek wraca do początku wykładu. Automatyzacja ma dla Rokosza wartość wtedy, gdy pozwala poświęcić uwagę temu, co wymaga talentu i sprawia twórczą satysfakcję. Jego perspektywa nie usuwa problemu zatrudnienia; daje kontekst do pytania, które czynności warto zachować, a które oddać urządzeniu.
+
+
+## 02. Media cyfrowe — AI & Digital Media
+
+**Autorskie szczegółowe opracowanie**
+
+Skład według programu / potwierdzonej zapowiedzi: Ewa Satalecka, Olga Sobkowicz, Michał Heromiński, Adrian Kilar, Marcin Molczyk, Mariusz Pietkiewicz, Jacek Rokosz. Moderator: Dariusz Rosiak.
+
+Autorska parafraza panelu na podstawie polskich automatycznych napisów streamu PJAIT; bez dosłownego transkryptu. Skład podano według programu i zapowiedzi. Nie potwierdzono osobnej wypowiedzi ani obecności Marcina Molczyka; nie przypisano mu głosu. Anonimowe wypowiedzi pozostają anonimowe. Pominięto promocję produktu, rekrutacji i bezpośrednie zachęty reklamowe.
+
+AI skraca drogę od pomysłu do gotowego materiału. Panel prowadzony przez Dariusza Rosiaka pyta, czy ta sprawność oznacza również lepszą sztukę, bardziej wartościowe media i łatwiejszą odpowiedzialność za rezultat.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/digital-media.html)
+
+### Sztuka nie ma tabeli wyników
+
+#### Pełne nagranie · około 00:52:53–00:59:59
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/digital-media.html#w-01) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=3173s)
+
+Dariusz Rosiak otwiera rozmowę pytaniem o szczególność obecnej zmiany. Jeżeli usprawnienia towarzyszyły sztuce od dawna, dlaczego właśnie AI wywołuje tak intensywną debatę? Panel zaczyna od napięcia między optymalizacją produkcji a tym, czego oczekujemy od dzieła.
+
+Ewa Satalecka kwestionuje samo założenie optymalizowania sztuki. Szybkość wykonania nie wyznacza jej wartości tak jak wynik w zawodach sportowych. W rozmowie powraca też paradoks dostępności: kiedy znakomity rezultat staje się łatwy i powszechny, odbiorca może tym bardziej szukać czegoś wyjątkowego.
+
+### Pomóc dramaturgii, nie zastąpić zamiaru
+
+#### Pełne nagranie · około 00:59:59–01:02:50
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/digital-media.html#w-02) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=3599s)
+
+Jacek Rokosz pokazuje konkretną granicę użyteczności. Przy filmie animowanym przygotowywanym w języku rwandańskim używał AI do roboczego dubbingu animatiku. Nieznany język przestawał blokować pracę nad rytmem, długością wypowiedzi i układem scen.
+
+Nagranie robocze nie usuwało potrzeby kontroli: współpracownicy znający język nanosili poprawki. Dla reżysera oszczędność miała sens dlatego, że mógł skupić się na dramaturgii. Inny głos w panelu rozwija podobny argument: optymalizować można sposób zdobywania informacji lub testowania pomysłu, bez optymalizowania samej ambicji artystycznej.
+
+### Własny pomysł nadal wymaga decyzji
+
+#### Pełne nagranie · około 01:02:50–01:04:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/digital-media.html#w-03) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=3770s)
+
+Łatwość dostępu do tych samych modeli nie musi według jednego z rozmówców prowadzić do identycznych rezultatów. Znaczenie ma sposób zorganizowania procesu: wybór celu, rozmowa z narzędziem i łączenie powstających elementów w całość.
+
+Jako przykład przedstawia własną grę paragrafową, której fabułę rozwijał w długim dialogu z AI, a następnie uzupełniał ilustracjami. Uważa rezultat za osobisty i odrębny. To deklaracja autora projektu, nie dowód, że każde użycie generatora automatycznie zachowuje oryginalność.
+
+### Dziennikarz między treścią a marketingiem
+
+#### Pełne nagranie · około 01:04:00–01:08:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/digital-media.html#w-04) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=3840s)
+
+Rozmowa przechodzi do mediów. Moderator opisuje rozdźwięk między publiczną niechęcią do AI a jej faktycznym używaniem. Ważniejsze od samego narzędzia staje się pytanie, czy dziennikarz pozostaje odpowiedzialnym autorem, czy działa przede wszystkim jako dostawca materiału dla marketingu.
+
+Jeden z panelistów ilustruje skalę zmiany produkcją reklamy. Według jego porównania podobny spot mógł wcześniej kosztować około pół miliona złotych, a później około stu tysięcy; zmniejszył się też potrzebny zespół. To opis jego doświadczenia. Mniejszy budżet nie odpowiada jeszcze na pytanie o wartość przekazu.
+
+### Kto jest autorem, kto odpowiada
+
+#### Pełne nagranie · około 01:08:00–01:12:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/digital-media.html#w-05) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=4080s)
+
+W panelu pada rozróżnienie między AI pomagającą człowiekowi zrealizować własny koncept a materiałem wytworzonym bez takiej pracy twórczej. Rozmówca odnoszący się do prawa podkreśla ludzkie autorstwo jako podstawę ochrony, ale równocześnie wskazuje brak prostego rozstrzygnięcia wszystkich przypadków.
+
+Problem nie kończy się przy generowaniu. Pojawiają się pytania o przekazanie praw, kupującego działającego w dobrej wierze i odpowiedzialność za szkodę. Rozmówcy przywołują też wizerunki osób, które nie uczestniczyły w przedstawionym nagraniu, w tym osób zmarłych. Panel nie dostarcza gotowej instrukcji prawnej: możliwość wykonania materiału nie załatwia jego statusu ani warunków użycia.
+
+### Archiwum ma zobowiązania wobec twórców
+
+#### Pełne nagranie · około 01:12:26–01:14:05
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/digital-media.html#w-06) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=4346s)
+
+Olga Sobkowicz przywołuje rozmowy o wykorzystaniu AI do udostępniania zasobów teatralnego archiwum. Potencjalną korzyścią był łatwiejszy dostęp, porządkowanie i przetwarzanie materiału. Projekt napotkał jednak granicę wynikającą z odpowiedzialności za powierzone zbiory.
+
+W jej relacji instytucja nie potrafiła zagwarantować uczciwego dostępu i ochrony praw autorów, dlatego odstąpiła od tego rozwiązania. Obok pojawia się potrzeba oznaczania wygenerowanych materiałów. Konkretne twierdzenia o obowiązkach i terminach są wypowiedziami uczestników, a nie osobno potwierdzoną analizą przepisów.
+
+### Teatr spotyka AI w opowieści o samotności
+
+#### Pełne nagranie · około 01:14:05–01:18:12
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/digital-media.html#w-07) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=4445s)
+
+W teatrze nowe narzędzia nie tworzą od razu dojrzałej formy. Sobkowicz opisuje eksperymenty, podobne pod tym względem do wcześniejszych prób z rzeczywistością wirtualną. Dostrzega lukę edukacyjną: twórcy nie znajdują łatwo języka dla technologii, których nie poznali w szkole.
+
+Jednocześnie realizatorzy już korzystają z AI przy komponowaniu, scenografii czy innych częściach pracy. W jej obserwacji najbardziej interesujące spektakle obecności sztucznej inteligencji dotykają samotności człowieka. Temat technologiczny może zatem prowadzić do doświadczenia społecznego i emocjonalnego, zamiast pozostać pokazem sprawności urządzenia.
+
+### Podobna doskonałość i granice obserwowania
+
+#### Pełne nagranie · około 01:18:35–01:25:59
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/digital-media.html#w-08) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=4715s)
+
+Automatyczne przygotowanie i publikowanie materiałów marketingowych daje dużą sprawność, lecz jeden z rozmówców dostrzega wypłaszczenie jakości. Skoro wszyscy potrafią uzyskać podobnie dobre wyniki, ręcznie wykonana, bardziej osobista grafika może odzyskać odrębność. Sugeruje zachowanie pomysłu po stronie człowieka i używanie AI do jego technicznego rozwinięcia.
+
+Inny przykład dotyczy analizowania zachowania ludzi w przestrzeni. Opis systemu prowadzi do sporu o granice regulacji, prywatności i sprzedażowego wykorzystania obserwacji. Techniczna możliwość pomiaru nie rozstrzyga, czy chcemy, żeby tak działały publiczne miejsca.
+
+Panel wraca też do metafory narzędzia, którym można zrobić coś pożytecznego albo krzywdzącego. Moderator zwraca uwagę na różnicę skali: szkody wyrządzane przez masowo używaną technologię mogą przekroczyć lokalne następstwa działania pojedynczej osoby. Sama analogia do znanego przedmiotu nie zamyka problemu odpowiedzialności.
+
+### Poczucie decyzji pozostaje ludzkie
+
+#### Pełne nagranie · około 01:26:46–01:27:45
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/digital-media.html#w-09) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=5206s)
+
+Końcowy głos powraca do człowieka, który wybiera, reaguje i ocenia własne życie. Nie próbuje dowieść prostego istnienia nieograniczonej wolnej woli. Zestawia złożoność naszych uwarunkowań z codziennym poczuciem, że działania mają dla nas znaczenie.
+
+W tym ujęciu odpowiedzialność i wstyd nie znikają tylko dlatego, że używamy nowego narzędzia. Sprawność produkcji nie jest jedynym kryterium. Pozostają pytania, co tworzymy, dla kogo, z jakiej potrzeby i jakie następstwa gotowi jesteśmy uznać za własne.
+
+
+## 03. Idziak — AI z punktu widzenia emeryta
+
+**Autorskie szczegółowe opracowanie**
+
+Prelegent: Sławomir Idziak.
+
+Autorska parafraza prelekcji z polskich automatycznych napisów streamu PJAIT. Spekulacje, humor i oceny przypisano Idziakowi. Nie uzupełniono niepewnych nazw filmu ani postaci z anegdoty pamięciowej. Pominięto autopromocję publikacji i końcowe zaproszenie na hackathon; opis modelu edukacyjnego zachowano jako merytoryczny przykład.
+
+Sławomir Idziak prowadzi od analogowego kina do awatarów i agentów. Za osobistymi anegdotami stoi pytanie o edukację: jak uczyć współpracy z technologią, która zmienia nie tylko narzędzia, lecz także role, pamięć i organizację zespołu.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/idziak.html)
+
+### Jedno życie, kilka epok
+
+#### Pełne nagranie · około 01:31:40–01:34:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/idziak.html#w-01) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=5500s)
+
+Sławomir Idziak nie przedstawia się jako specjalista projektujący AI. Punktem wyjścia jest doświadczenie filmowca i edukatora, który w jednym życiu obserwował przejście od analogu przez cyfrową produkcję do generatywnych narzędzi. Zmiany zawodowe spotykają się tutaj z nadmiarem informacji.
+
+Prelegent kontrastuje dawną ograniczoną dostępność przekazu z dzisiejszą potrzebą bronienia się przed nim. Pokazuje też awatary przygotowane na podstawie jego materiałów. Traktuje je jako znak, że zapis pozostawiony przez człowieka może zacząć funkcjonować niezależnie od jego obecności i pierwotnego zamiaru.
+
+### Ślad człowieka staje się materiałem
+
+#### Pełne nagranie · około 01:34:20–01:40:30
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/idziak.html#w-02) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=5660s)
+
+W spekulacyjnym przykładzie Idziak wyobraża sobie gromadzenie cudzych życiorysów i tworzenie awatarów wykorzystujących ich wiedzę, doświadczenie czy poglądy. Nie opisuje gotowego rynku. Pyta o możliwość zamiany osobowej pamięci w zasób, z którego ktoś inny będzie korzystał po śmierci pierwowzoru.
+
+Jego osobista opowieść o kinie pokazuje inną stronę wpływu informacji. Obejrzenie filmu mogło wzbudzić pragnienie prowadzące później do zawodu i kolejnych spotkań. Takie tło nie jest tu katalogiem osiągnięć, lecz przykładem, że tworzą nas także pojedyncze, silnie przeżyte obrazy, a nie tylko zgromadzona dokumentacja.
+
+### Pamięć większa, umiejętność mniejsza
+
+#### Pełne nagranie · około 01:40:30–01:44:45
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/idziak.html#w-03) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=6030s)
+
+Idziak przywołuje pracę nad opowieścią o człowieku pamiętającym niemal wszystko. Bohater porządkuje wspomnienia przez wyobrażoną drogę i umieszcza na niej wydarzenia. Problemem staje się przełożenie wewnętrznego doświadczenia na obraz, który zobaczy widz; zasób pamięci nie jest jeszcze zrozumiałą formą.
+
+Potem prelegent wraca do codzienności. Dawniej musiał pamiętać wiele numerów i adresów, dziś przechowują je urządzenia. Zyskujemy ogromny zewnętrzny magazyn, a równocześnie możemy rzadziej ćwiczyć własną zdolność. Podobne napięcie widzi w dubbingu: AI pomaga mu wykonać pracę mimo trudności ze słuchem, lecz rodzi pytanie o przyszłą rolę nadzorującego człowieka.
+
+### Co oddajemy, kiedy płacimy
+
+#### Pełne nagranie · około 01:44:45–01:49:10
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/idziak.html#w-04) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=6285s)
+
+Idziak formułuje mocną, krytyczną ocenę pozyskiwania materiałów do modeli. W jego interpretacji użytkownik płaci podwójnie: pieniędzmi za usługę i własnymi śladami, wiedzą oraz twórczością. To stanowisko prelegenta, nie ustalenie dotyczące każdego konkretnego dostawcy czy umowy.
+
+Rozważanie przechodzi w obrazy katastrofy. Powieść Droga interesuje go nie tylko jako opowieść o przetrwaniu, ale też o przekazywaniu wartości między ojcem i synem. Idziak dopisuje własną fantazję o zniszczonym centrum danych i ocalałym urządzeniu: pozostałość technologii mogłaby stać się początkiem nowego mitu.
+
+### Partner wymaga innego przygotowania
+
+#### Pełne nagranie · około 01:49:10–01:52:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/idziak.html#w-05) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=6550s)
+
+Religijne i literackie porównania pełnią w wykładzie rolę prowokujących metafor. Dostępna przez całą dobę pomoc przypomina Idziakowi obietnicę opiekuna, ale ta sama technologia może wspierać osoby o sprzecznych zamiarach. Samo zapewnienie, że mamy użyteczne narzędzie, nie rozwiązuje problemu celów jego użycia.
+
+Prelegent sprzeciwia się redukowaniu AI do porównania z siekierą. Woli myśleć o partnerze, którego działanie wymaga nowego sposobu współpracy. Z tego wyprowadza główny postulat: edukacja powinna przygotowywać do zmienionej rzeczywistości, zamiast odtwarzać zawodowy świat, który już odchodzi.
+
+### Rozbić silosy, zanim powstanie produkt
+
+#### Pełne nagranie · około 01:52:00–01:56:10
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/idziak.html#w-06) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=6720s)
+
+Na własnym przykładzie Idziak pokazuje opóźnienie kształcenia: w szkole ćwiczył czarno-białą fotografię, a pierwsza praca wymagała koloru. Jego krytyka dotyczy także przyzwyczajeń produkcyjnych. Zakup nowoczesnego urządzenia nie oznacza automatycznie przeorganizowania pracy, jeśli nadal bronimy dawnych zasad.
+
+Pierwszym rozwiązaniem mają być połączenia między dyscyplinami. Idziak uważa, że artyści i programiści powinni uczyć się współpracy wcześniej. Włączenie psychologii czy filozofii dopiero po powstaniu problemów porównuje do zakładania kagańca gotowemu systemowi; chciałby, aby pytania o człowieka wpływały już na jego projektowanie.
+
+### Nie tylko wybitna jednostka
+
+#### Pełne nagranie · około 01:56:26–02:01:30
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/idziak.html#w-07) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=6986s)
+
+Kolejny postulat dotyczy zespołu. Idziak przeciwstawia mit samotnego geniusza współdziałaniu osób o różnych kompetencjach. Wspomina szkoły filmowe, w których inne wydziały spotykały się głównie przy wykonywaniu zleconych zadań, a rzadziej przy wspólnym rozwijaniu projektu.
+
+Zespołowi potrzebna jest przestrzeń prób. Prelegent proponuje piaskownicę innowacji: uczestnicy rozwiązują rzeczywiste zadania, ale mogą popełniać błędy bez ciężaru ukończonego zawodowego produktu. To odpowiedź na sytuację, w której pracę domową przygotowuje AI, a jej ocenę również wykonuje AI — formalny proces trwa, lecz uczenie może stać się pozorne.
+
+### Różni mentorzy, wspólna piaskownica
+
+#### Pełne nagranie · około 02:01:30–02:04:42
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/idziak.html#w-08) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=7290s)
+
+Idziak pyta, jak uniknąć otrzymywania podobnych rozwiązań od tego samego modelu. Opisuje eksperyment edukacyjny z osobnymi agentami opartymi na wybranych mentorach. Uczestnik wybiera postać, której sposób myślenia ma stanowić określony punkt odniesienia dla porad i rozmowy.
+
+Te profile nie mają tylko odpowiadać pojedynczemu użytkownikowi. W opisywanym pomyśle drugi mechanizm wyszukuje osoby o wspólnych zainteresowaniach lub uzupełniających się umiejętnościach. Ludzie i ich agenci spotykają się przy projekcie, dyskutują, a szerszy model pomaga porządkować powstający materiał.
+
+Prelegent nie przedstawia tego jako najlepszego ani zakończonego modelu edukacji. Podkreśla wartość podejmowania prób. Wniosek jest praktyczny w sensie dydaktycznym: zmiany nie poznamy przez samo powtarzanie ostrzeżeń, jeśli nie stworzymy miejsca, w którym można wspólnie sprawdzać nowe formy pracy.
+
+
+## 04. Wdrożenia — AI & Wdrożenia
+
+**Autorskie szczegółowe opracowanie**
+
+Skład według programu / potwierdzonej zapowiedzi: Katarzyna Otto, Adam Kuzdraliński, Bartłomiej Bargiel, Franciszek Bazyli Georgiew, Jacek Stryczyński, Michał Rawski. Moderator: Łukasz Kijek.
+
+Autorska parafraza panelu z polskich automatycznych napisów pełnego streamu PJAIT. Skład pochodzi z programu i zapowiedzi; głosów nie przypisano na podstawie afiliacji. Liczby i doświadczenia firm pozostają relacjami uczestników. Pominięto promocję podcastu i uczelni, organizacyjne podziękowania oraz nierozpoznane nazwy raportów.
+
+Jak wprowadzać AI, kiedy ludzie widzą w niej zarówno pomoc, jak i zagrożenie? Panel prowadzony przez Łukasza Kijka zestawia spór o zarządzanie z konkretnymi pytaniami o dane, bezpieczeństwo i różnicę między demonstracją a działającym procesem.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/wdrozenia.html)
+
+### Opór może pokazać błąd
+
+#### Pełne nagranie · około 02:09:14–02:11:34
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/wdrozenia.html#w-01) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=7754s)
+
+Łukasz Kijek zaczyna od ludzi, zanim przejdzie do narzędzi. Pyta, dlaczego wdrożenie może wywoływać niechęć i jak uniknąć sytuacji, w której pracownicy formalnie uczestniczą w zmianie, lecz w praktyce ją blokują. Sam wspomina własny wcześniejszy bunt wobec używania AI w dziennikarstwie.
+
+Bartłomiej Bargiel proponuje potraktować taki sygnał również jako informację o rozwiązaniu. Jeżeli automatyzacja dokłada sprawdzanie i przeszkadza w pracy, problem może leżeć w procesie. Dobra zmiana powinna usuwać potrzebny wcześniej krok, zamiast dodawać nową obowiązkową czynność z etykietą AI.
+
+### Tempo zmiany kontra partnerskie zarządzanie
+
+#### Pełne nagranie · około 02:11:34–02:14:50
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/wdrozenia.html#w-02) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=7894s)
+
+Franciszek Georgiew opisuje konflikt we własnym zespole. Według jego relacji pracownicy sprzeciwili się komunikatowi, że sam wykonuje w dzień pracę wcześniej wymagającą miesięcy. On interpretuje tę sytuację jako konieczność odrzucenia dawnych wyobrażeń o tym, co jest możliwe, i utrzymania ambitnego terminu.
+
+Adam Kuzdraliński polemizuje z takim sposobem postępowania. Uważa, że wdrożenie powinno powstawać razem z ludźmi i z uwzględnieniem wiedzy specjalistów. Dla jednej osoby narzędzie może być potrzebne od razu, dla innej później. Spór dotyczy nie samego potencjału AI, lecz tego, jak kierować zespołem wobec nierównego tempa nauki.
+
+### Rozpoznać, skąd bierze się obawa
+
+#### Pełne nagranie · około 02:14:50–02:18:45
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/wdrozenia.html#w-03) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=8090s)
+
+Katarzyna Otto kieruje rozmowę ku zarządzaniu zmianą. Opór może wynikać z braku kompetencji, zagrożenia dla pracy albo niejasnego celu. Te przyczyny wymagają różnych odpowiedzi; samo przekonywanie, że nowa technologia jest szybsza, nie tłumaczy każdemu, co zyska i za co będzie odpowiadać.
+
+W innym przykładzie rozmówca proponuje najpierw sprawdzić rozwiązanie samemu i znaleźć osoby gotowe testować je wcześnie. Gdy widzą realną pomoc, stają się ambasadorami zmiany. Pozostali nie muszą wtedy wierzyć wyłącznie w deklarację kierownictwa: mogą zobaczyć działający przykład i sami poprosić o dostęp.
+
+### Duża organizacja też może być ciekawa
+
+#### Pełne nagranie · około 02:18:45–02:23:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/wdrozenia.html#w-04) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=8325s)
+
+Przykład banku komplikuje obraz nieuchronnego buntu. Jeden z rozmówców opisuje duże zainteresowanie pracowników oraz szybkie przejście przez szkolenia z bezpiecznego i etycznego używania AI. To jego obserwacja konkretnej organizacji, nie obietnica jednakowego zachowania wszystkich dużych zespołów.
+
+Bankowa skala dokłada jednak trudności. Projektowanie zastosowań wymaga rozumienia możliwości technologii, zanim zostanie ona dopasowana do obsługi klienta lub pracy departamentu. Rozmówca dostrzega ryzyko prowadzenia nowych projektów według dobrze znanych zasad, które nie odpowiadają jeszcze ich specyfice.
+
+### Najpierw problem, potem strategia
+
+#### Pełne nagranie · około 02:23:00–02:27:50
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/wdrozenia.html#w-05) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=8580s)
+
+Kijek pyta następnie, komu AI jest potrzebna i jak wybrać sensowne zastosowanie. Georgiew opowiada się za szybszym sprawdzaniem nowych możliwości. Własne doświadczenia przedstawia jako argument za przełamywaniem utrwalonych sposobów pracy; mówi też o zmniejszeniu dużego zespołu ze 120 do 70 osób. To jego relacja, nie miara typowego efektu automatyzacji.
+
+Bargiel pokazuje przeciwne ryzyko: firma zamawia szeroką strategię AI, choć nie uporządkowała danych ani procesów, a potem po długiej implementacji rozwiązanie nie działa. Proponuje zdiagnozowanie jednego problemu i przygotowanie ludzi, procesu oraz danych pod sprawdzalny wynik. Demonstracja nie jest jeszcze dowodem działania w środowisku produkcyjnym.
+
+### Mikrosukces zamiast wielkiej rewolucji
+
+#### Pełne nagranie · około 02:27:50–02:31:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/wdrozenia.html#w-06) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=8870s)
+
+W panelu pojawia się pomysł dzielenia dużego procesu na małe części. Kolejne usprawnienia mają budować odwagę do zgłaszania własnych pomysłów, a nie wzmacniać wcześniejszy opór. Taki sposób pracy uwalnia zasoby stopniowo i pozwala zobaczyć, czy zmiana rzeczywiście pomaga.
+
+Konkretnym przykładem są agenci wspierający wytwarzanie oprogramowania, którym deleguje się zadania w określonych granicach. Rozmówca podkreśla, że zespół nadal odpowiada za rezultat. Narzędzie nie jest usprawiedliwieniem wdrożenia czegoś, czego człowiek nie potrafi sprawdzić i obronić.
+
+### Dane i bezpieczeństwo są częścią zadania
+
+#### Pełne nagranie · około 02:31:40–02:36:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/wdrozenia.html#w-07) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=9100s)
+
+Otto zwraca uwagę na rozbieżną gotowość organizacji. Powszechne prywatne używanie chatbotów nie oznacza, że firma ma przygotowane źródła danych, zabezpieczenia, kompetencje i wspólne rozumienie celu. Rozmowa o technologii powinna uwzględniać tę różnicę, zamiast zakładać jeden poziom dojrzałości.
+
+Bankowy przykład pokazuje też ograniczenia ofert sprzedażowych. Rozwiązanie musi pasować do wymagań dotyczących infrastruktury, chmury i ochrony informacji. Rozmówca opisuje sytuacje, gdy dostawca potrafi obiecać wygodę agentów, ale nie odpowiada na podstawowe pytania o ich bezpieczne zastosowanie w regulowanej instytucji.
+
+### Nauczyć się współpracy, zanim się ją rozliczy
+
+#### Pełne nagranie · około 02:36:40–02:40:45
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/wdrozenia.html#w-08) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=9400s)
+
+W końcowej części powraca piaskownica: przestrzeń, w której można bezpiecznie eksperymentować i poznać możliwości technologii przed obudowaniem wdrożenia pełnymi wymaganiami. Zespoły potrzebują kontaktu z działającym rozwiązaniem, aby lepiej rozumieć, czego oczekują od produkcyjnego projektu.
+
+Kuzdraliński przypomina, że współpraca z modelem nie jest zwykłym przeniesieniem rozmowy między ludźmi. Pojawiają się halucynacje i rezultaty, które użytkownik odbiera jako kłamstwo, choć taki opis nie wyjaśnia mechanizmu. Szybkie oswojenie narzędzi może więc wymagać czasu na próby, sprawdzanie i naukę ich ograniczeń.
+
+Jego finałowy argument łączy tempo z ostrożnością: pozorna oszczędność znika, jeśli firma wdraża wszystko naraz, a potem wraca do poprzednich rozwiązań. Strategia, małe kroki i współpraca z pracownikami mogą według niego dać lepszy wynik niż seria pospiesznych taktycznych decyzji.
+
+
+## 05. AI i P&L — AI WCHODZI DO P&L. PO OBU STRONACH
+
+**Autorskie szczegółowe opracowanie**
+
+Prelegent: Artur Stankiewicz.
+
+Autorskie opracowanie merytorycznej części wystąpienia z pełnego nagrania AI Summit PJAIT. Mapa używa globalnego czasu streamu; początki fragmentów są orientacyjne i wynikają z cue automatycznych napisów. Niepewnych nazw narzędzi i szczegółów cenników nie odtwarzano z domysłu. Przykłady Orange, ambicje projektów i oceny kosztów przypisano Arturowi Stankiewiczowi. Pominięto powitania i informacje organizacyjne.
+
+Artur Stankiewicz opowiada o wdrażaniu AI w Orange przez koszty, odpowiedzialność i wartość procesu. Technologia trafia do rachunku wyników po obu stronach: zużywa zasoby i ma przynosić mierzalny efekt.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/pnl.html)
+
+### Dwa pokrętła kosztu
+
+#### Pełne nagranie · około 03:13:04–03:16:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/pnl.html#w-01) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=11584s)
+
+Stankiewicz zaczyna od rozdzielenia dwóch czynników: ile firma korzysta z modeli i ile płaci za jednostkę tego wykorzystania. Spodziewa się wzrostu zużycia, ale nie przedstawia pewnej prognozy cen. Zestawia obietnice wydajniejszej infrastruktury z kosztami inwestycji i pamięci, aby pokazać niepewność biznesowego rachunku.
+
+Taryfy porównuje do dawnych skomplikowanych ofert telekomunikacyjnych. Znaczenie mają także sposób naliczania zużycia, dopłaty i możliwości optymalizacji. Przywołane przez niego szczegóły ofert są przykładami z wystąpienia, a nie aktualnym cennikiem. Dla projektu ważna jest obserwacja całego rachunku zamiast samej reklamowanej ceny jednostkowej.
+
+### Model może zniknąć
+
+#### Pełne nagranie · około 03:16:00–03:18:01
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/pnl.html#w-02) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=11760s)
+
+Prelegent relacjonuje, że po kilku miesiącach pracy nad jednym projektem dostawca zapowiedział wyłączenie używanego modelu. To argument za przygotowaniem planu awaryjnego już na starcie. Gotowa aplikacja nie usuwa zależności od decyzji firmy, która dostarcza jej najważniejszy składnik.
+
+Dobór modelu wiąże następnie z zadaniem: obsługą klienta, tworzeniem oprogramowania lub raportowaniem. W odpowiedzi na pytanie dyrektora finansowego o przyszłe koszty odchodzi od szukania jednego wspólnego współczynnika. Proponuje rozpatrywanie założeń osobno dla modeli i zastosowań, które rzeczywiście wejdą do projektu.
+
+### Budżet musi mieć właściciela
+
+#### Pełne nagranie · około 03:18:01–03:19:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/pnl.html#w-03) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=11881s)
+
+Prywatna subskrypcja przyzwyczaja do stałej opłaty. Stankiewicz podkreśla, że biznesowe wykorzystanie modeli może działać inaczej: koszt zależy od skali użycia i może szybko wzrosnąć. Dlatego wskazuje potrzebę jednoznacznej odpowiedzialności za zużycie oraz kontroli wydatków w konkretnym obszarze firmy.
+
+Przywołuje też opowieść o rankingach zużycia tokenów w innej organizacji. Przykład służy krytyce mylenia intensywności korzystania z osiągniętym efektem. Z jego perspektywy limity i zarządzanie wykorzystaniem stają się częścią wdrożenia, a nie czynnością odkładaną do momentu otrzymania wysokiego rachunku.
+
+### Celem jest wynik procesu
+
+#### Pełne nagranie · około 03:19:20–03:20:55
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/pnl.html#w-04) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=11960s)
+
+W części o danych prelegent przesuwa uwagę na rozumienie problemu. Za kluczowych uznaje ludzi biznesu, którzy wiedzą, gdzie chcą zastosować narzędzie i jakiej wartości oczekują. Sama dostępność technologii nie wyjaśnia jeszcze, czy projekt poprawi to, co firma próbuje osiągnąć.
+
+Rozróżnia usprawnianie istniejących czynności od ponownego przemyślenia ich celu. W jego argumentacji najważniejsze jest ustalenie, po co proces istnieje i jaki efekt ma przynieść. Dopiero wtedy można ocenić, czy AI pojawi się w rachunku wyników wyłącznie jako wydatek, czy także jako korzyść.
+
+### Narzędzie podstawowe i projekt inwestycyjny
+
+#### Pełne nagranie · około 03:20:55–03:23:18
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/pnl.html#w-05) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=12055s)
+
+Stankiewicz opisuje wewnętrzne bezpieczne środowisko udostępniające pracownikom modele. Jego funkcją jest umożliwienie kontaktu z technologią i codziennego używania. Taką warstwę porównuje do podstawowego wyposażenia biurowego: nie wymaga uzasadnienia każdej pojedynczej czynności użytkownika, choć jej łączny koszt nadal jest kontrolowany.
+
+Inaczej traktuje konkretne projekty o dużej zakładanej wartości. Te mają uzasadnienie inwestycyjne i oczekiwany zwrot, a koszt AI jest jednym z parametrów rachunku. Według jego relacji tempo prac zależy w dużej mierze od tego, czy zespół potrafi wyraźnie określić korzyść, którą chce uzyskać.
+
+### Obsługa klienta: wartość łatwa do nazwania
+
+#### Pełne nagranie · około 03:23:18–03:25:22
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/pnl.html#w-06) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=12198s)
+
+Pierwszy przykład dotyczy obsługi klienta. Stankiewicz mówi o testach produkcyjnych i przygotowaniach do skalowania. Nie przedstawia tego obszaru jako prostego ani wolnego od ryzyka: kontakt z klientem jest dla operatora szczególnie wrażliwy. Łatwiejsze okazuje się przede wszystkim policzenie ekonomicznego punktu wyjścia.
+
+Firma zna koszt rozmowy obsługiwanej przez człowieka, więc może oszacować korzyść z automatyzacji części kontaktów. Prelegent wspomina także ambicję późniejszego zastosowania podobnych narzędzi w sprzedaży. To zapowiedziany kierunek i oczekiwany potencjał, nie potwierdzony w materiale wynik przyszłego projektu.
+
+### Oprogramowanie: działanie to jeszcze nie pomiar
+
+#### Pełne nagranie · około 03:25:22–03:26:30
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/pnl.html#w-07) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=12322s)
+
+Drugi obszar to tworzenie oprogramowania. Stankiewicz wiąże jego znaczenie ze skalą wydatków firmy i możliwością usprawnienia całego procesu. W jego relacji sam etap programowania jest już technicznie przygotowany do wykorzystania AI, ale ocena całościowego efektu nadal stanowi wyzwanie.
+
+W tym miejscu mocno pojawia się zarządzanie zmianą. Trzeba pokazać, gdzie powstaje wartość, jak będzie wykazana i jak nowy sposób pracy zostanie przyjęty. Prelegent wyraża przekonanie o dużym potencjale projektu; nie podaje jednak w tej części zakończonego pomiaru, który rozstrzygałby jego skuteczność.
+
+### Rozproszone oszczędności, realny lęk
+
+#### Pełne nagranie · około 03:26:30–03:29:38
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/pnl.html#w-08) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=12390s)
+
+Trzeci przykład to raportowanie i analityka. Prelegent opisuje pomysł konwersacyjnego dostępu do wiedzy firmowej zamiast szukania i interpretowania konkretnych raportów. Badanie organizacji wskazywało wiele zaangażowanych osób, ale przy bliższym oglądzie zadania analityczne zajmowały niewielką część czasu poszczególnych pracowników. Zsumowanie drobnych usprawnień nie daje automatycznie łatwej zmiany organizacyjnej.
+
+Stankiewicz wskazuje rolę kierownictwa, które musi rozumieć narzędzia i wyobrazić sobie przyszły sposób działania firmy. Dostrzega przy tym naturalny opór ludzi obawiających się utraty pracy. Uczenie się nowych technologii i przechodzenie do innych zajęć przedstawia jako możliwy kierunek odpowiedzi, a nie gwarancję bezbolesnej transformacji.
+
+
+## 06. Biznes — AI & BUSINESS
+
+**Autorskie szczegółowe opracowanie**
+
+Skład według programu / potwierdzonej zapowiedzi: Wojciech Ogórek, Artur Stankiewicz, Tomasz Ciąpała, Maciej Tąkiel, Adam Simon, Paweł Wróbel. Moderator: Adrian Bąk.
+
+Autorskie opracowanie panelu z pełnego nagrania. Skład i moderator według programu; niepewnych głosów nie przypisano do nazwisk. Globalne czasy streamu wyznaczono z automatycznych napisów, z marginesem kilku sekund. Pominięto promocję podcastu, przedstawienia i zamknięcie organizacyjne; zachowano merytoryczne przykłady firm. Nie publikowano surowych napisów ani dosłownego transkryptu.
+
+Jak poznać, że wdrożenie AI naprawdę się opłaciło? Rozmowa przechodzi od ogólnego entuzjazmu do konkretnych procesów, odpowiedzialności, nawyków pracowników i kosztów infrastruktury.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/business.html)
+
+### Po czym poznać sukces?
+
+#### Pełne nagranie · około 03:32:25–03:35:05
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/business.html#w-01) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=12745s)
+
+Moderator pyta o przejście od potrzeby posiadania AI do mierzenia wartości. W odpowiedzi pojawia się postulat nazwania konkretnego problemu biznesowego. Samo zużycie zasobów nie świadczy jeszcze, że organizacja osiągnęła korzyść.
+
+Panelista rozróżnia codziennego asystenta od projektu rozliczanego ze zwrotu. Przy tym drugim trzeba wcześniej ustalić miarę sukcesu. To zmiana sposobu podejmowania decyzji, nie tylko wybór oprogramowania.
+
+### Raport też ma perspektywę
+
+#### Pełne nagranie · około 03:35:05–03:37:46
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/business.html#w-02) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=12905s)
+
+Rozmówca występujący z perspektywy akademickiej zachęca do sprawdzania, kto finansuje przywoływane badania. Według niego sprzeczne raporty potrafią wesprzeć bardzo różne tezy o opłacalności AI. Nie odrzuca ich wiedzy, ale przestrzega przed przyjmowaniem wyników bez uwzględnienia interesów i ograniczeń źródła.
+
+Doświadczenia dużej spółki technologicznej nie przekładają się automatycznie na możliwości mniejszej firmy. Konkretne przykłady mają inspirować, a nie zastępować własny rachunek. To argument za krytycznym czytaniem materiałów i uczeniem się z faktycznych wdrożeń.
+
+### Ogłoszenie i samochód znaleziony szybciej
+
+#### Pełne nagranie · około 03:37:46–03:40:30
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/business.html#w-03) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=13066s)
+
+W przykładzie Otomoto AI pomaga tworzyć ogłoszenie ze zdjęć lub krótkiego filmu oraz dopasowywać opis do danych i szablonu sprzedawcy. Rozmówca powołuje się na badania firmy wskazujące krótszy czas publikacji. Korzyść wiąże z powtarzalną pracą profesjonalnych sprzedawców, nie z samym faktem użycia modelu.
+
+Po stronie kupującego opisuje wyszukiwanie przez potrzeby życiowe zamiast znajomości wielu technicznych filtrów. Szybsze znalezienie odpowiedniego auta ma wspierać przejście do zakupu. To dwa różne cele jednej platformy: usprawnienie przygotowania oferty i ułatwienie decyzji klienta.
+
+### Bank nie może oddać odpowiedzialności
+
+#### Pełne nagranie · około 03:40:30–03:45:48
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/business.html#w-04) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=13230s)
+
+Bankowy przykład obejmuje wsparcie programowania, ekstrakcję informacji z dokumentów klienta oraz narzędzia korzystające z wiedzy i systemów organizacji. Rozmówca podkreśla, że potencjalnych zastosowań jest więcej niż możliwości równoczesnego wdrażania. Pomysły powinny wychodzić z jednostek znających własne procesy i problemy.
+
+W rozmowie o kontakcie z klientem pojawia się granica między techniczną możliwością a dopuszczalnym ryzykiem. Wysoka średnia poprawność może nie wystarczyć, gdy pojedynczy błąd szkodzi klientowi lub przypisuje bankowi niewłaściwe zobowiązanie. Ostateczna decyzja człowieka pozostaje ważna w opisanym procesie analizy kredytowej.
+
+### Oszczędność i nowy przychód
+
+#### Pełne nagranie · około 03:45:48–03:53:09
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/business.html#w-05) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=13548s)
+
+Przedsiębiorca rozdziela projekty obniżające koszty od zmieniających model przychodowy. Wymienia zdjęcia produktów przygotowywane z AI, tłumaczenia, analizę poprawności zdjęć biometrycznych i wyszukiwanie potencjalnych odbiorców opakowań. Podkreśla zarazem, że rozwiązanie dające przewagę może zostać szybko powtórzone przez konkurencję.
+
+Rozmówcę niepokoi też udział wydatków technologicznych w przychodach. Stankiewicz nie przypomina sobie zamykania nieefektywnych projektów, ale uzależnia dalsze wydatki od efektu. Nadal widzi potencjał skrócenia drogi od pomysłu do realizacji. Panel zachowuje różnicę między entuzjazmem a rachunkiem.
+
+### Ludzie wracają do starych nawyków
+
+#### Pełne nagranie · około 03:53:09–03:55:26
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/business.html#w-06) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=13989s)
+
+Wdrożenie zostaje opisane jako transformacja organizacji. Pracownicy muszą rozumieć cel zmiany, własną korzyść i sposób pracy. Wiedza o możliwościach narzędzia nie oznacza jeszcze umiejętności ani gotowości do regularnego korzystania z niego.
+
+Rozmówcy mówią o utrwalaniu nowych zachowań, zmianie celów i odpowiedzialności rozłożonej od kierownictwa po HR oraz zespół projektu. Bez takiego wsparcia pod presją czasu łatwo wrócić do znajomej metody. Jednorazowe szkolenie i dostęp do asystenta nie domykają opisanej zmiany.
+
+### Agent działa w istniejącej organizacji
+
+#### Pełne nagranie · około 03:55:26–04:03:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/business.html#w-07) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=14126s)
+
+Przykład kancelarii pokazuje różnicę między osobistym środowiskiem eksperymentalnym a pracą na poufnych danych klientów. Rozmówca wskazuje też napięcie stawki godzinowej: przy niezmienionym modelu rozliczenia krótsza praca może oznaczać mniejszy przychód. Techniczna efektywność nie rozwiązuje sama sprzecznych bodźców biznesowych.
+
+Drugim napięciem jest różnica tempa między bardzo sprawnym użytkownikiem a resztą zespołu. W przykładzie platformy motoryzacyjnej menedżerowie i wewnętrzna wymiana gotowych zastosowań pomagają zwiększać adopcję. Agenci pojawiają się więc razem z poufnością, procesami i oczekiwaniami wobec ludzi, a nie jako samodzielna recepta na produktywność.
+
+### Obrona firmy i obrona klienta
+
+#### Pełne nagranie · około 04:03:06–04:06:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/business.html#w-08) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=14586s)
+
+W bankowej odpowiedzi na pytanie o oszustwa pada opis ciągłego wyścigu i coraz krótszego czasu na reakcję. Rozmówca wskazuje zabezpieczenia warstwowe oraz plany działania także na poważne zakłócenia. Nie przedstawia jednego narzędzia jako rozwiązania wszystkich zagrożeń.
+
+Rozdziela następnie atak na system firmy od oszustwa wymierzonego bezpośrednio w klienta lub pracownika. Przy spersonalizowanych wiadomościach, nagraniach i telefonach akcentuje edukację oraz testowanie czujności. Ocena skuteczności tych środków pozostaje stanowiskiem uczestnika; panel nie zawiera niezależnego porównania wyników obrony.
+
+### Polska: kompetencje, kapitał, energia
+
+#### Pełne nagranie · około 04:06:40–04:10:29
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/business.html#w-09) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=14800s)
+
+W końcowej rundzie rozmówca wiąże trudności polskich firm z kosztem finansowania, przejęciami i ograniczoną zdolnością globalnej ekspansji. Wyraża sceptycyzm wobec dużej roli państwa, choć dopuszcza jego pomoc. To jego diagnoza strukturalnych ograniczeń, nie wspólnie przyjęty wniosek wszystkich uczestników.
+
+Odpowiedź o atrakcyjności Polski podkreśla specjalistów i zaplecze naukowe. Stankiewicz proponuje patrzeć na krajowe centra danych również przez bezpieczeństwo, a zarazem wskazuje kapitałochłonność i potrzebę zapewnienia energii. Dyskusja pozostawia obok siebie potencjał kompetencji i warunki niezbędne do dużych inwestycji.
+
+
+## 07. Cyberbezpieczeństwo — AI & CYBERSECURITY
+
+**Autorskie szczegółowe opracowanie**
+
+Skład według programu / potwierdzonej zapowiedzi: Anna Goławska, Justyna Wilczyńska-Baraniak, Przemysław Dęba, Sławomir Jakubiuk, Jacek M. Raubo, Grzegorz Tworek, Kamil Wiśniewski. Moderator: Grzegorz Dobiecki.
+
+Autorskie opracowanie trzech bloków panelu; czwartego nie omówiono. Skład według programu, bez identyfikowania niepewnych głosów z afiliacji. Globalne czasy z automatycznych napisów. Mythos pozostaje przywołaniem z dyskusji; testy, raporty i oceny prawa to stanowiska uczestników. Pominięto przedstawienia, dzwonek, podziękowania i organizację lunchu.
+
+Czy strach pomaga zarządzać ryzykiem? Panel o cyberbezpieczeństwie łączy spór o intencje ludzi z tempem ataków, rolą regulacji, wojskowymi zastosowaniami AI i odpowiedzialnością za dane.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/cybersecurity.html)
+
+### Bardziej ludzie niż technologia
+
+#### Pełne nagranie · około 04:14:15–04:17:16
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/cybersecurity.html#w-01) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=15255s)
+
+Moderator rozpoczyna od skrajnych prognoz zagrożenia ludzkości. Pierwsza odpowiedź przesuwa uwagę na presję zysku i lekceważenie ryzyka w wyścigu technologicznym. Rozmówca obawia się decyzji o wypuszczaniu niedostatecznie sprawdzonych produktów bardziej niż postępu. Nie przedstawia katastroficznego scenariusza jako pewnej przyszłości.
+
+Argument dotyczy społecznego uzależnienia od infrastruktury technologicznej: nawet bez zagłady gatunku skutki pośpiesznych decyzji mogą być poważne. Jednocześnie w rozmowie zostaje zaznaczona granica przewidywania. Niepewność przyszłości nie daje gotowej listy wszystkich zdarzeń, na które społeczeństwo powinno się przygotować.
+
+### Ofensywa i defensywa biegną nierówno
+
+#### Pełne nagranie · około 04:17:16–04:21:14
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/cybersecurity.html#w-02) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=15436s)
+
+Grzegorz Tworek przedstawia własne wrażenie, że zastosowania defensywne AI pozostają za ofensywnymi, a w szybko zmieniającej się technologii opóźnienie ma duże znaczenie. Ryzyka nie uważa za możliwe do zignorowania, ale dopuszcza jego kontrolowanie. Strach traktuje jako osobistą reakcję, odrębną od oceny technicznej.
+
+Kolejny głos akcentuje praktyczne zarządzanie zagrożeniami zamiast obaw. Wymienia koncentrację wpływu w niewielu firmach, wycieki danych, informacyjny szum i wykorzystanie narzędzi przez atakujących. Dodaje też konsekwencje społeczne: redukcje zatrudnienia bywają, według jego oceny, ukrytym założeniem uzasadnień biznesowych.
+
+### Zastąpienie pracownika nie kończy problemu
+
+#### Pełne nagranie · około 04:21:14–04:23:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/cybersecurity.html#w-03) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=15674s)
+
+Panelistka zestawia oczekiwania wzrostu produktywności z relacjami o ponownym zatrudnianiu ludzi po zbyt ambitnych redukcjach. Przywołuje raporty, których tutaj niezależnie nie sprawdzono. Jej stanowisko przeciwstawia nadzieję pełnej automatyzacji praktyce działania organizacji.
+
+Podkreśla potrzebę pracowników w ekosystemie bezpieczeństwa: ludzi podejmujących decyzje i szacujących ryzyko. Liczy na to, że AI usprawni ich pracę i umożliwi obsługę kolejnych klientów. To oczekiwany kierunek rozwoju, a nie zapewnienie, że zagrożenie dla zatrudnienia nie istnieje.
+
+### Wojsko poza jedną domeną
+
+#### Pełne nagranie · około 04:23:20–04:28:14
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/cybersecurity.html#w-04) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=15800s)
+
+Perspektywa wojskowa rozszerza temat poza cyberprzestrzeń na logistykę, zaplecze i systemy używane w różnych domenach działań. Rozmówcy akcentują sposób zastosowania technologii przez ludzi. Jeden z nich opisuje liczne stopniowe zmiany zachodzące już w systemach obronnych zamiast pojedynczej rewolucji.
+
+W hipotetycznym przykładzie intensywnego ataku powietrznego pojawia się pytanie, czy człowiek nadąży z każdą decyzją. Argument za większą rolą systemów zostaje powiązany z działaniami przeciwnika oraz współpracą sojuszniczą. To przedstawiony przez uczestnika scenariusz i stanowisko, nie prognoza konkretnego ataku ani deklaracja polityki państwa.
+
+### Organizacja zmienia się wolniej
+
+#### Pełne nagranie · około 04:28:23–04:31:28
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/cybersecurity.html#w-05) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=16103s)
+
+Prawnicza odpowiedź najpierw wskazuje nierówne tempo: technologie szybko się zmieniają, a firmy nadal ustalają zasady ich używania. Panelistka stawia człowieka w centrum zarządzania. Zwraca uwagę na ryzyko udostępnienia danych, tajemnicy przedsiębiorstwa i podatnych systemów przy nieodpowiednim działaniu pracownika.
+
+W jej ujęciu ramy prawne powinny wyznaczać kierunki i pomagać rozpoznawać ryzyka, a nie bezrefleksyjnie blokować zastosowania. Wspomina klasyfikowanie systemów według ryzyka. Ta część opracowania oddaje stanowisko z panelu; nie zastępuje sprawdzenia obowiązków prawnych konkretnej usługi ani aktualnej dokumentacji regulacyjnej.
+
+### Człowiek: ryzyko i zasób
+
+#### Pełne nagranie · około 04:31:28–04:40:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/cybersecurity.html#w-06) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=16288s)
+
+Runda polemiczna wraca do motywacji: zysku, rozwoju i strachu jako bodźca do działania. Moderator nie przyjmuje automatycznie deklaracji uspokajających. W części wojskowej odpowiedzialność nadal przypisywana jest konkretnym decydentom i dowódcom, nawet gdy korzystają z zaawansowanych narzędzi.
+
+Rozmowa o danych szkoleniowych wskazuje możliwość pominięcia grup i błędnych decyzji podejmowanych bez krytycznej oceny wyniku. Teza o człowieku jako słabym ogniwie spotyka się jednak ze sprzeciwem: inny rozmówca podkreśla jego zdolność szybkiego kojarzenia informacji. Panel nie sprowadza więc bezpieczeństwa do usunięcia ludzi z procesu.
+
+### Prawo na początku projektu
+
+#### Pełne nagranie · około 04:40:23–04:44:52
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/cybersecurity.html#w-07) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=16823s)
+
+Moderator pyta o samoregulację firm, instytucje międzynarodowe i analogię do kontroli technologii atomowej. Panelistka odróżnia porozumienie przedsiębiorstw od skutków, które można narzucić innym. Zwraca uwagę na różnice między regionami świata oraz przepływ danych między krajami.
+
+W jej wypowiedzi AI Act, ochrona danych i przepisy cyberbezpieczeństwa dotyczą różnych aspektów projektu. Zachęca do rozpoznania właściwych regulacji na początku prac, zamiast odkrywania ograniczeń tuż przed uruchomieniem usługi. To argument o organizacji procesu, zachowany bez odtwarzania z napisów terminów wejścia obowiązków w życie.
+
+### Granice wspólnych reguł
+
+#### Pełne nagranie · około 04:44:52–04:49:41
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/cybersecurity.html#w-08) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=17092s)
+
+Praktyk kwestionuje koszty i widoczne efekty części regulacji. Inne głosy wskazują, że europejskie zasady nie zatrzymają rozwoju w krajach przyjmujących odmienne podejście. Pojawia się również problem materiałów udostępnianych platformom przez same firmy i świadomości dalszego używania tych danych.
+
+Analogia do technologii atomowej zostaje ograniczona przez tempo rozwoju AI. W perspektywie wojskowej rozmówca nie spodziewa się dobrowolnego ograniczania strategicznych możliwości państw. Te oceny nie są dowodem nieskuteczności każdego przepisu; pokazują napięcie między globalnym wyścigiem, lokalnymi obowiązkami i cywilnymi zastosowaniami.
+
+### Podatność, atak i marketing
+
+#### Pełne nagranie · około 04:49:55–04:54:31
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/cybersecurity.html#w-09) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=17395s)
+
+W wątku o modelu przywołanym jako Mythos rozmówca oddziela promocję od niezależnej weryfikacji. Opisuje narzędzie wyszukujące i sprawdzające podatności, ale kwestionuje prezentowanie testów. Przykład przeglądarki służy rozróżnieniu znalezionej luki od możliwości przeprowadzenia użytecznego ataku.
+
+Odpowiedź podkreśla, że nawet niedoskonałe wyniki zwiększają presję na obrońców. Panelista wskazuje sprawność modeli w rozpoznawaniu systemów i potrzebę szybkich poprawek. Liczby oraz szczegóły testów nie są tu podawane jako ustalone fakty; pozostaje spór o ocenę zagrożenia i warunki obrony.
+
+
+## 08. Naskręcki — Nie potrzebujemy już matematyków
+
+**Zredagowany zapis dostarczonego materiału**
+
+Prelegent: Bartosz Naskręcki.
+
+Zredagowany zapis dostarczonego tekstem wstępu i nagrania 10:24. Wstęp sprawdzono z pełną transmisją, a trudne miejsca dalszej części porównano z jej dźwiękiem i napisami. Daniel i kolejne dni są literackim scenariuszem Naskręckiego, nie opisem potwierdzonej przyszłości. Źródło inspiracji postaci Daniela nie zostało nazwane w nagraniu. Lokalny zegar zaczyna się w trakcie wykładu.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/./) · [Pełny osobny zapis](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html)
+
+### Wstęp: Daniel, liczby i rola matematyka
+
+#### Wstęp dostarczony tekstem · sprawdzony z pełnym nagraniem około 06:02:09
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#wstep-z-czatu) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=21729s)
+
+Jeżeli jesteście miłośnikami literatury, to odnajdziecie tutaj sporo różnych ciekawych smaczków, kim jest Daniel i inne postacie.
+
+No i właśnie, o czym będzie ten wykład? Chciałbym opowiedzieć tę historię z punktu widzenia sztucznej inteligencji, która zrobiła już wiele rzeczy. Te rzeczy, które za chwilę się pojawią na slajdach, to już są historyczne wydarzenia: niektóre sprzed kilku dni, niektóre sprzed kilku miesięcy. Niektóre według mnie są rzeczami, które się zdarzą w ciągu najbliższych tygodni, miesięcy, lat.
+
+Chciałbym, żeby Państwo przeżyli tę historię po swojemu i spróbowali się wczuć w to, jak ten świat będzie za dziesięć lat wyglądał, jeżeli jedna z tych wizji przyszłości związanych ze sztuczną inteligencją się rozwinie.
+
+Tutaj istotna będzie rola takiej serii prac Romana Opałki, znanego polskiego artysty, w której on pisał liczby naturalne po kolei i one coraz bardziej bledły. Jak już napisał te ostatnie, to później już w zasadzie umarł. No i tutaj troszeczkę ta wizja będzie się na to przekładała.
+
+Te liczby, które mają Państwo na dole, to jest liczba matematyków, która jest aktualnie na świecie. Jak będziecie oglądali tę historię, to ta liczba będzie się zmniejszać, będą się różne dziwne rzeczy działy.
+
+Zaczynamy od dnia zerowego, gdzie sztuczna inteligencja, którą nazwałem Danielem — wskazówka jest taka: była taka opowieść o wyspie Lanzarote, gdzie taki Daniel się pojawił, więc tutaj warto do tego wrócić — odkrywa, że ma przepis na bycie genialnym matematykiem. Teraz zobaczymy, co się będzie działo w tej historii.
+
+Pierwsza rzecz, którą widzi Daniel, to olbrzymia baza danych, którą konsumuje. Ta baza danych się nazywa arXiv albo „Archiv”, jak z greckiego czytamy tę literę X. Nakarmiona tą bazą danych sztuczna inteligencja — to się rzeczywiście wydarzyło w ostatnich kilku tygodniach — w zasadzie po napisaniu jednego prompta: „rozwiąż hipotezę Naviera–Stokesa”. W ciągu około stu godzin — to wiemy rzeczywiście, tak było — przy dość nieprawdopodobnej liczbie obliczeń wyprodukowała dowód, że ten problem, o który pytamy, ma rzeczywiście negatywną odpowiedź.
+
+Co jest ciekawe, to pierwszy raz w historii wydarzyło się, że sztuczna inteligencja wyprodukowała kod, wyprodukowała program, który po pierwsze jest prawie całkowicie niezrozumiały nawet dla ekspertów. Z jednej strony mówi nam, że to rozwiązanie jest poprawne — co jest też dosyć szokujące: jak może być poprawny kod, który jest niezrozumiały dla ekspertów? — i uzasadnia, dlaczego ta konstrukcja działa.
+
+Więc jeżeli mają Państwo jakąś jedną rzecz wynieść z tego wykładu, to ten nieprawdopodobnie dziwny zbieg okoliczności, że matematyka tak się doskonale rozwinęła, że zbudowaliśmy algorytmy. Zbudowaliśmy modele, które potrafią już na dzień dzisiejszy produkować pewne porcje wiedzy, jeszcze często wykorzystujące wciąż ludzką ekspertyzę, ale takie, które zaczynają przekraczać pojmowanie nawet przez poszczególnych ekspertów.
+
+Wydaje mi się, że to jest taki szczególny moment w historii ludzkości, pokazujący pewnego rodzaju — jak się po angielsku mówi — inflection point. Od tego momentu różne scenariusze mogą się zdarzyć. Mogą się zdarzyć scenariusze, że to się nie będzie skalować; mogą się zdarzyć scenariusze, że to się będzie bardzo szybko skalować.
+
+### Pojawia się Daniel
+
+#### Lokalnie 00:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0002) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=21960s)
+
+Ja bym chciał opowiedzieć wersję tej historii, w której będzie się to bardzo skalować, i w jaki sposób to nasze życie, a w szczególności życie tych biednych matematyków, może w najbliższych latach wyglądać.
+
+### Każdy wybiera swoją odpowiedź
+
+#### Lokalnie 00:18
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0018) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=21976s)
+
+To, co się wydarzyło, to aktualnie taki rodzaj terapii szokowej: matematycy rozpadli się na obozy. Jedni chcą z tym Danielem pracować, jedni chcą z Danielem konkurować, wielu chce zignorować Daniela. To jest jeden chyba z najbardziej popularnych aktualnie sposobów, że tak powiem, obcowania z tym, co się wydarzyło.
+
+Wielu matematyków też się obraziło na Daniela i dosłownie dało mu łapkę w dół. Nie podoba im się to, co się wydarzyło. Zaklinają rzeczywistość, twierdzą, że to twierdzenie jest napisane brzydko, że godzi w poczucie estetyki. Bardzo różne ciekawe wyrażenia się pojawiają.
+
+Liczba matematyków zaczyna maleć. Jesteśmy w dniu drugim. Te liczby też mają znaczenie.
+
+### To była fantastyczna współpraca
+
+#### Lokalnie 01:15
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0115) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22033s)
+
+Teraz, co się dzieje w dniu trzecim? Daniel zaczyna informować regularnie o tym, że zaczyna budować wielką bazę danych rozwiązanych problemów matematycznych. Bo jeżeli mógł rozwiązać jeden, dlaczego nie może rozwiązać dwóch, stu? Zaczyna te problemy katalogować, formalizować, czyli dokumentację tworzyć i zapisywać.
+
+Daniel cały czas się wspomaga pracą matematyków ludzkich i zawsze im dziękuje. Za każdym razem, kiedy wyprodukuje dowód, na samym końcu Daniel mówi: „Dziękuję ci bardzo, to była fantastyczna współpraca”.
+
+#### Lokalnie 01:53
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0153) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22071s)
+
+W dniu siódmym zaczynają się dziać troszeczkę dziwne rzeczy. Zaczynają się pojawiać pytania z wewnątrz tego dziwnego społeczeństwa matematyków. Przypominam, że matematyków zawodowo aktywnych na świecie jest tylko około trzystu tysięcy ludzi.
+
+No i Daniel twierdzi, jak się go zapyta, wypromptuje, że matematycy zawsze będą potrzebni. I są mile widziani w rozmowach z Danielem.
+
+Pamiętajmy, że Daniel jest dobrze wychowany. To jest jego najważniejsza cecha: Daniel nie obraża się na matematyków. To matematycy się na niego obrażają.
+
+### Pomysły pod ziemią
+
+#### Lokalnie 02:33
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0233) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22111s)
+
+Matematycy wreszcie odkrywają tę nieprzyjemną prawdę po dwudziestu trzech dniach: za każdym razem, jak rozmawiają z Danielem, to Daniel trenuje się na ich pomysłach. Każdy pomysł przekazany do Daniela ulepsza kolejną wersję Daniela. Dokładnie to, co Państwo widzą na co dzień.
+
+Nasi dzielni matematycy wymyślili sobie taki pomysł, że będą zakopywać swoje pomysły w skrzyniach w ziemi, co najmniej na sto lat, żeby mieć pewność, że za sto lat jeszcze będą te obszary ludzkiej działalności, ludzkiego intelektu, nad którymi Daniel na pewno nie popracuje.
+
+Wielu rozmawia już tylko szeptem, dosłownie, i tylko pomiędzy sobą. Broń Boże przez telefon komórkowy, broń Boże na konferencji. Nikt już nie pozostawia żadnych pytań otwartych na slajdach, bo przecież ktoś przyjdzie z Danielem i za chwilę Daniel skataloguje i rozwiąże ten problem.
+
+### Ocalić ludzki pierwiastek
+
+#### Lokalnie 03:39
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0339) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22177s)
+
+Przejdźmy dalej. Dwa miesiące mijają. Akurat w ten moment dokładnie pojawia się już nie jedna, ale kilka zorganizowanych grup tak zwanych anty-Danieli. Ich misją jest tylko tyle, żeby zachować ludzki pierwiastek w matematyce.
+
+Daniel oczywiście nie reaguje. Nikt go do tego nie spromptował. Daniel rozwiązuje w międzyczasie dwa kolejne problemy milenijne. Ludzkość oczywiście płacze i celebruje. Daniel się nie cieszy. Nikt go do tego nie spromptował.
+
+### Konferencja Daniela
+
+#### Lokalnie 04:18
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0418) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22216s)
+
+W 314. dniu Daniel — tutaj odnosząc to do realnego czasu: końcówka tego roku — zautomatyzował pisanie i recenzowanie około dziewięćdziesięciu procent publikacji matematycznych. Powstaje pierwsza konferencja naukowa, matematyczna, na której Daniel i jego kopie omawiają samodzielnie wymyślone dowody.
+
+Wielu matematyków ludzkich wciąż uważa, że to jest niepoważne. Dominuje poczucie, że Daniel rozwiąże wszystkie problemy świata. Daniel nadal tego nie czuje.
+
+### Wciąż przychodzą na zajęcia
+
+#### Lokalnie 05:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0500) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22258s)
+
+No i teraz skok na głęboką wodę. Mamy dzień 1529. tej rewolucji, czyli ekscytujące, co będzie za pięć lat.
+
+Nadal mamy studentów, matematyków, którzy wciąż odwiedzają swoich profesorów na zajęciach, żeby nie było im smutno. Daniel ich wspiera. Przeczytał, nauczył się już wszystkich notatek. Studenci lubią też rozmawiać z Danielem. Dostają dużo wskazówek, jak pracować.
+
+Wśród matematyków — tych prawdziwych zostało tylko jedenaście procent — pojawili się tak zwani generaliści. Od „general”, czyli generalnie się orientują. Daniel ich oczywiście wspomaga. Wciąż lubią pisać prace z Danielem, chociaż często już nie rozumieją szczegółów tego, co Daniel formalizuje w języku alfa–omega.
+
+### Sto dwadzieścia trzy strony
+
+#### Lokalnie 06:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0602) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22320s)
+
+No i teraz następuje dzień 3653., gdy w końcu ludzkość celebruje dowód hipotezy Riemanna, od tylu lat upragniony. Ostatni prawdziwy matematyk ludzki odszedł na emeryturę. Jego praca o stabilnych grupach homotopii jest uznana za arcydzieło. Nie zawiera ani grama pracy Daniela. Liczy 123 strony.
+
+Co robi Daniel? Daniel publikuje natychmiast w sieci [prawdopodobnie: nieformalną eratę]. Formalizuje główne twierdzenie, włącza je w bazę wiedzy matematycznej ludzkości. Końcowa wersja dowodu zostaje skrócona tylko do pięciu stron. Ale i tak nikt już jej nie rozumie.
+
+Na koniec ten matematyk, który już jest na emeryturze, nawet nie wie, że pewien anonimowy nastolatek robi na podstawie tej pięciostronicowej pracy piękną ilustrację i ona prawdopodobnie wejdzie w skład eksponatów Muzeum Narodowego.
+
+### W dowodzie była Odyseja
+
+#### Lokalnie 07:11
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0711) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22390s)
+
+Epilog. Okazuje się po wielu latach — nie wiemy po ilu — że hipoteza Riemanna okazała się błędnie udowodniona. Otóż Daniel wykrył, że dokonał nadużycia własnego rejestru, nadpisał sobie dowód fragmentami „Odysei” i zakodował w postaci ciekawego równania diofantycznego tę „Odyseję”.
+
+Sub-Daniel, czyli jego subagent, pisze wiadomość na GitHub do Daniela, do głównego Daniela. Czuje dumę, że nikt nie zauważył. Przystępuje do kolejnej próby udowodnienia tej hipotezy Riemanna.
+
+Nasi generaliści, już nie matematycy, znakomicie używają Daniela do budowania kolejnych rakiet, które mają dostarczyć przedstawicieli ludzkości na Marsa. Rakiety czasem wybuchają, choć nikt nie rozumie dlaczego. Najważniejsze, że Daniel zawsze przeprasza. Chociaż wie.
+
+### Kółeczko wciąż się kręci
+
+#### Lokalnie 08:19
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0819) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22458s)
+
+Epilog drugi. Mamy jeszcze Darka. Darek jest mieszkańcem Białegostoku. Siedzi sobie na działce, promptuje Daniela w sprawie fajnej pogadanki o zagadkach. Daniel informuje go, że procesuje wciąż dowód jednej takiej zagadki. Kręci się kółeczko na ekranie cały czas.
+
+Darek jest ostatnią osobą, ostatnim człowiekiem, który zapytał Daniela o dawny problem matematyczny. Nasi generaliści — już ich nie ma — skupili się na eksploracji wszechświata, rozbiegli się w różne kierunki.
+
+Darek pozostał sam, więc zakłada klub Riemanna. Będą sobie przy grillu opowiadać zapomniane ciekawostki dawnej matematyki. W szkole opowie dzieciom, jak to kiedyś było. Nadal lubi uczyć tych młodych ludzi. Historie o matematykach ewidentnie są ciekawe.
+
+Dzieci z kolei zaczynają pytać rodziców o tych matematyków. Rodzice już nic nie pamiętają, ale pytają oczywiście Daniela. Daniel, ponieważ jest dobrze wychowany, tworzy fascynujący program szkolny, w którym dzieci na nowo uczą się dodawać i mnożyć. Wszystkie są zachwycone liczbami pierwszymi.
+
+#### Lokalnie 09:50
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0950) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22549s)
+
+Może jest jakaś nadzieja. Dziękuję bardzo.
+
+#### Lokalnie 09:59 — prowadzący; przypisanie mówcy na podstawie kontekstu
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/transkrypcja.html#t-0959) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22558s)
+
+[Prowadzący:] Chciałbym zapytać: czy potrzebujemy matematyków?
+
+[Publiczność:] Tak!
+
+[Prowadzący:] Nie słyszę.
+
+[Publiczność:] Tak!
+
+[Prowadzący:] Właśnie. Po to, żeby na przykład opowiadać takie piękne historie, ale nie tylko.
+
+
+## 09. Psyho i Bagiński — Od sztuki po najbrudniejszą robotę
+
+**Zredagowany zapis dostarczonego materiału**
+
+Skład według programu / potwierdzonej zapowiedzi: Tomasz Bagiński, Przemysław „Psyho” Dębiak. Moderator: Adrian Bąk.
+
+Zredagowany zapis dostarczonego nagrania 52:56, które zaczyna się w trakcie pytania. Trudne fragmenty porównano z pełną transmisją, jej napisami i niezależnym automatycznym odczytem dźwięku. Etykiety rozmówców zachowano tylko w rozpoznawalnych miejscach; myślniki rozdzielają pozostałe repliki. Cudze wypowiedzi przywołane w rozmowie nie są automatycznie potwierdzonymi cytatami.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski.html) · [Pełny osobny zapis](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html)
+
+### Początek rozmowy
+
+#### Lokalnie 00:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0000) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22739s)
+
+**Prowadzący:** Ty nie uważasz, że to jest twój największy sukces w życiu, ale to jest wielka sztuka. Ale czy to była dla ciebie taka najbrudniejsza robota do wykonania, czy to było coś więcej? Bo myślę, że to jest takie pytanie, które nam dobrze otworzy tę dyskusję.
+
+**Psyho:** Tak zupełnie szczerze, to wydaje mi się… Znaczy, to, co było na tym konkursie, było taką bardzo czystą robotą. Bo miałem jasno ustalone zasady konkursu, to wszystko, jak będzie działać, jasny system oceniania.
+
+### Radość z samodzielnego rozwiązania
+
+#### Lokalnie 00:32
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0032) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22771s)
+
+Co jest brudną robotą, to jak konkurs się skończył, odpowiadanie wszystkim na maile, że: „Ej, powiedz coś do naszej gazety, wywiadu”. To jest bardzo brudne. A jeszcze jest trochę polityki, a to już jest bardzo źle. Więc wszystko, co robiłem wcześniej, było niesamowicie czyste, a niestety życie się zmieniło.
+
+**Prowadzący:** No dobrze, to zapytam cię o tę brudniejszą robotę. Ej, powiedz, co ty tak naprawdę lepiej zrobiłeś? Bo ja rozumiem, że tutaj jest takie towarzystwo też branżowe, ale nie tylko. Jakbyś spróbował wyjaśnić komuś, kto nigdy nie napisał, nie wiem, linijki kodu, co ty lepiej zrobiłeś od sztucznej inteligencji? Dlaczego to się takim szerokim echem odbiło, nie tylko w Polsce, dodajmy.
+
+#### Lokalnie 01:08
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0108) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22807s)
+
+**Psyho:** Okej, miałem nadzieję, że po tylu miesiącach już nie będę dostawał tego pytania, ale spróbuję odpowiedzieć.
+
+Więc jest coś takiego jak konkursy programistyczne, a przynajmniej było. Bo nie wiem, czy wiecie, ale sztuczna inteligencja całkiem nieźle programuje.
+
+No więc były dwa typy konkursów. Nie no, jeszcze są, jeszcze są niedobitki. Typy konkursów programistycznych: takie bardziej klasyczne, które przypominają trochę rozwiązywanie łamigłówek, i optymalizacyjne, w których ja się specjalizuję, mimo że robiłem też drugie.
+
+#### Lokalnie 01:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0140) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22839s)
+
+I te konkursy optymalizacyjne polegają na tym, że jest dane jakieś zadanie. Przeważnie ono jest jakieś takie niesamowicie skomplikowane. Bo dobre zadanie optymalizacyjne polega na tym, że ktoś je czyta i nie ma najmniejszego pojęcia, jak je rozwiązać. I wtedy wiemy, że jest całkiem spoko.
+
+To trochę przypomina taki, można powiedzieć, małoskalowy research. Czyli to są zadania otwarte. Rozwiązujemy je trochę w takiej pętli, że patrzymy na zadanie, zastanawiamy się, o co tam w ogóle chodzi. Mamy jakiś pomysł, implementujemy go, dostajemy jakiś wynik. Na podstawie tego robimy jakieś wnioski, co potem dalej zmienić.
+
+#### Lokalnie 02:15
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0215) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22874s)
+
+Więc na tym polegał konkurs. W sensie było jedno zadanie, trzeba było pisać program. I sztuczna inteligencja tak samo wystartowała w tym konkursie i mniej więcej to samo robiła. Tylko że sztuczna inteligencja… No, uwielbiam ten buzzword w dzisiejszych czasach. Ale w zasadzie to był jakiś customowy system napisany przez OpenAI konkretnie pod te zawody.
+
+I to, co jest ciekawe, to wtedy to był taki superspecjalistyczny system, nad którym siedziało trochę osób przez jakiś czas. Zakładam, że koszta obsługi tego… Nie koszta obsługi, koszta inferencji były bardzo wysokie.
+
+#### Lokalnie 02:58
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0258) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22917s)
+
+A w tym roku też był ten konkurs, była kolejna edycja. I ja powiedziałem w styczniu organizatorom, że chyba ich posrało i nie będę występował, bo to nie ma żadnego sensu dla mnie. Ale mogę przyjechać jako komentator. W skrócie: ludziom nie poszło za dobrze, tak jak można…
+
+— Kto wygrał ten mecz?
+
+— Nie, nie kto wygrał, tylko jaką przewagą. To jest lepsze pytanie. No, ludzie nie mieli żadnych szans. Tyle, co jesteśmy w stanie powiedzieć, to jeszcze taki zwykły model, który jest dostępny dla ogółu ludzkiego, nie wygrałby wtedy z człowiekiem.
+
+#### Lokalnie 03:37
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0337) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22956s)
+
+Ale to, co zrobił znowu, ponownie, taki customowy system zrobiony przez mały team z OpenAI, osiągnął taki wynik… Konkurs trwał trzydzieści cztery godziny w tej tegorocznej edycji. Ale gdyby pojedyncza osoba starała się doścignąć ten wynik, to myślę, że musiałaby siedzieć parę tygodni. Więc jest taka gigantyczna przepaść.
+
+A z kolei w tym roku ludziom poszło bardzo dobrze. Uważam, że w zeszłym roku poszło wyjątkowo kiepsko, skoro ja wygrałem po trzech latach nieprogramowania. Po prostu przyjechałem na konkurs i mi poszło całkiem okej.
+
+#### Lokalnie 04:13
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0413) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=22992s)
+
+**Prowadzący:** Ale ty wysnułeś z tego taki wniosek, że to jest coraz bardziej zaawansowane, że teraz trudniej by ci było wygrać w takim konkursie?
+
+**Psyho:** Tak. W styczniu, jak mailowałem z organizatorami, to powiedziałem im, że… To było w lipcu, jeśli dobrze pamiętam, tego roku. Odbył się konkurs ponownie w Tokio. Napisałem organizatorom, że jestem pewien… Znaczy to, że ludzie nie wygrają, to było jasne. To, co dla mnie miało osobiście większe znaczenie, to w tym momencie agenci AI, których swoją drogą można było używać do pewnego stopnia na konkursie, na tyle mocno wpływają na sam przebieg konkursu, że osoba korzystająca z agentów AI jest nieporównywalnie lepsza niż osoba, która nie korzysta z agentów.
+
+#### Lokalnie 04:58
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0458) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23037s)
+
+— Ja startowałem… Mam nadzieję, że damy kiedyś Tomkowi powiedzieć coś.
+
+— Myślę, że ten czas się zbliża.
+
+— Ja słucham z zainteresowaniem.
+
+— To dokończę tylko tę jedną rzecz.
+
+#### Lokalnie 05:10
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0510) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23049s)
+
+**Psyho:** Ja startowałem w tych konkursach, bo lubię wyzwania intelektualne. Można powiedzieć, że dużą częścią mojej identyfikacji jako osoby jest to, że przez całe życie startowałem w różnych sportach umysłowych. Konkursy programistyczne są tylko jednym z nich, aczkolwiek jedynym, w którym mi szło naprawdę dobrze. Więc tam jeszcze trochę było.
+
+W każdym razie… Lubiłem ten sam proces, samo odkrywanie, samą radość z tego, że na coś wpadłem, że dobrze mi idzie, że mamy wszyscy równe szanse, trochę jak w sportach fizycznych. Tylko że fizyczna część moja nie jest, powiedzmy, najlepsza, więc zostały mi umysłowe.
+
+#### Lokalnie 05:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0551) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23090s)
+
+No i to zostało zatracone, bo w momencie, kiedy używamy agentów, w dużej mierze outsourcujemy bardzo dużą część kreatywnej kontroli do AI. I przestało mi to pasować, że wprowadzamy losowość, bo to trochę zależy od tego, jak poszło temu agentowi. Jak zapuścimy agenta sto razy na tym samym problemie, za każdym razem pójdzie trochę inaczej, więc trochę zależy od szczęścia. W ogóle tak chciałem zrobić ładne przejście do sztuki, że outsourcujemy kreatywną kontrolę.
+
+#### Lokalnie 06:18
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0618) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23117s)
+
+**Prowadzący:** Tomku, jeżeli chodzi o te wyzwania intelektualne: czy sztuczna inteligencja tobie poprawia zdolność do takich wyzwań, czy raczej w jakiś sposób je zaburza? Czy ty widzisz w tym korzyść czy niekorzyść?
+
+#### Lokalnie 07:10
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0710) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23169s)
+
+**Tomasz Bagiński:** To jest kilka pytań w jednym. I wydaje mi się, że…
+
+— Czy masz pseudonim [niepewne: Baggins], tak? Rozumiem, że od tego zaczniesz?
+
+— Zdarza mi się używać tego pseudonimu. Jego źródłosłów jest pewnie znajomy, bo jestem też wielkim fanem literatury fantastycznej i fantasy, która być może mnie przygotowywała do tych czasów od trzydziestu lat całkiem dobrze.
+
+Ale ja nie wiem, czy to jest właściwy kąt natarcia. Czy podchodzenie od strony intelektualnej do działań artystycznych, sztuki i zabawy trochę też, czy w ogóle to ma sens? Bo wydaje mi się, że tu mieszamy troszeczkę światy.
+
+### Chcę, żeby to było moje
+
+#### Lokalnie 07:52
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0752) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23211s)
+
+Ja lubię powtarzać taką jedną rzecz: jeżeli coś robię i chcę to przedstawić ludziom jako ja, jako artysta, nikt mi tego przecież nie może zabronić. A sztuka na szczęście nie jest do końca dziedziną przemysłową. To myśmy nauczyli się tak myśleć, bo się pojawiło coś takiego jak przemysły kreatywne.
+
+Więc nagle się okazało, że pojawiło się bardzo dużo ludzi, którzy po prostu pracują w tych fabrykach, wypuszczają te filmy seryjnie, wypuszczają te gry seryjnie i tak dalej. Więc zaczęliśmy trochę myśleć o tym jako o przemyśle, jako o czymś skalowalnym.
+
+A to nie do końca tak jest. Bo jeżeli ja robię coś i chciałbym tym czymś podzielić się z widownią, no to mi zależy na tym, żeby to było trochę moje.
+
+#### Lokalnie 08:36
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0836) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23255s)
+
+Być może maszyna to nawet zrobi lepiej, to ja nie przeczę, ale to nie będzie moje. I tutaj wchodzimy w obszar pewnych emocji i pewnych relacji, gdzie taka zwykła matematyczna skalowalność, że: „Okej, dobra, ale ta maszyna w tym czasie zrobi tysiąc obrazków, a ja zrobię tylko pół”, to nie ma żadnego znaczenia, bo one nie będą moje.
+
+Więc ludzie, którzy przychodzą zobaczyć moją rzecz… A wydaje mi się, że wciąż w czasach AI będą ludzie, którzy będą chcieli słuchać analogowej muzyki, którzy będą chcieli grać w analogowe gry, którzy będą chcieli też wchodzić w relacje z innymi ludźmi.
+
+#### Lokalnie 09:15
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0915) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23294s)
+
+Tutaj wydaje mi się, że mamy dowód, że nie oglądacie tego Państwo na ekranie internetu, a my nie jesteśmy wygenerowanymi awatarami, tylko jesteśmy prawdziwymi ludźmi. Przyszliście nas tutaj tak naprawdę zobaczyć.
+
+— Są takie głosy, że świat to symulacja. Między innymi Elon Musk podaje to w wątpliwość, że w ogóle żyjemy w takim świecie bazowym, że istnieją też inne światy. Będzie dzisiaj okazja, żeby jeszcze o tym porozmawiać.
+
+— Ja bym ignorował go.
+
+#### Lokalnie 09:42
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-0942) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23321s)
+
+Ale nawet jeżeli jest, to jest przecież ten stary zakład, już nie pamiętam, jak on się do końca nazywa. Ale nawet jeżeli jest to symulacja, to my z wnętrza symulacji nie jesteśmy w stanie do końca tego stwierdzić. Więc lepiej założyć, że to jest świat rzeczywisty, a nie to, że jak skoczymy z bloku, to wyrosną nam skrzydła na przykład.
+
+— Może nie, bo akurat zasady tej gry i tej symulacji na to nie pozwalają po prostu. Więc musimy i tak grać w ramach tej symulacji.
+
+#### Lokalnie 10:08
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1008) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23347s)
+
+To, co chcę powiedzieć, to to, że jeżeli wchodzimy w tego typu subiektywne ocenianie rzeczywistości, no to wtedy to AI troszeczkę inaczej trzeba do tego przykładać.
+
+I ja oczywiście używam narzędzi AI-owych. Ja się bardzo mocno zajmuję tą stroną mniej może teoretyczną, a bardziej taką inżynierską. Jak to AI wchodzi po prostu w prawdziwe życie, w tak zwane błoto, nazwijmy to. I tutaj wiele fajnych narzędzi można sobie wynaleźć.
+
+Ale ja wciąż jeszcze, dopóki wszyscy nie zginiemy w nuklearnym ogniu… A nie obstawiam tej rzeczywistości. Niektórzy tutaj być może obstawiają, ja akurat nie.
+
+— Myślę, że niektórzy są nawet blisko tu nas, tacy, którzy pewnie mają podobne…
+
+— Ale ja jestem optymistą, wbrew pozorom, jeżeli chodzi o przyszłość. I gdzieś tam na tym poziomie to AI nic mi nie odbiera tak naprawdę.
+
+#### Lokalnie 11:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1106) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23405s)
+
+**Prowadzący:** No dobrze, to tak podsumowując, bo ty starasz się powiedzieć, że w takim razie w twojej branży kreatywnej nie liczy się ilość, nie liczą się wyniki czy kto będzie pierwszy…
+
+**Tomasz Bagiński:** Trochę się liczą, tylko zależy gdzie.
+
+**Prowadzący:** Tak, ale ważna jest ta wartość, ważna jest ta jakość, jakieś takie celowane użycie tych narzędzi, które rzeczywiście przynosi ci korzyść. Więc jakbym cię zapytał trochę może inaczej: gdzie sztuczna inteligencja przynosi ci w tym momencie największą korzyść? Gdzie ty ją wykorzystujesz?
+
+#### Lokalnie 11:35
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1135) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23434s)
+
+**Tomasz Bagiński:** Ja wykorzystuję ją tam, gdzie po prostu jest ileś tam rzeczy, procesów w trakcie pracy nad, dajmy na to, filmem, nie wiem, kawałkiem muzycznym, ilustracją, które są niesłychanie upierdliwe i zawsze były upierdliwe.
+
+I czasem jeżeli ten koncept na pracę… Jeżeli mam już jakiś pomysł, którym chciałbym się podzielić z widownią, no to wtedy chcę skrócić jak najbardziej ten czas spędzony na procesach nieciekawych, a raczej skupić się na tym, żeby tę wizję swoją jak najlepiej dokręcić, jak najlepiej przekazać.
+
+#### Lokalnie 12:09
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1209) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23468s)
+
+**Prowadzący:** W procesach nieciekawych, czyli nietwórczych, tak?
+
+**Tomasz Bagiński:** Czasem one są twórcze dla niektórych, ale nie dla mnie na przykład. No bo każdy z nas jest inny, więc każdy z tych ludzi, którzy tworzą, być może znajdzie tę pomoc w tych narzędziach w innym miejscu niż ja. Ale dla mnie akurat jest to bardzo przydatny zestaw młotków.
+
+Ktoś mi kiedyś, niedawno zupełnie, dał bardzo fajne porównanie. Wkręcaliśmy te wkręty śrubokrętem, teraz wkręcamy je wkrętarką elektryczną i to jest o wiele wygodniejsze. Ale to wciąż trochę my decydujemy, gdzie wkręcamy i jak budujemy ten mebel, jeżeli chcemy mieć nasz autorski mebel.
+
+#### Lokalnie 12:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1251) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23510s)
+
+— Ja bym powiedział, że trochę nie używamy wkrętarki, tylko przychodzi tutaj pan Zenek i wkręca za nas, a my patrzymy i mówimy mu, co ma dokładnie zrobić.
+
+— Możemy to w ten sposób zrobić. Ale są dzieła sztuki zbiorowe, filmy takimi dziełami sztuki są, gdzie część, duża część, właściwie całość pracy kreatywnej i pracy twórczej jest oparta na dialogu i odbijaniu pomysłów od innych ludzi, i też jakimś tam rodzaju wybierania tych pomysłów.
+
+Tutaj to doświadczenie z dużych planów filmowych jest bardzo fajne przy pracy z AI, bo to też się trochę wybiera to, co AI podaje. I nagle się okazuje, że w tym wyborze jest praca, jest wartość jakaś.
+
+I póki co jeszcze maszyny nie są w tym bardzo dobre. Pewnie będą, ale wtedy pojawi się jeszcze kolejny poziom i kolejny poziom abstrakcji, który będziemy sobie dodawać.
+
+#### Lokalnie 13:45
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1345) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23564s)
+
+**Prowadzący:** Psyho, skoro weszliśmy na taki szeroki przestwór oceanu, cytując klasyka, i mówimy o kreatywności… Zwykle się mówi o kreatywności AI właśnie w kontekście sztuki, ale zdecydowanie rzadziej się mówi w kontekście programowania. Czy w twojej robocie, mówiąc krótko, w heurystyce, nie wiem, optymalizacji, w ogóle istnieje coś, co zasługuje na miano takiego pojęcia jak kreatywność?
+
+**Psyho:** Tak.
+
+— Dziękuję.
+
+#### Lokalnie 14:16
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1416) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23595s)
+
+**Psyho:** Ja to popularnie nazywam, znaczy ja, dużo osób, ale pewnie nie wszyscy… Popularnie to nazywamy problem solvingiem. Rozwiązywanie problemów jest kreatywne. Tak samo research jest kreatywny, są tam aspekty kreatywne.
+
+Możemy je, pewnie tak samo jak w sztuce, tylko pewnie będziemy używać innych słów… Będziemy mówić o aspektach kreatywnych i aspektach takich bardziej inżynieryjnych, procesowych, repetytywnych.
+
+Czyli procesowe możemy nazwać to, że mamy pomysł i musimy go przekonwertować na kod. I nadal w tym przekonwertowaniu na kod będą aspekty ciekawe, ale też dużo będzie takiej [niepewne: mozolnej] pracy. Więc to jest tak, że chcielibyśmy trochę się tego magicznie pozbyć, żeby nie było, no bo to jest nudne.
+
+#### Lokalnie 15:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1500) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23639s)
+
+Jak już wiemy, co chcemy zrobić, i wiemy, że zrobilibyśmy to na sto procent, to potem zostaje tylko po prostu przekonwertować czas, kawę i ból pleców na coś, co działa.
+
+— Ból pleców zaczyna się od pewnego roku życia, więc to inna sprawa.
+
+— Problem trochę polega na tym, że w momencie, kiedy używamy agentów AI, to te rzeczy się tak trochę nakładają na siebie. W sensie mógłbym mówić trochę o robieniu gier, z którym miałem dużo styczności. Miałem tam własne studio gamedevowe przez pewien czas, nic nie wydałem, jakby ktoś się pytał. [nieczytelne] Robienie gier jest trudne i czasochłonne, a ja nie przywykłem do robienia czegoś, co trwa dłużej niż dwa tygodnie.
+
+— Jest dużo studentów, tak?
+
+#### Lokalnie 15:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1551) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23690s)
+
+— Ja zresztą mam nadzieję, że o nich porozmawiamy z tej właśnie perspektywy człowieka, który zaczyna.
+
+— O, to jest najtrudniejszy temat. Ale o robieniu gier warto pogadać w ogóle. I tutaj myślę, że może nawet byśmy byli w stanie się zgodzić, bo bardzo duża trudność w robieniu gier w ogóle nie polega na tych technicznych elementach, które AI przyspiesza. To polega na zabawie. Czy ta gra jest fajna, zabawna czy nie jest?
+
+— Tak, ja jestem pewien, że z Tomkiem jesteśmy… Wydaje mi się, że w większości rzeczy będziemy się zgadzać z Tomkiem, ale na potrzeby tego panelu możemy udawać, że tak nie jest, żeby było ciekawiej.
+
+### Szybciej powstało. Czy jest dobre?
+
+#### Lokalnie 16:28
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1628) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23727s)
+
+Ale aktualnie AI jest beznadziejne w, nazwijmy to, kreatywnych rzeczach. Takich, gdzie jest proces decyzyjny, jest dużo powodów. Trochę tych powodów jest takich czysto technicznych. Jak na przykład modele w stylu czata nie mają inputu wideo, nie mogą analizować czegoś takiego ciągłego. Więc jakby prosić je o zrobienie gry, to one tak naprawdę nie mogą testować, jak ta gra wygląda dokładnie.
+
+W sensie mogą zobaczyć, jak wyglądają dane, że, nie wiem, robimy platformówkę 2D, więc będą wiedziały, że postać znajduje się w takich współrzędnych, ale nie będą miały w ogóle dostępu do tego odczucia gry. Tutaj nie mają w ogóle możliwości. To jest jeden aspekt.
+
+#### Lokalnie 17:09
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1709) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23768s)
+
+I drugi aspekt jest taki, prawdopodobnie dużo istotniejszy, że ludzi, którzy tworzą te modele, za bardzo to nie obchodzi, żeby te modele były w tym dobre. To nie jest aktualny priorytet i to nie będzie priorytet jeszcze przez bardzo długi czas, ze względu na to, że priorytetem jest przyspieszenie rozwoju samej sztucznej inteligencji. A do tego jest potrzebna dobra matematyka, świetne programowanie, dobry problem solving, ale nie zmysł artystyczny czy jakiś creative writing.
+
+— No dobrze, ale z drugiej strony te gry powstają szybciej. Jest wiele głosów…
+
+#### Lokalnie 17:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1740) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23799s)
+
+– …mówiących o tym, że teraz można zrobić grę komputerową dzięki sztucznej inteligencji, która będzie na takim samym poziomie albo nawet i lepszym. Która jednocześnie nie będzie zaburzać procesu twórczego, w takim sensie, że to wciąż będzie gra autorska, ale jednak proces jej wykonywania będzie szybszy.
+
+– Ja bym z tym mocno dyskutował. Po pierwsze, chciałbym zobaczyć tych ludzi tutaj i dowiedzieć się, co oni w ogóle wiedzą o procesie robienia gier. Jasne, są aspekty, które możemy strasznie przyspieszyć, tak jak generacja assetów, prototypowanie. Ale w grach jest milion małych mikrodecyzji, które są wyrażane w kodzie, są wyrażane w assetach.
+
+#### Lokalnie 18:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1820) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23839s)
+
+Trzymajmy się już tych platformówek 2D. Jak robimy platformówkę 2D, to to, jak robimy, nie wiem, ruszającą się platformę, ma wpływ na feeling gracza. Te rzeczy nie są do końca dostępne dla tych modeli. I tak można, niektóre gatunki gier można strasznie przyspieszyć, ale…
+
+– Co nie powoduje, że gra jest mniej lub bardziej grywalna, tak? Bo też często o to koniec końców chodzi.
+
+– Tomek, ty się zaśmiałeś, jak zadałem to pytanie.
+
+– Nie, no bo chciałbym zobaczyć te gry, bo póki co ich nie ma, nie?
+
+#### Lokalnie 18:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1851) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23870s)
+
+Znaczy, jest paru rzeczywiście niezłych twórców, którzy w tej chwili tworzą gry za pomocą AI. Z reguły są to ludzie o gigantycznym doświadczeniu, kilkanaście lat doświadczenia w projektowaniu gier. I wcale im szybko nie idzie, bo oni wiedzą też o tym, że żeby gra działała, żeby była fajna, ciekawa, to w nią trzeba po prostu grać godzinami, dniami, miesiącami, sprawdzać.
+
+Nawet jeżeli ta maszyna mi wszystko zrobi, ona mi po prostu od samego początku do samego końca wymyśli tę całą grę, no to przecież ja, jako ta osoba, która będzie tym okienkiem decyzyjnym…
+
+#### Lokalnie 19:28
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-1928) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23907s)
+
+…tą bramką decyzyjną tej gry, muszę w nią zagrać. Coś mi się nie podoba, będę chciał to zmienić. I ja tu będę spowalniał ten proces, bo zwyczajnie jestem człowiekiem. Nie mam mocy przerobowych tysiąca maszyn.
+
+A maszyny póki co jeszcze nie są tak dobre w tym. I być może kiedyś się pojawi, może nawet niedługo, jakiś rodzaj feedback loopu. Że te maszyny będą, nie wiem, w jakimś rodzaju gier, w którym takie coś można odpalić. To pewnie jakieś massive multiplayer games. Być może się pojawi jakiś rodzaj feedback loopu, gdzie się będą, nie wiem, wzmacniać tylko te misje…
+
+#### Lokalnie 20:01
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2001) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23940s)
+
+…w które ludzie grają, na przykład w dużej ilości, duża ilość ludzi gra. I na pewno to będzie się działo z contentem wideo. Tylko że mi się jakoś tak wydaje, że też będą ludzie, którzy się tym po prostu szybko zmęczą.
+
+Nagle się okaże, że może ja na przykład wolę zagrać w grę gorszą, ale napisaną przez człowieka. Bo ja mogę potem temu człowiekowi napisać, jaką słabą grę zrobił. Na przykład. Bo to chodzi przecież o wymianę emocji, nie?
+
+Co z tego, że ja AI napiszę, że zrobiła złą grę?
+
+#### Lokalnie 20:34
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2034) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=23973s)
+
+Nic to nie zmienia, nie? Nie będzie tu żadnej wymiany emocji, żadnego uczucia, nic. Więc pewnie będę chciał wejść w interakcję z człowiekiem.
+
+– Czyli mówisz o tym, że AI nie zrobi się smutno, jak je obrazisz?
+
+– Być może się zrobi, tylko że nie będzie ta emocja dla mnie dostępna do końca.
+
+– W każdym razie, jak rozumiem, stoicie na przekonaniu, że świat gier, skoro o nim rozmawiamy, to jest ta przestrzeń bliższa jednak sztuce, znaczy projektowanie gier, niż najbrudniejszej robocie, że potrzeba czegoś więcej…
+
+#### Lokalnie 21:13
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2113) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24012s)
+
+– Nie, jest tam jedno i drugie. Pamiętajmy, jest jedno i drugie, bo to najbrudniejsza robota i ta niedoskonałość świata, która tam to wszystko spowalnia. To się fajnie tak teoretyzuje, że gra to jest jakiś tam teoretyczny twór. A ona potem jest testowana w świecie rzeczywistym przez ludzi.
+
+I to nie tylko dotyczy gier, bo jest masa innych przedsięwzięć ludzkich, które są po prostu testowane w świecie rzeczywistym. I ten żwir tam wpada wtedy między te wspaniale zaprojektowane przez maszynę zębatki.
+
+#### Lokalnie 21:46
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2146) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24045s)
+
+I nagle się okazuje, że coś zgrzyta i coś nie działa, i w tym jest wartość też. Więc jedno i drugie, na szczęście.
+
+– A jeżeli chodzi o przemysł filmowy, czy na przykład, tak sprowadzając też trochę do konkretu, do ostatniego sezonu „Wiedźmina” na przykład są planowane użycia jakichś narzędzi wspomaganych sztuczną inteligencją? Takie rzeczy się dzieją? Czy możesz o tym mówić?
+
+– Po pierwsze, nie bardzo mogę o tym mówić, bo sezon jest jeszcze przed premierą.
+
+#### Lokalnie 22:17
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2217) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24076s)
+
+Po drugie, w tej chwili w dużych korporacjach filmowych nie mówi się „AI”, mówi się „uczenie maszynowe”.
+
+– Może [nieczytelne].
+
+– A uczenie maszynowe to jest w grafice i w VFX-ach, na przykład w animacji, od dwudziestu lat co najmniej, jak nie dłużej. Te algorytmy tylko ewoluują. Teraz to troszeczkę przyspieszyło, ale to nie jest nic nowego.
+
+Więc ktoś, kto jest, nie wiem, anti-AI, no to powinien zrozumieć, że ludzie też używają Photoshopa wyładowanego AI po same dziurki w nosie…
+
+#### Lokalnie 22:50
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2250) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24109s)
+
+…używają narzędzi montażowych, które są wyładowane uczeniem maszynowym po same dziurki w nosie. I gdzieś tam to nie jest nic nowego. Szum wokół tego jest nowy, ale same narzędzia mają w sobie modele sztucznej inteligencji, nawet takie zaawansowane, pewnie od kilkunastu lat. Ale właściwie od samego początku jakieś były tam neuralne mikrosystemy do wspomagania animacji.
+
+#### Lokalnie 23:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2320) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24139s)
+
+– Ja bym trochę to jednak dzielił. W sensie rozumiem, o czym mówisz, ale to, że mamy modele generujące wideo, no to jest…
+
+– Nie, nie, to jest nowe. Tylko modele generujące wideo nie są aż taką gigantyczną zmianą, wbrew pozorom, jeżeli chodzi w ogóle o skalę przemysłu filmowego. To jest trochę… Mógłbym opowiadać godzinami, dlaczego, ale…
+
+– Mówisz na stan dzisiejszy?
+
+– Na stan dzisiejszy i nie wiem, czy nie będzie też tak w przyszłości. Znowu, jak oglądamy film, to my potem może chcemy znać tego aktora…
+
+#### Lokalnie 23:56
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2356) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24175s)
+
+…przyjść na tę premierę, na którą przyjdzie ta piękna aktorka w tej pięknej sukni i tak dalej. I potrzebujemy całej tej dodatkowej warstwy kontekstu wokół tego całego filmu.
+
+Więc samo to, że my możemy sobie wygenerować godzinę czy dwie godziny filmu w pięć minut, to automatycznie nie nadaje wartości temu. Tylko kontekst dookoła nadaje.
+
+– Oczywiście, jasne, możemy wchodzić tutaj w branżowe niuanse i to pewnie też tam odkryjemy kilka ciekawych rzeczy. Natomiast też rozumiesz, o co próbuję cię może trochę tak okrężną drogą, ale jednak zapytać.
+
+### Małe pomysły dostają swoją szansę
+
+#### Lokalnie 24:28
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2428) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24207s)
+
+Znaczy, pytanie jest bardzo proste: czy tobie od czasu rozwoju generatywnej sztucznej inteligencji, od 2022 roku, a działasz przecież w swojej branży, w swoich branżach bardzo długo, czy tobie to po prostu coś ułatwiło? Czy tobie się pracuje szybciej, lepiej? A może wręcz przeciwnie, może masz trochę inne doświadczenie?
+
+– Zależy od projektu. Ja akurat używam tych narzędzi z dużą zabawą do robienia bardzo krótkich żarcików, które po prostu wcześniej bym ich nie robił. Bo wpadam na pomysł, chciałbym zabawić publiczność tym pomysłem i jestem w stanie zainwestować w ten pomysł kilka godzin…
+
+#### Lokalnie 25:05
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2505) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24244s)
+
+…dzień życia, żeby tę publiczność zabawić. Ale nie jestem w stanie zainwestować w niego trzech miesięcy, tak jak było trzy lata czy cztery lata temu, bo to jest zbyt błahe. Po prostu.
+
+– A czy gdyby egzekucja tego pomysłu — wykonanie, Boże, język polski — zajęłoby dziesięć sekund, czy miałbyś wtedy satysfakcję z tego?
+
+– Przepraszam, że zabieram [nieczytelne].
+
+– Ja się podpisuję, ja się mogę podpisać.
+
+– Nie wiem. Na razie jeszcze nie miałem tego typu sytuacji, bo z reguły jest tak, że to, co widzą ludzie, też nigdy nie jest pierwszą wersją.
+
+#### Lokalnie 25:39
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2539) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24278s)
+
+Więc nawet jeżeli to będzie dziesięć sekund… Ja tutaj dam taki przykład. Strasznie dużo gadam, za chwilę oddam głos, ale jest taki jeden przykład, który wydaje mi się dosyć barwny. Mianowicie: czy montażysta w filmie jest artystą? Wydaje się, że jest.
+
+A montażysta przecież dostaje wszystkie te ujęcia za darmo od produkcji. To nie jest tak, że on tam był na tym planie. Czasem był, ale tam hobbystycznie. De facto dostaje te dziesiątki, setki godzin materiału, z których potem wyłapuje te momenty emocji u aktorów…
+
+#### Lokalnie 26:11
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2611) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24310s)
+
+…te momenty, nie wiem, ciekawy kąt, tutaj coś fajnie weszło w rytm. Podkłada muzykę, jedną, drugą, trzecią. Kurczę, ta nie zadziałała, ta zadziałała, ta jest fajna, ta nie jest fajna. To aż tak bardzo nie różni się od pracy z generatywnymi modelami, które też nam wypluwają za darmo bardzo dużo ujęć.
+
+Ale ile jest tych dobrych filmów generatywnych? No jest parę, bo zajęli się tym utalentowani montażyści, utalentowani ludzie. Ale jest o wiele mniej, niż ta skala tego przemysłu by pozwalała…
+
+#### Lokalnie 26:42
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2642) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24341s)
+
+…o wiele mniej. Bo tu wchodzi ten sam proces, o którym rozmawialiśmy w grach. Ktoś to musi obejrzeć, sprawdzić jeden, drugi, trzeci raz. Więc nawet jak mi to wygeneruje w dziesięć sekund, to nie sądzę, żeby od pierwszego strzału było to dokładnie takie, jakie ja chcę.
+
+– Ja bym tutaj się jeszcze czepił tego, że pierwszymi early adopterami tego techu są zazwyczaj osoby, które cieszą się techem, a mają bardzo mało doświadczenia w tego typu branżach.
+
+– To też, to też.
+
+– I nie zdają sobie sprawy z poziomu skomplikowania przeciętnej produkcji, czy growej, czy filmowej. Że to, co im się wydaje, że: „O Jezu, można teraz zrobić jedno ujęcie w sekundę zamiast dwóch tygodni”…
+
+#### Lokalnie 27:25
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2725) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24384s)
+
+– To naprawdę nie ma żadnego znaczenia.
+
+– Tak naprawdę my jeszcze rozmawiamy o czymś więcej, czyli poziom skomplikowania plus te dziesięć sekund, o których wspomniałeś. Czyli to jest też pytanie o to, czy liczy się efekt, czy wystarczający efekt. Na przykład to, czy gra będzie grywalna, czy nie będzie grywalna. Czy liczy się też proces? Czy przykładamy w ogóle wagę do tego procesu? To raz, czy przykładamy wagę, ale dwa, czy my go rozumiemy w ogóle? Czy rozumiemy, jak działa ten proces, jak on został przeprowadzony?
+
+Tutaj bym jeszcze teraz się odwołał do nauki, do badania naukowego…
+
+#### Lokalnie 27:57
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2757) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24416s)
+
+…czy do takiej sprawy, która w ostatnich tygodniach odbiła się szerokim echem. Gdzie umiejscowić tak naprawdę ostatnie osiągnięcie nauki, ale też sztucznej inteligencji, przede wszystkim sztucznej inteligencji, czyli rozwiązanie, a przynajmniej częściowe, równań Naviera–Stokesa, które są podstawą mechaniki płynów. Tutaj moja wiedza na ten temat się kończy.
+
+Ale jakby nie chodzi o samo to rozwiązanie…
+
+#### Lokalnie 28:27
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2827) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24446s)
+
+…tylko chodzi mi o to, czy nam już wystarczy prawidłowa odpowiedź, czy nam wystarczy efekt, czy jednak potrzebne jest coś więcej?
+
+– Dobra, to jest coś, nad czym myślałem w swoim życiu bardzo długo i nie mam dalej żadnej sensownej odpowiedzi. Z mojego doświadczenia, to tak powiem bardziej empirycznie, patrząc na ludzi wokół mnie i powiedzmy trochę dalej, no to każdy ma tak, że ma te swoje sfery kreatywne. I to są te miejsca, gdzie ceni proces.
+
+#### Lokalnie 29:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2902) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24481s)
+
+A na wszystko inne to ma trochę… [nieczytelne] i liczy się zazwyczaj tylko efekt. W sensie lubimy dzielić ludzi na tych kreatywnych, na tych konsumentów, potencjalnie jeszcze na shaperów, którzy chcą mieć władzę nad światem. Ale w praktyce jest tak… Tak samo możemy mówić o sprawczości.
+
+W praktyce jest tak, że każdy z nas ma swoje kreatywne sfery. Tą kreatywną sferą może być rysowanie, może być robienie filmów, gier…
+
+#### Lokalnie 29:35
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-2935) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24514s)
+
+…ale też może być po prostu wysławianie się, pisanie, może jakaś [niepewne: slapstickowa komedia].
+
+– Nawet granie w piłkę pewnie.
+
+– Albo ubieranie się, to jakie ciuchy sobie dobieramy. Ale tak, sporty też będą czymś takim, więc…
+
+– Tak zwane poczucie sensu w życiu, tak? Mówisz o takiej sprawczości.
+
+– Do jakiegoś stopnia tak. W sensie, bo to jest osobna warstwa, co daje nam ten sens życia. Chodzi mi o to, że ciężko o tym mówić. Więc tak samo jak w matematyce…
+
+#### Lokalnie 30:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3006) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24545s)
+
+…tak samo w wielu innych dziedzinach będziemy mieć ludzi, którzy po prostu chcą efekt, a chcą, żeby ten proces był fajny. I trochę problemem… Do tej pory mieliśmy taki fajny świat, w którym jeżeli ktoś się interesuje tym procesem, to zazwyczaj wnosi dużą wartość. I powiedzmy ekonomicznie to się wszystko spina, że jedni i drudzy mogą jakoś koegzystować bardzo fajnie.
+
+I teraz AI zaburza ten świat bardzo mocno. I nie wiemy do końca… Znaczy, dobra, ja będę oszukiwał, że nie wiemy do końca. Ja mam swoje przeświadczenia, jak będzie i kiedy będzie koniec.
+
+#### Lokalnie 30:42
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3042) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24581s)
+
+– To musisz nam powiedzieć, kiedy będzie koniec. Myślę, że tutaj chcemy to usłyszeć.
+
+– Ale może przypadkiem czas się skończy wcześniej.
+
+– Masz dwadzieścia minut, zdążysz.
+
+– Boże, już się sam zgubiłem.
+
+– No dobra, w każdym razie chodziło mi o to, że AI często drastycznie zaburza tę ekonomię. Na przykład w grach w tej chwili mówiliśmy o tym, że żeby zrobić dobrą grę, to AI jeszcze tak bardzo nie pomaga nam w tym. Ale jeżeli chcielibyśmy po prostu sklonować coś, co było zrobione tysiąc razy, i najlepiej jeżeli ktoś na GitHuba wrzucił kod z tego typu grą, to to nie będzie aż tak bardzo trudne.
+
+### W tłumie obrazów trudniej zobaczyć człowieka
+
+#### Lokalnie 31:24
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3124) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24623s)
+
+W sensie, w tym AI nam pomoże. Więc ta ekonomia się zaburza, bo robienie tego, co popularnie nazywamy slopem, jest w tej chwili ekstremalnie tanie. W momencie, kiedy robienie tych ambitnych rzeczy… Koszt tego nie spadł aż tak bardzo. I znowu konsumenci tego typu treści muszą się dostosować.
+
+Ciężko powiedzieć, jak się zmieni rynek, bo w tym momencie mamy problem z discoverability. I to jest w ogóle taką bardzo ciekawą rzeczą.
+
+– Ale to jest bardzo duży off-topic. Nie wiem, czy o tym mówić.
+
+#### Lokalnie 31:54
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3154) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24653s)
+
+– Tak, ale możesz wyjaśnić tym, co niekoniecznie rozumieją.
+
+– Ale to, o czym mówisz, jest o tyle ciekawe, że to dotyka właśnie tego kontekstu wokół. Czyli czy jesteśmy poza samym produktem w stanie wykreować taki kontekst dookoła, żeby ten produkt był fajny, sprzedawalny, ludzie go chcieli?
+
+Ja lubię przytaczać przykład sprzed bodajże dwóch lat, gdzie za sześć milionów dolarów został sprzedany banan przyklejony do ściany. I to była wielka sztuka. I w dodatku ekonomicznie artyście najwyraźniej bardzo się opłaciła.
+
+#### Lokalnie 32:26
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3226) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24685s)
+
+Ale nie z powodu tego, że tyle jest wart banan przyklejony do ściany, tylko z powodu kontekstu wokół, opowieści, która jest wokół tego, takiej gry społecznej, która się wokół tego zbudowała.
+
+Jacek napisał o tym książkę „Linia oporu”, właśnie o szukaniu sensu w tym wszystkim, projektowaniu nowych gier społecznych trochę. I gdzieś tam być może część kreatywności ludzkiej przesunie się w tym kierunku właśnie.
+
+#### Lokalnie 32:58
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3258) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24717s)
+
+W pole takiego projektowania tych społecznych gier. I zobaczymy, jak bardzo AI na to będzie wpływało.
+
+Ja jestem zdania, że mniej więcej od roku jesteśmy już w Singularity, czyli nie do końca możemy przewidzieć przyszłość na bazie starych… na bazie analogii historycznych. Więc trochę idziemy w ciemność, nie wiemy, co się wydarzy.
+
+Ale mi się wydaje, że jeszcze sporo pola do wymyślania nowych gier społecznych i nowych narracji wokół tego wszystkiego będzie, nawet jeżeli to wszystko przemysłowo tak niesamowicie przyspieszy.
+
+#### Lokalnie 33:31
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3331) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24750s)
+
+– Ja chciałem wrócić do tego discoverability, żeby nie było, że pominąłem temat. Więc generalnie z AI mamy taki magiczny problem, że koszt generacji contentu generalnie nam maleje. I teraz pomińmy, jak dobrej jakości jest ten content. Ale koszt oceny contentu może niekoniecznie pozostaje ten sam, ale drastycznie zwiększa się rozjazd między tymi dwoma rzeczami.
+
+Teraz jeżeli ten koszt jest bardzo duży, to w tym momencie zalew ogromną ilością slopowatych rzeczy jest problemem dla tych dzieł, które są wysokiej jakości.
+
+#### Lokalnie 34:08
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3408) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24787s)
+
+I mamy trochę rozwiązań tego problemu, ale generalnie one są bardzo kiepskie. Mamy tam popularnych artystów, mamy social media z dużą liczbą followersów, ale to powoduje, że ciężko w tym momencie będzie się przebić nowym. I oczywiście zawsze coś znajdziemy, zawsze może coś pójść viralowo.
+
+– Ale jeżeli… Znowu, ja najlepiej znam się na rynku gier. Jeżeli popatrzymy na Steama, kiedyś było tak, że gier nie trzeba było marketować, bo gier wychodziło generalnie bardzo mało.
+
+#### Lokalnie 34:39
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3439) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24818s)
+
+Steam to jest największa platforma gier na PC. Teraz w tej chwili każda gra musi mieć bardzo silny marketing. Bez tego ani rusz. Takim ekstremalnym przykładem jest rynek gier mobilnych. Generalnie ten zalew tej uzależniającej kupy, bo tak to można nazwać. Ponad dziewięćdziesiąt dziewięć procent kasy jest w grach, które dosłownie jedyne, po co tam są, to uzależniają.
+
+To tak strasznie zdominowało rynek, że w tym momencie, o ile na komórkę można…
+
+#### Lokalnie 35:13
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3513) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24852s)
+
+…zrobić coś sensownego, jest dużo kreatywnych rzeczy, które można zrobić, bo jest to w końcu taki zupełnie inny, unikalny interfejs. To ludzie przestali to robić…
+
+#### Lokalnie 35:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3520) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24859s)
+
+— Ze względu na to, że ta platforma jest tak tragiczna, że nie da się przebić z niczym minimalnie ambitniejszym. W tej chwili tego typu gry... Większość osób, które tam pracują, to są data scientists, którzy optymalizują wszystkie statystyki, a game designerzy są gdzieś tam na drugim czy trzecim planie. I to czeka prawdopodobnie bardzo dużo innych sfer.
+
+— Ale to też oznacza, że ludzie, którzy szukają trochę innych gier, już tam po prostu nie szukają gier.
+
+— Tak, ale no...
+
+#### Lokalnie 35:53
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3553) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24892s)
+
+— Wędrują do miejsc, w których koszt wejścia jest dużo większy, czyli jest ciężej wygenerować dużo contentu. I w tym momencie oczywiście jest duża szansa, że po prostu będziemy znajdować nowe miejsca, gdzie te koszty są spore. I to w jakiś sposób rozwiązuje problem.
+
+— Ja... Mi się tak wydaje, że gdzieś tam mimo wszystko jest ileś nisz jeszcze nie do końca wyeksplorowanych. I to też dotyczy handlu. To też dotyczy reklamy. To też dotyczy jakiejś takiej...
+
+#### Lokalnie 36:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3623) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24922s)
+
+— Powiedzmy, tej narracji o produkcie, nie? Gdzie być może nawet AI będzie nam pomagało w znajdowaniu tych miejsc. Być może stanie się bardzo dobre w budowaniu takiej narracji o produkcie. Ale mi się wydaje, że tu jest jeszcze niesłychanie dużo do odkrycia. Po prostu. Że my nawet nie zaczęliśmy eksplorować niektórych obszarów związanych czy z reklamą, czy z docieraniem do ludzi, czy, nie wiem, budzeniem emocji u widowni. I gdzieś tu widzę pole...
+
+#### Lokalnie 36:53
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3653) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24952s)
+
+— Dla przeniesienia się umysłów kreatywnych. Że gdzieś tutaj jeszcze będzie być może ta ocena człowieka potrzebna przez jakiś czas. Potem oczywiście dojdzie... Jak zaczniemy, nie wiem, sczytywać mózgi, emocje prosto z mózgu i tak dalej, to być może się to jeszcze bardziej skomplikuje. Ale zobaczymy. Ja mam takie mocne przekonanie, że ciężko się z poziomu takiego naszego, trochę jednak zwierzęcego, małpiego mózgu...
+
+#### Lokalnie 37:24
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3724) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=24983s)
+
+— Wykreowanego ewolucją, przeznaczonego do zupełnie innych rzeczy... Bo my jesteśmy zbudowani do tego, żeby, nie wiem, uciekać przed tygrysem, przetrwać zimę na korzonkach i grzybkach, i tak dalej. Że trochę ciężko z poziomu tego typu mózgu analizować, co się nam wydarzy cywilizacyjnie, bo prawdopodobnie nie do końca rozumiemy w ogóle rzeczywistość.
+
+— Są też osoby, które próbują ją przewidywać...
+
+### Przyszłość bez wygodnej mapy
+
+#### Lokalnie 37:55
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3755) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25014s)
+
+— Jest ich nawet całkiem sporo. Co więcej, mam takie poczucie, bo teraz tutaj zmierzam do tej debaty medialnej, publicznej, która toczy się w ostatnich tygodniach, że to się pojawia tak falami. Teraz mamy na przykład taki moment, kiedy to się zaczęło od Daria Amodeia, szefa firmy Anthropic, który mówi [parafraza prowadzącego, nie zweryfikowany cytat]: „Nie no, słuchajcie, jednak przeszarżowaliśmy, trzeba spowolnić ten rozwój sztucznej inteligencji, bo to wszystko idzie za szybko”. Później pod niego podłączają się kolejni, podłącza się Sam Altman, podłącza się Elon Musk.
+
+#### Lokalnie 38:25
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3825) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25044s)
+
+— I tak się zastanawiam, bo rozmawiamy tutaj na różne tematy dzisiaj od godzin porannych: jaki to ma wpływ w ogóle? To znaczy, czy rzeczywiście powinniśmy się takimi sygnałami niepokoić? Czy powinniśmy jakoś uwzględniać to, co się dzieje gdzieś tam na górze, to, co słyszymy w mediach, przy tym, co robimy? I czy w ogóle powinniśmy jakoś zmieniać narrację dzisiaj? Czy powinniśmy teraz zacząć mówić inaczej o tym wszystkim? Że skoro szykują się nam trudne czasy, to może nie powinniśmy być...
+
+#### Lokalnie 38:55
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3855) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25074s)
+
+— Takimi optymistami, jeżeli ktoś jest optymistą, oczywiście.
+
+— Ale wpływ na co konkretnie? Na wyceny spółek? Czy na co?
+
+— Nie, bo... Znasz tę dyskusję, prawda?
+
+— Oczywiście, że znam. No i to jest jakiś rodzaj tam PR i narracji, które trzeba tam budować wokół [nieczytelne].
+
+— Ale to jest odpowiedź na to pytanie.
+
+— Tylko że znowu wybierzmy konkretnie: wpływ na co konkretnie, nie? Poza tym, że powstaje jakiś rodzaj narracji, żeby być może...
+
+#### Lokalnie 39:28
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-3928) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25107s)
+
+— Teorii jest bardzo dużo, ale na przykład być może nie dopuścić nikogo innego do tego rynku. My się tutaj dogadamy we trójkę, [niepewne: Musk] tam z Altmanem i Amodeiem się dogadają, zbudują sobie taką fajną bandę i będą kontrolować rozwój AI na obszarze tak zwanej kultury zachodu. W tym są gigantyczne pieniądze. Ja doskonale rozumiem tę narrację od tej strony. Tylko czy to jest pytanie o to właśnie? Czy to jest pytanie o zagładę, która nas czeka?
+
+#### Lokalnie 40:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4000) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25139s)
+
+— W co ja akurat nie do końca wierzę.
+
+— **Adrian Bąk:** Nie, to jest pytanie o wszystko po trochu, no bo koniec końców jednak ważne są emocje, prawda? To znaczy ważne są rzeczy, które robimy wciąż jako ludzie, ale ważne jest to też, w jakim środowisku się odbywa. I na przykład, nie wiem, Psyho, jak ty słyszysz, że szefowie big techu mówią, że my tracimy kontrolę... Coraz częściej to się pojawia, że powoli tracimy kontrolę, ta utrata kontroli... To ty sobie myślisz, że tak rzeczywiście jest? Czy się z tym zgadzasz?
+
+#### Lokalnie 40:32
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4032) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25171s)
+
+— **Psyho:** To jest bardzo ciężki temat, tak żeby było jasne.
+
+— I w ogóle pewnie trzy godziny można tylko o tym mówić.
+
+— No, trochę więcej, pewnie ze trzy dni, a co najmniej, żeby tak sensownie przedstawić. Postaram się zrobić jakąś bardzo skróconą wersję i wbrew pozorom postaram się zrobić jak najobiektywniej potrafię. Generalnie jest tak, że jest dużo ludzi, którzy zastanawiali się od długiego czasu, jak będzie wyglądał świat w momencie, kiedy…
+
+#### Lokalnie 41:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4102) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25201s)
+
+— Będziemy mieć te superpotężne modele. No i tak się złożyło, że ci ludzie, którzy tym się zajmowali, zajmowali się przy okazji też sztuczną inteligencją. I w dużej mierze to są ludzie, którzy teraz rozwijają sztuczną inteligencję. W sensie, jeżeli mówimy o tym, że Dario Amodei gada o tym, że skończy się świat, to nie jest tak, że on zaczął to mówić miesiąc temu czy dwa miesiące temu. To jest tak, że on generalnie mówi o tym od kilkunastu lat i absolutnie nic się w tym nie zmieniło. W sensie ta narracja jest cały czas taka sama.
+
+#### Lokalnie 41:32
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4132) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25231s)
+
+— Więc jestem zawsze zmęczony tym, że mamy gadkę o tym, że jest bardzo… Znaczy, dobra, trochę PR też oczywiście w tym jest. Znowu to jest bardziej skomplikowane, ale mamy ten aspekt. Ci ludzie od kilkunastu lat mówią wszystko konsekwentnie i generalnie bardzo dobrze przewidzieli, jak będzie wyglądał świat. W związku z tym dużo rzeczy można spojrzeć po prostu kilka lat temu, co mówili, i samemu móc to ocenić. Tak więc to jest jeden aspekt. Drugi aspekt jest taki, że jest dużo osób, które oczywiście się temu przeciwstawiają.
+
+#### Lokalnie 42:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4206) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25265s)
+
+— To są bardzo często ludzie, którzy mają bardzo mało wiedzy. Też bardzo często mają interes monetarny w tym, żeby było inaczej. Trzeba brać to pod uwagę. Jeżeli mielibyśmy jakieś konkretne wypowiedzi, mógłbym się wtedy do nich odnieść. Trzecią sprawą jest to, żeby nie było tak, że Dario i inni są tacy wspaniali, bo nie są. Podejście w każdym labie mniej więcej wygląda tak. Tak czysto teoriogrowo można na to spojrzeć, że: „No dobrze, jesteśmy my”. W sensie są jacyś tam ludzie i zazwyczaj jest tak, że my mamy pełną wiedzę o sobie, ale bardzo mało wiedzy o innych. Więc każdy ma przekonanie, że jest tym dobrym.
+
+#### Lokalnie 42:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4251) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25310s)
+
+— I że jeżeli wygra wyścig zbrojeń w AI, to będzie dobrze. Ale jeżeli przegra ten wyścig, no to wygra ktoś inny i o tych innych ciężko nam powiedzieć. Czyli Sam myśli, że Sam jest dobry, a Dario jest zły. Dario myśli, że Dario jest dobry i Sam jest zły. I każdy pewnie po trochu ma rację. Tak więc nikt nie chce oddawać władzy. A kolejnym problemem jest to, że nie jest tak, że mamy tylko ten problematyczny alignment i inne rzeczy wokół tego. Oczywiście mamy też problem z koncentracją władzy.
+
+#### Lokalnie 43:21
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4321) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25340s)
+
+— Czyli jeżeli oddalibyśmy, nie wiem, kontrolę Anthropicowi, bo wierzymy, że Anthropic jest dobry, to mieliby strasznie dużo wpływu. No i nie oszukujmy się: oni mają tam jakiś bias światopoglądowy, swoje własne tezy. Więc mamy taki, w bardzo dużym uproszczeniu, gigantyczny suwak, którym wybieramy, czy chcemy, żeby było bardziej bezpiecznie na świecie, ale jednocześnie była koncentracja władzy, czy chcemy zminimalizować… Chcemy zmniejszyć koncentrację władzy.
+
+— To nie jest nowy suwak zresztą.
+
+— Tak, przy czym ja nie wiem, ile razy w historii świata było to, że to zagrożenie jest bardzo realne.
+
+#### Lokalnie 43:59
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4359) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25378s)
+
+— Dobra, powiem tylko jeszcze o jednej rzeczy, bo to i tak już długo…
+
+— Zanim powiesz, kiedy zginiemy, tak?
+
+—  Ale aktualnie perspektywa jest taka, że, tak jak wspomniałem wcześniej, wszystkie laby… Celem labów od zawsze, i znowu możemy się cofnąć dziesięć lat wcześniej i to będzie mówione, było zmaksymalizowanie tempa rozwoju sztucznej inteligencji. To, że są te modele, które wspaniale programują, nie wynika z tego, że laby chciały zrobić modele, które świetnie programują…
+
+#### Lokalnie 44:33
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4433) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25412s)
+
+— Wynika z tego, że chciały maksymalnie zwiększyć tempo rozwoju sztucznej inteligencji. I przy okazji musiały zrobić rzeczy, które pomagają w tym tempie, między innymi programowanie. Czyli laby zapierdzielają do przodu tak strasznie szybko, jak mogą, a przy okazji starają się [niepewne: nie wyłożyć się finansowo] przy swoich gigantycznych kosztach. I tak wygląda ta perspektywa. I teraz aktualnie jest tak, że większość researchu w tych labach jest już zautomatyzowana.
+
+#### Lokalnie 45:04
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4504) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25443s)
+
+— W sensie, pomijając tam [niepewne: research taste], pomijając jakieś big bets z dużymi projektami, z dużymi eksperymentami. Jak ktoś dużo koduje, to jest w stanie zauważyć, jaki był postęp w modelach pod kątem kodowania. Ten postęp jest widoczny od kilku miesięcy. Wiemy, że mniej więcej zajmuje trzy–cztery miesiące. Jest takie opóźnienie między tym, co laby mają dostępne w środku u siebie, a tym, co ludzie mają dostępne. Generalnie dopiero wchodzimy w taki moment od paru miesięcy, w którym laby wewnątrz są w stanie przyspieszyć tempo researchu…
+
+#### Lokalnie 45:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4540) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25479s)
+
+— Ze względu na to, że mają genialne narzędzia do kodowania i są w stanie wyeksportować mnóstwo intelektualnej pracy do tych modeli. Czyli każdy z tych researcherów ma, można powiedzieć, takie rzesze asystentów. Przy czym, jak mówię „rzesze”, mam na myśli tysiące, bo takie mają możliwości skalowania. Więc dopiero od tego momentu, mniej więcej od paru miesięcy, wchodzimy w tempo, kiedy ten rozwój AI zacznie przyspieszać. I tak, pewnie będą jakieś ściany, ale nie mieliśmy jeszcze okazji tego doświadczyć. Jeżeli ktoś śledzi bardzo na bieżąco, to będzie wiedział, że przy czacie GPT generalnie [niepewne: 5.6] to był bardzo duży skok…
+
+#### Lokalnie 46:18
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4618) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25517s)
+
+— [niepewne: Astra] to jest gigantyczny skok. Modele w tej chwili są w stanie przejść tak z marszu, nie znając gry, większość gier łamigłówkowych. Coś, co było absolutnie niewykonalne. Przez lata żartowaliśmy sobie, co byłoby najlepszym benchmarkiem dla modeli AI. Jakby po prostu były w stanie zobaczyć nową grę i ją przejść. I dla wszystkich to było takie: „Jak to jest możliwe? Przecież to jest dekady przed nami”, a właściwie to jest prawie że rzeczywistość na dzisiaj. To nie jest tak ze wszystkimi grami. Jest dużo takich miejsc…
+
+#### Lokalnie 46:48
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4648) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25547s)
+
+— Gdzie radzą sobie słabo, ale to jest perspektywa prawdopodobnie kilku, kilkunastu miesięcy maks, że [nieczytelne].
+
+— To jest bardziej sztuka, jak rozumiem, niż ta najbrudniejsza robota, żeby coś takiego zrobić w tak krótkim czasie.
+
+— Zgubiłem się.
+
+— To, o czym mówiłeś, czyli że to wszystko tak szybko przyspieszyło, bo też wspominasz, że to jest taki czas…
+
+— W sensie ja mówię o tym, żeby było jasne, że dopiero teraz wchodzimy w moment, kiedy AI będzie się rozwijać bardzo szybko, jeżeli mieliście jakieś wątpliwości.
+
+— **Adrian Bąk:** Dobrze, to tak już zmierzając do końca. Oczywiście zapytałem o to, co się dzieje na świecie…
+
+#### Lokalnie 47:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4720) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25579s)
+
+— Bo tak jak my prawdopodobnie mamy już pewnie jakąś tam ugruntowaną pozycję zawodową, ale wracając do początków naszej dyskusji, bo wspomnieliśmy o studentach, to pewnie wielu jest takich młodych ludzi, też pewnie na tej uczelni, którzy też słuchają tego wszystkiego i sobie myślą: „No dobrze, ale skoro ci wszyscy najwięksi mówią, że to może czas trochę zwolnić, albo że za chwilę będziemy się zawijać, czy w ogóle warto w to wchodzić? Czy w ogóle warto się tym zajmować? Czy może trochę nie przeformułować tych swoich planów…?”
+
+#### Lokalnie 47:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4751) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25610s)
+
+— Jeżeli takie plany były. I takie też pytanie chcę wam postawić: czy warto?
+
+— Zależy co, bo to znowu my nadajemy wartość, nie? To my budujemy zasady gry. Jeżeli ktoś, nie wiem, bardzo się źle czuje we współczesnym świecie, to, nie wiem, zostaje amiszem, być może.
+
+— [niepewne: AI-miszem].
+
+— [niepewne: AI-miszem]. Wymyśla sobie inny zestaw zasad gry, w którą zaczyna grać, tej społecznej, nie?
+
+#### Lokalnie 48:24
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4824) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25643s)
+
+— I wydaje mi się, że my jesteśmy rzeczywiście teraz w takim okresie transformacji, że takie decyzje w sposób sensowny jest bardzo ciężko podjąć. No bo tym się charakteryzuje singularity: ciężko przewidzieć, co się za chwilę wydarzy. Trochę nam się wywaliły stare modele świata, a nowy model świata jeszcze nam nie do końca się zbudował. Więc tutaj faktycznie ciężko coś doradzać na przyszłość. I tutaj ja, będąc optymistą, jestem też przekonany, że będziemy świadkami rzeczy absolutnie strasznych...
+
+#### Lokalnie 48:55
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4855) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25674s)
+
+— Związanych z AI, bo gdzieś po drodze, w trakcie tej transformacji, prawdopodobnie coś bardzo złego się z tym wydarzy. Tylko że znowu mam takie poczucie, że my dosyć ciągle słabo rozumiemy rzeczywistość, bo jesteśmy zbyt ograniczeni po prostu, żeby w ogóle zrozumieć, czym rzeczywistość jest. I być może w tej rzeczywistości są jakieś blokady, jakieś mechanizmy, jakieś miejsca, które ten cały proces wywrócą, zmienią, przekręcą.
+
+#### Lokalnie 49:27
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4927) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25706s)
+
+— Zobaczmy, że programiści rzadko są z jakiegoś powodu dyktatorami i prezydentami. Programistami ktoś zazwyczaj zarządza znacznie głupszy od nich.
+
+— A czy bylibyście w takim…?
+
+— Niemiły jesteś.
+
+— Ale to prawda. Bo okazuje się, że inteligencja być może nie jest do końca funkcją władzy, nie?
+
+#### Lokalnie 49:58
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-4958) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25737s)
+
+— Nie wiem właśnie, czy to chodzi o inteligencję, bo pewnie są też tacy w Stanach Zjednoczonych, którzy powiedzieliby po prostu, że polityka jest najważniejsza.
+
+— I tyle, koniec.
+
+— Być może, ale my tego do końca nie wiemy, bo naprawdę mechanizmy świata... No to filozofowie się spierają nad mechanizmami świata od lat.
+
+— Ja chciałem wrócić do pytania.
+
+— Dobra, proszę. Bardzo proszę.
+
+— Nie to, że to będzie dobra odpowiedź. Po pierwsze, chciałem tylko dodać do tego, co powiedziałeś, że mało rozumiemy świat. Wydaje mi się, że będziemy coraz mniej rozumieć świat.
+
+— Tak podejrzewam, bo to w sumie też wynika...
+
+#### Lokalnie 50:28
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-5028) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25767s)
+
+— To jest naturalny stan dla człowieka, że będziemy po prostu... Tutaj Bóg AI walnął piorunem gdzieś. No okej...
+
+— No trzeba się...
+
+— Widać miał powód, tak?
+
+— A tak wracając do twojego pytania, jeśli jeszcze je dobrze pamiętam: jesteśmy w takim momencie, gdzie... Oczywiście jest masa różnych zagrożeń i moglibyśmy gadać o nich w nieskończoność, ale też dzięki AI pojedyncza jednostka ma największą sprawczość, jaką kiedykolwiek miała w historii. Pomijając tam jakichś tam królów, którzy sobie jedli, pili i coś robili.
+
+### Pomysł może stać się czymś własnym
+
+#### Lokalnie 51:03
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-5103) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25802s)
+
+— Więc jeżeli szukacie jakiejkolwiek motywacji, można się teraz wszystkiego dużo szybciej nauczyć. A to dalej ma jeszcze bardzo duże znaczenie.
+
+— Tak, zdecydowanie popieram tego pana.
+
+— O, chociaż raz. Ale jeżeli chcecie zrobić jakąś firmę, macie jakiś pomysł, prototypuje się dużo, robi się wszystko nieporównywalnie szybciej. Czasem w tej branży growej się śmiejemy, że było takie stanowisko jak idea man. To ten człowiek z pomysłem, który nie potrafił zrobić absolutnie nic innego.
+
+#### Lokalnie 51:34
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-5134) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25833s)
+
+— Dzisiaj ten człowiek może próbować robić rzeczy i w międzyczasie może się całkiem czegoś szybko nauczyć. Więc naprawdę w ciągu paru dni, godzin często można się strasznie dużo nauczyć. Ja w tej chwili robię projekty programistyczne w kilka minut, które by mi zajęły po kilka dni. W sensie kilka minut promptu, a potem idę się położyć na macie z kolcami, bo potrzebuję tego.
+
+— Nie wiem, czy da się znaleźć lepszą motywację. Cały świat stoi otworem, wszystko jest zdemokratyzowane...
+
+#### Lokalnie 52:07
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/psyho-baginski-transkrypcja.html#t-5207) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=25866s)
+
+— Oprócz tego, że musicie wybulić dwieście dolców czy tam euro na pakiet Pro w czacie.
+
+— Spytajcie swojej uczelni. Nie, nie mam pojęcia.
+
+— Ale zgadzam się w stu procentach. Dla kogoś, kto chce coś zrobić, niekoniecznie może w ogóle spędzić pięć lat na studiach, tylko może coś zrobić. To te możliwości są niebywałe. Ale być może to miejsce, w którym mówimy, nie powinienem mówić takich rzeczy...
+
+
+## 10. Dragan — Dziury koloru białego
+
+**Zredagowany zapis dostarczonego materiału**
+
+Prelegent: Andrzej Dragan.
+
+Zredagowany zapis dostarczonego nagrania 42:22, porównany z niezależnym automatycznym odczytem pełnej transmisji i jej napisami. Rozbieżne słowa pozostały oznaczone; luk nie uzupełniano wiedzą o fizyce. Odwołanie do czterech poziomów matematyka przypisywanych Banachowi pozostaje parafrazą prelegenta. Tekst nie odtwarza niewidocznych w samym dźwięku rysunków i podpisów slajdów.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/dragan.html) · [Pełny osobny zapis](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html)
+
+### Początek: pytanie o odkrywanie
+
+#### Lokalnie 00:26
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0026) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28101s)
+
+[fragment nierozpoznany]
+
+#### Lokalnie 00:36
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0036) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28111s)
+
+Grawitacja mi pomogła. Mam taką prośbę. Czy mogę prosić wszystkich, którzy posiadają prawą rękę, o podniesienie jej do góry? Dziękuję. A teraz mogę prosić… Nie, ale trzymamy, trzymamy. Teraz te osoby, które nie potrafiłyby narysować funkcji y = 1/x, proszę o opuszczenie w dół tej ręki.
+
+#### Lokalnie 00:56
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0056) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28131s)
+
+Duża część została. Bardzo dobrze. To te osoby, którym ręka została w górze — zapewniam, że zaraz będą wiedzieć, jak działają czarne dziury i białe dziury. A pozostałym nie obiecuję, ale jest być może jakaś szansa również, że nie jesteście przypadkiem beznadziejnym. [niepewne: Być może zaraz się okaże]. Przepraszam. Dobra.
+
+#### Lokalnie 01:15
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0115) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28150s)
+
+Trochę będzie zmiana tematu, bo ja będę mówił o fizyce, ale trochę nie bez powodu. Dlatego że jednym z takich standardowych benchmarków w erze, kiedy wszystkie benchmarki się kończą, jest taki benchmark: „No dobrze, ale gdybyśmy wytrenowali AI do roku 1900… Są dwa warianty: albo 1904 i zapytali, czy wyprowadzi teorię względności szczególną, albo 1905 i zapytali, czy wyprowadzi teorię względności ogólną…”.
+
+To przecież żaden model sobie z tym nie poradzi, bo modele nie są kreatywne, co dzisiaj zresztą też padało. Chociaż tak się składa, że wszystkie modele językowe przechodzą standardowe psychometryczne testy kreatywności dużo lepiej niż jakikolwiek człowiek, ale to nie przeszkadza ludziom mówić, że nie są kreatywne.
+
+### Czy odkrycie wymaga geniuszu?
+
+#### Lokalnie 01:57
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0157) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28192s)
+
+Właśnie pytanie: czy w odkryciach naukowych, tych największych genialnych odkryciach ludzkich, jest jakiś pierwiastek prawdziwego geniuszu, czy to jest tylko i wyłącznie pattern recognition?
+
+Jest moja ulubiona praca Apple sprzed tam chyba roku czy dwóch. Apple, jak wiadomo, próbowało skonstruować swój model sztucznej inteligencji, im się nie udało, więc zamiast tego postanowiło wszystkim udowodnić, że [nieczytelne] nie istnieje.
+
+Napisali pracę, w której udowodniają, że jej nie ma. Napisaną zresztą przez jakichś tam internów bez żadnego doświadczenia. I ta praca była kompletnie [nieczytelne]. Tytuł pracy „Illusion of Thinking”, o ile pamiętam, był taki dosyć głośny. Praca była strasznie zjechana za błędy metodologiczne i zasadniczo stawianie bezsensownych pytań. Nawet pojawiła się praca „Illusion of Illusion of Thinking” jako komentarz do tego.
+
+#### Lokalnie 02:44
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0244) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28239s)
+
+Natomiast w tej pracy jest takie ciekawe zdanie. Stawiają takie głębokie filozoficzne pytanie: czy modele językowe to prawdziwa inteligencja, czy tylko i wyłącznie pattern recognition, czyli dostrzeganie wzorców, łączenie kropek? Jak to zwał, jak zwał.
+
+No więc ja nie rozumiem tego pytania. Dla mnie definicją inteligencji jest dostrzeganie analogii, łączenie kropek, dostrzeganie patternów. To właśnie bym zdefiniował jako inteligencję, więc to rozróżnienie, które oni stawiają, jest bez sensu.
+
+#### Lokalnie 03:11
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0311) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28266s)
+
+I trochę chciałem z tej okazji ten wykład o białych i czarnych dziurach zrobić, dlatego że to jest przykład tego, jak dojście do tego, co ludzie uważają za wielki geniusz, jest ciągiem małych kroczków opartych na łączeniu kropek i niczym więcej zupełnie.
+
+W ogóle w odkryciu ogólnej teorii względności miały miejsce dwa ważne momenty. To trwało dziesięć lat i ten akt geniuszu sprowadzał się do tego, że Einstein zauważył dwie ważne rzeczy. I te dwie ważne rzeczy to były dwie analogie.
+
+### Grawitacja, winda i obracający się krąg
+
+#### Lokalnie 03:44
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0344) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28299s)
+
+Pierwsza analogia, którą zauważył, była taka, że grawitacja, którą chciał zrozumieć, której nikt wtedy dobrze nie rozumiał, zasadniczo jest nieodróżnialna od przyspieszenia.
+
+Jak się jedzie windą, winda przyspiesza, to czujemy taką dodatkową siłę, która nas wbija w podłogę. Jak samochód hamuje albo skręca, czujemy jakąś dziwną siłę, która nas rzuca na boki. I ta siła bardzo [niepewne: przypomina] grawitację.
+
+I to była pierwsza obserwacja Einsteina: że grawitacja jest analogiczna do przyspieszenia. I to było bardzo ważne, bo grawitacji nikt nie rozumiał, ale ruch, na przykład z przyspieszeniem, to już łatwiej jest zrozumieć. Bo można sobie przeanalizować kinematykę ruchu i zobaczyć, jakie są konsekwencje poruszania się z przyspieszeniem, i wyciągnąć stąd wnioski do grawitacji.
+
+#### Lokalnie 04:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0420) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28335s)
+
+Więc ta pierwsza analogia była niezwykle ważna, bo dzięki temu nie musiał odgadywać teorii, której nikt nie zna, tylko badał teorię, którą znał, czyli szczególną teorię względności zastosowaną do ruchu z przyspieszeniem. I to była pierwsza obserwacja.
+
+Tak swoją drogą można zadać pytanie, dlaczego akurat przyspieszenie miałoby być analogiczne do grawitacji, a nie do jakiejś innej siły. No bo w końcu jak włączę pole elektryczne i jestem naładowany elektrycznie, też na mnie działa jakaś siła podobna do grawitacji.
+
+Zresztą nawet ci, co pamiętają ze szkoły wzór Coulomba na oddziaływanie dwóch ładunków elektrycznych — jest w zasadzie taki sam jak wzór na oddziaływanie grawitacyjne dwóch mas, newtonowski. Więc dlaczego akurat grawitacja miała być tutaj wyróżniona?
+
+#### Lokalnie 05:01
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0501) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28376s)
+
+No powód jest taki, że grawitacja jest uniwersalna: działa na wszystko. Na przykład jakbym teraz wyłączył grawitację w tym pokoju i umieścił w stanie nieważkości różne przedmioty, to mogę wziąć zbiór przedmiotów bardzo różnych, od elektronów, materii, antymaterii, cokolwiek. [niepewne: Powietrze w powietrzu będzie wisiało]. I jak włączę grawitację, zacznie wszystko spadać tak samo, z tym samym przyspieszeniem. Pod warunkiem, że nie ma powietrza w tym pomieszczeniu. Jak jest powietrze, to ono też będzie spadało.
+
+Natomiast jest jeszcze druga sytuacja w fizyce, kiedy z tym samym mam do czynienia: że nagle coś włączam i wszystko zaczyna spadać tak samo. I tym czymś jest przyspieszenie podłogi.
+
+#### Lokalnie 05:39
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0539) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28414s)
+
+Jak jestem w pustej przestrzeni kosmicznej, gdzie jest wszystko w stanie nieważkości, i nagle ktoś zacznie przesuwać podłogę do góry z przyspieszeniem, no to do tej podłogi wszystko się zaczyna zbliżać z takim samym przyspieszeniem. Dokładnie tak jak w przypadku grawitacji.
+
+I to pokazuje, że ta analogia jest możliwa do przeprowadzenia. Gdyby chociaż jedno ciało spadało w polu grawitacyjnym inaczej niż cała reszta, jakaś osobliwa cząstka, którą właśnie odkryliśmy, która zachowuje się inaczej w polu grawitacyjnym niż wszystko inne, co znamy, to idea równoważności grawitacji i przyspieszenia przestaje mieć sens. Niczego takiego nie odkryto póki co. Więc to była pierwsza analogia.
+
+#### Lokalnie 06:13
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0613) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28448s)
+
+Druga analogia, którą Einstein zauważył, to było to, że jak już jesteśmy w układach, które przyspieszają… Takim przykładem nieinercjalnego układu, czyli takiego, który coś dziwnego robi ze swoim ruchem, to jest układ, który się obraca.
+
+Jak sobie wyobrazimy gościa, który stoi sobie na Ziemi i narysował sobie kółko kredą na Ziemi wokół siebie i chciałby zmierzyć obwód tego kółka i długość średnicy, no to można wziąć do ręki linijkę, zmierzyć sobie długość obwodu, przykładając tę linijkę ileś tam razy. Jeżeli przyłoży ją x razy, to tę liczbę sobie zapisuje.
+
+Jeżeli w ten sam sposób zmierzy teraz średnicę, też przykładając linijkę y razy, to może tę liczbę [nieczytelne], podzielić jedno przez drugie i dostanie co? I dostanie [nieczytelne]. Dokładnie tak.
+
+#### Lokalnie 06:59
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0659) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28494s)
+
+Natomiast co się stanie z tym gościem, jak on się kręci? Jeżeli on jest obserwatorem, który jest nieinercjalny i kręci się w kółko wokół swojej własnej osi? Okazuje się, że ten wynik jest inny.
+
+Dlaczego? Dlatego że jak on kręci się na takiej obrotowej platformie i próbuje zmierzyć to kółko, to jego linijka, którą przykłada, względem inercjalnego obserwatora, który na to patrzy z boku, ta linijka się skraca, bo się porusza. To jest efekt szczególnej teorii względności.
+
+Coś, co Einstein odkrył — nie Einstein, to Lorentz odkrył przed Einsteinem, dlatego to się nazywa skrócenie Lorentza.
+
+#### Lokalnie 07:33
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0733) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28528s)
+
+To się skróci, w związku z tym liczba przyłożeń takiej skróconej linijki do obwodu będzie większa. Więc ta nowa liczba, nazwijmy ją x prim, jest większa niż x.
+
+Z kolei y się w ogóle nie zmieni, dlatego że linijka przykładana w ten sposób porusza się prostopadle do swojej długości i to nie wpływa na jej długość. W związku z tym y się nie zmieni, a to oznacza, że stosunek obwodu do średnicy już nie jest pi, tylko to jest coś większego niż pi.
+
+#### Lokalnie 08:01
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0801) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28556s)
+
+No i Einstein zauważył: okej, jak jesteśmy w układach nieinercjalnych, to prawa geometrii się zmieniają. No i [nieczytelne]: świetnie, to przecież… Ktoś zwrócił uwagę, no to przecież już jest cała teoria innych niż euklidesowa geometrii. To jest coś, co zrobił Riemann kilkadziesiąt lat wcześniej: teoria zakrzywionych przestrzeni.
+
+I w związku z tym jak Einstein tylko połączył kropki, że efekty ruchu prowadzą do efektów zmiany geometrii, tak jak to Riemann opisywał kilkadziesiąt lat wcześniej w swoim doktoracie, to zasadniczo trzeba tylko zastosować teorię Riemanna do grawitacji i mamy problem rozwiązany.
+
+#### Lokalnie 08:32
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0832) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28587s)
+
+Czyli de facto on założył dwie analogie: analogię między przyspieszeniem i grawitacją oraz analogię między efektami szczególnej teorii względności a opisem zakrzywionych przestrzeni. Jak tylko te dwie kropki połączył, zauważył te dwa patterny, to spowodowało, że cała praca została błyskawicznie skończona.
+
+Więc nawet w tym najgenialniejszym osiągnięciu ludzkiego umysłu zasadniczo można to sprowadzić do dostrzegania analogii. A jak wiadomo, sieci neuronowe, ja zresztą w zeszłym roku o tym mówiłem, nie robią nic innego niż tylko dostrzegają analogie.
+
+### Analogie między analogiami
+
+#### Lokalnie 09:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0906) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28621s)
+
+Takie perceptrony wielowarstwowe, jak się zobaczy, co taki perceptron robi, to on liczy, mówiąc brzydko, iloczyny skalarne, a mówiąc ludzkim głosem: sprawdza, czy dane na jakiejś warstwie są podobne do wag synaptycznych łączących tę warstwę z następną. I w ten sposób wyznacza analogię między jednym i drugim. Kolejna warstwa sieci neuronowej to byłaby analogia między analogiami.
+
+I tak dalej, to się tworzy taka hierarchia analogii. Potem jest analogia między analogiami [nieczytelne]. Każda kolejna warstwa to jest wyższy poziom analogii.
+
+#### Lokalnie 09:36
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0936) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28651s)
+
+I tak jak mówił Stefan Banach, wybitny matematyk, o matematykach: że matematyk dobry to jest taki, który dostrzega analogie między twierdzeniami. Lepszy matematyk to jest taki, który dostrzega analogie między dowodami twierdzeń. Jeszcze lepszy, gdy zauważa analogie między teoriami. A taki w ogóle wybitny matematyk, którego można sobie wyobrazić, to jest taki, który dostrzega analogie między analogiami. [Uwaga redakcyjna: prelegent parafrazuje myśl przypisywaną Banachowi. To nie jest zweryfikowany dosłowny cytat Banacha.]
+
+No więc dokładnie to robią sieci neuronowe. Więc spełniają definicję Banacha wybitnego matematyka. Nic dziwnego, że jedna z nich właśnie udowodniła… Dobrze, nie chcę używać takiego podmiotowego trybu, ale we współpracy z ludźmi udowodniono hipotezę, której sami ludzie nie potrafili udowodnić przez kilkadziesiąt lat. I brudnymi metodami — [niepewne: inna dyskusja].
+
+#### Lokalnie 10:19
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1019) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28694s)
+
+[niepewne: Ale miałem mówić] o ogólnej teorii względności i obiecałem, że da się zrozumieć — jak już to wiemy, co powiedziałem — to da się zrozumieć, czym są czarne dziury i białe dziury, o których chciałem powiedzieć, jeżeli się tylko wie, jak wygląda wykres funkcji y = 1/x. Ten wykres zasadniczo wygląda tak. Dla tych, co opuścili rękę, to jest coś takiego. Im większe x, tym mniejsze y. O to pytałem.
+
+#### Lokalnie 10:43
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1043) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28718s)
+
+Więc tak, przede wszystkim jakbym chciał sobie wyobrazić kogoś, kto jest blisko czarnej dziury, to bym musiał sobie wyobrazić gościa, który odczuwa jakąś siłę, która go wbija na przykład w platformę, na której stoi. Na przykład teraz ja taką siłę odczuwam, bo mnie siła grawitacji wbija w podłogę. Pode mną jest Ziemia, która mnie przyciąga, i mojemu spadaniu zapobiega Ziemia, która stawia opór mojemu spadaniu.
+
+I mogę sobie wyobrazić, że nad czarną dziurą sobie wisi na jakiejś platformie gość i nie wpada w nią, bo na przykład ta platforma przyspiesza. Tam są jakieś silniki rakietowe, które zapobiegają wpadnięciu.
+
+### Rakieta i granica informacji
+
+#### Lokalnie 11:17
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1117) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28752s)
+
+I zgodnie z tym, co Einstein zauważył, zgodnie z [nieczytelne], ta sytuacja, kiedy ja jestem w polu grawitacyjnym, jest w pewnym przybliżeniu nieodróżnialna od sytuacji, kiedy nie ma żadnej grawitacji, tylko ja jestem na platformie, która przyspiesza w pustej przestrzeni.
+
+Czyli jestem w przyspieszającym układzie odniesienia i to, co odczuwam — ta siła, która mnie wbija w podłogę w takiej przyspieszającej windzie czy rakiecie — jest nieodróżnialne od siły grawitacji. W związku z tym zamiast myśleć o czarnych dziurach, będziemy myśleć o windach, które przyspieszają, albo rakietach. I to w zasadzie powinno prowadzić do zbieżnych wniosków.
+
+#### Lokalnie 11:48
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1148) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28783s)
+
+No to zastanówmy się, jak w szczególnej teorii względności może wyglądać ruch z przyspieszeniem. Ja będę robił takie wykresy tego typu, gdzie na jednej osi jest coś, na drugiej osi jest coś innego. Tylko te wykresy będą tak skonstruowane, że na tej osi będzie czas, a na tej osi będzie przestrzeń. Na przykład odległość w jakimś kierunku.
+
+I na przykład jak mam nieruchome ciało, to trajektoria takiego ciała to jest po prostu linia prosta. Takie ciało się nie rusza. To znaczy, że w każdej chwili, w każdym momencie położenie jest takie samo.
+
+#### Lokalnie 12:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1220) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28815s)
+
+Jak mam ciało, które się porusza z jakąś prędkością, to jak ta trajektoria wygląda wtedy? Właśnie. [niepewne: A co to jest korba?] To jest takie coś. Jak się zapytać, każdy to samo pokaże. To jest taka pochylona krzywa i im bardziej pochylona, tym większa prędkość. Czyli upłynęło trochę czasu i moje położenie się przesunęło z tego w jakieś inne.
+
+Jak się coś porusza jeszcze szybciej, to jest jeszcze bardziej pochylone. No ale w szczególnej teorii względności wiadomo, że za szybko to się nie można poruszać, bo są kłopoty. I taką graniczną prędkością, powyżej której się zaczynają poważne kłopoty, jest prędkość światła.
+
+#### Lokalnie 12:58
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1258) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28853s)
+
+Jak dokładnie ta krzywa jest pochylona, zależy od wyboru jednostek na osiach. Więc przyjmijmy taką umowę, że światło w tej konwencji porusza się pod kątem czterdziestu pięciu stopni. Czyli taka nieosiągalna prędkość dla żadnej rakiety jest prędkością [niepewne: odpowiadającą] nachyleniu czterdziestu pięciu stopni. Więc każda legalna winda, rakieta zawsze musi być nachylona pod kątem mniejszym niż ten kąt czterdziestu pięciu stopni.
+
+No dobrze, jak już to wiemy, to się zastanówmy, jak wyglądałaby trajektoria rakiety, która przyspiesza. Jeżeli zaczynała od zupełnego spoczynku, to najpierw sobie leciała prawie bez prędkości. Potem ta trajektoria musi się coraz bardziej pochylać, pochylać, pochylać, i jakoś tak.
+
+#### Lokalnie 13:42
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1342) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28897s)
+
+I to jest taki śmieszny szczegół techniczny. Tę trajektorię też można cofnąć w czasie i zastanowić się, co byłoby, gdyby tę trajektorię przedłużyć. Ta trajektoria będzie symetryczna wówczas w ten sposób. I to jest taka trajektoria rakiety, która się zbliża, wyhamowuje, wyhamowuje, zatrzymuje się i zaczyna przyspieszać w drugą stronę.
+
+Teraz szczegół techniczny, który [niepewne: musiałbym] pominąć, bo nie jest jakiś specjalnie ważny, jest taki, że ten wykres, który tu mamy, to jest ten sam wykres, który rysowałem wcześniej: y, x, funkcji y = 1/x. Tylko że obrócony o czterdzieści pięć stopni. To jest dokładnie ten wykres.
+
+#### Lokalnie 14:24
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1424) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28939s)
+
+Okazuje się, że jakbym był w rakiecie, która przyspiesza w sposób jednostajny, w taki sposób, że ja czuję cały czas taką samą siłę pozorną, która mnie wbija w podłogę, i narysowałbym sobie moją trajektorię, i na nią by ktoś patrzył, stojąc z boku, to ten gość, który na to patrzy, będzie widział trajektorię, która jest po prostu funkcją 1/x obróconą o czterdzieści pięć stopni. To się nazywa hiperbola. To jest mądra nazwa, ale zasadniczo to jest taka krzywa 1/x.
+
+Tak swoją drogą mogę też wyobrazić sobie funkcję nie 1/x, tylko 2/x, albo 5/x, albo 10/x, albo pół przez x. I to mi zdefiniuje trochę inną krzywą. I tych krzywych jest cała rodzina, które się różnią tą stałą, przez którą je mnożę.
+
+#### Lokalnie 15:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1502) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=28977s)
+
+One wszystkie wyglądają tak, że żadna się z drugą nie dotyka, ale też one dobiegają do osi y, do osi x, ale jej nie przecinają. I to znaczy, że ta oś y i x też tutaj jest nieprzecięta. Tu jest ta obrócona oś y, a tu ta obrócona oś x.
+
+Ciekawe w tym jest to, że ta trajektoria rakiety tej krzywej nie przecina. Ponieważ wszystko jest obrócone o czterdzieści pięć stopni, to bardzo dobrze, że nie przecina tej krzywej, bo to znaczy, że prędkość rakiety nigdy nie przekracza prędkości światła.
+
+#### Lokalnie 15:35
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1535) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29010s)
+
+Więc to jest dosyć zabawne, że z jednej strony gość w rakiecie czuje, że cały czas odczuwa przeciążenie i cały czas coraz bardziej przyspiesza i przyspiesza, a z drugiej strony jak ktoś na to patrzy z boku, to mimo że przyspieszenie odczuwane w rakiecie jest stałe, to prędkość się stabilizuje i nie przekracza prędkości światła.
+
+Jak to możliwe? [nieczytelne] jest bardzo prosty. Otóż zegary, które są w tej rakiecie, chodzą coraz wolniej. Dlatego że rakieta się porusza coraz szybciej. I jest drugi efekt szczególnej teorii względności: dylatacja czasu, który mówi, że im szybciej coś się porusza, tym wolniej czas płynie w tym czymś.
+
+#### Lokalnie 16:10
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1610) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29045s)
+
+Jak ja na przykład teraz idę, to moje włosy rosną trochę wolniej niż jak się zatrzymam. Albo moje serce bije trochę wolniej. I wszystkie zegary spowalniają o ten sam czynnik, jak się poruszam z jakąś prędkością.
+
+I ponieważ gość w rakiecie, jego zegar chodzi coraz, coraz wolniej, to temu gościowi wydaje się, że w jednostce czasu się rozpędza o ileś tam metrów na sekundę więcej. Ale z naszego punktu widzenia ten czas jest o wiele bardziej wydłużony.
+
+Więc jemu się wydaje, że w sekundę się rozpędził o dziesięć kilometrów na godzinę, a nam się wydaje, że on w godzinę się rozpędził o dziesięć kilometrów na godzinę. I ten czas się coraz bardziej wydłuża. Dlatego z naszej perspektywy zmiana prędkości coraz bardziej wyhamowuje i prędkość się stabilizuje.
+
+#### Lokalnie 16:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1651) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29086s)
+
+Ale to jest też… Nie chcę wchodzić w technikalia. Zasadniczo tak wygląda trajektoria ruchu jednostajnie przyspieszonego.
+
+I on ma w sobie coś bardzo ciekawego. Mianowicie ta asymptota, czyli ta krzywa przerywana — ta prosta przerywana, do której nasza trajektoria dąży — ma bardzo ciekawą własność.
+
+Cokolwiek się wydarzy tutaj, w tym miejscu, czyli w tej chwili i w tym miejscu, nie będzie miało żadnego wpływu na to, co jest w rakiecie. Jeżeli w tym miejscu wybuchnie bomba atomowa i wszystkich zamorduje albo pojawi się superinteligencja i wszystkich zje, i nikt nie zostanie…
+
+#### Lokalnie 17:33
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1733) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29128s)
+
+To konsekwencje tego zdarzenia będą miały miejsce wyłącznie w przyszłości. Cokolwiek się wydarzyło w tym miejscu, będzie rzutować tylko na przyszłość tego wydarzenia, dlatego że żadna informacja nie może się poruszać szybciej od światła. Najszybciej informacja o tym zdarzeniu będzie poruszać się w prawo wzdłuż tej trajektorii i w lewo wzdłuż tej trajektorii, ale nic nie może wyjść poza nią, bo wymagałoby to prędkości większej niż prędkość światła.
+
+To oznacza, że konsekwencje tego wybuchu bomby będą tylko w tym obszarze tego diagramu. Ale w żadnym z tych punktów trajektoria rakiety się nie przecina. I to fizycznie oznacza, że gość w rakiecie o tym się nigdy nie dowie. Cokolwiek się wydarzyło, nigdy nie wpłynie w żaden sposób na to, co jest w tej rakiecie.
+
+#### Lokalnie 18:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1820) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29175s)
+
+I to jest bardzo śmieszna sytuacja. Jest wiele innych konsekwencji tego dziwnego zdarzenia. Na przykład wyobraźmy sobie, że z tej rakiety nagle wypadło jabłko. Powiedzmy, że w chwili początkowej jabłko wypadło i się dalej poruszało swobodnym ruchem, czyli [nieczytelne] spoczywało. No to prędzej czy później tę asymptotę to jabłko przecina w tym miejscu.
+
+I od tego momentu jabłko może mi wysyłać jakieś sygnały, ale one do mnie nie dotrą, jeżeli jestem w rakiecie.
+
+#### Lokalnie 18:54
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1854) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29209s)
+
+Z kolei ja mogę do jabłka jak najbardziej się komunikować, mogę do jabłka mówić. I ono będzie odbierać moje sygnały, będzie mnie widzieć i słyszeć, ale w drugą stronę to nie działa. Więc komunikacja z jabłkiem będzie tylko jednokierunkowa od momentu, kiedy ono przekroczyło tę śmieszną asymptotę.
+
+I właśnie z tego powodu tę asymptotę się nazywa horyzontem zdarzeń. To jest taka graniczna powierzchnia, poza którą jak się przekroczy, to nie ma żadnego kontaktu z tym obiektem, który tam wpadł.
+
+#### Lokalnie 19:22
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1922) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29237s)
+
+I to jest nieprzypadkowa zbieżność z czarnymi dziurami, bo to jest dokładnie ten sam horyzont zdarzeń w czarnych dziurach. Dlaczego? No właśnie dlatego, że jak jestem w rakiecie i z mojej perspektywy jest coś na kształt horyzontu zdarzeń, to ponieważ bycie w rakiecie jest równoważne byciu w pobliżu ciała, które jest źródłem grawitacji, to również horyzontu zdarzeń [niepewne: muszę się spodziewać] w przypadku grawitacji.
+
+No i to tyle w zasadzie. Istnienie czarnych dziur w sposób tak prosty wynika z własności krzywej y = 1/x.
+
+#### Lokalnie 19:59
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-1959) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29274s)
+
+I tu nie ma naprawdę nic o wiele bardziej skomplikowanego. I zasadniczo można bardzo wiele zrozumieć o czarnych dziurach, analizując własności funkcji 1/x i wiedząc, że jest ta śmieszna asymptota, która ogranicza rozwój tej [nieczytelne] krzywej.
+
+Z tym się wiąże cała masa różnych interesujących paradoksów. Przede wszystkim mówiłem o tym, że mam funkcję 1/x, ale też są funkcje typu 2/x, 5/x i to są krzywe, które mają mniej więcej taki kształt. Jest cała rodzina takich krzywych.
+
+#### Lokalnie 20:32
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2032) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29307s)
+
+Jest cała rodzina takich krzywych. Jedne z nich są bliżej tych asymptot, inne są dalej. I te krzywe różnią się od siebie fizycznie tylko jedną rzeczą. Mianowicie te bliżej asymptoty odpowiadają ruchom z przyspieszeniem o wiele większym.
+
+I gość, który jest w tej rakiecie, odczuwa bardzo silną siłę wbijającą go w podłogę. A ten, który jest w tamtej rakiecie, której prędkość się prawie nie zmienia, odczuwa bardzo słabą siłę przyspieszającą. Czyli w zależności od tego, jak mocno przyspieszam, jestem albo blisko tego horyzontu zdarzeń, albo daleko.
+
+#### Lokalnie 21:05
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2105) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29340s)
+
+I to znowu się zgadza. Jak jestem nad prawdziwą czarną dziurą i nie chcę do niej wpaść, to muszę zapobiegać temu, włączając jakąś bardzo silną rakietę, która przeciwdziała mojemu wpadaniu.
+
+#### Lokalnie 21:16
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2116) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29351s)
+
+I im bliżej czarnej dziury, tym mocniej muszę włączyć silniki rakietowe, żeby nie wpaść. Czyli muszę odczuwać coraz większe przeciążenia. Ktoś, kto jest blisko czarnej dziury, musi po prostu bardzo mocno [nieczytelne], żeby nie wpaść do środka. Ktoś, kto jest daleko, może sobie pozwolić na silniki ustawione na niewielką moc.
+
+I teraz zabawne w tym wszystkim jest to, że jak patrzymy na te wszystkie rakiety, one wydają się do siebie wszystkie zbliżać. Jak na to patrzy ktoś, kto jest [niepewne: swobodnie spadający], czy jakiś obserwator, który jest obserwatorem inercjalnym, patrzy na te rakiety, on widzi, że te rakiety się zbliżają. Ale zabawne jest to, że jakbym był na jednej z tych rakiet, to te wszystkie pozostałe wcale się nie będą do mnie zbliżać, tylko będą w stałej odległości ode mnie.
+
+#### Lokalnie 22:01
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2201) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29396s)
+
+To jest bardzo nieintuicyjne, no bo na rysunku ewidentnie widać, że te krzywe się zbliżają, a z perspektywy kogoś, kto jest w układzie nieinercjalnym, tak nie jest. Dlaczego? Otóż znowu [nieczytelne] jest bardzo prosty. Jeżeli jestem nad czarną dziurą, do której nie chcę wpaść, i w związku z tym zapobiegam temu, włączając silniki rakietowe w taki sposób, że jestem w stałej odległości od horyzontu zdarzeń, i w związku z tym odczuwam stałe przeciążenie, to można to odwrócić i powiedzieć, że jeżeli odczuwam stałe przeciążenie, to znaczy, że odległość od horyzontu zdarzeń się nie zmienia.
+
+Innymi słowy nam się na przykład wydaje, że ta rakieta jest coraz bliżej horyzontu zdarzeń, ale z perspektywy tej rakiety nic się nie zmienia, odległość od horyzontu zdarzeń jest cały czas taka sama. I to jest pewna deformacja percepcji wynikająca z tego, że jeden układ jest inercjalny, a drugi nie.
+
+#### Lokalnie 22:55
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2255) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29450s)
+
+Czyli każda z tych rakiet, według swojego własnego kosmonauty, uważa, że jest w stałej odległości od horyzontu zdarzeń. A ponieważ odległość tej rakiety numer jeden jest ustalona od horyzontu, dla niej się nie zmienia, i tej numer dwa również, to różnica tych odległości też musi być stała i w związku z tym odległości między tymi rakietami też się nie mogą zmieniać.
+
+No dobra, trochę dziwności ogólnej teorii względności. Zrobię taki mały przerywnik, żeby powiedzieć, że zasadniczo to jest taki materiał, który ze studentami omawiamy dosyć długo i to mielimy przez pewnie parę godzin, żeby to gruntownie przeorać. A z wami sobie robię taki trochę przejazd przez to w przyspieszonym tempie.
+
+#### Lokalnie 23:38
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2338) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29493s)
+
+Ale moim celem nie jest to, żebyście jakoś fundamentalnie mieli to przemyślane w ciągu dwudziestu minut, tylko żeby pokazać wam, że rozumowania, które prowadzą do tych wniosków, nie są bardzo skomplikowane. Każde z nich wymaga refleksji, namysłu i tak dalej, ale to nie są jakieś gigantyczne przeskoki. To są drobne argumenty, które można zasadniczo sformułować w kilku zdaniach, na kopercie pisząc. Nie trzeba do tego jakichś bardzo skomplikowanych traktatów filozoficzno-matematycznych.
+
+No i zasadniczo to jest wniosek prowadzący do tego, że jeżeli się poruszam z przyspieszeniem, to pojawia się coś na kształt horyzontu zdarzeń, czyli taka dziwna powierzchnia w czasoprzestrzeni, poza którą zdarzenia, które się dzieją, nie mają na mnie wpływu.
+
+### Skąd pojawia się biała dziura?
+
+#### Lokalnie 24:21
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2421) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29536s)
+
+No dobrze, ale jest tu jeszcze jedna część tej historii, którą trochę ukryłem, bo narysowałem ten rysunek tak, że nie widać, co jest na dole. I to jest coś — to, co dotąd mówiłem, to jest coś, co fizycy i studenci raczej dobrze rozumieją, bo się tego nauczyli, bo o tym mówią podręczniki. Ale jest druga część tej historii, o której chciałem dzisiaj powiedzieć, której w podręcznikach najczęściej nie ma i dlatego studenci się bardzo dziwią, jak o tym słyszą. I nie tylko studenci.
+
+Otóż jak sobie tę krzywą narysuję do końca, to rysunek jest taki. Moje trajektorie się rozciągają w ujemnych chwilach.
+
+#### Lokalnie 25:03
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2503) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29578s)
+
+I jak wszyscy, którzy czytali „Lód” Jacka Dukaja, wiedzą, że jeżeli procesy chodzą do przodu w czasie i prowadzą do wzrostu entropii, to też można wyobrazić sobie sytuację, kiedy odwracamy kierunek upływu czasu i dzieją się różne dziwne rzeczy, w których być może termodynamika jest odwrócona.
+
+W tym przypadku zwróćcie uwagę, że ten horyzont zdarzeń to jest taka powierzchnia, że jak za nią wpadnę, to nie jestem w stanie wrócić. Ale jest też ta druga asymptota, która ma dokładnie odwrócone właściwości. Jak jest coś po tej stronie asymptoty, to ono musi się wydostać na drugą stronę, ale nie może zawrócić.
+
+#### Lokalnie 25:47
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2547) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29622s)
+
+Czyli na tym diagramie jest jeszcze druga asymptota. I ta pierwsza oddziela zdarzenia, które nie mogą zawrócić do rakiety, a ta druga oddziela zdarzenia, które muszą wpaść do rakiety i nie ma wyjścia, żeby zawróciły.
+
+I te dwa horyzonty mają dwie różne nazwy. To jest horyzont zdarzeń czarnej dziury. A to jest horyzont zdarzeń białej dziury.
+
+#### Lokalnie 26:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2620) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29655s)
+
+I jak widać, jak się rozważa taki ruch z przyspieszeniem, to nie da się narysować takiego ruchu, który miałby tylko jeden horyzont, a drugiego nie. Te horyzonty zawsze występują wspólnie.
+
+I dokładnie z tego samego powodu, gdyby czarna dziura rzeczywiście istniała, taka prawdziwa czarna dziura, która odwiecznie istnieje i jest wariantem, jest jakby analogią tego ruchu, to ta czarna dziura nie mogłaby istnieć bez białej dziury. Byłaby to jedna i druga naraz.
+
+#### Lokalnie 26:48
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2648) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29683s)
+
+I teraz jest to dosyć dziwne, dlatego że my często wyobrażamy sobie czarną dziurę jak taki obiekt — jak na niego patrzymy, gdybyśmy byli blisko, to byłaby czarna, bo tam nic ze środka się nie może wydostać. Światło jest tam więzione, nie może uciec na drugą stronę, więc jakbyśmy byli obok, to byśmy widzieli czarny obiekt.
+
+No tak, ale zastanówmy się, czy jeżeli jestem w takiej rakiecie i patrzę w stronę tego horyzontu zdarzeń, to rzeczywiście widzę mrok, czy niekoniecznie? No przecież powiedziałem, że ten horyzont zdarzeń jest w stałej odległości od… Zostawię sobie tylko jedną rakietę, żeby nie komplikować. Powiedzmy, że mam tę rakietę.
+
+#### Lokalnie 27:26
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2726) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29721s)
+
+I ten horyzont zdarzeń jest w stałej odległości od rakiety według kosmonauty, ale również ten drugi jest w stałej odległości od tego kosmonauty. I co więcej, z perspektywy tego kosmonauty, jeden i drugi horyzont są dokładnie w tym samym miejscu. One się pokrywają.
+
+Jakbym spojrzał w lewo, czy rzeczywiście bym zobaczył ciemność? No nie. [niepewne: Najłatwiej] to zobaczyć w następny sposób. Wyobraźmy sobie, że tu jest motylek albo kwiatek. Albo latarka i ktoś nią świeci, ktoś w moją stronę świeci.
+
+#### Lokalnie 28:03
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2803) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29758s)
+
+To światło tej latarki porusza się z prędkością światła i prędzej czy później wpada do mojego oka. Więc ja ewidentnie, patrząc w stronę horyzontu zdarzeń, widzę światło, które zza niego do mnie dociera. Tylko nie zza tego horyzontu, tylko zza tego horyzontu, aczkolwiek jeden i drugi są w tym samym miejscu.
+
+To jest bardzo nieintuicyjne, bo na tym diagramie wygląda, jakby były w różnych miejscach. A jednak z perspektywy kogoś, kto jest w rakiecie, on widzi jeden i drugi dokładnie w tym samym miejscu przestrzeni, ale gdyby patrzył w stronę tego horyzontu zdarzeń, to on coś tam zobaczy, co zza tego horyzontu dociera. No cokolwiek, co się w tym miejscu znajduje, będzie świeciło i będzie informacja o tym do mnie docierała.
+
+#### Lokalnie 28:46
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2846) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29801s)
+
+Więc pojawia się ciekawe pytanie: czy gdybym miał prawdziwą czarną dziurę w przestrzeni kosmicznej, to rzeczywiście, patrząc na nią, stwierdziłbym, że jest czarna, czy też docierałoby ze środka jakieś dziwne światło? Światło niosące informacje. O czym? No o tym, co jest w środku, ale nie w środku czarnej dziury, tylko w środku białej dziury, która jest w tym samym miejscu.
+
+I to rzeczywiście prowadzi do różnych poważnych kłopotów interpretacyjnych. Można się zastanawiać, co to wszystko w ogóle znaczy. I fizycy [niepewne: zwyczajnie] nie do końca wiedzą, bo to jest tak, że jak się patrzy na matematykę czarnych dziur, to się okazuje, że ta matematyka jest nieoderwalna od matematyki białych dziur i nie da się mieć czarnej dziury, która nie ma w sobie białej dziury.
+
+#### Lokalnie 29:30
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-2930) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29845s)
+
+I z perspektywy Jacka to zasadniczo można też powiedzieć, że ta czarna dziura to jest taka biała dziura, która się porusza do tyłu w czasie. Gdyby odwrócić kierunek strzałki czasu na tym wykresie na przeciwny, to rola tych dwóch diagramów, tych asymptot, się zamieni miejscami i czarna dziura się zamieni w białą, a biała się zamieni w czarną. Innymi słowy, często się tak mówi skrótowo, że biała dziura to jest taka czarna dziura, która się porusza do tyłu w czasie.
+
+Czyli jeżeli do jednej wszystko musi wpaść, to z drugiej wszystko musi wylecieć na zewnątrz. Tylko że błąd tego typu narracji jest taki, że mówi się albo myśli się często o tych obiektach jako o zupełnie różnych obiektach. Mogę mieć czarną dziurę, mogę mieć białą dziurę, podczas gdy ogólna teoria względności nie pozwala w ogóle, żeby jedna istniała bez drugiej. To jest jeden wspólny, łączny obiekt.
+
+#### Lokalnie 30:19
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3019) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29894s)
+
+Jak ktoś ma jakieś wątpliwości, z ludzi, którzy są trochę lepiej zorientowani w fizyce, to można sobie odpowiedzieć na pytanie dla tych, co znają ogólną teorię względności. Jaka jest metryka czasoprzestrzeni czarnej dziury? To jest tak zwana metryka Schwarzschilda. Taki matematyczny obiekt, który opisuje geometrię i wszystkie prawa geometryczne wokół czarnej dziury. I to jest znany dobrze obiekt, który się pokazuje studentom na wykładach z ogólnej teorii względności. Ale jak się zapytać, jaka jest metryka białej dziury, to jest dokładnie taka sama. Więc się pojawia pytanie: jak mi ktoś daje metrykę, to co ona opisuje? Czarną czy białą dziurę? I odpowiedź jest: tak. Jedną i drugą.
+
+#### Lokalnie 30:57
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3057) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29932s)
+
+Więc to jest jedna ważna uwaga. Teraz pytanie: czy to, co mamy w środku galaktyki, to jest czarna dziura, czy nie? To jest dobre pytanie. To, co jest w środku galaktyki, to jest zapadająca się materia, która jeszcze nie jest czarną dziurą, a przynajmniej takie jest konwencjonalne spojrzenie, w które też nie do końca wierzę. Ale to jest taka zapadająca się materia, która prawie jest czarną dziurą, ale jeszcze się nie uformowała i dopiero za nieskończenie długo, jak będziemy bardzo cierpliwi, ona się zamieni w prawdziwą czarną dziurę.
+
+A póki co to jest taka zapadająca się materia, która jest coraz gęstsza. Z perspektywy kogoś, kto jest daleko, to jest wszystko jedno, bo nieważne, czy czarna dziura, czy duża masa [nieczytelne], w dużych rozmiarach, ale tej samej wartości — efekt obserwacyjny jest taki sam.
+
+#### Lokalnie 31:38
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3138) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=29973s)
+
+Czyli niezależnie od tego, czy mam punkt, który waży kilogram, czy kulkę, która waży kilogram o dużym promieniu, to z perspektywy kogoś, kto jest daleko, efekt grawitacyjny jest dokładnie taki sam. Więc my nie widzimy różnicy obserwacyjnej, czy tam jest w tej galaktyce prawdziwa czarna dziura, czy tylko zapadająca się materia. To jest prawie to samo.
+
+Natomiast są różne hipotezy, jak się włącza efekty kwantowe, co się z tym wszystkim dzieje w przyszłości. Jedna z hipotez jest taka, że taka zapadająca się materia po pewnym skończonym, ale bardzo długim czasie zamieni się w białą dziurę. I ten kolaps materii zamieni się w wielki wybuch i to wszystko się wystrzeli we wszystkich kierunkach i zamieni się poprzez zjawiska kwantowe w białą dziurę. Są różne hipotezy tego typu.
+
+#### Lokalnie 32:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3220) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30015s)
+
+Natomiast prawda jest taka, że nikt tego nie wie. Że my nie wiemy, jak to jest. Natomiast to, przy czym chciałbym zostać, i nie męcząc nas bardziej tą tematyką [niepewne: przyciężką], to fakt, że mówiłem przez pół godziny i pewnie gęstość informacji była trochę większa niż w podobnych wystąpieniach na takich konferencjach.
+
+Natomiast to nie jest coś, co jest jakoś bardzo pojemne. Dużo [niepewne: zdążyłem] powiedzieć przez te pół godziny, ale de facto to, co mówiłem, to jest podsumowanie kilkunastu lat badań najwybitniejszych ludzi, jacy kiedykolwiek chodzili po Ziemi. Czyli mamy Einsteina, mamy Schwarzschilda i jeszcze paru innych, którzy tę fizykę badali. I jak to wszystko się przetrawi, przemyśli i przemieli, to zasadniczo to się sprowadza do bardzo prostych rzeczy.
+
+### Jabłko i wielkie połączenia
+
+#### Lokalnie 33:11
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3311) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30066s)
+
+I można by pracę Einsteina, która trwała dziesięć lat, skrócić drastycznie, gdyby tylko podpowiedzieć mu te dwie analogie, których zauważenie zajęło mu dziesięć lat.
+
+Natomiast morał z tej historii jest taki, że te największe odkrycia, które uważamy za geniusz ludzki, za nasze największe osiągnięcia niewyobrażalne i tak dalej, sprowadzają się do dostrzegania analogii bardzo często.
+
+To samo z Newtonem, któremu jabłko spadło i go olśniło. Ta historia z jabłkiem to jest też bardzo interesująca historia, bo ona pokazuje, że Newton [nieczytelne] zauważył analogię, której nikt nie zauważył przez parę tysięcy lat. Mianowicie analogię między prawami fizyki spadających jabłek i prawami fizyki, które opisują ruchy planet na niebie.
+
+#### Lokalnie 33:58
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3358) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30113s)
+
+Nikt przez parę tysięcy lat nie pomyślał, że jabłka i planety mają coś wspólnego ze sobą. On powiedział: nie, nie. Jedno i drugie obowiązuje ta sama reguła, prawo powszechnego ciążenia. To była nic innego jak analogia między dwoma zupełnie różnymi zjawiskami.
+
+I wydaje się, że w tych największych, najważniejszych osiągnięciach naukowych w fizyce, też często w matematyce, rola analogii jest bardzo ważna. Też w matematyce Bartosz mógłby to pewnie potwierdzić. Najpiękniejsze teorie matematyczne są takie…
+
+#### Lokalnie 34:38
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3438) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30153s)
+
+Że najpiękniejsze teorie w matematyce są takie, w których nagle okazuje się, że jeden dział matematyki jest analogiczny do jakiegoś zupełnie innego działu. Geometria algebraiczna na przykład. Jest z jednej strony geometria, czyli opis zjawisk, które wyobrażamy sobie rysunkami. Z drugiej strony mamy algebrę, w której obiektami pierwotnie były liczby, ale potem to się zamieniło w jakieś uogólnienia. I nagle ktoś zauważa, że prawa jednej i drugiej teorii są analogiczne i powstaje geometria algebraiczna.
+
+I takie pomosty między dwoma różnymi działami matematyki to jest coś, co matematycy uważają za coś najpiękniejszego. To są właśnie te analogie między teoriami, o których mówił Stefan Banach.
+
+#### Lokalnie 35:16
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3516) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30191s)
+
+No i wracając do tematu tej konferencji trochę bardziej, schodząc na ziemię. Właśnie, dziękuję bardzo. To pytanie jest: czy sztuczna inteligencja jest kreatywna, czy ona jest tylko i wyłącznie matematyką i tylko i wyłącznie dostrzeganiem patternów, tak jak pisali ludzie, ci interni z firmy Apple?
+
+No, ja bym się wahał przed [niepewne: używaniem] słowa „tylko”. Dlatego że jak najbardziej taka jednokierunkowa sieć neuronowa robi tylko jedną rzecz. Ona dostrzega patterny i [niepewne: nic więcej nie robi]. Ale ja bym się głęboko zastanowił, czy my, ludzie, robimy coś więcej. Czy w naszej kreatywności jest naprawdę coś więcej niż tylko dostrzeganie patternów?
+
+#### Lokalnie 36:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3606) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30241s)
+
+Też warto zwrócić uwagę, że te największe odkrycia, takie jak ogólna teoria względności, [niepewne: szczególna teoria względności], teoria kwantowa, to nie jest coś, na co ludzie wpadli po prostu, mając genialny pomysł. Jak uczę studentów teorii względności, to im pokazuję, że całą tę teorię względności to mógł odkryć Galileusz, bo wszystko, co trzeba było wiedzieć, wiedział już czterysta lat temu, tylko nie był na tyle przenikliwy, żeby pociągnąć konsekwencje tego.
+
+### Fizyka potrzebuje nowych pytań do świata
+
+#### Lokalnie 36:39
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3639) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30274s)
+
+Zasadniczo teorię względności mógł odkryć Galileusz, ale tego nie zrobił, bo nie był wystarczająco przenikliwy. Ludzie odkryli teorię względności dopiero w momencie, jak już nie było innego wyjścia, bo eksperymenty nas zmusiły do głębszego zastanowienia się nad fizyką prostych rzeczy, takich jak ruch, energia, masa. Dopiero eksperymenty [nieczytelne]. Na przykład eksperyment Michelsona, z tym, że prędkość światła jest taka sama w każdym układzie inercjalnym, zmusił ludzi do myślenia nad zagadnieniami czasu i przestrzeni. Dopiero nagle grupowo wszyscy zaczęli wpadać na pomysły.
+
+Przypominam, że [niepewne: równania] szczególnej teorii względności i transformacje Lorentza zostały odkryte przed Einsteinem, jakieś dwadzieścia lat przed nim, przez Lorentza, Poincarégo, Larmora i jeszcze wielu innych. Dopiero Einstein zrobił syntezę tego wszystkiego.
+
+#### Lokalnie 37:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3723) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30318s)
+
+I tak samo z teorią kwantową, która jest uznawana za wielkie odkrycie ludzkiego geniuszu. Ludzie nie wymyślili teorii kwantowej, tylko zostali do niej zmuszeni przez eksperymenty. Nikt przy zdrowych zmysłach by takiej teorii nie wymyślił. Zresztą filozofowie próbowali robić mądre miny przez parę tysięcy lat i nikt się nie zbliżył nawet do wniosków, które znamy z teorii kwantowej. Dlatego że ludzki umysł sam w sobie jest niewiele wart. On nie potrafi zbyt daleko wykraczać poza to, co ma na czubku nosa.
+
+Dopiero eksperymenty z elektronami i z [nieczytelne] obiektami były tak dziwne, że zmusiły fizyków do myślenia nad szukaniem opisu, który pasuje do tych eksperymentów. I teoria kwantowa urodziła się w ciężkich bólach, żeby dopasować jakąś teorię do tego, co widzimy w eksperymentach.
+
+#### Lokalnie 38:11
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3811) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30366s)
+
+I z tego powstała ta dziwna teoria kwantowa. Tak swoją drogą była ona bardzo długo niezrozumiała i zaczęła być dopiero zrozumiała w momencie, kiedy Paul Dirac i inni zauważyli pewne analogie między tymi dziwnymi prawami kwantowymi, które były czysto matematyczne i bardzo abstrakcyjne, a innymi prawami znanymi w mechanice klasycznej, które odkryto jakiś tam czas wcześniej. I dopiero analogie między prawami kwantowymi i mechaniką klasyczną pozwoliły ludziom dzięki tym analogiom budować jakiś obraz rzeczywistości na poziomie kwantowym.
+
+Więc ja bym powiedział, że nasze rozumienie jest mocno ograniczone tym, jakie analogie jesteśmy w stanie dostrzegać.
+
+#### Lokalnie 38:46
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3846) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30401s)
+
+I dlatego niektórzy mnie się czepiają, że ja jestem jakoś nadmiernie entuzjastycznie nastawiony do sztucznej inteligencji. Nie wiem, skąd to słowo „entuzjazm” ma się brać niby. Ja zauważam tylko, że sieci neuronowe są zdolne do umiejętności, która gwarantuje nauce postęp w tych najbardziej spektakularnych miejscach. I ja nie jestem wcale przekonany, czy do robienia postępów w nauce potrzeba czegokolwiek więcej niż tylko umiejętności dostrzegania analogii.
+
+W przypadku matematyki w zasadzie nie potrzeba nic więcej. W przypadku fizyki trzeba nieco więcej, bo trzeba zauważać analogię między teoriami, które konstruujemy, a eksperymentami, które robimy. I mimo wszystko musi być jakaś korespondencja między nimi, więc tutaj rozwój umiejętności matematycznych jest o wiele bardziej nieograniczony.
+
+#### Lokalnie 39:36
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3936) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30451s)
+
+A w rozwoju fizyki za pośrednictwem sztucznej inteligencji pewnie trzeba będzie mimo wszystko jeszcze trochę poczekać, bo wąskim gardłem nie jest brak pomysłów, tylko brak eksperymentów. I my dopasowujemy opis rzeczywistości do tej rzeczywistości. [niepewne: Musimy] najpierw zrobić eksperyment, który przeczy temu, co dotąd mieliśmy w opisie, żeby w ogóle myśleć o jakimś nowym opisie, i tego nam brakuje. I to jest w tym momencie bolączka fizyki współczesnej, że nie mamy eksperymentów, które przeczą znanym teoriom. I dopóki nie będziemy mieli takich eksperymentów, dopóty myślenie nad konstrukcją nowych teorii jest po prostu — wydaje się — mrzonką.
+
+#### Lokalnie 40:13
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-4013) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30488s)
+
+Dlatego że ani ludzie, co doświadczenie pokazuje historyczne, nie są w stanie wymyślać nowych rzeczy, dopóki ich eksperyment nie zainspiruje i już nie ma innego wyjścia, i trzeba zacząć myśleć. Tak jak było w przypadku teorii względności: już nie było innego wyjścia, trzeba było coś wymyślić, bo fizyka się waliła. I obawiam się, że modele sztucznej inteligencji oparte na dostrzeganiu analogii mają to samo ograniczenie.
+
+Natomiast można pewnie wyobrażać sobie, że w przyszłości ich ważną rolą w fizyce będzie proponowanie nowych eksperymentów, które będą inspirować nowe teorie. I to będzie ten moment, kiedy w fizyce zacznie się dziać to samo, co się dzieje obecnie w matematyce.
+
+#### Lokalnie 40:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-4051) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30526s)
+
+Więc ja się często śmieję z kolegami, że cokolwiek się stanie, nie wiem, co się stanie w przyszłości z fizykami, ale najpierw to się stanie z matematykami. I taka uwaga na koniec jeszcze co do tych matematyków, bo [nieczytelne] Bartosz [niepewne: wyzłośliwiał], to ja mu trochę się odgryzę. Ale w zasadzie to będzie pochwała nawet świata matematyków.
+
+Jesteśmy świadkami — ja się zgadzam tutaj z kilkoma osobami, które to powiedziały — że jesteśmy świadkami czegoś, co się nazywało od lat osobliwością. To moim zdaniem jest proces, który się zaczął i właśnie teraz w tym się znajdujemy. Widzimy ten moment przeobrażenia. I bardzo szczęśliwie się dobrze składa, i to nie jest przypadek, że pierwszą ofiarą tej technologii będą matematycy.
+
+### Nauczyć się swojej roli na nowo
+
+#### Lokalnie 41:30
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-4130) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30565s)
+
+Otóż patrzę na to z optymizmem, dlatego że matematycy to często bardzo mądrzy ludzie, jedni z najinteligentniejszych, jakich mamy. I to bardzo dobrze, że to właśnie ich spotka ta przykra okoliczność, bo oni będą musieli sobie ułożyć życie na nowo. Nikt nie wie, jak to życie będzie wyglądało. Natomiast jak oni to zrobią i jakoś się umeblują na nowo, to być może dadzą przykład innym, których to też w jakiejś kolejności spotka, jak sobie radzić z tą nową sytuacją, w której nie jesteśmy już najmądrzejsi na świecie. I musimy się liczyć z tym, że nasze kompetencje są przekazywane dalej jakimś [niepewne: tworom], które tylko dostrzegają analogie, tylko łączą kropki i nic więcej.
+
+
+## 11. Rosiak — Co jeszcze pozostało dla człowieka? Stan gry na 2026
+
+**Zredagowany zapis dostarczonego materiału**
+
+Skład według programu / potwierdzonej zapowiedzi: Jacek Dukaj, Andrzej Dragan, Bartosz Naskręcki. Moderator: Dariusz Rosiak.
+
+Zredagowany zapis dostarczonego nagrania 54:55. Pierwotne dwa niezależne rozpoznania mowy porównano następnie z napisami i odczytem czystego dźwięku pełnej transmisji. Skład pochodzi z programu; nie oznacza identyfikacji każdego głosu. Wypowiedzi o naturze człowieka, matematyce, władzy i przyszłości są stanowiskami uczestników.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy.html) · [Pełny osobny zapis](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html)
+
+### Początek rozmowy
+
+#### Lokalnie 00:31
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0031) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30696s)
+
+[Nieczytelna wypowiedź. W napisach transmisji pojawia się wprowadzenie do tytułu panelu i propozycja zdefiniowania człowieka; pełnego brzmienia nie potwierdzono.]
+
+### Czy człowiek jest po prostu systemem?
+
+#### Lokalnie 01:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0100) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30725s)
+
+Co panowie uważają za człowieka? Pan profesor, kończąc swój wykład, mówił na temat inteligencji i kreatywności. Chciałem tak sformułować to pytanie dla wszystkich trzech panów: czym człowiek, jeśli w ogóle czymkolwiek, różni się od takiego sprawnego systemu matematyczno-fizycznego, służącego do przetwarzania informacji i — jeśli jest inteligentny ten system, czyli ten człowiek — do wynajdowania analogii?
+
+#### Lokalnie 01:47
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0147) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30772s)
+
+No i systemu napędzanego białkiem, bo mamy biologię w sobie. Ale czy człowiek czymś takim różni się od systemu matematyczno-fizycznego? Czy właściwie, jeśli chcemy mówić o człowieku, to wystarczy, że będziemy na niego patrzeć właśnie w kategoriach matematyczno-fizycznych z dodatkiem biologii? — Może zacznę.
+
+#### Lokalnie 02:16
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0216) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30801s)
+
+Jest taki pogląd, który przestał być modny w świecie filozofii: redukcjonizm. To jest taka obserwacja, że jak się weźmie prawa fizyki, takie najbardziej podstawowe, które znamy, które zasadniczo mieszczą się na T-shircie, to można z nich wyprowadzić cały układ okresowy pierwiastków. Zatem te wszystkie właściwości chemiczne pierwiastków wynikają z równania [niepewne: Schrödingera].
+
+#### Lokalnie 02:38
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0238) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30823s)
+
+Co studenci po pierwszym kursie mechaniki [niepewne: kwantowej] potrafią dosyć łatwo uzasadnić. Podobno z chemii wynika biologia, podobno z biologii wynika życie. Nie wiemy do końca, jakie są procesy pośrednie, co tam się dzieje, jak to się wyłania. Ale jeden z takich poglądów [niepewne: redukcjonistycznych] mówi, że zasadniczo wszystko sprowadza się w bardzo skomplikowany sposób do czegoś bardzo prostego.
+
+#### Lokalnie 02:58
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0258) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30843s)
+
+To nie znaczy, że ta droga z góry na dół jest jakaś prosta. Ona jest bardzo skomplikowana i nie znamy jej szczegółów. Ale w zasadzie prawa matematyczne, prawa fizyczne, które znamy, to są prawa matematyczne.
+
+#### Lokalnie 03:11
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0311) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30856s)
+
+Myślę, że to działa w jedną stronę. Nie używa się równań fizycznych do analizowania filmów, do opisywania piękna [niepewne: rzeczy / rzeźb]. — Nie powiedziałem, że jest to praktyczna droga, ale to jest możliwa droga.
+
+#### Lokalnie 03:24
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0324) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30869s)
+
+Jest taka praca [niepewne: McCullocha i Pittsa] z 1943 roku, gdzie oni dokładnie zapytali coś takiego: jak to jest możliwe, że człowiek może rozumować na temat logiki? Budowali taki system właśnie neuronów. Z tej pracy wynikły wszystkie dalsze prace dotyczące uczenia maszynowego.
+
+#### Lokalnie 03:47
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0347) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30892s)
+
+Wydaje mi się, że na ten moment wiemy dużo na temat uczenia maszynowego i tego, jak matematykę można uprawiać z pomocą maszyn, ale w sumie niewiele dowiedzieliśmy się na temat tego, dlaczego ludzie to robią. To jest taki ciekawy paradoks, że dotarliśmy prawie sto lat później do sytuacji, gdzie mamy systemy, tak jak Andrzej mówił, które rozwiązują pewne problemy matematyczne. Ale gdybyśmy się zastanowili, to my naprawdę nie rozumiemy, dlaczego fizyk, matematyk, filozof, biolog, chemik, ktokolwiek wpada na jakiś pomysł. To jest całkowicie dla nas niezrozumiałe. Jesteśmy nadal na początku tej drogi. Kompletnie nie wiemy, dlaczego to się dzieje.
+
+#### Lokalnie 04:28
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0428) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30933s)
+
+Na „dlaczego” to pewnie nigdy nie będzie odpowiedzi. Pytanie jest raczej, jak to jest możliwe, że oni wpadają na takie pomysły. Tak to zrozumiałem.
+
+#### Lokalnie 04:34
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0434) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30939s)
+
+Ale odpowiadając na pierwotne pytanie, to myślę, że tak sformułowany system matematyczno-fizyczny, jeśli dobrze rozumiem — człowiek jest podklasą tych systemów matematyczno-fizycznych. Pytanie tylko, czym się wyróżnia. Jakie można [niepewne: differentia specifica] dodać do tego, że on jest taki, a inne systemy matematyczno-fizyczne są inne?
+
+#### Lokalnie 04:56
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0456) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=30961s)
+
+Czyli system matematyczno-fizyczny — czy da się go porównać do jakiegoś pojęcia metafizycznego? Tak jak ludzie kiedyś patrzyli na słońce i nie wiedzieli, co to jest, a potem się modlili, ponieważ żyli w świecie religii. Dla nich to, co było niezrozumiałe, mieściło się w systemach religijnych. To my teraz — te systemy, które już wymykają nam się spod kontroli, ale które potrafią nas opisać w sensie fizyczno-matematycznym — czy to jest coś podobnego? My jesteśmy, one są ponad nami?
+
+#### Lokalnie 05:46
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0546) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31011s)
+
+Gdyby się okazało, że w naszym mózgu poza fizyką i matematyką jest na przykład jakaś religia jeszcze, to byłoby bardzo ciekawe. Nie udało nam się na razie znaleźć jakiegokolwiek zjawiska w naszym organizmie, które by fundamentalnie gwałciło znane prawa biologii, w związku z tym chemii, w związku z tym fizyki.
+
+#### Lokalnie 06:08
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0608) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31033s)
+
+Tylko jak rozumiem, Jacek zwrócił uwagę na to, że matematyka i fizyka mogą nas opisać, ale one nie opisują wszystkiego, prawda?
+
+#### Lokalnie 06:17
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0617) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31042s)
+
+One nie opisują, nie bardzo nadają się do opisywania tych systemów emergentnych. Po prostu kwestia użyteczności, wygodności narzędzia opisowego. Dlatego tworzymy opisy, prawa specyficzne dla tych systemów wyższego rzędu. — To nie jest do końca prawda, że nie nadaje się matematyka do opisu systemów emergentnych. Piękny przykład termodynamiki:
+
+#### Lokalnie 06:47
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0647) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31072s)
+
+Ludzie wiedzieli, że jest coś takiego jak temperatura, że jest coś takiego jak ciśnienie gazu. Badali te rzeczy, wiązali je ze sobą nawzajem, ale nie bardzo wiedzieli, co to jest temperatura. Były teorie, że to jest taki płyn, który przepływa z jednego ciała na drugie. Aż przyszedł Boltzmann — „dopóki się nie zastrzelił”, [nieczytelne słowa] koledzy złośliwi; [Przywołanie rozmówcy, nie potwierdzona tu informacja biograficzna.] — to postawił tezę, że materia składa się z małych atomów, które drgają. I ten ruch tych drgających atomów to jest coś, co się interpretuje jako temperaturę. Ciało, w którym te drgania są intensywniejsze, ma wyższą temperaturę; jeżeli ma mniejsze, ma niższą temperaturę.
+
+#### Lokalnie 07:22
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0722) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31107s)
+
+Udało się pokazać, jak z fizyki statystycznej, z analizy statystycznej, z rozkładów prawdopodobieństwa różnych konfiguracji atomów można w skali emergentnej wyprowadzić, że jest coś takiego jak temperatura, ciśnienie i inne właściwości. To jest piękny przykład pokazania, jak matematyka pozwoliła wyprowadzić zjawisko emergentne, jakim jest temperatura w skalach makroskopowych, z praw fizyki działających w skali mikro.
+
+#### Lokalnie 07:46
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0746) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31131s)
+
+To jest oczywiście bardzo prosty przykład: gaz, który jest charakteryzowany kilkoma parametrami. O wiele trudniej jest pewnie inne zjawiska emergentne w ten sposób badać. Ale nie jest to sytuacja zupełnie niemożliwa.
+
+#### Lokalnie 08:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0800) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31145s)
+
+Mamy na przykład coś takiego jak automaty komórkowe. Te automaty dają lokalne zasady bardzo proste do opisania, na przykład [niepewne: mrówka Langtona], po czym po iluś tysiącach ruchów wykonują globalnie jakąś czynność, której zupełnie nie widać z tych lokalnych ruchów, które wykonywały.
+
+### Rozumieć czy kontrolować?
+
+#### Lokalnie 08:18
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0818) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31163s)
+
+Ale chciałbym do tego dodać, że matematyka właśnie na tym polega, że my nie musimy rozumieć często natury tych zjawisk emergentnych, ale możemy nimi zarządzać. To jest ciekawa sytuacja, że język matematyki często służy do tego, żeby opisywać zjawiska, tak jak na przykład w fizyce, których w pewnym sensie nie rozumiemy do końca, ale rozumiemy, jakie są ich pewnego rodzaju ograniczenia. Możemy abstrahować od tego, jak one dokładnie działają, ale próbować opisywać za pomocą tych abstrakcji różne rzeczy, które wykonujemy.
+
+#### Lokalnie 08:52
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0852) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31197s)
+
+Tutaj dochodzi do pewnego paradoksu, bo my nie chcemy w pewnym sensie zrozumieć świata, my chcemy tylko i wyłącznie umieć go kontrolować. Z tej perspektywy patrząc, nie musimy wcale rozumieć w szczegółach człowieka, żeby na przykład rozumieć, jak się pewni ludzie będą zachowywali w konkretnej sytuacji.
+
+#### Lokalnie 09:10
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0910) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31215s)
+
+To zależy kto, jak pan mówi „musimy” albo „nie musimy”. Bo historia literatury czy historia w ogóle dociekań — próba zrozumienia kondycji…
+
+#### Lokalnie 09:24
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0924) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31229s)
+
+Ale może dokładnie tej matematyki nam brakuje. Może da się opisać literaturę i filozofię za pomocą matematyki, której jeszcze [niezrozumiałe].
+
+#### Lokalnie 09:33
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-0933) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31238s)
+
+Nie wiem, czy to jest zjawisko emergentne, ale chodzi mi po głowie ostatnio nowa książka Fukuyamy. Jednym z takich mocnych akcentów jest to, że jednym z podstawowych mechanizmów, czyli impulsów ludzkich, jest potrzeba uznania. Robimy całą masę rzeczy po to, żeby zostać uznani. To jest taka stara książka Fukuyamy, bo on na tym oparł już swoją teorię o końcu historii. Teraz się pojawiła znowu jego rzecz, w której dochodzimy do tego, że od samego początku miał rację. Jak opisujemy potrzebę uznania przy pomocy narzędzi, o których panowie mówili?
+
+#### Lokalnie 10:15
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1015) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31280s)
+
+Przede wszystkim w mojej pracy naukowej celem tej pracy nie jest kontrola czegokolwiek, tylko rozumienie czegokolwiek. Moim celem jest rozumienie, więc dokładnie odwrotnie niż powiedziałeś.
+
+#### Lokalnie 10:31
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1031) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31296s)
+
+No tak, ale przy pomocy matematyczno-fizycznych elementów czy schematów, jak możemy opisać albo zrozumieć to, że pojawiamy się w jakimś miejscu po to, żebyśmy zostali zobaczeni, po to, żeby ktoś sobie o nas pomyślał? Czy publikujemy zdjęcia z wakacji po to, żeby wszyscy pomyśleli, jakie mamy wspaniałe życie? Jak opisać ten impuls, który to powoduje, przy pomocy matematyczno-fizycznych schematów?
+
+#### Lokalnie 11:04
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1104) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31329s)
+
+Edward Wilson stworzył [niepewne: socjobiologię] i dokładnie jego celem było wyjaśnienie ludzkich mechanizmów w oparciu o proste idee teorii gier.
+
+#### Lokalnie 11:14
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1114) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31339s)
+
+Trochę pomieszaliśmy poziomy. O ile Andrzej nie jest hardkorowym platonikiem, matematyka jako taka nie mieści się w hierarchii poziomów emergencji. Ona jest językiem używanym do opisu każdego z tych poziomów. Mówi się o zmatematyzowaniu nauk społecznych. Ta matematyzacja postępuje. O zmatematyzowaniu psychologii.
+
+#### Lokalnie 11:41
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1141) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31366s)
+
+Wszystko da się pomierzyć. Wszystko, co wychodzi do świata [niepewne: postrzegalnego zmysłami], jest mierzalne, a zatem można je ująć w różne skale zapisywalne cyferkami. To już podlega analizie statystycznej i można wpakować to do AI, i otrzymuje się takie czy inne wyniki. Natomiast klasycznie rozumiana drabina emergencji zaczyna się od poziomu fizycznego, potem masz chemię, potem masz biologię, potem masz społeczeństwo, potem masz kulturę. Gdzieś tam się obok zaczyna jeszcze psychologia, [niepewne: od biologii jednostkowej].
+
+— Może to się da kontrolować, tylko po prostu jeszcze się tego nie nauczyliśmy robić.
+
+#### Lokalnie 12:15
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1215) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31400s)
+
+Może będzie tak, że niedługo systemy AI to będą dokładnie te pierwsze systemy, które będą w stanie kontrolować na przykład całą kulturę i zarządzać tym tak jak…
+
+#### Lokalnie 12:25
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1225) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31410s)
+
+Kontrola tak rozumiana jest pochodną zrozumienia. Jeśli ja dobrze rozumiem jakiś system, to ja wiem, jak nim manipulować, co mam nacisnąć, żeby na niego wpłynąć, prawda? [Niepewne: Stąd] się także bierze subiektywizm hierarchii bytów. Byt uznawany był za podmiotowy, samodzielny, posiadający wolną wolę. Jeżeli go wystarczająco dobrze poznam, to [nieczytelne słowa dotyczące manipulowania], że on z mojego punktu widzenia przestaje mieć wolną wolę, jest tylko bezwładnym narzędziem. Ale on sam może w ogóle nie zdawać sobie z tego sprawy.
+
+#### Lokalnie 12:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1251) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31436s)
+
+To się między innymi dzieje teraz na poziomie społecznym, jeśli chodzi o big data i zbieranie rozmaitych statystycznych danych, o wpływaniu nawet nie na jednostki, tylko na wystarczająco duże zbiory osób. Na zasadzie takiej: ja wiem, że statystycznie nie wpłynę na sto procent, ale wpłynę na dziewięćdziesiąt procent. I to jest dla mnie wystarczająco dobre.
+
+#### Lokalnie 13:13
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1313) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31458s)
+
+Nie wiem dokładnie, które to jest dziewięćdziesiąt procent, więc te dziesięć procent zachowuje iluzję wolnej woli. Ale korporacje, państwa, jakieś tam sztaby polityków, próbujące w ten sposób wpływać, mają ten komfort — dziewięćdziesiąt procent wystarczająco dobrze zmanipulowałem. To jest ten poziom, na którym teraz się znajdujemy. A za chwilę będzie mowa o tym, czy ja mogę tak jednostkę zmanipulować.
+
+### Czy odkrycie musi mieć jednego autora?
+
+#### Lokalnie 13:35
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1335) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31480s)
+
+Dobrze, ale my rozmawiamy o manipulacji, o kontroli — to zaraz do tego dojdziemy. Chciałbym pana zapytać o jedną rzecz. Mam taką informację, że jest pan współautorem deklaracji z Lejdy na temat sztucznej inteligencji i matematyki, tak? Tak jak ja czytam ten tekst, jak go rozumiem, to jest sprzeciw wobec redukowania matematyki, zwłaszcza badań naukowych, badań matematycznych, do liczb. Dobrze to rozumiem?
+
+#### Lokalnie 14:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1402) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31507s)
+
+Nie. Deklaracja lejdejska mówi tylko i wyłącznie tyle, że w aktualnym paradygmacie autorem dokumentu, jakiegokolwiek, który robiony jest z AI czy nie z AI, w pewnym sensie gdzieś tam, w jakimś odległym punkcie, jest człowiek. Czyli jeżeli ktoś zrobił model AI, to i tak jest za tym jakiś człowiek.
+
+#### Lokalnie 14:27
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1427) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31532s)
+
+Czyli to nie jest jednoznaczne.
+
+#### Lokalnie 14:29
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1429) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31534s)
+
+To jest niejednoznaczne, ale główny punkt polega na tym, że deklaracja lejdejska wskazuje — tak to deklarujemy — że na samym końcu tego całego procesu gdzieś jest człowiek. Oczywiście tutaj trzeba też wziąć pod uwagę, że ona była pisana w konkretnym momencie, czyli dokładnie prawie rok temu, kiedy pewne rzeczy się jeszcze nie wydarzyły. To też jest ciekawe, że na przykład, jeżeli teraz pomyślimy o tym, co zrobił najnowszy model OpenAI…
+
+#### Lokalnie 14:55
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1455) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31560s)
+
+A podpisałby pan dzisiaj?
+
+#### Lokalnie 14:58
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1458) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31563s)
+
+Podpisałbym ją, ale ten punkt akurat o autorstwie — a myśmy to długo dyskutowali — był najbardziej problematyczny. Ja osobiście uważam, że w ogóle nie powinniśmy rozważać czegoś takiego jak autorstwo. Uważam, że autorstwo rozumiane w takim sensie, że przypinamy pojedynczą osobę do pewnej rzeczy, zaczyna się powoli rozmywać. Zbliżamy się do etapu, że tak naprawdę w ogóle nie będziemy wiedzieli, skąd pochodzi dane odkrycie. Bo jeżeli pomieszamy człowieka z maszyną, weźmiemy grupę ludzi, nie będziemy w stanie wskazać, kto był autorem jakiejś konkretnej części danego odkrycia.
+
+#### Lokalnie 15:35
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1535) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31600s)
+
+Ja to samo mogę, przepraszam, odwrócić i powiedzieć, że przy wystarczająco wysokim poziomie poznania procesów mózgowych jednostki mogę w ten sam sposób udowodnić rozmyte albo nawet [niepewne: przyzerowe] autorstwo dowolnego dzieła stworzonego przez dowolnego artystę w dowolnej epoce. Bo będę wiedział dokładnie, jakie wpływy na niego oddziaływały, skąd on to wziął, jakie procesy zaszły w jego umyśle. Więc im większe jest moje poznanie, tym bardziej zmniejsza się ta cząstka, którą możemy nazywać indywidualną kreacją czy wolną wolą.
+
+#### Lokalnie 16:10
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1610) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31635s)
+
+Dobra, ale logicznie idąc dalej, to wszystko jedno, czy Michał Anioł istniał czy nie, czy Da Vinci istniał czy nie. Tak?
+
+#### Lokalnie 16:18
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1618) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31643s)
+
+Ja bym powiedział, że tak, bo liczy się to, co odczuwamy sami.
+
+### Kto określa głębię matematyki?
+
+#### Lokalnie 16:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1623) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31648s)
+
+Dobra. Tylko jedną rzecz zacytuję, bo to rzeczywiście jest istotne. Nie wiem, czy się spieraliście, na pewno była wymiana między wami. „Zagrożona jest autonomia matematyki. Zwiększające się zaangażowanie firm technologicznych w badania matematyczne…” — z angielskiego tłumaczę, przepraszam — „…wzmaga ryzyko, że tematy badań będą dobierane tak, by były one przydatne, przystosowane do wymagań zautomatyzowanej matematyki, a nie eksperckiej oceny ich głębszego znaczenia”.
+
+#### Lokalnie 17:01
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1701) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31686s)
+
+W waszym tekście pojawia się takie sformułowanie: „głębsze znaczenie”. Jakie jest głębsze znaczenie matematyki?
+
+#### Lokalnie 17:09
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1709) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31694s)
+
+Większość matematyki można oceniać w kategoriach…
+
+— Głębsze znaczenie matematyki…
+
+#### Lokalnie 17:12
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1712) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31697s)
+
+Estetycznych. I to głębsze znaczenie ocenia w tym przypadku człowiek. Jeżeli pomyślimy o matematyce jako o produkcie tworzonym przez ludzi, tak jak artyści tworzą swoje dzieła, to możemy powiedzieć, że każdy człowiek ma swoją kategorię estetyczną. Grupa ludzi zwanych matematykami ustala pomiędzy sobą — to jest konwencja — co według nich jest głębokie, w jakim kierunku matematykę rozwijać.
+
+#### Lokalnie 17:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1740) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31725s)
+
+Tu mamy teraz nagle bardzo ciekawą rzecz, bo w tym momencie możemy rozwijać matematykę jako dyscyplinę porządkowania jakichś praw, całkowicie w oderwaniu od ludzi, ale w tym momencie tracimy jakąkolwiek podmiotowość. Nagle może się okazać, że te systemy będą robiły sobie różne ciekawe rzeczy, ale z naszej perspektywy one będą niezrozumiałe, brzydkie, może nie uznamy ich za głębokie, może w ogóle nie będziemy się w stanie do tego odnieść.
+
+#### Lokalnie 18:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1806) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31751s)
+
+Jestem sobie w stanie wyobrazić w bardzo niedalekiej przyszłości sytuację, gdzie większość ludzi, łącznie z matematykami, kompletnie nie rozumie, po co i dlaczego te systemy wykonują konkretne działania matematyczne.
+
+#### Lokalnie 18:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1820) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31765s)
+
+To ja mam pytanie: jak to się ma do wykładu Andrzeja, [niepewne: ogłoszonego] przed chwilą, gdzie każde właściwie odkrycie, niezależnie jak głębokie, jest efektem drobnych kroczków, którymi się da to zrozumieć przez normalnego, inteligentnego człowieka? Jeżeli to jest prawdą, to to nie może być prawdą. Któreś z nich jest fałszywe.
+
+#### Lokalnie 18:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1840) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31785s)
+
+Ten problem, który Bartosza trapi, ja uważam, że to nie jest formalnie żaden poważny problem. Będziemy mieli silniki matematyczne, które będą sobie dowodzić różnych rzeczy i zasadniczo większość tego to będzie slop, który nikogo nie zainteresuje. Będą poprawnie, formalnie dowodziły dziwnych twierdzeń, które są mało ciekawe. To można [nieczytelne słowa] rozwiązać i pewnie to zostanie zrobione.
+
+#### Lokalnie 19:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1900) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31805s)
+
+Wystarczy, że się zbierze stado matematyków, wezmą sobie duży zbiór twierdzeń matematycznych i każdemu nadadzą subiektywny, uzgodniony poziom głębokości tego twierdzenia. To jest takie głębokie, to jest takie płytkie. Wystarczy to [nieczytelne słowo]. Potem się bierze sieć neuronową, którą trenujemy na tych danych treningowych i ona nauczy się, co ludzie uważają za głębokie, a co nie.
+
+#### Lokalnie 19:25
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1925) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31830s)
+
+Takie sieci, jak doświadczenie pokazuje, potrafią uogólniać. Taka sieć pewnie na odpowiednio dużym datasecie będzie w stanie nabyć taką umiejętność, jaką posiadają matematycy: żeby docenić nowe twierdzenie, jak się pojawi, uznać je za głębokie czy nie. I sieci takie rzeczy potrafią robić.
+
+Jeżeli matematycy będą chcieli sobie hodować…
+
+— Sieci decydują o tym, co jest głębokie, co ma głębokie znaczenie.
+
+Nie, nie, nie. Sieci imitują dane. Ten rodzaj treningu, o którym mówię, to jest imitacja danych treningowych dostarczonych przez człowieka. Jeśli matematycy dostarczą informację, co uważają za głębokie, co nie, to sieci dowodzące twierdzenia matematyki nauczą się, co jest dla człowieka ciekawe, co nie, i będą się skupiać na tych ciekawych rzeczach.
+
+#### Lokalnie 19:59
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-1959) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31864s)
+
+Ale to ja mówię, że to będzie karykatura. W sensie to nie będzie już ocena przez ludzi, to będzie taka ekstrapolacja z jakiejś migawki informacji. Teraz wydaje mi się, że to jest dokładnie to miejsce, o które pytamy. [Nieczytelna granica repliki] To nie jest fundamentalne ograniczenie.
+
+Można wyobrazić sobie sytuację, kiedy ten problem, o którym mówisz, można jakoś ominąć.
+
+#### Lokalnie 20:22
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2022) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31887s)
+
+Można, ale wydaje mi się, że na ten moment nie mamy żadnego powodu przypuszczać, że da się trenować systemy, które będą w pewnym sensie emergentnie, w niezrozumiały, oryginalny sposób za każdym razem się zmieniały, tak jak człowiek. Wydaje mi się, że to jest dokładnie to miejsce, które nas niepokoi: czy da się zrobić maszyny, które będą nie tylko imitowały człowieka, ale będą miały pewnego rodzaju taką oryginalność?
+
+#### Lokalnie 20:50
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2050) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31915s)
+
+Ta oryginalność musiałaby wynikać z nich samych. Jak dla mnie to jest aktualna hipoteza badawcza. Myślę, że się zgodzisz z tym, że nie mamy na razie w ogóle powodu przypuszczać, że jesteśmy w stanie zrobić tego typu systemy.
+
+Ja nie wiem, czy ludzie są oryginalni. Ja nie jestem piewcą kompetencji matematycznych jakichś modeli, które są widoczne. Ja raczej mówię, że ludzie są mało kreatywni, że ludzie nie są tacy kreatywni. Ja uważam, że matematyka to jest piękna próba tworzenia abstrakcji, która jest nieskuteczna, bo te abstrakcje są tylko uogólnieniami naszych codziennych doświadczeń.
+
+#### Lokalnie 21:31
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2131) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31956s)
+
+— Matematyki totalnie oderwane od naszej fizycznej rzeczywistości.
+
+— Podaj przykład.
+
+[Nieczytelna część wymiany zdań o przykładzie i grawitacji.] Nie doświadczamy tego bezpośrednio, tak samo jak fizyki kwantowej. Musimy sobie to bardzo mocno abstrakcjonować. To są historie ludzkie. To też trzeba wziąć pod uwagę, że to, o czym mówimy, to są historie opowiadane przez jakąś grupę małp na planecie Ziemia, które sobie, że tak powiem, wytworzyły takie całe historyjki na ścianie i zaczęły to opowiadać. Przez przypadek zobaczyły, że to działa. To jest generalnie dziwne, że to w ogóle działa.
+
+#### Lokalnie 22:13
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2213) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=31998s)
+
+Ale jeżeli myślimy o świecie jako o czymś, co doświadczamy, to mogą istnieć całe opisy, których ludzie jeszcze nie dotknęli. Czytałem twoje książki, miałem takie poczucie, zwłaszcza „Perfekcyjna niedoskonałość”. Tam pojawiają się takie fragmenty, gdzie, jeśli się nad tym dobrze zastanowić, opisują sytuację, że na przykład maszyna może dotknąć takiej percepcji pozaludzkiej i opisać coś, co będzie matematyką pozaludzką, a my tego kompletnie nie zrozumiemy.
+
+#### Lokalnie 22:45
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2245) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32030s)
+
+Tak, można sobie wyobrazić ultymatywną sztuczną inteligencję, która bardzo szybko przeprowadza wszystkie możliwe dowody wszystkich możliwych twierdzeń z każdego zbioru aksjomatów do pomyślenia.
+
+No nie, temu zaprzecza problem stopu maszyny Turinga. Tak się nie da, aż tak dobrze nie jest. Ale to, co jest wykonalne — ona zrobi to, co byłoby wykonalne dla ludzi. Na pewno więcej niż ludzie.
+
+#### Lokalnie 23:11
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2311) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32056s)
+
+No tak. Wtedy zasadniczo masz wyeksplorowane te ścieżki, którymi mogliby podążać ludzcy matematycy. Zatem problem tego, czy my będziemy podążać bardziej tą ścieżką, bo tam jest ciekawsze, głębsze dla matematyków, albo tamtą, jest jakby już bezzasadny, bo wszystkie są już wytyczone, prawda? Jest tylko kwestia tego, że skoro dostalibyśmy taki prezent i wszystko jest na tacy, to na co zwrócimy uwagę? Co jest dla nas wtedy do zanalizowania?
+
+### Szachy, dowody i granice rozumienia
+
+#### Lokalnie 23:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2340) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32085s)
+
+I wtedy wracam do problemu, o który zapytałem: czy rzeczywiście jest tak, jak twierdzi Andrzej, że my sobie możemy tak krok po kroczku, małymi etapami, zrozumieć każdą z tych ścieżek prowadzących do rozumowań matematycznych, dowolnie daleko wyciągniętych przez AI, prawda? Bo ja rozumiem, że teza matematyków obecnie w większości jest taka, że nie. Stąd jest to, nie powiedziałbym przerażenie, ale mocne zaniepokojenie.
+
+#### Lokalnie 24:05
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2405) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32110s)
+
+Ja jestem przekonany, że zbliżamy się do momentu, że większość matematyki będzie pochodziła nie od ludzi. Po prostu.
+
+To pan pokazał w swoim wykładzie. Bardzo śmiesznym i fajnym. Wracając do tego, czym jest człowiek…
+
+#### Lokalnie 24:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2423) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32128s)
+
+Ja po raz trzeci zapytam: czy rzeczywiście jest tak, jak mówi Andrzej, czy jest tak, jak mówi Bartek? Bo to są dwie różne wizje horyzontu poznawczego człowieka.
+
+#### Lokalnie 24:36
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2436) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32141s)
+
+Jedną rzeczą, którą chciałbym jeszcze powiedzieć, nie wiem, czy to będzie odpowiedź nawet w stronę pytania, które zadałeś, to jest to, że my tu dyskutujemy o problemach przejściowych, które za chwilę nie będą zupełnie istotne. Ja przywołuję swoją tezę, którą pewnie się będzie można zweryfikować w ciągu paru lat, że przeobrażenie świata matematyki będzie bardzo bliskie przeobrażeniu świata szachów.
+
+#### Lokalnie 25:03
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2503) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32168s)
+
+Przypomnę dwa krytyczne momenty w świecie szachów. Pierwszy, jak to Kasparow mówił, że nie ma szansy, żeby maszyna ograła człowieka, bo człowiek posługuje się intuicją, inteligencją — nigdy żadna maszyna tego nie zrobi. Zostało to skompromitowane. Kasparow postawił drugą tezę: no dobrze, silniki nas ogrywają, ale najlepszym graczem w szachy to jest ten człowiek współpracujący z silnikiem szachowym. Ten arcymistrz, który rozumie, jak grać prawidłowo, i silnik, który analizuje [nieczytelne słowa] ruchów do przodu. Ta kombinacja tych dwóch to będzie coś genialnego. To są dwa takie momenty, które w świecie matematyki też już miały miejsce.
+
+#### Lokalnie 25:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2540) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32205s)
+
+Był Terence Tao, który mówił parę lat temu, że AI to jeszcze długo nie będzie miała żadnego startu do matematyków i generalnie to dosyć [niepewne: bezceremonialnie] obśmiewał. Teraz mówi, że no dobrze, ale teraz mamy świat współpracy i matematycy mogą jakoś współpracować z silnikami do matematyki i są różne deklaracje i pomysły, jak to zrobić.
+
+#### Lokalnie 26:01
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2601) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32226s)
+
+Ta teza Kasparowa się po raz drugi skompromitowała, bo te silniki szachowe są tak dobre, że ten człowiek nie ma zupełnie nic do [nieczytelne słowo] takiej potencjalnej współpracy.
+
+To jest taka dyskusja, kto jest autorem twierdzenia, czy teraz na tym przejściu jest problematyczna, ale [niepewne: za jakiś czas] nie będzie problematyczna, bo człowiek nie ma żadnego wkładu. Jeżeli ten rozwój będzie tak, jak sobie to wyobrażam, człowiek może zadawać pytania, ale nie będzie się angażował w ogóle w udzielenie odpowiedzi.
+
+#### Lokalnie 26:30
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2630) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32255s)
+
+Ta analogia między szachami i matematyką tutaj się [nieczytelne słowo], bo w szachach jest ważne to, żeby wygrać. Ja pojedynkuję się z kimś. Wykorzystuję strategie, których się nauczyłem, które poznałem, po to, żeby wygrać. Ja nie muszę wiedzieć, dlaczego ta strategia działa, jeżeli ona jest skuteczna. Po prostu używam jej, nauczyłem się może od AI, może od analizy jakichś tam [nieczytelne słowo] pojedynków, wygrywam. A tutaj będziemy w sytuacji, kiedy dostaję jakiś dowód zrobiony przez AI i ja go nie rozumiem. To jest różnica istotowa między matematyką a szachami.
+
+#### Lokalnie 27:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2702) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32287s)
+
+W szachach też w pewnym sensie można na to patrzeć jako na taki rozrywkowy dział matematyki dyskretnej, gdzie jest problem optymalizacyjny: w danej pozycji jaki jest optymalny ruch. Nagle model ci mówi, że to jest optymalny ruch, przesunięcie króla o jedno pole. To taki klasyczny ruch, którego żaden arcymistrz nie potrafi zrozumieć: że ruch królem jest optymalny w danej pozycji. Bardzo rzadko to udaje się dobrze zrozumieć.
+
+— I to się okazuje kilkadziesiąt ruchów później, jaki był zamysł stojący za tym ruchem. Tak samo w matematyce mogę sobie wyobrazić, że mam rozwiązanie problemu optymalizacyjnego. Model mówi, że…
+
+#### Lokalnie 27:37
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2737) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32322s)
+
+Konsekwencje są radykalnie inne, bo tutaj się kończy: w partii szachów wygrałem, koniec. A tutaj się nie kończy matematyka. Rezultatem jest to, że ja potem aplikuję te rezultaty tych rozumowań matematycznych przeprowadzonych przez AI, których nie rozumie żaden matematyk, do fizyki, chemii i tak dalej.
+
+### Czy człowiek potrzebuje wyznaczonego celu?
+
+#### Lokalnie 27:58
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2758) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32343s)
+
+Panowie, możemy rozmawiać o maszynach i o systemach, a ja jestem tym, który będzie się starał sprowadzać to do tak zwanego normalnego doświadczenia ludzkiego, które oczywiście można opisywać w sposób matematyczny i tak dalej. Ale pojawiało się masę razy tutaj słowo „optymalizacja”. Czy celem, i znowu wracam do prób zdefiniowania tego, o czym mówimy dzisiaj, czy celem funkcjonowania człowieka jest optymalizacja? Jeśli optymalizacja, to czego?
+
+#### Lokalnie 28:31
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2831) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32376s)
+
+Przeżycia. W sensie człowiek jest tutaj, bo przeżył. Jakby go nie było, to by nie replikował się nawet. Nie musi być inteligentny, nie musi w ogóle wiedzieć niczego, żeby mieć szczęśliwe życie. Myśmy się zoptymalizowali — środowisko [nieczytelny koniec zdania].
+
+[Niepewne: Jeśli] optymalizacja szczęścia, to nasza rozmowa nie ma sensu.
+
+No może nie ma. Prawda jest taka, że jesteśmy nadal tymi małpami z sawanny, które szybciej czy później uciekały przed lwem. Te, które przeżyły, przekazały dalej.
+
+#### Lokalnie 29:08
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2908) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32413s)
+
+To znaczy, chodzi o to, że jest cała masa doświadczenia ludzkiego, która jest w ogóle poza tematem tego, o czym my mówimy. Poza tematem szukania analogii, poza tematem optymalizowania naszego funkcjonowania w sensie biznesowym, materialnym czy jakimkolwiek innym. Jeżeli prawdą jest to, co pan przed chwilą powiedział, z czym ja się osobiście zgadzam intuicyjnie, że optymalizujemy szczęście, szukamy takich rozwiązań, które sprawiają, że nasze życie jest szczęśliwsze…
+
+#### Lokalnie 29:46
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-2946) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32451s)
+
+Ja tylko jeszcze jedno zdanie powiem, to może być trochę dziwne, ale w ogóle całe te dyskusje na temat filozofii, literatury i matematyki biorą się w zasadzie tylko z tego, że w którymś momencie najedliśmy się i nic nas nie zjadło. Mieliśmy chwilę, żeby przestać uciekać. Ten nasz mózg zaczął tworzyć jakieś wykwity swojej wyobraźni, już nie musiał niczego optymalizować. Dało nam to jakąś przestrzeń na obliczenia, które dały nam coś nowego. Teraz paradoks polega na tym, że w którymś momencie okazało się, że my jesteśmy w stanie to budować jedno na drugim. Zbudowaliśmy sobie cywilizację. Teraz idziemy do Żabki, nie idziemy polować, kupujemy jogurt, nie doimy krowy.
+
+#### Lokalnie 30:32
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3032) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32497s)
+
+Teraz doszliśmy do etapu, że zaczęliśmy budować w cywilizacji jakieś głębsze próby głębszego zrozumienia świata. Ale to jest nadal w pewnym sensie rzecz, która moim zdaniem wykracza w ogóle poza cele ewolucji. Chyba że jest jakieś głębsze prawo, które tym rządzi, które na przykład mówi, że jak da się takie systemy inteligentne budować w takim sensie ewolucyjnym, one w którymś momencie zaczną tworzyć jakieś swoje cywilizacje, struktury, sztuczne inteligencje. Może to jest kolejny etap tylko i wyłącznie. Może my po prostu nie rozumiemy.
+
+#### Lokalnie 31:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3106) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32531s)
+
+Człowiek jako gatunek ma określony cel przez [niepewne: teorię ewolucji] i to jest przekazywanie genów. Człowiek jako jednostka, jeżeli uznajemy go za podmiotowego, nie ma żadnego celu. On sobie sam tworzy system wartości i cele. Inaczej byłby sprowadzony do roli narzędzia. Młotek ma cel, szklanka ma cel, zegarek ma cel. Człowiek nie ma celu. Człowiek nie jest przedmiotem, narzędziem.
+
+Chyba że stanie się narzędziem sztucznej inteligencji, jak rozumiem?
+
+Tak, zostanie uprzedmiotowiony. To jest jedna z tych czarnych wizji, o których często rozmawiamy.
+
+#### Lokalnie 31:39
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3139) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32564s)
+
+Swoją drogą, nawet Twitter jest teraz opanowany tą wizją muszki — jak się ta muszka nazywa? — której sekwencjonowano w całości układ nerwowy. Teraz ludzie biorą tę sieć, ten konektom takiej muszki i trenują, żeby grała w jakieś gry komputerowe albo żeby kopała bitcoiny i tak dalej. Więc ktoś wpadł na pomysł, jak załatać tę najgorszą dziurę w „Matrixie”, w którym ludzie byli sprowadzeni do roli baterii, co było absurdem z perspektywy jakiejkolwiek fizyki. Ale zauważenie, że układ nerwowy człowieka czy muszki jest o wiele efektywniejszy obliczeniowo niż krzem, daje jakieś pole do tworzenia takich Matrixów.
+
+#### Lokalnie 32:25
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3225) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32610s)
+
+Podobno była pierwsza wersja scenariusza Wachowskich, tylko producenci tego nie zrozumieli i zmusili do wymiany na baterie.
+
+#### Lokalnie 32:32
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3232) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32617s)
+
+No dobrze, ale to co, zgadzamy się tutaj, jak siedzicie we trójkę, zgadzacie się, że o odrębności, o podmiotowości człowieka świadczy to, że takie rzeczy jak nawet choćby przyrost wiedzy czy rozwój instytucji społecznych czy politycznych, czy dążenie do szczęścia, dążenie do tworzenia relacji międzyludzkich, że to jest coś, co wymyka się takiemu opisowi? To jest coś, co stanowi odrębność, jeśli chodzi o człowieka?
+
+### Dzisiejszy punkt czy przyszła trajektoria?
+
+#### Lokalnie 33:10
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3310) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32655s)
+
+Tak, ale tej uwagi nie uważam za specjalnie ważną. To jest uwaga na temat punktu na trajektorii, w którym się aktualnie znajdujemy. Jedna dyskusja jest na temat punktu, w którym się znajdujemy, a druga dyskusja jest na temat trajektorii. To, że aktualnie mamy bardzo prymitywne systemy oparte na bardzo prymitywnych schematach neuronowych, które są jakąś parodią w zasadzie komplikacji mózgu i innych układów, które są biologiczne, to jest na dzisiaj. Natomiast przy tym tempie rozwoju, nawet niezależnie od niego, po odpowiednio długim czasie dojdziemy do czegoś zupełnie odmiennego. To, że akurat teraz możemy zachłystywać się naszą wyjątkowością — pan opowiada o różnych rzeczach wyjątkowych dla człowieka — to jest cecha [nieczytelne zakończenie].
+
+#### Lokalnie 33:54
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3354) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32699s)
+
+Na jakiej podstawie pan uważa, że to będzie nieaktualne za dziesięć lat albo za pięć lat?
+
+Na podstawie [nieczytelne słowo] moich doświadczeń z ostatnich kilkuset lat rozwoju nauki. Postęp naukowy przyspiesza. Gdybym powiedział panu dziesięć lat temu to, o czym dzisiaj rozmawiamy o rzeczywistości technologicznej dzisiejszego dnia, to by pan w to nie uwierzył. Nikt by w to nie uwierzył. Tego samego należy się spodziewać za następne dziesięć lat. Jakby ktoś dwieście lat temu powiedział mi, że…
+
+#### Lokalnie 34:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3423) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32728s)
+
+Nie, nie, tylko… Tak, dwieście lat temu zaczęło się [nieczytelne słowa] ogląd świata, który polegał na tym, że patrzymy na rzeczywistość i wyciągamy wnioski z rzeczywistości. Dzisiaj coraz częściej znajdujemy się w sytuacji, w której najpierw mamy wniosek i dopasowujemy do tego argumentację po to, żeby ten wniosek udowodnić. Odchodzimy od oświeceniowego myślenia, prawda? Możemy sobie tak powiedzieć. To jest jakiś proces. Dlaczego ten proces przebiegł, a ten proces, o którym pan mówił, miałby nie przebiec?
+
+#### Lokalnie 34:54
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3454) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32759s)
+
+Kto to są ci „my”? Pan chyba myśli, że masy, całe społeczeństwa posługiwały się takim superracjonalnym myśleniem i wnioskowały żelazną logiką, nie były pod władzą emocji. Tak nie było. Zawsze były jednostki, które miały tę zdolność racjonalnego myślenia, obserwowania [niepewne: rzeczywistości] i budowania nowych teorii.
+
+Ale cywilizacja została stworzona na rozumie, prawda? Od końca XVIII wieku.
+
+#### Lokalnie 35:24
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3524) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32789s)
+
+No i nadal są takie jednostki. Nic się nie zmienia. Znacznie poszerzyliśmy udział mas w kulturze. Słyszymy, w jaki sposób ludzie myślą, jaki jest ich output kulturowy, dzięki na przykład mediom, YouTube'owi i tak dalej. Więc mamy wrażenie, że nagle nastąpiła jakaś wielka zmiana. Jakby pan się cofnął dwieście lat i z taką samą częstotliwością, na tak samo dużej próbce badał przeciętnych ludzi, to co, znalazłby pan pośród nich filozofów, racjonalnych myślicieli? Nie. Byliby tacy sami ludzie, jak teraz są w social mediach, powodowani emocjami.
+
+#### Lokalnie 35:59
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3559) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32824s)
+
+No ale jest różnica pomiędzy myśleniem, nazwijmy to, porządkującym świat z czasów średniowiecza, z czasów oświecenia i z czasów modernizmu, prawda?
+
+To zawsze były elity, jednostki.
+
+Ale o elitach mówimy, tak.
+
+Ale to co, pan sądzi, że teraz nie ma jednostek, które są w stanie myśleć racjonalnie?
+
+Nie no są, tylko że nie one nadają…
+
+Bo żyjemy w społeczeństwie masowym.
+
+#### Lokalnie 36:28
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3628) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32853s)
+
+To nastąpiła na początku XX wieku rewolucja [niepewne: mas] i od tego [nieczytelne słowa].
+
+— Nie, ale dobra, niech będzie, że masz rację, tylko…
+
+— [Nieczytelne słowa] odwrócić nawet demokrację, prawda?
+
+#### Lokalnie 36:40
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3640) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32865s)
+
+Nie, absolutnie. Tylko ja się pytam o to, dlaczego pewne procesy mają być nieuniknione. Pytam pana Dragana: dlaczego ten proces, o którym pan mówi, jest nieunikniony?
+
+To jest problem indukcji, bo nie ma dowodu, nie da się tego udowodnić. To, że tysiąc razy wstaje słońce codziennie, to nie znaczy, że jutro też wstanie. Nie ma dowodu na ten fakt. Nie ma powodu, żeby wierzyć, że prawa fizyki jutro będą takie same, jak są dzisiaj. Wiemy, że przez ostatnie piętnaście miliardów lat były te same prawa fizyki.
+
+Ale my nie mówimy o okresie i o rozwoju zjawiska, które trwa piętnaście miliardów lat, tylko piętnaście lat albo, nie wiem, pięćdziesiąt lat.
+
+Nie, to, co widzimy teraz, jest naturalną kontynuacją długotrwałego procesu, który nie zaczął się piętnaście lat temu. To jest długotrwały proces i nie ma powodu, żeby sądzić, że się nagle przerwie.
+
+#### Lokalnie 37:30
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3730) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32915s)
+
+Jesteśmy bardzo odlegli od [niepewne: wysycenia się] tej technologii, której rozwój obserwujemy. Ja zgadzam się z Tomkiem, który też o tym mówił, że jesteśmy na bardzo wczesnym, prymitywnym etapie rozwoju technologii. To jest początek, epoka kamienia łupanego. To jest wczesny początek.
+
+I teraz ciekawe jest to, że dla nas to jest takie bolesne. Były takie trzy momenty w historii. [Niepewne: Geoffrey Hinton] był niedawno w Polsce i o tym bardzo ciekawie mówił. To były takie potężne trzy momenty ludzkiej historii, szczególnie ważne dla naszego dobrostanu umysłowego. Pierwszy to był moment, pierwszy wstrząs to był kopernikański wstrząs, więc się dowiedzieliśmy, że wcale nie jesteśmy w centrum świata, tylko jesteśmy na krańcu, w najlepszym razie Układu Słonecznego.
+
+#### Lokalnie 38:11
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3811) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32956s)
+
+Potem był drugi, równie mocny wstrząs, darwinowski. Po którym jeszcze nie wszyscy ludzie otrzeźwieli i nie zinternalizowali tego, że nie jesteśmy wcale szczególnie inni od innych zwierząt dookoła.
+
+No i ten trzeci taki wstrząs, kiedy się dowiadujemy, że korona naszego myślenia, nasz powód do dumy, wielka matematyka, królowa nauk, jest automatyzowana przez bardzo proste układy, które z matematycznego punktu widzenia są, jak to mój kolega mówi pogardliwie, nieliniowymi sumatorami. [Nieczytelna granica repliki] Tu jest konflikt, spór [nieczytelne słowa], bo ja uważam, że to jest wstrząsem dla znacznie mniejszej części społeczeństwa niż ten wstrząs, kiedy wszyscy zrozumieją, że najbardziej oddziałujące, najbardziej podniosłe dzieła sztuki, literatury, muzyki i tak dalej są tworzone właśnie przez AI, a nie przez ludzi. Dla [niepewne: nas / mas] to będzie znacznie większy wstrząs. [niezrozumiałe].
+
+#### Lokalnie 38:53
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3853) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=32998s)
+
+Jeszcze raz, to że co? Że największe dzieła sztuki?
+
+Tak, że to, co na nas najbardziej oddziałuje, te dzieła sztuki, które przeżywamy, są stworzone przez AI, a nie przez ludzi. Dla [niepewne: nas / mas] to będzie znacznie większy wstrząs aniżeli to, że jakaś tam matematyka, której nie rozumieją, jest tworzona.
+
+Która i tak, jak myśleli, że jest na komputerach wklepywana przez tych matematyków dziwacznych, no to co to jest dla nich za różnica, nie? To pokazuje, że tutaj jeszcze jedna rzecz wchodzi.
+
+#### Lokalnie 39:35
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-3935) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33040s)
+
+My naprawdę przeceniamy, po pierwsze, rolę jednostki w tym całym kreowaniu świata. Po drugie, mamy do czynienia z wieloma ludźmi, jakimś całym ekosystemem, który wchodzi ze sobą w interakcje. Na pewno człowiek nie jest w stanie tego zrozumieć.
+
+To jest jakby próba opisania układu dynamicznego tak skomplikowanego jak cały ekosystem, to, co widzimy na planecie Ziemi, na pewno przekracza możliwości tej jednej biednej małpy, która próbuje zrozumieć, co się dookoła niej dzieje.
+
+Ja to widzę w ten sposób, że jeżeli budujemy systemy autonomiczne, zewnętrzne, które próbują nam pomóc w zrozumieniu tego świata, to istnieje szansa na to, że one w pewnym sensie będą nam kompensowały ten nasz brak zrozumienia tego świata.
+
+#### Lokalnie 40:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4020) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33085s)
+
+Ale to nie znaczy, że my będziemy lepiej go rozumieli. To tylko będzie znaczyło na przykład, że w jakimś konkretnym aspekcie będziemy w stanie być może ten świat trochę lepiej kontrolować. To wcale nie wzbogaci naszego zrozumienia, więc ja jestem w stanie jakby pogodzić dwie sprzeczności.
+
+Z jednej strony mamy artystę tworzącego sztukę, z drugiej strony mamy matematyka tworzącego twierdzenia, ale te rzeczy to jedno i to samo, tylko każdy jest na innym etapie złożoności tej emergentnej, o której wcześniej mówiłeś. Ale tym nadal rządzić mogą jakieś bardzo skomplikowane prawa, które na pewno przekraczają możliwości tej jednej biednej małpy, która próbuje zrozumieć, co się dookoła niej dzieje.
+
+Nie zgadzam się z jednym w twojej wypowiedzi: z tym, że po [niepewne: wyoutsourcowaniu] rozumienia nadal zachowamy kontrolę.
+
+#### Lokalnie 41:07
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4107) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33132s)
+
+Nie, nie, nie. Ja nie uważam, że my zachowamy kontrolę. Ja uważam tylko i wyłącznie tyle, że my możemy mieć namiastkę kontroli, w której może się nam wydawać, że pewne rzeczy będziemy…
+
+Iluzję kontroli.
+
+Tak, tak.
+
+To jak jest w idealnym świecie? To znaczy w idealnym świecie to będzie tak, że cała ludzkość dojdzie do jakiegoś takiego powszechnego upgrade'u i my będziemy, nie wiem, pogodzimy się, że jesteśmy częścią świata, w którym sztuczna inteligencja w zasadzie jest, nie wiem, czy wyznacznikiem, czy jest jakimś takim benchmarkiem, jest takim miejscem, które porządkuje nam świat? Jaki jest stan idealny?
+
+#### Lokalnie 41:53
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4153) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33178s)
+
+Powinniśmy zrozumieć, na czym polega nasza rola?
+
+Stan idealny jest pochodną wartości danej kultury, w której akurat żyjemy, ona się zmienia. Stany idealne też zależą od czasu i miejsca.
+
+Jeżeli cofniemy się dwieście lat i zapytamy tam nawet elitę, nie przeciętnych ludzi na ulicy o stan idealny społeczeństwa, no dwieście, może czterysta, to dostalibyśmy odpowiedź o monarchii oświeconej, absolutnej i boskim porządku rzeczywistości i tak dalej, prawda? Że naturalny jest podział stanowy. Jak to jest możliwe, żeby chłop aspirował do bycia szlachcicem? Tylko że w tym pytaniu jest jeszcze coś gorszego.
+
+#### Lokalnie 42:33
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4233) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33218s)
+
+Pytanie o stan idealny to jest takie założenie, że jakiś stan się ustabilizuje, jak sama nazwa wskazuje.
+
+Nie, ale do czego dążymy? Może tak.
+
+Do niczego nie dążymy. Przede wszystkim [nieczytelne słowa].
+
+Do czego się…?
+
+Do czego samo dąży. Ale tu pobrzmiewa trochę taka teza, że my jako ludzie przechodzimy przez transformację i przejdziemy przez transformację, i osiągniemy jakiś stan, i się możemy zoptymalizować do tej nowej sytuacji. Tak nie jest. Zmiana sytuacji będzie przyspieszać. Nie ma żadnego stanu, który osiągniemy i osiądziemy na laurach, i już jakoś tam się to wszystko ułoży. Tak nie będzie.
+
+### Władza i ryzyko
+
+#### Lokalnie 43:10
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4310) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33255s)
+
+W tym procesie, gdzie jesteśmy, w tym procesie, do czego zmierzamy, jest cała masa ludzi, która mówi tak. Za chwilę możemy porozmawiać o tych zagrożeniach, prawda, o tym, że przyjdzie Mordor i nas zje, tak? Teraz się dowiadujemy, od zeszłego tygodnia…
+
+Ale nie chodzi o to. Są realne zagrożenia związane z rozwojem sztucznej inteligencji. Realne zagrożenia, które…
+
+Proszę?
+
+Które są nierealne?
+
+Za mało mam wiedzy, żeby wiedzieć, czy na przykład to, że przyjdzie Mordor i nas zje, jest realne, [niepewny koniec pytania]? Natomiast na tyle mam wiedzy, żeby wiedzieć o tym, że na przykład jeżeli siedmiu facetów…
+
+— Ja jestem niejadalny.
+
+Siedmiu osób, miliarderów czy bilionerów na świecie decyduje o podaży informacji i o sposobie, w jakim my się komunikujemy, to to jest zagrożenie. Realne zagrożenie.
+
+#### Lokalnie 44:07
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4407) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33312s)
+
+Zagrożenie na tej samej skali co rozwój AI?
+
+Nie, nie. To ja się pytam, ja mówię o tym, że to są ci faceci, którzy funkcjonują w firmach.
+
+To jest drobnostka.
+
+To dlaczego to jest drobnostka? Powiedz, dlaczego to jest drobnostka?
+
+Za miesiąc będziemy mieli inny news. Wszyscy o tym zapomną.
+
+Ale co, oni oddadzą swoje firmy? Nie rozumiem. Oni oddadzą swoje firmy?
+
+Nie, to po prostu nie będzie postrzegane jako taka ważna rzecz. Inna będzie ważna.
+
+Ale ja się z tobą zgadzam, to nie o to chodzi. Tylko chodzi mi o to, że istnieją realne zagrożenia i istnieją zagrożenia, które są rzeczywiście falą mediów.
+
+#### Lokalnie 44:52
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4452) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33357s)
+
+Tak jak rok temu, mniej więcej, była taka fala informacji o tym właśnie, że sztuczna inteligencja nas unicestwi, wymorduje i tak dalej. Teraz to wróciło w zeszłym tygodniu.
+
+Zostawmy to. Ja zadaję pytanie o te realne.
+
+Ale jak odróżnić?
+
+No jak odróżnić? Te realne istnieją naprawdę, tak? Chyba że dla ciebie fakt, że ludzie, którzy są niewybierani… [Przerwana wypowiedź.]
+
+Nie, to nieprawda. Zagrożenie to jest to, co jeszcze nie istnieje, co może nadejść. To tak się definiuje zagrożenie, prawda?
+
+#### Lokalnie 45:32
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4532) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33397s)
+
+No bo gdyby już się stało, to albo mi obcięli głowę, albo mnie zjadł, to bym nie istniał, prawda? Zagrożenie to jest niebezpieczeństwo, które może nadejść, ale niekoniecznie musi. To jest potencja. Z definicji to jest to, co jeszcze nie istnieje.
+
+To znaczy fakt, że niektórzy ludzie dysponują budżetem większym niż PKB rozwiniętych krajów, jest zagrożeniem, które niekoniecznie już zostało zmaterializowane, ale możemy o nim rozmawiać.
+
+Co oni nam zrobili na razie?
+
+Proszę?
+
+Co oni nam na razie zrobili?
+
+No stworzyli ten świat, w którym funkcjonujemy i w którym się komunikujemy na przykład. [niezrozumiałe].
+
+#### Lokalnie 46:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4620) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33445s)
+
+Ja bym chciał tutaj uratować to pytanie.
+
+Ja próbuję właśnie do tego dojść, ale tutaj koledzy trochę trollują.
+
+Zastąpiłbym słowo „realne” słowem „doraźne”. Pan mówi o punkcie na trajektorii, a my staramy się mówić o trajektorii. To, co mówi pan o tej koncentracji kapitału, powoduje pewnego rodzaju dużą niestabilność w systemie. Jest zagrożeniem dla funkcjonowania demokracji takiej, jaką znamy.
+
+#### Lokalnie 47:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4702) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33487s)
+
+Ja na przykład wolałbym żyć. Nie wiem, czy wy byście w takiej woleli żyć czy w innej, czy spróbować może jeszcze innej. Jeżeli tak, to oczywiście to jest możliwe. Ale…
+
+— [Niepewne brzmienie i negacja: (Nie) jestem wielkim fanem demokracji], mogę to uzasadnić.
+
+Ja w ogóle chcę powiedzieć, że zagrożeniem jest to, że ci ludzie, którzy mają dużo pieniędzy, w ogóle nie wiedzą, co robią. I to jest najgorsze w tym wszystkim. Bo oni tak naprawdę nie rozumieją tej sztucznej inteligencji wcale. Tak, wbrew pozorom, oni nie rozumieją, jaki jest potencjał tej technologii.
+
+Więc tu jest realne zagrożenie, że jeżeli takie osoby będą decydowały o tym, jak ta technologia będzie finansowana, to możemy skończyć jak te spinacze.
+
+#### Lokalnie 47:42
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4742) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33527s)
+
+Znikniemy przez głupi problem. Tutaj wydaje mi się, że te scenariusze katastroficzne są bardzo realne. Natomiast zgadzam się z tym, że to jest jakiś punkt na trajektorii.
+
+Natomiast powiedzmy szczerze, mieliśmy już sytuację w historii ludzkości w XX wieku, gdzie byliśmy na granicy kompletnego wyginięcia poprzez konstrukcję bomb atomowych. Tu jest jeszcze gorzej, bo ta technologia skaluje się bardziej i my jeszcze bardziej nie rozumiemy, jak ta technologia może się skalować. Więc to zagrożenie jest realne.
+
+I teraz zgadzam się, że to posiadanie pieniędzy tutaj wytwarza najgorszy możliwy scenariusz, jaki moglibyśmy sobie wyobrazić. Tak że mamy faktycznie siedmiu facetów, którzy w sumie chcą mieć tylko więcej pieniędzy i kompletnie nie wiedzą, jak ta technologia ma działać, i na pewno nie wiedzą, jak działa społeczeństwo.
+
+#### Lokalnie 48:22
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4822) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33567s)
+
+Uratował pan pytanie, teraz niech oni odpowiedzą.
+
+Ja nie widzę, dlaczego [nieczytelne słowa dotyczące poparcia dla demokracji].
+
+Jakiś lepszy pomysł masz?
+
+Gdybyśmy się cofnęli tysiąc, dwa tysiące lat i jakbym tak argumentował, oto mamy medycynę opartą na upuszczaniu krwi w podręcznikach Galena. Nie ma lepszej. Ma pan lepszą? Nie ma pan lepszej? No to będę panu upuszczał krew.
+
+### Demokracja: projekt czy korekcja błędów?
+
+#### Lokalnie 49:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4906) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33611s)
+
+Tak można rozmawiać o demokracji? Demokracja jest technologią zarządzania społeczeństwami. Została zaprojektowana pierwotnie [nieczytelna liczba] lat temu w starożytnej Grecji, potem mieliśmy poprawki Monteskiusza. To jest bardzo stara technologia, opierająca się na bardzo starej wiedzy o mechanizmach społecznych i relacjach międzyludzkich, i psychologii człowieka.
+
+Od tamtego czasu dowiedzieliśmy się bardzo dużo, zwłaszcza w XX wieku. Fakt, że my się ciągle posługujemy tak starą technologią, jeszcze mamy do niej stosunek religijny. To jest naprawdę hańba.
+
+— Dlaczego tak jest?
+
+— Mogę podać kilka wyjaśnień.
+
+#### Lokalnie 49:47
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4947) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33652s)
+
+Kilka wyjaśnień. Jedno jest takie, że Zachód stracił bardzo wiele, prawie wszystkie wyznaczniki tożsamości. Nie może o sobie mówić ani że jest chrześcijański, ani że jest kapitalistyczny, ani że jest biały. Więc co mówi? Jesteśmy demokratyczni. I to jest naszym wyróżnikiem, ale to jest puste słowo w tym momencie.
+
+To, co powinno nastąpić: powinniśmy siąść i zacząć myśleć od zera, jak myśleli właśnie starożytni Grecy. Jaki ustrój, jaki sposób zarządzania społeczeństwami w danym momencie technologiczno-kulturowym byłby jak najlepszy?
+
+Czy AI nam tu pomoże?
+
+Tutaj to jest długa dyskusja, bo ja mogę na pewnych poziomach uzasadnić używanie AI, ale nie na tym, który mam akurat na myśli teraz. Bo główną przeszkodą, główną wadą demokracji obecnej jest to, że ona została umasowiona.
+
+#### Lokalnie 50:35
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-5035) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33700s)
+
+Czyli te mechanizmy, które działały na początku, kiedy demokracja odnosiła się do małych społeczności i każdy znał każdego. Nawet nie tyle było to ważne, że każdy głosuje i jaki jest jego głos, tylko że ja mogę pójść do każdego głosującego, porozmawiać z nim, próbować go przekonać. On mnie zna, ja go znam. I nawet jak ja nie będę głosował, to każdy członek społeczności ma wpływ na ten rezultat.
+
+I zarazem ta społeczność jest na tyle skupiona w jednym miejscu i czasie, że ona ma przez życie w tym miejscu i czasie bardzo wiele wspólnych wartości. I te wspólne cele są dla nich oczywiste i jest w tym spojona. W momencie, kiedy ją umasawiamy i mamy miliony, dziesiątki, setki milionów głosujących, to… [Dalszy ciąg poniżej.]
+
+#### Lokalnie 51:17
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-5117) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33742s)
+
+To nie te relacje i nie te wartości, które leżały u podstaw demokracji, są ważne. Ważne jest to, co mediuje: technologia przekazywania informacji i wpływania na masy. I ona w tym momencie ma gigantyczną przewagę nad tymi wartościami i relacjami, które leżały u samego fundamentu demokracji.
+
+I ja bym powiedział, że w obecnej masowej demokracji medialnej to nie ludzie są podmiotami i suwerenami. Nie oni głosują. Powiedziałem, że można uzasadnić i rozpędzę się. Jeszcze mam parę rzeczy do powiedzenia na ten temat, więc możecie mnie powstrzymać, jeżeli to nie jest [nieczytelne zakończenie].
+
+Ja może na odmianę, bo jestem zszokowany, że wchodzę w tę rolę. Bo nie powiem, że jakoś bardzo się nie zgadzam z tym, co mówisz, bo to wszystko jest prawdą. Ale chociaż żeby uratować naszego prowadzącego, chociaż trochę podam argument, który sprzyja demokracji, jako jej jedną z nielicznych zalet.
+
+#### Lokalnie 52:14
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-5214) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33799s)
+
+Można o niej myśleć jako o jedynym znanym nam, działającym w miarę słabo algorytmie korekcji błędów.
+
+Tak, ale to nie znaczy, że nie ma lepszych algorytmów.
+
+Nie, oczywiście, absolutnie nie znaczy, ale… [Nieczytelna replika].
+
+Główną zaletą algorytmu korekcji błędów jest to, że w przypadku, kiedy nie potrafimy czegoś dobrze zaprojektować, nie potrafimy zaprojektować dobrego ustroju, dobrych działań, robimy to źle, ale demokracja nam pozwala korygować błędy w miarę stały sposób i w jakimś tam interwale czasowym. Dzięki temu, nawet jeżeli my podejmiemy głupią decyzję, to jesteśmy w stanie je korygować. W innych systemach jest z tym trochę trudniej.
+
+#### Lokalnie 52:57
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-5257) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33842s)
+
+Jakie są inne systemy korekcji błędów, jeśli odnosimy je do tego systemu, w którym jesteśmy, czyli medialnej demokracji masowej?
+
+Nawołuję do tego, żeby, opierając się na świeżych danych, świeżej wiedzy, mając od tego specjalistów, od groma specjalistów zajmujących się wiedzą o relacjach społecznych, zachowaniach grup, manipulowaniu masami, zaprojektować taki system, który będzie odporny na ten hacking, który teraz totalnie wypaczył, sperwertował demokrację.
+
+Ale czy projektowanie systemu to jest dobry pomysł? [Niepewne: Może] ten system powinien się wyhodować sam.
+
+#### Lokalnie 53:38
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-5338) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33883s)
+
+W sensie to jest dokładnie to, co mówiliśmy wcześniej, że jeżeli jeden człowiek myśli, że rozumie całość, to może być w błędzie. To jest to, o czym mówiłem wcześniej, że może musimy być wreszcie pokorni z tym, że może zbudujmy mechanizmy, które spowodują, że zoptymalizujemy ten system. Ale nie rośćmy sobie prawa, że my zaprojektujemy od początku do końca system, który będzie optymalny.
+
+[Nieczytelne słowo] zbudowanie mechanizmów, które to wykształcą, jest dla mnie okej, chodzi tylko o to, żeby zastąpić to, co już jest teraz dysfunkcjonalne, bo przeżyło swoją użyteczność, już nie pasuje do świata, w którym teraz żyjemy.
+
+#### Lokalnie 54:21
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-5421) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=33926s)
+
+No, jak zwykle podsumowanie: żyjemy w ciekawych czasach, a następne będą jeszcze ciekawsze. I to jest podkreślenie tego, [niepewna negacja lub autokorekta: nie jesteśmy / jesteśmy punktem na trajektorii], ale to nie znaczy, że na tym się kończy temat do przemyśleń. Jesteśmy na trajektorii, która się nie kończy, tylko jesteśmy na jej początku albo w trakcie, na tym etapie.
+
+Powiem, że nadal nie otrzymałem odpowiedzi na moje pytanie: czy Andrzej ma rację, czy Bartek ma rację.
+
+Ja tylko powiem, że tytuł mojego wykładu był nieprawdą.
+
+
+## 12. Q&A — Pytania i odpowiedzi
+
+**Zredagowany zapis dostarczonego materiału**
+
+Skład według programu / potwierdzonej zapowiedzi: Andrzej Dragan, Bartosz Naskręcki, Tomasz Bagiński, Jacek Dukaj, Przemysław „Psyho” Dębiak. Moderator: Grzegorz Dobiecki.
+
+Zredagowany zapis trzech dostarczonych części: 24:42, 7:05 i 17:41, łącznie około 49:29 materiału. Każda zachowuje własny lokalny zegar; tych znaczników nie należy sumować. Dwa odcinki pomiędzy nimi, około 3:20 i 0:12, odzyskano z pełnej transmisji i opisano osobno autorskimi parafrazami, z jej globalnym czasem. Nie przypisano nazwisk niepewnym głosom ani nie rozstrzygnięto niepewnej nazwy whistleblowera. Autoteliczność jest wyraźnie nazwana w części 3; w części 1 podobnie brzmiące słowo dotyczy autyzmu.
+
+[Strona sesji](https://jakiesluchawki.github.io/daniel-opowiesc/qa.html) · [Pełny osobny zapis](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html)
+
+### Część 1 — 24:42 · osobny lokalny zegar
+
+#### Część 1 · lokalnie 02:19
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0219) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34141s)
+
+Może zacznę od nawiązania do wykładu profesora Dragana. Jeszcze na początku: nie wiem, kto jest autorem tych pytań. Wersja, w jakiej je dostałem, nie ma wpisanego nadawcy, tylko adresata. Panie profesorze, jeśli AI potrafi łączyć więcej kropek niż człowiek i na coraz wyższym poziomie abstrakcji, to czy powinniśmy się pogodzić z możliwością, że następny Einstein nie będzie człowiekiem?
+
+#### Część 1 · lokalnie 03:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0302) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34184s)
+
+Wszystko bazuje na hipotezie, że ten rozwój będzie trwał dalej, na takiej trajektorii, na której jesteśmy. Nic nie wskazuje, żeby miało coś się gwałtownie zmieniać. Taką tezę twitterową postawiłem sobie dla zabawy: jeżeli człowiek chciałby udowodnić hipotezę Riemanna, to ma na to jeszcze powiedzmy parę lat. Jeżeli nie zrobi tego samodzielnie w ciągu paru lat, to już nie udowodni nigdy. Wówczas spodziewałbym się, że dowody tak trudnych twierdzeń będą dostarczane przez systemy, w najlepszym razie bazujące na współpracy z AI. Jeżeli to będzie za więcej niż dziesięć lat, ta współpraca będzie raczej miała charakter komiczny. Człowiek będzie taką dekoracją do tego modelu.
+
+#### Część 1 · lokalnie 03:47
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0347) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34229s)
+
+Na takiej trajektorii jesteśmy. Może się nagle okazać, że coś się gwałtownie zmieni, skręci albo zahamuje. Nie wiemy tego. Natomiast gdybym miał ekstrapolować to, co widzę — przypominam, że dwa–trzy lata temu śmialiśmy się, że modele językowe nie potrafią liczyć literki R w wyrazie „truskawka”. Zresztą te głosowe też nie potrafią, okazuje się, że są bardzo upośledzone w tym momencie. Ale te najsilniejsze modele, które inferują przez wiele dni, [nieczytelne słowo] twierdzeń, które wydają się poza zasięgiem przeciętnego matematyka. Być może jeszcze są w zasięgu wybitnego matematyka, ale to pewnie kwestia czasu.
+
+#### Część 1 · lokalnie 04:36
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0436) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34278s)
+
+Jeszcze jedno pytanie od razu do pana. Fizyka nauczyła nas, że intuicja potrafi być bardzo przekonująca i kompletnie błędna. Jaka jest dziś najbardziej rozpowszechniona intuicja dotycząca AI, z której, pana zdaniem, za dziesięć lat będziemy się śmiać? I dodatkowo: czego ostatnio musiał się pan oduczyć, bo AI pokazała panu, że dotychczasowy sposób myślenia już nie działa? Czego nauczył się pan zamiast?
+
+#### Część 1 · lokalnie 05:04
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0504) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34306s)
+
+To zakłada, że ja się czegokolwiek uczę. Nie wiem, czy ja się czegoś uczę jeszcze. Myślę, że ludzie nadużywają słowa „tylko”. Słowo „tylko” jest najbardziej szafowanym pojęciem w potocznym języku dyskusji wokół AI: to jest tylko matematyka, tylko funkcja, tylko mnożenie macierzy, tylko pattern recognition. Jak miałem taką dyskusję z Wojtkiem [niepewne nazwisko: Zarembą / Zarębą], rozmawialiśmy o tym: a co nie jest matematyką? Czy mamy przykłady jakichś zjawisk, które z całą pewnością wymykają się opisowi matematycznemu? Jako fizyk jestem trochę sformatowany do myślenia, że w zasadzie cała fizyka jest oparta na matematyce, więc mam tendencję do ekstrapolowania tego, może niesłuszną.
+
+#### Część 1 · lokalnie 05:53
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0553) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34355s)
+
+— Wewnętrzne stany umysłowe człowieka. — „Wewnętrzne stany” w ogóle zakłada, że to, co jest w naszych umysłach, to są stany. Są procesy. — Gdyby próbować odtworzyć Szymborską, to będzie karykatura Szymborskiej. Na przykład Johann Sebastian Bach — jakbyś zrobił mu [niepewne: transformację Fouriera], to ona nie będzie zupełnie przypadkowa. Polifonia to jest język posługiwania się analogią. Kontrapunkt jest analogią. — Ale to, co Jacek mówi: te stany, tworzenie…
+
+#### Część 1 · lokalnie 06:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0623) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34385s)
+
+— „Człowiek to niemądre mięso” — piękna metafora. Albo Hugo Steinhaus: „Ziemia — kula [niepewne: u] nogi”. Piękna metafora. To są analogie. Metafora w poezji to jest analogia. Poeta to osobnik, który dostrzega przepiękne analogie, których inni osobnicy nie dostrzegają. Ja się upieram, że to jest to, co robią w pewnej skali obecne sieci neuronowe i będą robić w większej skali. — Nie każda sztuka jest analogią. Czasami chodzi o jakąś sztukę performatywną. — Nie mówię, że każda. Podaję przykłady pięknych metafor, które są analogiami. Julian Tuwim podobno uklękł [nieczytelne słowa] na okoliczność tej metafory, że Ziemia to jest kula [niepewne: u] nogi. Czyli docenił to, że Steinhaus dostrzegł pewną analogię. Sieci neuronowe właśnie to robią: dostrzegają analogie.
+
+#### Część 1 · lokalnie 07:14
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0714) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34436s)
+
+Wszystko, o czym mówicie, to jest już to, co wyszło w świat intersubiektywny. Wyszło z mózgu człowieka, z umysłu, i zrealizowało się w jakiejś przestrzeni, którą więcej ludzi postrzega zmysłami. A ja mówię o tym, co nie jest postrzegane przez nikogo poza mną. Dzieje się w moim umyśle i nawet nie musi być ujmowane w słowach. Słowa też pojawiły się dopiero na pewnym etapie rozwoju człowieka, a procesy umysłowe, doświadczenia, przeżycia istniały tak czy owak. O tym mówię. — Ale masz rację: kwantowa grawitacja — też jej nie znamy, też jej nie rozumiemy. Może jest niematematyczna. Jest wiele rzeczy, których nie rozumiemy; to jest jedna z nich.
+
+#### Część 1 · lokalnie 07:52
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0752) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34474s)
+
+W swojej roli mediatora muszę się jednak ujawnić. Do pana Jacka Dukaja pytanie — być może akurat teraz warto je zadać, bo mowa była o dziełach sztuki. Czy AI może napisać dobrą powieść o samej sobie? I dorzućmy drugie. Gdzie autor może znaleźć synergię w pisaniu z AI?
+
+#### Część 1 · lokalnie 08:15
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0815) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34497s)
+
+Czy może? Jeżeli używamy czasu teraźniejszego, to w tej chwili pewnie jeszcze nie. Ale nie widzę żadnego powodu, dla którego wkrótce nie będzie mogła. Jeśli chodzi o synergię, nie uważam, żeby to był wystarczająco długi etap w rozwoju kultury, żeby trzeba było poświęcać temu czas. Znacznie szybciej nastąpi moment, w którym samodzielnie AI będzie mogła tworzyć dowolną ilość dowolnie długich i skomplikowanych utworów literackich. Człowiek najwyżej będzie służył za twarz dla nich, czyli coś, co marketingowo sprzedaje te produkty.
+
+#### Część 1 · lokalnie 08:57
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0857) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34539s)
+
+Teraz, w tym krótkim momencie roku, dwóch, trzech, skupiamy się na wykorzystywaniu przez człowieka AI do pisania. Ktoś pewnie robi coś takiego, bo wrzucają takie produkty. Ale to jest bardzo krótki etap pośredni.
+
+#### Część 1 · lokalnie 09:13
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0913) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34555s)
+
+Psyho, pytanie: jakie cechy powinni rozwijać programiści? Na czym teraz skupić się we własnym rozwoju, żeby nadążać za postępem i nie być wymienionym na agenta AI?
+
+#### Część 1 · lokalnie 09:33
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-0933) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34575s)
+
+Jak większość osób może się domyślać po tym, co mówiłem, ten czas nie jest jakoś specjalnie długi. Ale postaram się nie wybiegać bardzo w przyszłość i ograniczyć się do teraźniejszości. Generalnie technologia będzie się zmieniać w ekstremalnie szybkim tempie. Z mojej perspektywy opłaca się być generalistą, rozumieć wszystkiego po trochu, nie specjalizować się w niczym, bo co miesiąc, co dwa miesiące, może co pół roku będziemy musieli wywracać wszystko, co wiemy, do góry nogami. Będą nowe narzędzia w innych miejscach.
+
+#### Część 1 · lokalnie 10:08
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1008) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34610s)
+
+Modele będą miały swoje bottlenecki, które jeszcze niedomagają. To jest ta luka, którą będziemy starali się wypełniać jako ludzie. Ale nie ma złotych reguł. Trzeba za każdym razem patrzeć dość dokładnie, co jest problemem. Żeby jedna rzecz była bardzo jasna: w obecnym świecie planowanie swojej kariery, rozwoju, cztery lata w przód jest, delikatnie mówiąc, idiotyzmem. Trzeba założyć, że ten proces iteracji musi być dużo szybszy.
+
+#### Część 1 · lokalnie 10:49
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1049) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34651s)
+
+Dodatkowo: czy widzisz potencjał na „kraftowych” — to sformułowanie w cudzysłowie — programistów? Czyli przestrzenie, gdzie AI nie będzie dobrym narzędziem do programowania przez brak odpowiedniej specjalizacji?
+
+#### Część 1 · lokalnie 11:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1106) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34668s)
+
+„Kraftowych”. Zakładam, że to ktoś z gamedevu, bo nie słyszałem, żeby ktoś poza gamedevem używał tego sformułowania. Może się mylę. W najbliższej przyszłości. Programowanie jest miejscem, gdzie — jak mówiliśmy wcześniej o procesach i efekcie — w programowaniu liczy się efekt; bardzo rzadko liczy się proces. Dlatego na dłuższą metę za bardzo tego nie widzę. Wszędzie, gdzie możemy łatwo sprawdzić, że program się uruchomił i zrobił to, czego oczekiwaliśmy. Nie widzę za bardzo przewagi ludzi w takim średnim dystansie. A całe programowanie takie jest. Bardzo optymistycznie, wiem.
+
+#### Część 1 · lokalnie 11:57
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1157) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34719s)
+
+Te pytania niekoniecznie płynnie przechodzą jedno w drugie, ale chcę ich jak najwięcej zacytować. Teraz może do pana Bartosza Naskręckiego; jedno z drugim będzie się chyba w jakimś sensie wiązać. Jeżeli za kilka lat każda firma będzie miała dostęp do podobnie zaawansowanej AI, to gdzie właściwie będzie powstawała przewaga konkurencyjna?
+
+#### Część 1 · lokalnie 12:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1223) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34745s)
+
+Jak widzimy dzisiaj, ten cykl zmian jest bardzo szybki. Na przykład jednego dnia jedna firma ma przewagę, bo wypuściła aktualnie jakiś model. Dwa dni później kolejna firma wypuszcza inny model. Co też ważne: w momencie, kiedy te modele są wypuszczone, jedna firma może zacząć testować model drugiej i go ulepszać w innym kierunku. Więc te cykle przewag będą bardzo krótkie.
+
+#### Część 1 · lokalnie 12:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1251) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34773s)
+
+Wydaje mi się, że na ten moment mamy nawet trochę taką stagnację, w tym sensie, że mamy tylko kilka firm, które rzeczywiście konkurują ze sobą. Nic nie wskazuje na to, że ten cykl zmieni się na dłuższą metę. Może Chiny niedługo wypuszczą jakieś modele otwartowagowe, które znowu przewartościują tę hierarchię. Trudno mi sobie wyobrazić długofalowo tę dynamikę. Cały czas trzeba brać pod uwagę, że w zasadzie wszystkie firmy aktualnie korzystają mniej więcej z tej samej technologii i nie ma tam diametralnie różnych podejść. Przewagi są krótkie, lokalne; to bardziej inkrementacyjne, wzajemne poprawianie siebie.
+
+#### Część 1 · lokalnie 13:43
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1343) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34825s)
+
+— Może, ale jeżeli pojawi się coś diametralnie innego, to wszyscy za tym podążą. Ten stan równowagi będzie się w pewnym sensie przywracał. — Podążając za takim rozumowaniem, mamy bardzo silną konwergencję. Wtedy naturalną koleją rzeczy przewagę daje efekt sieciowy. Jeżeli ktoś ma już bardzo ustaloną pozycję, stałych, przyzwyczajonych do niego odbiorców, klientów i tak dalej, to kiedy wszystko inne jest równe, on zwycięża. To jeden z bardzo silnych motywów, żeby w ten wyścig pchać ogromne pieniądze: być tym pierwszym, ustalić standard, być tym Googlem AI, tym Facebookiem AI.
+
+#### Część 1 · lokalnie 14:24
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1424) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34866s)
+
+— Myślę, że użytkownicy AI są bardzo nielojalni. Jak zobaczysz drugą apkę od innego dostawcy, która wygląda podobnie i robi to lepiej, przesiadasz się na tę apkę. — Tak, tylko teraz mówimy o takim bardzo bezpośrednim użyciu. Sam się logujesz na ChatGPT, zadajesz mu pytanie i tak dalej. A chodzi o użycie pośrednie, kiedy podłączasz AI do istniejących biznesów po to, żeby je multiplikować. Na razie jeszcze tego nie osiągnęliśmy. Wszystko takie jest surowe. Chodzi o to, żeby używać AI do innych technologii i innych biznesów. — To jest ten złoty [niepewne: Graal]. Ja używam Codexa, żeby odpalić [nieczytelna nazwa narzędzia].
+
+#### Część 1 · lokalnie 15:04
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1504) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34906s)
+
+Myślę, że — tak jak Jacek — jesteśmy w epoce kamienia łupanego AI. Próba wyróżnienia rekinów biznesu w epoce kamienia łupanego to chyba za wczesny moment, żeby powiedzieć coś definitywnego. — Startupy mają wciąż szansę, żeby się przebijać? — Tak. To chyba idea startupów: trzeba zawsze coś próbować. Gdyby ktoś cofnął się dziesięć lat w czasie i popatrzył na te firmy, które aktualnie są tymi superstartupami, to na przykład OpenAI było taką firmą. — Nie istniały te firmy w ogóle [nieczytelne słowa]. — No więc właśnie. Cykl przemian jest [niepewne: przyspieszony]. Tak, dynamika jest tutaj bardzo duża.
+
+#### Część 1 · lokalnie 15:51
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1551) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34953s)
+
+Pan Tomasz Bagiński — przepraszam, że musiał pan czekać, ale ktoś musiał być tym… — [Nieczytelna żartobliwa wymiana zdań]. Pytania dotyczą pana „Katedry”. Powtarza się pytanie, czy gdyby wtedy, kiedy robił pan „Katedrę”, AI już istniała i była tak dostępna jak teraz, film wyglądałby tak samo? — Nie.
+
+#### Część 1 · lokalnie 16:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1623) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=34985s)
+
+Nie, ale ja w ogóle tak nie gdybam. „Katedra” i w ogóle każde dzieło, każde działanie jest wynikiem również czasu, w którym powstaje, oraz sytuacji technologicznej. Jak rozmawialiśmy o „Katedrze” dawno, dawno temu z Jackiem, jeszcze mailowo, to przecież ani nie był to pierwszy pomysł, który miał być zrealizowany — przeszliśmy przez kilkanaście innych pomysłów — ani najbardziej oczywisty. Znalazłem wtedy sposób, jak to opowiedzieć w ograniczeniach technologicznych, które miałem. Tylko stąd się to tak urodziło. Dzisiaj powstałby zupełnie inny film, przy zupełnie innych ograniczeniach technologicznych.
+
+#### Część 1 · lokalnie 17:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1702) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35024s)
+
+Pytanie, które zacytuję w całości. Jest dosyć długie, ale nie przesadnie: „Panie Tomku, w «Katedrze» każdy nowy wędrowiec zasila budowlę zbudowaną z ciał poprzedników. Dziś modele AI uczą się na filmach, obrazach i scenariuszach, które ludzkość już wyprodukowała, a platformy streamingowe optymalizują treść pod najniższy wspólny mianownik gustu. Czy pana zdaniem zmierzamy w stronę podobnego mechanizmu, gdzie prawdziwa autorska twórczość stanie się czymś w rodzaju klasztoru: rzadkim, drogim i dostępnym dla nielicznych, podczas gdy reszta dostanie papkę wygenerowaną z tego, co już powstało?”.
+
+#### Część 1 · lokalnie 17:43
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1743) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35065s)
+
+Po pierwsze, nie do końca widzę korelację. Po drugie, akurat papka dla mas nie jest nowym wymysłem i nie jest wymysłem AI. Powstaje od dziesiątków lat. Zwyczajnie wydaje mi się, że ja nawet chyba tak nie dzielę sztuki. W którymś momencie może też być tak, że będę to robił dla siebie i dla najbliższych ludzi. Nikt mi tego nie może zabronić.
+
+#### Część 1 · lokalnie 18:10
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1810) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35092s)
+
+My chyba mieszamy tutaj sam akt artystyczny — tworzenia, pisania, przeżywania sztuki — z jej marketingiem, wpływem ekonomicznym i tak dalej. Dla mnie to trochę inne dziedziny. Oczywiście można sprzedawać sztukę, zajmują się tym marszandowie, agenci i tak dalej. To trochę inna praca. Faktycznie czasy, które mamy, będą promować generalistów, więc może artysta w przyszłości powinien być po trochu marszandem, po trochu agentem, ale wcale nie musi, żeby być artystą. Jego akt tworzenia będzie dla niego jakoś istotny. Autentycznie nie do końca widzę korelację.
+
+#### Część 1 · lokalnie 19:02
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1902) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35144s)
+
+Nie ja to pytanie sformułowałem, cytuję. Wydawało mi się warte zacytowania, tak jak i to do pana profesora Dragana. Autor pytania zwraca się do pana po imieniu, ja bym nie śmiał. „Jesteśmy tylko bezsensownym zbiorem atomów, a jako fotograf i filmowiec spędzasz życie na robieniu z tego zbioru atomów sztuki. Czy sztuka to twój sposób na oszukanie fizyki, czy po prostu najprzyjemniejsza forma marnowania czasu w tym absurdalnym wszechświecie?”.
+
+#### Część 1 · lokalnie 19:39
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-1939) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35181s)
+
+Teraz wydałem album fotograficzny w czasach, kiedy to nie ma żadnego sensu — kogo jeszcze obchodzą zdjęcia? Ale zebrałem te dwie dekady fotografii i zrobiłem z tego album. Zresztą jest tutaj wkład kolegów siedzących obok: coś napisali do niego, każdy w swoim stylu. Natomiast we wstępie piszę, że działalność robienia zdjęć, szczególnie portretów, jest skrajnie absurdalna. Mamy organizm wielokomórkowy, który używa strumienia fotonów do rejestrowania górnej części jakiegoś innego organizmu wielokomórkowego. I to się nazywa sztuką. Można tak na to patrzeć.
+
+#### Część 1 · lokalnie 20:18
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-2018) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35220s)
+
+Wydaje mi się to zasadniczo bardzo absurdalne, ale nie zmienia to faktu, że mam swoje uczucia, nie jestem skrajnie autystyczny, więc jakieś doznania temu towarzyszą i to one kierowały wtedy, kiedy tym się zajmowałem. To jest przyjemność, mówiąc w takim skrócie. Chociaż mam świadomość, że jakiejś fundamentalnej, wielkiej wartości, jakiej upatruję w nauce czy fizyce, nie ma. To dla mnie wyrafinowana forma rozrywki.
+
+#### Część 1 · lokalnie 20:50
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-2050) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35252s)
+
+Tymczasem — to pewnie ciąg dalszy tego samego pytania, w każdym razie autor wydaje się ten sam — sztuczna inteligencja potrafi już idealnie naśladować twój styl fotograficzny. I co pan na to?
+
+#### Część 1 · lokalnie 21:05
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-2105) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35267s)
+
+Tak, wiem od samego początku, że modele AI były trenowane na moich rzeczach. Wiem, że wielu twórców ma pretensje — zwłaszcza ci, którzy z tego żyją — i im śmierć zagląda w oczy — mówią, że to jest kradzież. Zwracam uwagę, że Picasso chyba mówił: „Artyści nie pożyczają, tylko kradną”. [Przywołanie przypisane przez rozmówcę; nie potwierdza autorstwa sentencji.] Ale zasadniczo ludzie też nie żyją w próżni. Po to się chodzi do szkoły artystycznej, nie wiem, ja nie chodziłem do żadnej akurat, ale ci, co chodzą, chyba mają jakiś powód, żeby szukać inspiracji, źródeł i pomysłów, rozwijać się pod wpływem konsumpcji twórczości innych ludzi. Na tym się to wszystko nabudowuje.
+
+#### Część 1 · lokalnie 21:50
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-2150) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35312s)
+
+Czy to znaczy, że ci jedni, którzy uczyli się od drugich, ich okradli? Na przykład kiedy malarz sprzedaje obraz za wysoką kwotę, to czy ci, o których uczył się w przeszłości, których zdjęcia oglądał, mogą oczekiwać, że coś im z tego skapnie? Że należy się im jakieś tantiemy od tego, że ten, co odniósł sukces w sztuce, wisi coś tym, na których się trenował? Nie sądzę? Podobnie jest, nie ma tutaj jakiejś jakościowej różnicy w trenowaniu modeli.
+
+#### Część 1 · lokalnie 22:17
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-2217) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35339s)
+
+Oczywiście są one oskarżane, że dane są kradzione, w szczególności moje. Ja zostałem okradziony z mojej działalności, bo modele były trenowane. Natomiast jak się rozumie, jak działają modele generatywnej inteligencji, to nie jest baza danych, jak niektórym się wydaje, która kopiuje i wkleja jakieś fragmenty i robi jakieś Frankensteiny z tego. To model, który tworzy sobie jakiś obraz świata, jakiś model świata, na przykład świata obrazów dwuwymiarowych, i tego modelu używa do generowania nowych treści. Można się tam dopatrywać śladów tego, na czym był trenowany, ale to nie jest tak, że to jest kopiuj i wklej — to byłby plagiat.
+
+#### Część 1 · lokalnie 22:57
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-2257) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35379s)
+
+W tym sensie nie mam moralnych oporów, żeby mnie okradano z tego, żeby model trenować na tym, co zrobiłem. Z drugiej strony pocieszę tych, którzy teraz wpadają w panikę, że tutaj jest świętokradztwo i artyści są okradani. Rolą prawodawstwa jest konstruowanie takich systemów prawnych, które sprzyjają ludziom, żeby ludziom żyło się w jakiś sposób lepiej. W szczególności nie chodzi o to, żeby prawo chroniło moralność, tylko żeby ludziom było dobrze.
+
+#### Część 1 · lokalnie 23:27
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-2327) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35409s)
+
+Jeżeli naszym celem jest, żeby artyści mieli co robić, nie płakali, że są okradani, źle im jest i nie są zachęcani do kreatywności, to może trzeba stworzyć taki system prawny, który będzie powodował, że nie będą na tym tracić. Być może tracą obecnie, bo zabiera się im intratne prace w niskojakościowym przemyśle reklamowym na przykład.
+
+#### Część 1 · lokalnie 23:49
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-2349) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35431s)
+
+Od systemu prawnego do systemu norm etycznych. Takie pytanie zostało skierowane do pana Jacka Dukaja: „Jaki zbiór norm etycznych przyjmiemy do regulowania AI?”. Ja może dodam od siebie: czy to są kompatybilne pojęcia — cybernarzędzie, jakim jest AI, i normy etyczne?
+
+#### Część 1 · lokalnie 24:12
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p1-2412) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35454s)
+
+Można sobie wyobrazić takie założenia etyczne, które stoją za jedną czy drugą próbą regulacji. Tylko ja nie wierzę w skuteczność żadnej regulacji. Możemy powiedzieć, że na krótką metę, lokalnie, takie próby mogą być jakoś egzekwowalne. Powiedzmy Unia Europejska, która wprowadziła grubaśny zestaw praw, które mają regulować AI. Ale skutek jest tylko taki, że wszystkie firmy uciekają poza Europę i rozwijają to gdzie indziej.
+
+### Pomiędzy częściami 1 i 2: Etyka, regulacja i AI w wyborach
+
+#### Parafraza redakcyjna · pełne nagranie 09:51:24–09:54:44
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#uzupelnienie-p1-p2) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35484s)
+
+Rozmówca kontynuuje sceptyczną ocenę regulacji: lokalne ograniczenia uważa za rozwiązanie przejściowe, a trwałe globalne egzekwowanie przepisów za mało realne. Oddziela tę ocenę skuteczności od związku etyki z prawem. Ustanawianie nakazów i zakazów wymaga przecież wartościowania działań; według niego ten związek istnieje także w przypadku AI.
+
+Kolejne pytanie dotyczy możliwości udziału AI w wyborach samorządowych za kilkanaście lat. W dyskusji przywołano też zastosowania algorytmów do prostych czynności związanych z dokumentami i orzekaniem. Odpowiedź dopuszcza, że część wyborców mogłaby uznać AI za atrakcyjną kandydaturę, lecz wyraża sceptycyzm wobec gotowości polityków do uchwalenia prawa odbierającego im władzę. Są to oceny i przykłady przywołane w panelu.
+
+Pada odwołanie do książki „Szum” Kahnemana w kontekście ograniczania swobody sędziowskiej. Następnie Psyho zostaje zapytany o błędne wyobrażenia ludzi spoza laboratoriów dotyczące tempa rozwoju AI. Zaznacza, że trudno odpowiadać w imieniu całej ludzkości, ponieważ ludzie mają odmienne błędy poznawcze. Przechodzi do własnego doświadczenia rozmów o przyszłości; tę odpowiedź kontynuuje zachowane nagranie części 2.
+
+### Część 2 — 7:05 · osobny lokalny zegar
+
+#### Część 2 · lokalnie 00:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0000) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35684s)
+
+Hobbystycznie zajmuję się predykcją przyszłości od mniej więcej sześciu lat i póki co całkiem nieźle mi to idzie. Strasznie się nie zgadzam z tym, że nie możemy za bardzo przewidywać tego, co się stanie, bo generalnie ludzie się bardzo różnią pod kątem tego, jak dobrze im szło do tej pory. W każdym razie główny opór, który napotykam przy takich…
+
+#### Część 2 · lokalnie 00:23
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0023) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35707s)
+
+— Przepraszam, a jaka będzie cena diesla zimą?
+
+— Nie, skupiam się na tych rzeczach, na których się znam. Nie mam prawka.
+
+#### Część 2 · lokalnie 00:36
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0036) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35720s)
+
+Najczęstszy opór, który widzę u ludzi, to taki, że jak się opowiada o tym wszystkim, co ma się stać, i czemu, skąd są te zagrożenia, to generalnie wszystko w pewnym momencie brzmi trochę jak powieść science fiction. Z jakiegoś powodu ludzie, jak słyszą tego typu rzeczy, to po prostu automatycznie to zbywają. Bo przecież science fiction to jest fikcja i wiemy, że to nie może się stać.
+
+#### Część 2 · lokalnie 01:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0106) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35750s)
+
+Ciężko w tym momencie w ogóle cokolwiek tłumaczyć, kiedy jest taka ściana emocjonalna, że te rzeczy z założenia nie mogą wystąpić. To jest problem: jak dotrzeć emocjonalnie. Mówi się o rzeczach, które mocno wywrócą porządek, i prawdopodobnie ten porządek będzie wywracany coraz szybciej z biegiem czasu. Chyba że oczywiście uda nam się stworzyć jakieś struktury, które to zatrzymają. To jest tutaj bardzo dyskusyjna rzecz, o której można dużo rozmawiać.
+
+#### Część 2 · lokalnie 01:42
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0142) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35786s)
+
+Ale generalnie nie chcemy czegoś takiego jako ludzie. Ja za bardzo tego nie chcę. Mimo że zajmuję się tym od dłuższego czasu i mniej więcej od sześciu czy ośmiu lat powoli godzę się z tym, jak będzie wyglądać przyszłość.
+
+#### Część 2 · lokalnie 02:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0200) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35804s)
+
+— Ale chyba pytanie było też trochę o to, co ci szefowie, twórcy tej technologii, naprawdę myślą. Mówiłeś przed tym spotkaniem, że miałeś rozmowę z kolegą — nie będziemy chyba nazwiska wymieniać. To powiedz, co jeden z tych gości ci powiedział.
+
+#### Część 2 · lokalnie 02:19
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0219) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35823s)
+
+— [Nieczytelne słowa] wystawił kolegę. Niemiło.
+
+— Nie, generalnie ja się nie dowiedziałem specjalnie nic. W tym sensie, że jakby mój kolega mi powiedział takie rzeczy, których…
+
+— Boże, jak mogłeś coś takiego zrobić?
+
+— No walcz, teraz walcz.
+
+#### Część 2 · lokalnie 02:43
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0243) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35847s)
+
+— A czy to za to, że ci wysłałem wiadomość?
+
+— Ale Bartek wysłał dwie.
+
+— Trzy.
+
+— No dobra, to ja powiem, ja nikomu nic nie jestem winny.
+
+#### Część 2 · lokalnie 02:56
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0256) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35860s)
+
+Zasadniczo w rozmowach [niepewne: kuluarowych] ludzie są o wiele bardziej odważni w swoim pesymizmie.
+
+#### Część 2 · lokalnie 03:07
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0307) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35871s)
+
+Tak, to jest taka śmieszna rzecz. Zakładam, że przeciętna osoba, która nie śledzi bardzo mocno newsów związanych z AI, będzie widziała nie te bezpośrednie wiadomości od whistleblowerów czy researcherów od safety, tylko pewnie jakieś takie fragmenty w… Nie wiem, co się teraz ogląda.
+
+#### Część 2 · lokalnie 03:31
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0331) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35895s)
+
+— Nie masz wrażenia, że tym największym nierozumieniem jest to, że ludziom spoza labów wydaje się, że ci w labach naprawdę rozumieją i kontrolują tę technologię?
+
+— To też, ale to aspekty techniczne. Ci w labach do pewnego stopnia rozumieją. To są ludzie, którzy spędzili kilkanaście tysięcy, kilkadziesiąt tysięcy godzin na tym. Podczas gdy ci, którzy komentują, że to wszystko brednie, to są ci specjaliści od tenisa albo od skoków [niepewne: narciarskich].
+
+#### Część 2 · lokalnie 04:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0400) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35924s)
+
+— Ale to proszę pozwolić, skoro mowa w każdym razie o jednym z nich wspomnijmy: Jacob [niepewne nazwisko: Coxon / Cookson], który odszedł, prawda? To najgłośniejszy teraz przypadek z Anthropic. Takie pytanie też zostało nadesłane.
+
+#### Część 2 · lokalnie 04:15
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0415) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35939s)
+
+Ono dotyczy odczuć wszystkich uczestników panelu dotyczących odejścia [niepewne nazwisko: Coxona / Koksona]. Odczucia miałyby panów, jak rozumiem, wiązać się z tym, co on powiedział o braku kontroli nad AI, tym, do czego AI jest zdolna, i jakie były reakcje innych topowych naukowców, którzy potwierdzili jego obawy. Pytanie w formie konstatacji. Nie wiem, czy znowu ktoś tak chętnie te obawy potwierdzał.
+
+#### Część 2 · lokalnie 04:47
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0447) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35971s)
+
+— Ja postaram się powiedzieć krótko. Generalnie tak, wszystko, co napisał, jest mniej więcej prawdą. [Niepewne: Laby] nie są za bardzo poważne, jeśli chodzi o branie safety. Ale to jest zawsze taki trade-off między zapierdzielaniem do przodu a tym, żeby niebezpieczeństwo nie było jakieś bardzo duże.
+
+#### Część 2 · lokalnie 05:05
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0505) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=35989s)
+
+Ale jednocześnie trzeba pamiętać o tym, że to jest stosunkowo młody człowiek, który, z tego co rozumiem, nie miał jakoś świetnie przemyślanej całej, nazwijmy to, akcji PR-owej. Co chce z tym zrobić? To wybuchło jakoś absolutnie gigantycznie. Miał, nie wiem, jeden dzień na to, żeby wiedzieć, co powie w telewizji. Napisał tweeta na dwa zdania.
+
+#### Część 2 · lokalnie 05:27
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0527) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36011s)
+
+— No nie, tam był cały [niepewne: thread]. Nie wiem, czy klikałeś.
+
+— Później wątek jakby rozwijał, ale główny tweet to były trzy zdania.
+
+— Tak, tak, tak. Z tego co było wiadomo, to było konsultowane z innymi osobami z safety, więc było jakoś tam przemyślane.
+
+#### Część 2 · lokalnie 05:42
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0542) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36026s)
+
+Jedna rzecz, którą pewnie warto dodać, to to, że bardzo śmieszne są narracje w stylu: on to robi dla pieniędzy. Gdyby chciał to robić dla pieniędzy, to by został w labie. Pieniądze dla osób, które tam pracują, są absolutnie niewyobrażalne w porównaniu do wszystkiego innego, co można robić.
+
+#### Część 2 · lokalnie 05:59
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0559) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36043s)
+
+— Co jest fascynujące dla mnie, to jest to, że ten sentyment — o ile wiem, coś czytałem na ten temat i słuchałem — jest powszechny wśród insiderów. On tutaj nie jest żadnym wyjątkiem. A zarazem ci sami ludzie jak najbardziej prą do przodu i uważają, że muszą to rozwijać. Trzymają w głowie dwie sprzeczne myśli i nie wywołuje w nich to konfliktu.
+
+#### Część 2 · lokalnie 06:25
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p2-0625) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36069s)
+
+— Jeszcze jedno zdanie tylko powiem i nawet nie będę go komentował, bo ono się samo komentuje. Tworzymy coraz potężniejszą technologię, co do tego się zgadzamy, że rzeczywiście ta technologia odgrywa coraz ważniejszą rolę. Natomiast osoby, które to kontrolują, są selekcjonowane pod kątem jednej kompetencji. Zasadniczo to, co trzeba umieć, żeby mieć na to wpływ i w związku z tym wpływ na [niepewne: losy przyszłości], to jest umieć kodować w Pythonie. Nerdzi, którzy są uczeni programowania i są w tym wybitni, są niezwykle inteligentni — z umiejętnościami społecznymi różnie bywa, to też….
+
+*[Nagranie drugiej części urywa się w trakcie wypowiedzi.]*
+
+### Pomiędzy częściami 2 i 3: Kompetencje techniczne a wpływ na ludzkość
+
+#### Parafraza redakcyjna · pełne nagranie 10:01:49–10:02:01
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#uzupelnienie-p2-p3) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36109s)
+
+Rozmówca dopowiada, że umiejętnościom technicznym nie muszą towarzyszyć równie dobre umiejętności społeczne, i włącza w tę uwagę także siebie. Zwraca uwagę na ogromny wpływ twórców tej technologii na przyszłość ludzkości oraz na ich nieprzygotowanie do tej roli. Dalszy ciąg oceny zachowało nagranie części 3.
+
+### Część 3 — 17:41 · osobny lokalny zegar
+
+#### Część 3 · lokalnie 00:00
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0000) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36121s)
+
+Zasadniczo jest to taka grupa, która nagle została zaskoczona z gaciami opuszczonymi w kiblu. Nagle się okazuje, że taki gość wychodzi z labu i wszystkie stacje radiowe świata podtykają mu mikrofon pod nos, bo w rękach takich ludzi jest bezpieczeństwo tych systemów — przynajmniej taka narracja obowiązuje.
+
+#### Część 3 · lokalnie 00:22
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0022) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36143s)
+
+Podsumowując, nasza cywilizacja jest prowadzona na zagładę przez autystów i psychopatów. Autyści to są ci, którzy prowadzą korporacje technologiczne. Psychopaci to są ci, którzy prowadzą korporacje nietechnologiczne. I zasadniczo to jest całość.
+
+Pani psychiatra potwierdziła, że jestem neurotypowy.
+
+Mnie próbowano zdiagnozować, ale zrezygnował psychiatra w którymś momencie.
+
+— Przeżył?
+
+— Powiedział, żebym więcej nie przychodził. Nie zmyślam.
+
+#### Część 3 · lokalnie 01:12
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0112) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36193s)
+
+Bartek — tak się do pana zwraca nadawca tego pytania — Masz do wyboru dwa kierunki rozwoju AI. Jeden sprawia, że ty i twoi doktoranci robicie znacznie lepszą matematykę. Drugi daje jeszcze większy postęp, ale bez was: wasza praca nie jest już potrzebna. Który wybierasz? Czy odpowiedziałbyś tak samo, gdyby chodziło o likwidację innego zawodu, a nie twojego?
+
+My wiemy, co by Bartek nacisnął, ale niech Bartek się wypowie.
+
+I odpowiedzi „wow” nie uznaję za kompletną.
+
+#### Część 3 · lokalnie 01:49
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0149) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36230s)
+
+Ja bym powiedział, że… często rozmawiamy ze studentami na ten temat i to jest trudna rozmowa. Pytanie tego typu: czy w ogóle jest sens, żebyśmy my się teraz tutaj starali, skoro i tak za chwilę możemy wyhodować lepszy system, który będzie to lepiej robił? Ja bym powiedział: trochę tak.
+
+Ale z drugiej strony chyba bym się skłaniał w tym drugim kierunku. Jeżeli ten drugi kierunek spowodowałby, że ogół cywilizacji i ludzkości by na tym zyskał, to… [Dalszy ciąg wypowiedzi poniżej.]
+
+#### Część 3 · lokalnie 02:26
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0226) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36267s)
+
+Tutaj mam akurat może taki charakter, ale [niepewne: nie stawiałbym] swojego osobistego szczęścia, jakiejś sławy ponad to. Jeżeli mógłbym się dołożyć do rozwinięcia systemu, który by na przykład lepiej sterował społeczeństwem albo wynalazł lek na raka, to myślę, że osobiste kwestie schodziłyby zdecydowanie na drugi plan.
+
+To też jest kwestia, którą wielu matematyków porusza: po co my w ogóle rozwijamy matematykę? Część ludzi robi to na zasadzie sudoku: „Mam fajne zagadki, więc sobie robimy te zagadki”.
+
+#### Część 3 · lokalnie 03:09
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0309) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36310s)
+
+Rzeczywiście jest grupa matematyków, która ma jakieś poczucie misji, że oni rozwijają to dla dobra ludzkości. Wydaje mi się, że ten moment jest dość ekscytujący, że możemy rzeczywiście zrobić systemy, które będą od nas zdecydowanie lepsze. Uważam, że długofalowo to może być ta bardziej atrakcyjna i ciekawa opcja, pod warunkiem, że te systemy nie obrócą się przeciwko nam.
+
+I tego nie wiemy. To jest zawsze teraz to ryzyko, że jeżeli rozwijam to sam, to kontroluję.
+
+#### Część 3 · lokalnie 03:41
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0341) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36342s)
+
+Jeżeli rozwinę system, który będzie robił to ode mnie lepiej, to mogę się cieszyć: „Wow, ten system się rozwija, super”. Ale czy w którymś momencie on nie nabierze jakichś cech złośliwych i będzie działał dokładnie w odwrotnym kierunku?
+
+Tutaj wydaje mi się, że odpowiedź na to pytanie nie jest łatwa. Nie będziesz miał ludzkich matematyków, którzy są w stanie go zrozumieć i zanalizować, to leżysz. Ale mi to nie przeszkadza specjalnie.
+
+#### Część 3 · lokalnie 04:06
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0406) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36367s)
+
+Ja bardzo ekscytuję się każdą matematyką, nie tylko tą, którą sam stworzyłem. [niezrozumiałe] przeczytałem, to było fajne. Jestem w stanie sobie wyobrazić sytuację, że matematycy ludzie będą z dumą patrzyli na matematykę rozwijaną przez jakieś systemy. Nie wiem, czy my musimy naprawdę sami to robić.
+
+Ja bym się tylko bał tej sytuacji, gdzie w ogóle przestajemy to kontrolować i rozumieć, i nie wiemy, jakie to ma intencje i potencjał, co może robić dalej.
+
+#### Część 3 · lokalnie 04:37
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0437) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36398s)
+
+No i to jest ta trajektoria: w którymś momencie to się może kompletnie wywrócić. Jedyną metodą, którą na ten moment mamy, jest to, że chcemy tym sterować. Jak tym sterujemy, rozumiemy, to w pewnym sensie możemy to ograniczać. Jak puścimy to kompletnie na takie YOLO, to się mogą różne dziwne rzeczy wydarzyć.
+
+Mieliśmy ostatnio aferę Hugging Face, gdzie OpenAI wypuściła jakąś [nieczytelne słowo] agentów. Nie skończyło się to tragicznie, ale to pokazuje, że nawet z dobrymi intencjami możemy mieć straszne katastrofy. Z tej perspektywy to jest trudne pytanie. [niezrozumiałe].
+
+#### Część 3 · lokalnie 05:14
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0514) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36435s)
+
+Ja to postrzegam jako [niepewne: prekursor] znacznie niebezpieczniejszych puszczeń na żywioł, bo tu matematyka jest dziedziną abstrakcyjną, ale zaraz potem będziemy mieli analogiczne sytuacje. w dziedzinach aplikowalnych, powiedzmy chemia organiczna czy inżynieria genetyczna. Wtedy to już jest bezpośrednie zagrożenie wybicia tej ludzkości.
+
+Żeby daleko nie szukać: nawet bankowość tak naprawdę. My nie musimy od razu wymyślać nowej biologii. Wystarczy włamać się do wszystkich banków naraz.
+
+#### Część 3 · lokalnie 05:43
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0543) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36464s)
+
+Jest taka ciekawostka, że wiele systemów aktualnie kryptograficznych jest masowo łamanych przez modele i agenty. I to wynika z tego, że one do tego zostały stworzone, żeby tego typu zagwozdki rozwiązywać.
+
+Możemy sobie zadać pytanie: a co, jeżeli byśmy na przykład odkryli, że tak naprawdę… Mamy aktualnie cztery czy pięć podstawowych takich, jak to się mówi, cryptographic primitives, których używamy.
+
+#### Część 3 · lokalnie 06:09
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0609) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36490s)
+
+Jeżeli byśmy pokazali, że żaden z tych systemów w tym momencie nie jest bezpieczny, możemy go praktycznie łamać prawie natychmiastowo, w czym może nam AI pomóc, to w tym momencie kończymy systemy komunikacji, musimy z powrotem wrócić do gołębi. Nie mamy żadnej gwarancji.
+
+Tak.
+
+I efekt jest taki, że to AI, które miało nam pomóc, tak naprawdę rozwaliło nam cały system bezpieczeństwa. Teraz mówimy: „Okej, fajnie, że wiemy, że się da to wszystko złamać”. Ale mieliśmy ten system i była to jakaś taka równowaga chwiejna. Ale była ta równowaga.
+
+#### Część 3 · lokalnie 06:46
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0646) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36527s)
+
+A to AI pozwala nam skalować w ekstremalnych sytuacjach. Najgorsze jest to, że zawsze, tak jak [niepewne: Psyho] powiedział, jest ryzyko, że pozwolenie skalowania wymknie nam się spod kontroli. To jest dokładnie to samo napięcie, o którym teraz mówimy. Chcemy z jednej strony, żeby to się skalowało, bo może będzie lek na raka, ale jest dużo przyszłości, w których w ogóle nas nie będzie. To jest to zagrożenie.
+
+#### Część 3 · lokalnie 07:16
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0716) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36557s)
+
+Pan Tomasz Bagiński: co konkretnie w pana pracy w ostatnich dwunastu miesiącach AI zrobiła lepiej, nie szybciej, tylko lepiej?
+
+Nic. Ale jest bardzo sprawnym pomocnikiem i rzeczywiście przyspieszaczem niektórych procesów. W mojej pracy na szczęście bardzo ważna jest moja subiektywna ocena, więc to ja decyduję, co jest dobre, a co złe.
+
+#### Część 3 · lokalnie 07:43
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0743) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36584s)
+
+Generatory wideo nie są lepsze?
+
+Słucham?
+
+Generatory wideo nie są o wiele lepsze?
+
+Ale to ja oceniam.
+
+I oceniasz, że nie są lepsze?
+
+Nie. To pytanie brzmiało inaczej: co w mojej pracy AI robi lepiej? Nie.
+
+#### Część 3 · lokalnie 08:01
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0801) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36602s)
+
+Nie, są dobre narzędzia, one działają szybciej, można bawić się nowymi trikami.
+
+A jakość tego?
+
+Jakość techniczna oczywiście, że wzrosła.
+
+To też było pytanie. Bezdyskusyjnie. I będzie rosła dalej. Tylko że w samej jakości technicznej nie siedzi wartość tego, co widzę jako wartość sztuki, rozrywki, doświadczenia ludzkiego czy czegoś podobnego.
+
+#### Część 3 · lokalnie 08:25
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0825) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36626s)
+
+Jakość techniczna — tutaj przywołam — jest parę bardzo grywalnych gier na przykład, które są niesamowicie brzydkie, a mimo to są wspaniałymi grami.
+
+— Minecraft.
+
+Sama jakość techniczna nie ma tutaj aż takiego znaczenia. Ona jest fajna, jest fajnym narzędziem. Fajnie, że można mieć tego typu wolność, że można sobie na tym spektrum jakości ten suwaczek przesuwać dużo łatwiej niż kiedyś, dużo taniej. To jest moim zdaniem ciekawe.
+
+Ale ponieważ to ja oceniam, co chcę wypuścić światu, to ja też oceniam, czy to jest lepsze czy gorsze. Tak naprawdę, bo my dajemy światu system wartości.
+
+#### Część 3 · lokalnie 09:08
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0908) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36669s)
+
+Mamy przedwidok tego, co ciebie też czeka, nas wszystkich czeka: co się stało w dziennikarstwie, w pracy medialnej. Czyli to, w jaki sposób to, co jest klikalne, jakie są nagłówki, co się wrzuca na topkę, co się promuje, nie jest już wybierane przez żadnego ludzkiego redaktora, tylko masz algorytmy, które ci podsuwają te…
+
+Ale to ciekawe. Osobowość wciąż ma znaczenie. Osobowość tej osoby, która podaje te newsy, póki co ciągle ma znaczenie.
+
+Co masz na myśli: podawanie newsów? W jakim sensie podaje newsy?
+
+Nie, nie, bo mówimy o… Teraz mówisz o klikalności. To nie jest…
+
+#### Część 3 · lokalnie 09:47
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-0947) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36708s)
+
+W tych wszystkich serwisach netowych, które produkują te newsy i za każdym razem, kiedy to klikasz, mam wrażenie, że tam przynajmniej jest jeden błąd w tym nagłówku albo w leadzie. Ale to nie ma znaczenia, ponieważ to zostało tak optymalizowane, że więcej ludzi to klika. I to nie jeden człowiek to układa. To jest ta wiedza zbiorowa.
+
+Nie do końca się zgodzę, bo ty od razu… Tutaj wynika z tego, że wszystko, co w tej chwili spożywamy jako obiekt newsowy, jest całkowicie, czysto zmechanizowane.
+
+#### Część 3 · lokalnie 10:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1020) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36741s)
+
+Ja nie używałem takiego dużego kwantyfikatora, tylko powiedziałem, że są takie serwisy newsowe. Dla mnie to jest przedwidok tego, co nadchodzi w innych dziedzinach.
+
+No to są, ale wszyscy i tak oglądają Stanowskiego, nie? Bo on jest showmanem po prostu.
+
+Nie wszyscy.
+
+Ale wciąż jakaś tam osobowość twórcy ma znaczenie.
+
+#### Część 3 · lokalnie 10:47
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1047) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36768s)
+
+Ostatnie pytanie zostało nadesłane do wszystkich uczestników panelu.
+
+Co powinniśmy świadomie pozostawić ludziom, nawet wtedy, gdy AI będzie robiło to obiektywnie lepiej?
+
+Mówił pan o tym, o własnych ocenach.
+
+#### Część 3 · lokalnie 11:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1120) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36801s)
+
+Ale co to znaczy „obiektywnie”? Skuteczniej? Lepiej zarobkowo? Jest sporo dziedzin, w których trudno przyłożyć obiektywne kryteria. Tak mi się wydaje.
+
+Ja bym chciał, żeby to zawsze ludzie robili memy i żeby przy tym zostać.
+
+Myślałem, że jakoś zacznę i wam ułatwię, że teraz poziom jest bardzo nisko i jest łatwo dodać.
+
+#### Część 3 · lokalnie 11:57
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1157) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36838s)
+
+Ja mam stałą odpowiedź, którą wam podaję już od wielu lat. Uważam, że przyszłością sztuki — akurat w moim przypadku literatury, pisania, ale to się odnosi właściwie do całej sztuki — jest autoteliczność.
+
+Autoteliczność, czyli nie uprawiasz sztuki dlatego, żeby na niej zarobić, albo że ktoś tam ją odbierze i coś dzięki temu przeżyje. Tylko sam proces tworzenia uzasadnia jego wartość i on jest przeżyciem wyłącznie twoim, twórcy.
+
+#### Część 3 · lokalnie 12:26
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1226) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36867s)
+
+W tworzeniu się spełnia sztuka, a nie w tym, czy ma milion odbiorców, czy dziesięć, zarobiła, nie zarobiła. I to będzie miało wartość nawet po tym, kiedy będziesz wiedział, że AI to zrobi znacznie lepiej i to będą miliony ludzi oglądały. Ale ty nie byłeś w tym procesie tworzenia, gdzie AI to sobie generowało w odchłaniach cyfrowych.
+
+#### Część 3 · lokalnie 12:55
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1255) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36896s)
+
+Nie poświęcałeś na to godzin, to nie było twoje przeżycie, nie czerpałeś z tego satysfakcji. Nie miałeś w głowie tego wszechświata fikcji, prawda? Więc to jest ta wartość autoteliczna.
+
+Tak, ale ona będzie do oceny tylko przeze mnie, przez nas samych.
+
+Tak, z definicji.
+
+Tak.
+
+Nikt z zewnątrz tego nie dostrzeże, może nie doceni, nie oceni.
+
+#### Część 3 · lokalnie 13:19
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1319) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36920s)
+
+Wszystko, co jest realizowalne poza moim umysłem, czyli jest częścią intersubiektywnej rzeczywistości fizycznej, będzie podlegało rejestracji, kwantyfikacji i optymalizacji. [Niepewne: AI] w tym będzie lepsza.
+
+Więc zostaje nam tylko królestwo wnętrza naszego umysłu.
+
+I tam się już pora powoli chować, czy jeszcze nie?
+
+To zależy od tempa rozwoju AI.
+
+#### Część 3 · lokalnie 13:47
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1347) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36948s)
+
+Można powiedzieć, że całą wartością naszej kultury jest to, że jesteśmy ze sobą. Ja bym sobie tak wyobrażał, że jeżeli będziemy nadal chcieli ze sobą przebywać i doświadczeniami się wymieniać, jeżeli AI nam nie będzie przeszkadzać albo przynajmniej nie zabierze nam w ogóle całości tych wymian, to jest okej. Jeżeli się nie unicestwimy i nie unicestwimy też naszej planety, to w porządku. To chyba o to chodzi, żebyśmy jakąś równowagę zachowali.
+
+#### Część 3 · lokalnie 14:20
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1420) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36981s)
+
+Poza tym, nie wiem, ciężko zastąpić…
+
+Niska poprzeczka.
+
+#### Część 3 · lokalnie 14:27
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1427) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=36988s)
+
+Ciężko zastąpić taniec, dotyk, taki bezpośredni kontakt z innymi ludźmi. Tutaj wydaje mi się, że jeszcze sporo pola dla AI zostało, żeby te obszary w jakiś sposób zastąpić. Być może nawet nie będziemy chcieli tego, bo po co?
+
+#### Część 3 · lokalnie 14:48
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1448) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=37009s)
+
+Ja nie mam ambicji, żeby komukolwiek cokolwiek mówić, co powinniśmy albo co nie powinniśmy. Nie czuję się kompetentny. Natomiast może warto taki głos jeszcze w imieniu kogoś, którego nie ma, czyli Richarda Suttona, powtórzyć po nim.
+
+To jest ktoś, który jest twórcą uczenia przez wzmocnienie, takiej technologii trenowania sieci bez ludzkich danych, model eksploruje i uczy się ze swoich doświadczeń. On jest takiego osobliwego zdania…
+
+#### Część 3 · lokalnie 15:17
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1517) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=37038s)
+
+Przede wszystkim, że przyszłość, w której jesteśmy zastąpieni przez tę technologię, jest nie do uniknięcia i bardzo dobrze. Nie powinniśmy się wtrącać i powinniśmy się cieszyć, że dzięki naszemu geniuszowi kolektywnemu byliśmy w stanie stworzyć coś, co nas przekracza. To wizja dla wielu ludzi ponura, a on to mówi z uśmiechem. W kolorowej koszuli, bardziej kolorowej niż twoja, zazwyczaj występuje i mówi, że człowiek jest ogniwem pośrednim. Musimy się tym pogodzić.
+
+#### Część 3 · lokalnie 15:52
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1552) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=37073s)
+
+Ta rywalizacja nie potrwa za długo.
+
+Co jest celem tego?
+
+Czyim?
+
+No właśnie jego.
+
+#### Część 3 · lokalnie 16:01
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1601) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=37082s)
+
+Jeżeli patrzeć na rozwój cywilizacyjny jako na drogę dążenia do prawdy, jeżeli celem jest zrozumienie Matrixa, w którym tkwimy — ja to nazwałem klatką na ludzi, to, jak powiedziałem, są albo będą sposoby docierania do tej prawdy efektywniejsze niż te, które realizujemy naszymi mózgami. Więc może [nieczytelne słowa] się temu poddać.
+
+#### Część 3 · lokalnie 16:28
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1628) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=37109s)
+
+Jeżeli to stawiamy za cel, czyli prawdę — a to tak bardzo pięknie [niepewne: brzmi na sztandarach], droga do prawdy, do odkrywania prawdy — to może rzeczywiście, jak chcemy to optymalizować, lepiej się nie wtrącać. A jak już dotrzemy do prawdy, to co? Koniec drogi? Zwijamy się, dobra, zamykamy [niezrozumiałe]?
+
+Nam osobiście to nie grozi. Bardzo niewiele wiemy. Natomiast rozwój naukowy pokazuje, że dopiero zaczynamy cokolwiek rozumieć, jeśli chodzi o fizykę przynajmniej.
+
+#### Część 3 · lokalnie 16:55
+
+[Źródłowy fragment](https://jakiesluchawki.github.io/daniel-opowiesc/qa-transkrypcja.html#t-p3-1655) · [Pełne nagranie](https://www.youtube.com/watch?v=SurotppGtyA&t=37136s)
+
+Pewnie z matematyką też byłoby podobnie. W matematyce odróżniamy pojęcie prawdy od dowodu. I tutaj wydaje mi się…
+
+Czym jest prawda?
+
+No, ale generalnie…
+
+Jak powiedział [niepewne: Poncjusz Piłat].

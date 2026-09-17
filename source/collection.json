@@ -2,6 +2,7 @@
   "schemaVersion": 1,
   "title": "AI Summit PJAIT 2026",
   "glossaryPage": "slowniczek.html",
+  "scriptPage": "skrypt.html",
   "lectures": [
     {
       "id": "rokosz",

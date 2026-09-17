@@ -12,23 +12,23 @@
     },
     {
       "path": "ARTWORK.md",
-      "bytes": 151023,
-      "sha256": "66874d191689a365cbbbdc98985c74ab9c54d05d4b9c608bdd04d8a7d349c9fe"
+      "bytes": 192926,
+      "sha256": "d6999ee065e5bbfd6135573424d633353103337fb18db67f1d4df213f6284947"
     },
     {
       "path": "DESIGN.md",
-      "bytes": 2977,
-      "sha256": "c71e3913a302b220622e088b8caff2e0da5fe02ca27535be6a50a22cb07c237a"
+      "bytes": 3383,
+      "sha256": "838e62283d819d4d97a635f86946dd3c55c35a5bf0c9bde6ce34a024538e359d"
     },
     {
       "path": "PRODUCT.md",
-      "bytes": 1727,
-      "sha256": "fae7ec62d6b44bf122525dfb5d1458cef582d37199de504c30b6d9a06605e36b"
+      "bytes": 2191,
+      "sha256": "90cb21d977ad785a7de5cad7fc2ba92189bdd04846cbe9ff34c7838d28a9372d"
     },
     {
       "path": "README.md",
-      "bytes": 3690,
-      "sha256": "92fd478a405e6515cfc09a18bd79581db0e350b71159f1da071f51c37da30a02"
+      "bytes": 4058,
+      "sha256": "c03234b9901d47a0da89e4553629db69844387eee2f5afed2eb809fc08576f76"
     },
     {
       "path": "app.js",
@@ -49,6 +49,26 @@
       "path": "assets/antydaniele.webp",
       "bytes": 289302,
       "sha256": "b1cc0fee9c677f1cd14467758b949629b9793b51a80376e998cee6e83240215b"
+    },
+    {
+      "path": "assets/business-hero-full.webp",
+      "bytes": 415646,
+      "sha256": "846b93fe6d47172627c09cb956691c96083cf49e0a8785eba36493c63b4ff721"
+    },
+    {
+      "path": "assets/business-interlude-full.webp",
+      "bytes": 411166,
+      "sha256": "d60455d6c22897b9fc96720d729dad98395630fc36277d72c25c9ffb3a1a6d15"
+    },
+    {
+      "path": "assets/cybersecurity-hero-full.webp",
+      "bytes": 489880,
+      "sha256": "7386e54ecf01aef14a8d1cc9678b39cc4957610e46b6c5a7566d95e267fd8000"
+    },
+    {
+      "path": "assets/cybersecurity-interlude-full.webp",
+      "bytes": 380834,
+      "sha256": "2a501b948ad1e97d3174017bd4395df54af8e33485ba8229edf2809fb622144b"
     },
     {
       "path": "assets/daniel-full-desktop.webp",
@@ -79,6 +99,16 @@
       "path": "assets/dialog.webp",
       "bytes": 237348,
       "sha256": "0738343f7b2b998fb4e3b581c2e23954c30577c31e40e8af37523aa18a2ba050"
+    },
+    {
+      "path": "assets/digital-media-hero-full.webp",
+      "bytes": 357804,
+      "sha256": "71ace471c224a6f024639bf198e96eab510463d3b7e9184f1e1ba1be8eb476ce"
+    },
+    {
+      "path": "assets/digital-media-interlude-full.webp",
+      "bytes": 389882,
+      "sha256": "485e71d6ed611ad3c067584d9c115f4804cb574d5031e370b700f01b8095a39e"
     },
     {
       "path": "assets/dragan-full-hero.webp",
@@ -134,6 +164,16 @@
       "path": "assets/generalisci.webp",
       "bytes": 403152,
       "sha256": "c7aee57df4244a19b5c746ee48eb57a908150696e5560b4d84d7b671d3ee0073"
+    },
+    {
+      "path": "assets/idziak-hero-full.webp",
+      "bytes": 471836,
+      "sha256": "f93092523997dc6797440735b2307401028c49bb4275023ec9396756e972fc76"
+    },
+    {
+      "path": "assets/idziak-interlude-full.webp",
+      "bytes": 433584,
+      "sha256": "6a8976da5906cbbb58594a458516e7aefa9dc05fe1d3c27e275ce681422f43b1"
     },
     {
       "path": "assets/konferencja-full-desktop.webp",
@@ -201,6 +241,16 @@
       "sha256": "300f178194db36dc97682fa234c8fb63eee05646befaa7f5d01d6ab6c58a8819"
     },
     {
+      "path": "assets/pnl-hero-full.webp",
+      "bytes": 395096,
+      "sha256": "a503e96e3dcccca1c8cbea042a3b6539992453dbedb70cf61c6997446b3fb192"
+    },
+    {
+      "path": "assets/pnl-interlude-full.webp",
+      "bytes": 412678,
+      "sha256": "7732f72079d8047da8a4abfb1db21fb64629f1d468f55f2f79a7f088f5a114e3"
+    },
+    {
       "path": "assets/podziekowanie-full-desktop.webp",
       "bytes": 210818,
       "sha256": "3c9895a070f0e73ca7149cf3abf41f44980acd8b159540ff72ac96b73c4f8ba6"
@@ -261,6 +311,16 @@
       "sha256": "ccb721f2f130e06d1b6a905558cf684628bf719dd8a7ca5044d15aa76dcdfd58"
     },
     {
+      "path": "assets/rokosz-hero-full.webp",
+      "bytes": 309528,
+      "sha256": "5fdf562e785cef7f3e314d0ea74aab4725828b60f37bdb70a455121de348a2b9"
+    },
+    {
+      "path": "assets/rokosz-interlude-full.webp",
+      "bytes": 349038,
+      "sha256": "df3400679655939ca8026a492251771f71e9f45858caf1babbc3cf1ee1b627fe"
+    },
+    {
       "path": "assets/romie-regular.woff2",
       "bytes": 59208,
       "sha256": "23c2cc55882043a18ba7f3ade2260948005523fc277b7f9b9fd7e4e3b8408d6e"
@@ -311,29 +371,39 @@
       "sha256": "8da0d2f6e4d683dc44a99d75189d9d4b41f87506d020b6216c44dc0d3132cf32"
     },
     {
+      "path": "assets/wdrozenia-hero-full.webp",
+      "bytes": 426294,
+      "sha256": "a94a77f289fa6a1cb4e19d4c0c72c74ee55790a6569443035f5dca932b098390"
+    },
+    {
+      "path": "assets/wdrozenia-interlude-full.webp",
+      "bytes": 397198,
+      "sha256": "28d92ae28959ba8a087221b4bc1bef6a8a2efa7d3f0d58d7467e73b9f56c25a6"
+    },
+    {
       "path": "business.html",
-      "bytes": 21594,
-      "sha256": "d22f683826d07adf794e15be0034901265998210b388a450070c8b6c5fc721e8"
+      "bytes": 21780,
+      "sha256": "cc886396babe36a8b7e76a6be7f6741a2ae226d07a5c5ca92ebe2cce50194e9a"
     },
     {
       "path": "cybersecurity.html",
-      "bytes": 21586,
-      "sha256": "8cd4170afd9e3958c236057cac3b71a8e3f1c0918019c330a2bd1d481e3f35f5"
+      "bytes": 21782,
+      "sha256": "7312bb012f4bcce7b42437a8942ab2a10b58c66881e936a914ebc94cd27bab71"
     },
     {
       "path": "digital-media.html",
-      "bytes": 21545,
-      "sha256": "2c746a8388d9e3ce03b09f7d833aca46f4621097154e87568c9a0525dda2c7ab"
+      "bytes": 21716,
+      "sha256": "020530c73c31a02a3d9556d2c653ee8eea467638942a2f5ef4b56a2d0578a2f7"
     },
     {
       "path": "dragan-transkrypcja.html",
-      "bytes": 71808,
-      "sha256": "a489543974ae719bf6317145b9a0df3649f628d5089c0e3b0816e946cd536791"
+      "bytes": 71886,
+      "sha256": "b7cf205ab1e2549de9fcb8b783a75a5c082f923a4f444664464abd09a9f4efd0"
     },
     {
       "path": "dragan.html",
-      "bytes": 16324,
-      "sha256": "be7ae07c46a15be25278d1e44d06161af8a37e6148472ff9a83e08f5186c2666"
+      "bytes": 16402,
+      "sha256": "6c933b147d5d5a82622da10d7aceb98ec5437b55989469c189ad7461d0a116a3"
     },
     {
       "path": "favicon.svg",
@@ -342,13 +412,23 @@
     },
     {
       "path": "idziak.html",
-      "bytes": 20344,
-      "sha256": "f24711a67ebe7ef043febcf7d923f5b790cfdf1c33a3bdccd8e42c13142fc054"
+      "bytes": 20549,
+      "sha256": "1f753370a54cfcea7b2a31ae757c159f13630f07cf061a82e666b5fc4be7ec40"
     },
     {
       "path": "index.html",
-      "bytes": 35877,
-      "sha256": "3f7fae48648613b3bc9b1db7f18b62a003e2f09d8489df371d66d17fc5c644ad"
+      "bytes": 35955,
+      "sha256": "67be55afb01b2939e7d53fe21cfc3e16f93c0b207e8f746761f8d02df8b8de89"
+    },
+    {
+      "path": "lecture-script.css",
+      "bytes": 8331,
+      "sha256": "8740a301f538f1ea6e853d197eed2fb7118e60b79a705f78a790c8aab63eac68"
+    },
+    {
+      "path": "lecture-script.js",
+      "bytes": 7662,
+      "sha256": "b7ca7eaacc11f93bf05b7af6dda76109488b695ed565f7039c77ebb5e9f5c71f"
     },
     {
       "path": "nav.js",
@@ -357,43 +437,48 @@
     },
     {
       "path": "panel-finalowy-transkrypcja.html",
-      "bytes": 86797,
-      "sha256": "41cb658aeecd744a013bb408f49941d4e031db46ef07d3d713dd42839211931b"
+      "bytes": 86875,
+      "sha256": "6312f2ca203955532b17cf3a1040299348aff247124c8588e503665e2e30865d"
     },
     {
       "path": "panel-finalowy.html",
-      "bytes": 17776,
-      "sha256": "0a9488fb0d9bb32ed312cb0bb34e88230fb0bf7d120a794747ede3a149bc4599"
+      "bytes": 17854,
+      "sha256": "e1c52d59c6c3830f9fd1e5b7c3bb14db05bbaf324cabec96102efd24d5ab27f3"
     },
     {
       "path": "pnl.html",
-      "bytes": 20703,
-      "sha256": "972b745ba610e0f797096dcc60f58521684b68187215ef30543b6c89c24d4920"
+      "bytes": 20882,
+      "sha256": "dde4a56980f87963472a51c720504baa96ccef228b825c7b23570e58dbfc5a36"
     },
     {
       "path": "psyho-baginski-transkrypcja.html",
-      "bytes": 83161,
-      "sha256": "96c224b65864bcfc38c781173ca8ea2a672ec44ee8cc27dcfa2efaefe97e9201"
+      "bytes": 83239,
+      "sha256": "11c1f5ed39178bab17ed1868dfde1dff5463cd8e388a1abcc613e06ecaa52294"
     },
     {
       "path": "psyho-baginski.html",
-      "bytes": 15552,
-      "sha256": "b6b004fe1b805b16b173a87e00e004534534c79a7da26c35d8c0ae648af2382d"
+      "bytes": 15630,
+      "sha256": "aa0788a39698cab42f3592a852056350bfb5f9896c570904c7277a8c18c40f5f"
     },
     {
       "path": "qa-transkrypcja.html",
-      "bytes": 76757,
-      "sha256": "4aff28f08f53647ec333013d2ddff691eed22949faaf418ec24c8f726d4546cd"
+      "bytes": 76835,
+      "sha256": "d0951d5d981cda97cb7f69b79a9d56bae9bd97c74b936d54747113ba99befdb7"
     },
     {
       "path": "qa.html",
-      "bytes": 22365,
-      "sha256": "622e8b3b88e1723881d3bd27749e793d1e7f22a0945728abab04a606c4df417e"
+      "bytes": 22443,
+      "sha256": "d851c2f3a9c001a129e72b1fec1454bd1dc12e516df367938bb989ff1e31d274"
     },
     {
       "path": "rokosz.html",
-      "bytes": 19538,
-      "sha256": "b8a120bba215452e0016ded4ffa3ef8fdaac720ea6f268f3b0b050200c1ad4cf"
+      "bytes": 19723,
+      "sha256": "704cede3a66f37c83a5b87fa3d0c7dd65f2b86ef928835f9150d0a0952b9481d"
+    },
+    {
+      "path": "skrypt.html",
+      "bytes": 531607,
+      "sha256": "69af523541afecf2480f0f31ce35355a9a6ad510e23b003d6378957c3b0aaf1c"
     },
     {
       "path": "slides.css",
@@ -402,8 +487,8 @@
     },
     {
       "path": "slowniczek.html",
-      "bytes": 75339,
-      "sha256": "f702a7666cf7c4e667fe025ca730ecdcb204f91d91e289c10e0c3157e941d470"
+      "bytes": 75417,
+      "sha256": "ec2def6be00b351c47a983ddf8122f8ca35eb929316fb0c68d4b94122f83033f"
     },
     {
       "path": "source/business-opracowanie.json",
@@ -417,8 +502,13 @@
     },
     {
       "path": "source/collection.json",
-      "bytes": 3500,
-      "sha256": "966cacc59e7204771cd334c25c5905e8a7a7f2a1a64b2dc2656376d87339821f"
+      "bytes": 3531,
+      "sha256": "6fe442db09b9922ed1c3a90f0712ce555b3b1269ff01a73172174c3a0f896bae"
+    },
+    {
+      "path": "source/conference-art.json",
+      "bytes": 49220,
+      "sha256": "4e7594a5fa55b85fd48d50979114a0a8992c841abbf74cc3b87ebdf23a1ba542"
     },
     {
       "path": "source/conference-recording.json",
@@ -472,8 +562,8 @@
     },
     {
       "path": "source/fullbleed-art.json",
-      "bytes": 5178,
-      "sha256": "8113c45965c8a3e0b5ac14d079abebb270e0032ef546d2071c4eadcb21290226"
+      "bytes": 7102,
+      "sha256": "fa64fbb9fe5967f17161a060bda341f8e5ced746995c3b05a6616399ae8be9be"
     },
     {
       "path": "source/idziak-opracowanie.json",
@@ -566,6 +656,16 @@
       "sha256": "b8af73d44a0a962c7bde53d8764c4f3d41d9cab673fe60cf6bdec304674cfc71"
     },
     {
+      "path": "source/skrypt.md",
+      "bytes": 350011,
+      "sha256": "fefc7b51c70594c21e0fa7a65f4cf0532f59552ccb95ef514cb152eecca1853a"
+    },
+    {
+      "path": "source/skrypt.txt",
+      "bytes": 346341,
+      "sha256": "5033b5f040ee12e9c1b278b8664afa76dd2f3b6cf306e9d3307a6c449e1dbb95"
+    },
+    {
       "path": "source/slides.json",
       "bytes": 5246,
       "sha256": "782dedaab617bf97b7a47c9c3cb16bc7916492366f94a8ad72db828469b93c7f"
@@ -607,13 +707,13 @@
     },
     {
       "path": "transkrypcja.html",
-      "bytes": 24157,
-      "sha256": "a555d0695531201911d4a5d71c0703339416300dc26260079d53c4532cee713d"
+      "bytes": 24235,
+      "sha256": "83fcaf767eb102292087557f12ed1a415fbdecded12ccf4b0107d3d72fef5758"
     },
     {
       "path": "wdrozenia.html",
-      "bytes": 20524,
-      "sha256": "33a150db42e7b82d6dcb8cd3957d7ccb6fdbcc01d2fdd1d9e749a8206b6e0342"
+      "bytes": 20722,
+      "sha256": "c1db66dec77e8476d219d1340fa457cf8eb359cdafef2d3fac6b0cf166951530"
     }
   ]
 }

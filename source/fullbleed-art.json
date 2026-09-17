@@ -216,6 +216,90 @@
         "width": 1672,
         "height": 941
       }
+    },
+    "rokosz": {
+      "hero": {
+        "path": "assets/rokosz-hero-full.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "interlude": {
+        "path": "assets/rokosz-interlude-full.webp",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    "digital-media": {
+      "hero": {
+        "path": "assets/digital-media-hero-full.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "interlude": {
+        "path": "assets/digital-media-interlude-full.webp",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    "idziak": {
+      "hero": {
+        "path": "assets/idziak-hero-full.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "interlude": {
+        "path": "assets/idziak-interlude-full.webp",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    "wdrozenia": {
+      "hero": {
+        "path": "assets/wdrozenia-hero-full.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "interlude": {
+        "path": "assets/wdrozenia-interlude-full.webp",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    "pnl": {
+      "hero": {
+        "path": "assets/pnl-hero-full.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "interlude": {
+        "path": "assets/pnl-interlude-full.webp",
+        "width": 1672,
+        "height": 940
+      }
+    },
+    "business": {
+      "hero": {
+        "path": "assets/business-hero-full.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "interlude": {
+        "path": "assets/business-interlude-full.webp",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    "cybersecurity": {
+      "hero": {
+        "path": "assets/cybersecurity-hero-full.webp",
+        "width": 1672,
+        "height": 941
+      },
+      "interlude": {
+        "path": "assets/cybersecurity-interlude-full.webp",
+        "width": 1672,
+        "height": 941
+      }
     }
   }
 }

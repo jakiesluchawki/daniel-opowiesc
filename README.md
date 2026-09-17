@@ -2,11 +2,15 @@
 
 [Otwórz kolekcję](https://jakiesluchawki.github.io/daniel-opowiesc/). Dwanaście merytorycznych sesji i osobny [Słowniczek](slowniczek.html). Indeks „Wykłady” na każdej stronie zachowuje kolejność konferencji.
 
-- [Rokosz](rokosz.html), [Media cyfrowe](digital-media.html), [Idziak](idziak.html), [Wdrożenia](wdrozenia.html), [AI i P&L](pnl.html), [Biznes](business.html), [Cyberbezpieczeństwo](cybersecurity.html): szczegółowe autorskie opracowania i mapy z linkami do konkretnych czasów pełnego nagrania. Po dwie szerokie ilustracje z istniejących obrazów kolekcji.
+- [Rokosz](rokosz.html), [Media cyfrowe](digital-media.html), [Idziak](idziak.html), [Wdrożenia](wdrozenia.html), [AI i P&L](pnl.html), [Biznes](business.html), [Cyberbezpieczeństwo](cybersecurity.html): szczegółowe autorskie opracowania i mapy z linkami do konkretnych czasów pełnego nagrania. Po dwie nowe, dedykowane szerokie ilustracje na sesję.
 - [Naskręcki](index.html): 12 pełnoekranowych scen z osobnymi wariantami szerokimi i pionowymi. Trzy krótkie akapity widoczne od razu. „Czytaj całość” i no-JS zachowują 36 dłuższych akapitów. Daniel jest bohaterem adaptacji; prelegentem jest Bartosz Naskręcki.
 - [Psyho i Bagiński](psyho-baginski.html), [Dragan](dragan.html), [Rosiak](panel-finalowy.html): artykuły z panoramicznym otwarciem i jednym przepleceniem. Pełne transkrypcje sprawdzono z transmisją; zachowano lokalne znaczniki i dodano odnośniki do ciągłego zegara wideo.
 - [Q&A](qa.html): 13 wątków, jeden szeroki obraz oraz [transkrypt](qa-transkrypcja.html). Pierwotne części 24:42, 7:05, 17:41 zachowują własne zegary i wszystkie 98 anchorów. Odzyskane przerwy, około 3:20 i 0:12, są osobno oznaczonymi parafrazami z czasami transmisji.
 - [Słowniczek](slowniczek.html): 44 pojęcia i 40 odniesień do cytatów, autorów oraz dzieł. Objaśnienia, źródła i powroty do fragmentów; adnotacje również w nowych opracowaniach.
+
+## Zbiorczy skrypt
+
+[Skrypt wykładów](skrypt.html) łączy dwanaście sesji w jeden przeszukiwalny tekst. Pobierz [TXT](source/skrypt.txt) lub [Markdown](source/skrypt.md) do czytania i wyszukiwania offline. Pięć wcześniejszych sesji zachowuje dostarczone transkrypcje; siedem nowych ma autorskie szczegółowe opracowania, oznaczone jako parafrazy.
 
 ## Redakcja i źródła
 
@@ -18,6 +22,6 @@ Opinie, przykłady i prognozy należą do rozmówców. Lista programu nie służ
 
 ## Technika i obrazy
 
-Statyczny HTML/CSS/JS: 18 stron, bez zależności uruchomieniowych, analityki i zewnętrznych fontów. Pages publikuje root istniejącej gałęzi `codex/opowiesc`. [Rejestr sesji](source/collection.json) i [mapa nagrania](source/conference-recording.json) zawierają publiczne metadane. Audio, surowe napisy i prywatne ścieżki pozostają poza repozytorium strony.
+Statyczny HTML/CSS/JS: 19 stron, bez zależności uruchomieniowych, analityki i zewnętrznych fontów. Pages publikuje root istniejącej gałęzi `codex/opowiesc`. [Rejestr sesji](source/collection.json) i [mapa nagrania](source/conference-recording.json) zawierają publiczne metadane. Audio, surowe napisy i prywatne ścieżki pozostają poza repozytorium strony.
 
-Romie i Roobert są dostarczonymi licencjonowanymi fontami. [ARTWORK.md](ARTWORK.md) dokumentuje wszystkie 31 grafik, dokładne prompty, generate/edit oraz ponowne użycie w nowych sesjach. Nie generowano nowych obrazów przy rozszerzeniu. [Manifest ilustracji](source/fullbleed-art.json) podaje publiczne ścieżki i rzeczywiste wymiary. JPG to kodowanie istniejących ilustracji, bez tekstu w rastrze. [Design](DESIGN.md) · [Produkt](PRODUCT.md).
+Romie i Roobert są dostarczonymi licencjonowanymi fontami. [ARTWORK.md](ARTWORK.md) dokumentuje wszystkie 45 grafik, dokładne prompty oraz tryby generate/edit. Siedem dodanych sesji ma 14 nowych, dedykowanych scen, wygenerowanych przez wbudowany image_gen. [Manifest ilustracji](source/fullbleed-art.json) podaje publiczne ścieżki i rzeczywiste wymiary. JPG to kodowanie istniejących ilustracji, bez tekstu w rastrze. [Design](DESIGN.md) · [Produkt](PRODUCT.md).
