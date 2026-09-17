@@ -322,8 +322,8 @@
     },
     {
       "path": "digital-media.html",
-      "bytes": 21533,
-      "sha256": "9e0613623c59a2bb6c2453b7ca1c21229d6fb5ccca1c5b3f4b0e828bfcf4af24"
+      "bytes": 21545,
+      "sha256": "13108665270f03aac4cbf8fa4012f7ca98f360d174f9cb10d1c0876508bad454"
     },
     {
       "path": "dragan-transkrypcja.html",
@@ -342,8 +342,8 @@
     },
     {
       "path": "idziak.html",
-      "bytes": 20332,
-      "sha256": "9953f209f048cfcf3389ad09e112550a34c0791519c850259682d59c82b1f208"
+      "bytes": 20344,
+      "sha256": "de2a0db49fa7e02d3d5e81f562d1cb764a4f22cb37c2f7308ff39e839a2dca4d"
     },
     {
       "path": "index.html",
@@ -392,8 +392,8 @@
     },
     {
       "path": "rokosz.html",
-      "bytes": 19526,
-      "sha256": "ccec59ef4a99d9969362b803081752f9a1bd212a2fbefbc13d2363bbda3acf99"
+      "bytes": 19538,
+      "sha256": "71557e7b1664733bbb03fa088c8993926799a77de0858e2c433b21f00c93df66"
     },
     {
       "path": "slides.css",
@@ -612,8 +612,8 @@
     },
     {
       "path": "wdrozenia.html",
-      "bytes": 20512,
-      "sha256": "43cb8318134b4bfc9b875d6998080ce5c540ac7b482464d1101d41b7e613764b"
+      "bytes": 20524,
+      "sha256": "9018a72b8da36f84ac2310c81d4a38a8ff6c2daa54e54e637d6509c87cb44596"
     }
   ]
 }
