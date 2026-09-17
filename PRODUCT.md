@@ -4,6 +4,8 @@ Kolekcja wykładów AI Summit PJAIT z 16 września 2026, otwierana jednym linkie
 
 Daniel jest bohaterem literackiej adaptacji wykładu Bartosza Naskręckiego. Dwanaście krótkich slajdów mieści się w jednym ekranie; dłuższa adaptacja pozostaje pod „Czytaj całość”. Pięć pierwotnych wydarzeń ma pełne transkrypty dostarczonego materiału, teraz sprawdzone z transmisją. Siedem nowych sesji ma szczegółowe autorskie opracowania i mapy nagrania. Czytelnik decyduje o tempie.
 
+Cztery sesje, na których użytkownik był obecny — Naskręcki, Dragan, panel Rosiaka i Q&A — są wyróżnione w menu i skrótach. Pozostałe osiem pozostaje dostępne w osobnej grupie. Słowniczek pozwala szukać pojęcia, autora lub dzieła i zawężać wpisy do konkretnej sesji.
+
 ## Kryteria jakości
 
 - Piękne pełnoekranowe i szerokie szkice, bez kart, ramek i małych prostokątów obok artykułu.

@@ -16,7 +16,7 @@ Psyho i Bagiński, Dragan oraz Rosiak mają po dwie szerokie ilustracje: otwarci
 
 Siedem nowych opracowań również ma obraz na pełną szerokość na początku i jedno przeplecenie w środku. Każda ma dwie nowe, dedykowane sceny 16:9. Zachowano ich natywne wymiary i pełną szerokość; nie kadrowano rysunków. Mapa nagrania jest otwartą listą czasów i wątków w kolumnie tekstu.
 
-Dziewiętnaście stron HTML ma wspólny indeks dwunastu sesji oraz Słowniczek. Native details działa bez JS. Na telefonie nawigacja pokazuje bieżącą sesję i indeks; od 1200 px także pięć skrótów dawnych wykładów. Otwarty indeks jest pełną szerokością papieru, bez ramki i cienia. Ma własne przewijanie i nie zmienia wysokości nagłówka slajdu. Escape zamyka indeks i oddaje fokus; klawisze i swipe nie zmieniają slajdu za otwartym menu.
+Dziewiętnaście stron HTML ma wspólny indeks dwunastu sesji oraz Słowniczek. Native details działa bez JS. Na telefonie nawigacja pokazuje bieżącą sesję i indeks; na szerokim ekranie także cztery skróty sesji „Na miejscu”: Naskręckiego, Dragana, panelu Rosiaka i Q&A. Menu oddziela te cztery sesje od ośmiu pozostałych. Otwarty indeks jest pełną szerokością papieru, bez ramki i cienia. Ma własne przewijanie i nie zmienia wysokości nagłówka slajdu. Escape zamyka indeks i oddaje fokus; klawisze i swipe nie zmieniają slajdu za otwartym menu.
 
 Adnotacje przy transkryptach i nowych opracowaniach prowadzą do objaśnień; słowniczek odsyła do konkretnych fragmentów. Lokalny znacznik transkryptu ma osobny link z czasem pełnego wideo. Niepewności są częścią zapisu.
 
@@ -27,3 +27,7 @@ Strzałki i Spacja przechodzą między slajdami, działa swipe, TOC i bezpośred
 ## Skrypt wykładów
 
 Zbiorczy czytnik zachowuje otwartą kolumnę tekstu i dwanaście rozdziałów w kolejności konferencji. Wyszukiwarka prowadzi do pasujących akapitów, a TXT i Markdown pozwalają czytać offline. Pełny tekst pozostaje dostępny bez JavaScript. Link „Skrypt” jest widoczny w nagłówku każdej strony bez otwierania indeksu. Opracowania mają osobne „Czytaj skrypt tej sesji” i pobranie całego TXT. Czasy w mapach i transkryptach prowadzą zarówno do właściwego fragmentu tekstu, jak i do nagrania. Przy akapitach skryptu są adnotacje do słowniczka; każde wystąpienie w słowniczku ma powroty do zapisu źródłowego, skryptu oraz nagrania. Przypisy pozostają poza wyszukiwaną prozą. Skoki do rozdziałów i akapitów są ustawiane po ułożeniu licencjonowanych fontów, dzięki czemu długi dokument zachowuje cel odnośnika.
+
+## Przeglądanie większego słowniczka
+
+Otwarcie jest zwarte: tytuł oraz opis w dwóch kolumnach na desktopie, jedna kolumna na telefonie. Indeks dzieli pojęcia na sześć działów oraz osobną grupę cytatów, autorów i dzieł. Native details zachowuje indeks bez JavaScript; wyszukiwanie jest progresywnym dodatkiem. Filtry rodzaju i sesji pokazują wpisy razem z kontekstem i odnośnikami. Brak wyników ma jawny komunikat i reset, a bezpośredni hash ujawnia cel ukryty przez filtr. Kontrolki mają tekstowe etykiety i widoczny fokus, zmiana wyników jest ogłaszana przez role=status. Nie wprowadza się kart ani nowego stylu obrazów.

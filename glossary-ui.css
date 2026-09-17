@@ -1,0 +1,31 @@
+/* A searchable index on an open sheet, with the source text beneath it. */
+.glossary-body .glossary-hero{display:grid;gap:2rem;padding:clamp(2.5rem,5vw,5rem) var(--gutter) 0;max-width:1600px;margin:auto}
+.glossary-body .glossary-hero .lecture-hero-copy{margin:0;padding:0}
+.glossary-body .glossary-hero h1{font-size:clamp(3rem,6.8vw,6.75rem);max-width:17ch}
+.glossary-body .glossary-hero .lecture-intro{margin:0;padding:0;width:auto;max-width:40rem;align-self:end}
+.glossary-body .glossary-hero .lecture-lead{font-size:clamp(1.15rem,1.7vw,1.4rem);line-height:1.65}
+.glossary-explorer{max-width:1600px;margin:3rem auto 4rem;padding:0 var(--gutter)}
+.glossary-tools{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr) minmax(0,1fr) auto;gap:1.25rem;align-items:end;margin:0 0 1.25rem}
+.glossary-tools[hidden],.glossary-entry[hidden],.glossary-index-group[hidden],.glossary-index a[hidden],.glossary-column[hidden]{display:none!important}
+.glossary-tools label{display:flex;flex-direction:column;gap:.4rem;font-size:.8rem;color:var(--muted);min-width:0}
+.glossary-tools input,.glossary-tools select{font:inherit;font-size:1rem;min-height:3rem;width:100%;min-width:0;color:var(--ink);background:transparent;border:0;border-bottom:1px solid var(--line);border-radius:0;padding:.6rem 0}
+.glossary-tools input:focus-visible,.glossary-tools select:focus-visible{outline:2px solid var(--blue);outline-offset:4px}
+.glossary-tools button{background:none;border:0;border-bottom:1px solid var(--line);padding:.6rem 0;min-height:3rem;font-size:.9rem;color:var(--blue)}
+.glossary-result-count{font-size:.85rem;color:var(--muted);margin:0 0 1.5rem;min-height:1.5em}
+.glossary-body .glossary-index{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.5rem 3rem;max-width:none;width:100%;margin:0}
+.glossary-index-group{min-width:0;border-top:1px solid var(--line);padding:.65rem 0}
+.glossary-index-group summary{list-style:none;display:flex;gap:1rem;align-items:center;justify-content:space-between;min-height:2.75rem;color:var(--ink);font-size:1rem}
+.glossary-index-group summary::-webkit-details-marker{display:none}
+.glossary-index-count{color:var(--muted);font-size:.8rem;font-variant-numeric:tabular-nums;margin-left:auto}
+.glossary-index-group summary:after{content:'+';color:var(--blue)}
+.glossary-index-group[open] summary:after{content:'−'}
+.glossary-index-links{display:flex;flex-direction:column;padding:.5rem 0 0}
+.glossary-index-links a{padding:.55rem 0;min-height:2.75rem;line-height:1.6;overflow-wrap:anywhere}
+.glossary-reference-index{grid-column:1/-1}
+.glossary-reference-index .glossary-index-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 3rem}
+.glossary-empty{font-size:1.2rem;line-height:1.7;margin:2rem 0;color:var(--ink)}
+.glossary-body .glossary-section-title{margin-top:2rem!important}
+@media(min-width:1100px){.glossary-body .glossary-hero{grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:clamp(3rem,6vw,7rem)}}
+@media(max-width:900px){.glossary-tools{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.glossary-query{grid-column:1/-1}.glossary-tools button{justify-self:start}.glossary-body .glossary-index{grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem 2rem}.glossary-reference-index .glossary-index-links{grid-template-columns:repeat(2,minmax(0,1fr));gap:0 2rem}}
+@media(max-width:600px){.glossary-body .glossary-hero{gap:1.6rem}.glossary-body .glossary-hero h1{font-size:clamp(2.75rem,11vw,4.5rem)}.glossary-explorer{margin-top:2.25rem}.glossary-tools{grid-template-columns:minmax(0,1fr);gap:.9rem}.glossary-query{grid-column:auto}.glossary-tools input,.glossary-tools select{font-size:1rem}.glossary-body .glossary-index{grid-template-columns:minmax(0,1fr);gap:.25rem}.glossary-reference-index .glossary-index-links{grid-template-columns:minmax(0,1fr)}.glossary-index-links a{font-size:.95rem}}
+@media print{.glossary-explorer{display:none}.glossary-entry[hidden],.glossary-column[hidden]{display:block!important}.glossary-hero{display:block!important}}

@@ -1,0 +1,36 @@
+/* The four sessions attended in person lead an open, paper-based index.
+   This file adds no height to the closed masthead or the fullscreen slide. */
+.site-header .lecture-switch .lecture-current.is-attended,.story-body.enhanced:not(.reading) .site-header .lecture-switch .lecture-current.is-attended{color:var(--blue)}
+.site-header .collection-index{padding-top:1.25rem;padding-bottom:1.5rem}
+.collection-index-label{margin:0 0 1.15rem;max-width:none}
+.collection-index .collection-group{margin:0;padding:0}
+.collection-index .collection-group+.collection-group{margin-top:1.75rem}
+.collection-index .collection-group h2{display:flex;align-items:baseline;gap:.75rem;margin:0 0 .5rem;max-width:none;font-family:var(--display);font-size:1.75rem;line-height:1.15;letter-spacing:-.02em;text-wrap:initial}
+.collection-index .collection-group-attended h2{color:var(--blue)}
+.collection-group-count{font-family:var(--ui);font-size:.75rem;letter-spacing:0;color:var(--muted)}
+.collection-index .collection-group-attended ol{grid-template-columns:repeat(4,minmax(0,1fr));gap:.25rem 2rem}
+.collection-index .collection-group-others ol{grid-template-columns:repeat(4,minmax(0,1fr));gap:.25rem 2rem}
+.site-header .collection-group a,.story-body.enhanced:not(.reading) .site-header .collection-group a{justify-content:flex-start;align-items:flex-start;gap:.35rem;padding:.75rem 0;min-height:2.75rem;white-space:normal;border:0;box-shadow:none;line-height:1.35}
+.collection-index .collection-group-attended .collection-session-label{font-size:1.05rem;color:var(--ink)}
+.collection-index .collection-group-others .collection-session-label{font-size:.95rem;font-weight:400;color:var(--ink)}
+.collection-index .collection-session-title{font-size:.85rem;line-height:1.4;color:var(--muted)}
+.collection-session-time{font-size:.75rem;line-height:1.45;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+.site-header .collection-index a[aria-current=page] .collection-session-label{color:var(--blue);font-weight:700}
+.collection-index .collection-utilities{display:flex;flex-wrap:wrap;gap:.5rem 2rem;margin-top:1.5rem}
+.site-header .collection-utilities a,.story-body.enhanced:not(.reading) .site-header .collection-utilities a{display:inline-flex;flex-direction:row;align-items:center;min-height:2.75rem;padding:.65rem 0;font-size:.85rem;color:var(--blue)}
+@media(max-width:900px){
+ .collection-index .collection-group-attended ol,.collection-index .collection-group-others ol{grid-template-columns:repeat(2,minmax(0,1fr));gap:.25rem 1.5rem}
+}
+@media(max-width:600px){
+ .site-header .collection-index{padding-top:.9rem;padding-bottom:1.25rem}
+ .collection-index-label{font-size:.7rem;line-height:1.6;margin-bottom:.85rem}
+ .collection-index .collection-group h2{font-size:1.6rem;margin-bottom:.45rem}
+ .collection-index .collection-group-attended ol{grid-template-columns:repeat(2,minmax(0,1fr));gap:.15rem 1rem}
+ .collection-index .collection-group-others ol{grid-template-columns:minmax(0,1fr);gap:.15rem}
+ .site-header .collection-group a,.story-body.enhanced:not(.reading) .site-header .collection-group a{padding:.6rem 0;gap:.25rem}
+ .collection-index .collection-group-attended .collection-session-label{font-size:.95rem}
+ .collection-index .collection-session-title{font-size:.8rem;line-height:1.35}
+ .collection-session-time{font-size:.7rem}
+ .collection-index .collection-group+.collection-group{margin-top:1.25rem}
+ .collection-index .collection-utilities{gap:.25rem 1.5rem;margin-top:1rem}
+}

@@ -1,6 +1,6 @@
 # AI Summit PJAIT · 16 września 2026
 
-[Otwórz kolekcję](https://jakiesluchawki.github.io/daniel-opowiesc/). Dwanaście merytorycznych sesji i osobny [Słowniczek](slowniczek.html). Indeks „Wykłady” na każdej stronie zachowuje kolejność konferencji.
+[Otwórz kolekcję](https://jakiesluchawki.github.io/daniel-opowiesc/). Dwanaście merytorycznych sesji i osobny [Słowniczek](slowniczek.html). Menu na każdej stronie wyróżnia cztery sesje „Na miejscu”: Naskręckiego, Dragana, panel Rosiaka i Q&A. Osiem pozostałych znajduje się w drugiej grupie; skrypt zachowuje kolejność całej konferencji.
 
 - [Rokosz](rokosz.html), [Media cyfrowe](digital-media.html), [Idziak](idziak.html), [Wdrożenia](wdrozenia.html), [AI i P&L](pnl.html), [Biznes](business.html), [Cyberbezpieczeństwo](cybersecurity.html): szczegółowe autorskie opracowania i mapy z linkami do konkretnych czasów pełnego nagrania. Po dwie nowe, dedykowane szerokie ilustracje na sesję.
 - [Naskręcki](index.html): 12 pełnoekranowych scen z osobnymi wariantami szerokimi i pionowymi. Trzy krótkie akapity widoczne od razu. „Czytaj całość” i no-JS zachowują 36 dłuższych akapitów. Daniel jest bohaterem adaptacji; prelegentem jest Bartosz Naskręcki.
@@ -27,3 +27,5 @@ Opinie, przykłady i prognozy należą do rozmówców. Lista programu nie służ
 Statyczny HTML/CSS/JS: 19 stron, bez zależności uruchomieniowych, analityki i zewnętrznych fontów. Pages publikuje root istniejącej gałęzi `codex/opowiesc`. [Rejestr sesji](source/collection.json) i [mapa nagrania](source/conference-recording.json) zawierają publiczne metadane. Audio, surowe napisy i prywatne ścieżki pozostają poza repozytorium strony.
 
 Romie i Roobert są dostarczonymi licencjonowanymi fontami. [ARTWORK.md](ARTWORK.md) dokumentuje wszystkie 45 grafik, dokładne prompty oraz tryby generate/edit. Siedem dodanych sesji ma 14 nowych, dedykowanych scen, wygenerowanych przez wbudowany image_gen. [Manifest ilustracji](source/fullbleed-art.json) podaje publiczne ścieżki i rzeczywiste wymiary. JPG to kodowanie istniejących ilustracji, bez tekstu w rastrze. [Design](DESIGN.md) · [Produkt](PRODUCT.md).
+
+Słowniczek ma sześć działów tematycznych i osobny indeks cytatów, autorów oraz dzieł. Wyszukiwanie i filtry rodzaju wpisu oraz sesji pomagają przeglądać 161 pozycji; bez JavaScript pozostają pełne teksty i rozwijane indeksy.

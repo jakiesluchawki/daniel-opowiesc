@@ -15,6 +15,14 @@
       summary.focus({preventScroll: true});
     }
   });
+  // The existing slide app guards keys and swipe whenever this details is open.
+  // Guard its explicit buttons too, before a click reaches their app handlers.
+  document.addEventListener('click', event => {
+    if (menu.open && event.target.closest('.reader-controls button')) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+    }
+  }, true);
   document.addEventListener('click', event => {
     if (menu.open && !menu.contains(event.target)) menu.open = false;
   });
