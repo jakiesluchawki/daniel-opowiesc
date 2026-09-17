@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "title": "AI Summit PJAIT 2026",
+  "glossaryPage": "slowniczek.html",
+  "lectures": [
+    {
+      "id": "rokosz",
+      "label": "Rokosz",
+      "title": "Od surrealizmu do sztucznej inteligencji: ciągłość czy przełom?",
+      "page": "rokosz.html",
+      "transcriptPage": null,
+      "kind": "lecture",
+      "primary": false,
+      "artCount": 2,
+      "href": "rokosz.html"
+    },
+    {
+      "id": "digital-media",
+      "label": "Media cyfrowe",
+      "title": "AI & Digital Media",
+      "page": "digital-media.html",
+      "transcriptPage": null,
+      "kind": "panel",
+      "primary": false,
+      "artCount": 2,
+      "href": "digital-media.html"
+    },
+    {
+      "id": "idziak",
+      "label": "Idziak",
+      "title": "AI z punktu widzenia emeryta",
+      "page": "idziak.html",
+      "transcriptPage": null,
+      "kind": "lecture",
+      "primary": false,
+      "artCount": 2,
+      "href": "idziak.html"
+    },
+    {
+      "id": "wdrozenia",
+      "label": "Wdrożenia",
+      "title": "AI & Wdrożenia",
+      "page": "wdrozenia.html",
+      "transcriptPage": null,
+      "kind": "panel",
+      "primary": false,
+      "artCount": 2,
+      "href": "wdrozenia.html"
+    },
+    {
+      "id": "pnl",
+      "label": "AI i P&L",
+      "title": "AI wchodzi do P&L. Po obu stronach",
+      "page": "pnl.html",
+      "transcriptPage": null,
+      "kind": "lecture",
+      "primary": false,
+      "artCount": 2,
+      "href": "pnl.html"
+    },
+    {
+      "id": "business",
+      "label": "Biznes",
+      "title": "AI & Business",
+      "page": "business.html",
+      "transcriptPage": null,
+      "kind": "panel",
+      "primary": false,
+      "artCount": 2,
+      "href": "business.html"
+    },
+    {
+      "id": "cybersecurity",
+      "label": "Cyberbezpieczeństwo",
+      "title": "AI & Cybersecurity",
+      "page": "cybersecurity.html",
+      "transcriptPage": null,
+      "kind": "panel",
+      "primary": false,
+      "artCount": 2,
+      "href": "cybersecurity.html"
+    },
+    {
+      "id": "daniel",
+      "label": "Naskręcki",
+      "title": "Nie potrzebujemy już matematyków",
+      "page": "index.html",
+      "transcriptPage": "transkrypcja.html",
+      "kind": "lecture",
+      "primary": true,
+      "artCount": 0,
+      "href": "./"
+    },
+    {
+      "id": "psyho",
+      "label": "Psyho i Bagiński",
+      "title": "Od sztuki po najbrudniejszą robotę",
+      "page": "psyho-baginski.html",
+      "transcriptPage": "psyho-baginski-transkrypcja.html",
+      "kind": "panel",
+      "primary": true,
+      "artCount": 2,
+      "href": "psyho-baginski.html"
+    },
+    {
+      "id": "dragan",
+      "label": "Dragan",
+      "title": "Dziury koloru białego",
+      "page": "dragan.html",
+      "transcriptPage": "dragan-transkrypcja.html",
+      "kind": "lecture",
+      "primary": true,
+      "artCount": 2,
+      "href": "dragan.html"
+    },
+    {
+      "id": "final",
+      "label": "Rosiak",
+      "title": "Co jeszcze pozostało dla człowieka? Stan gry na 2026",
+      "page": "panel-finalowy.html",
+      "transcriptPage": "panel-finalowy-transkrypcja.html",
+      "kind": "panel",
+      "primary": true,
+      "artCount": 2,
+      "href": "panel-finalowy.html"
+    },
+    {
+      "id": "qa",
+      "label": "Q&A",
+      "title": "Pytania i odpowiedzi",
+      "page": "qa.html",
+      "transcriptPage": "qa-transkrypcja.html",
+      "kind": "panel",
+      "primary": true,
+      "artCount": 1,
+      "href": "qa.html"
+    }
+  ]
+}

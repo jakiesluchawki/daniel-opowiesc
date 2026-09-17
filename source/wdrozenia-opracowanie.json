@@ -1,0 +1,199 @@
+{
+  "id": "wdrozenia",
+  "title": "Wdrożenie zaczyna się od ludzi i procesu",
+  "programTitle": "AI & Wdrożenia",
+  "participants": [
+    "Katarzyna Otto",
+    "Adam Kuzdraliński",
+    "Bartłomiej Bargiel",
+    "Franciszek Bazyli Georgiew",
+    "Jacek Stryczyński",
+    "Michał Rawski"
+  ],
+  "participantsBasis": "program/confirmed_announcement",
+  "moderator": "Łukasz Kijek",
+  "lead": "Jak wprowadzać AI, kiedy ludzie widzą w niej zarówno pomoc, jak i zagrożenie? Panel prowadzony przez Łukasza Kijka zestawia spór o zarządzanie z konkretnymi pytaniami o dane, bezpieczeństwo i różnicę między demonstracją a działającym procesem.",
+  "summaryTitle": "Narzędzie nie wdroży zmiany za organizację",
+  "summaryParagraphs": [
+    "Rozmowa zaczyna się od oporu pracowników. Uczestnicy nie proponują jednej metody: od zdecydowanego przełamywania dawnych wyobrażeń przechodzą do współpracy, diagnozowania obaw i pokazywania pierwszych sukcesów. Różnice dotyczą również skali organizacji.",
+    "Wspólnym problemem pozostaje gotowość procesu. Strategia bez danych, produkt bez odpowiedzi o bezpieczeństwo i agent bez człowieka odpowiadającego za wynik mogą stworzyć koszt, zamiast wartości. Piaskownica ma pomóc poznać możliwości przed większą decyzją."
+  ],
+  "keyPoints": [
+    "Opór może wynikać zarówno z obawy, jak i z rzeczywistej wady rozwiązania.",
+    "Panel różni się w ocenie tempa i sposobu kierowania zmianą.",
+    "Przykład działającego usprawnienia pomaga bardziej niż sama obietnica narzędzia.",
+    "Jeden sprawdzalny proces może być lepszym początkiem niż strategia całej firmy.",
+    "Agenci potrzebują granic, a zespół nadal odpowiada za wynik.",
+    "Dane, bezpieczeństwo i nauka użytkowników należą do wdrożenia."
+  ],
+  "sections": [
+    {
+      "id": "w-01",
+      "title": "Opór może pokazać błąd",
+      "paragraphs": [
+        "Łukasz Kijek zaczyna od ludzi, zanim przejdzie do narzędzi. Pyta, dlaczego wdrożenie może wywoływać niechęć i jak uniknąć sytuacji, w której pracownicy formalnie uczestniczą w zmianie, lecz w praktyce ją blokują. Sam wspomina własny wcześniejszy bunt wobec używania AI w dziennikarstwie.",
+        "Bartłomiej Bargiel proponuje potraktować taki sygnał również jako informację o rozwiązaniu. Jeżeli automatyzacja dokłada sprawdzanie i przeszkadza w pracy, problem może leżeć w procesie. Dobra zmiana powinna usuwać potrzebny wcześniej krok, zamiast dodawać nową obowiązkową czynność z etykietą AI."
+      ],
+      "videoStart": 7754.48,
+      "videoEnd": 7894
+    },
+    {
+      "id": "w-02",
+      "title": "Tempo zmiany kontra partnerskie zarządzanie",
+      "paragraphs": [
+        "Franciszek Georgiew opisuje konflikt we własnym zespole. Według jego relacji pracownicy sprzeciwili się komunikatowi, że sam wykonuje w dzień pracę wcześniej wymagającą miesięcy. On interpretuje tę sytuację jako konieczność odrzucenia dawnych wyobrażeń o tym, co jest możliwe, i utrzymania ambitnego terminu.",
+        "Adam Kuzdraliński polemizuje z takim sposobem postępowania. Uważa, że wdrożenie powinno powstawać razem z ludźmi i z uwzględnieniem wiedzy specjalistów. Dla jednej osoby narzędzie może być potrzebne od razu, dla innej później. Spór dotyczy nie samego potencjału AI, lecz tego, jak kierować zespołem wobec nierównego tempa nauki."
+      ],
+      "videoStart": 7894,
+      "videoEnd": 8090
+    },
+    {
+      "id": "w-03",
+      "title": "Rozpoznać, skąd bierze się obawa",
+      "paragraphs": [
+        "Katarzyna Otto kieruje rozmowę ku zarządzaniu zmianą. Opór może wynikać z braku kompetencji, zagrożenia dla pracy albo niejasnego celu. Te przyczyny wymagają różnych odpowiedzi; samo przekonywanie, że nowa technologia jest szybsza, nie tłumaczy każdemu, co zyska i za co będzie odpowiadać.",
+        "W innym przykładzie rozmówca proponuje najpierw sprawdzić rozwiązanie samemu i znaleźć osoby gotowe testować je wcześnie. Gdy widzą realną pomoc, stają się ambasadorami zmiany. Pozostali nie muszą wtedy wierzyć wyłącznie w deklarację kierownictwa: mogą zobaczyć działający przykład i sami poprosić o dostęp."
+      ],
+      "videoStart": 8090,
+      "videoEnd": 8325
+    },
+    {
+      "id": "w-04",
+      "title": "Duża organizacja też może być ciekawa",
+      "paragraphs": [
+        "Przykład banku komplikuje obraz nieuchronnego buntu. Jeden z rozmówców opisuje duże zainteresowanie pracowników oraz szybkie przejście przez szkolenia z bezpiecznego i etycznego używania AI. To jego obserwacja konkretnej organizacji, nie obietnica jednakowego zachowania wszystkich dużych zespołów.",
+        "Bankowa skala dokłada jednak trudności. Projektowanie zastosowań wymaga rozumienia możliwości technologii, zanim zostanie ona dopasowana do obsługi klienta lub pracy departamentu. Rozmówca dostrzega ryzyko prowadzenia nowych projektów według dobrze znanych zasad, które nie odpowiadają jeszcze ich specyfice."
+      ],
+      "videoStart": 8325,
+      "videoEnd": 8580
+    },
+    {
+      "id": "w-05",
+      "title": "Najpierw problem, potem strategia",
+      "paragraphs": [
+        "Kijek pyta następnie, komu AI jest potrzebna i jak wybrać sensowne zastosowanie. Georgiew opowiada się za szybszym sprawdzaniem nowych możliwości. Własne doświadczenia przedstawia jako argument za przełamywaniem utrwalonych sposobów pracy; mówi też o zmniejszeniu dużego zespołu ze 120 do 70 osób. To jego relacja, nie miara typowego efektu automatyzacji.",
+        "Bargiel pokazuje przeciwne ryzyko: firma zamawia szeroką strategię AI, choć nie uporządkowała danych ani procesów, a potem po długiej implementacji rozwiązanie nie działa. Proponuje zdiagnozowanie jednego problemu i przygotowanie ludzi, procesu oraz danych pod sprawdzalny wynik. Demonstracja nie jest jeszcze dowodem działania w środowisku produkcyjnym."
+      ],
+      "videoStart": 8580,
+      "videoEnd": 8870
+    },
+    {
+      "id": "w-06",
+      "title": "Mikrosukces zamiast wielkiej rewolucji",
+      "paragraphs": [
+        "W panelu pojawia się pomysł dzielenia dużego procesu na małe części. Kolejne usprawnienia mają budować odwagę do zgłaszania własnych pomysłów, a nie wzmacniać wcześniejszy opór. Taki sposób pracy uwalnia zasoby stopniowo i pozwala zobaczyć, czy zmiana rzeczywiście pomaga.",
+        "Konkretnym przykładem są agenci wspierający wytwarzanie oprogramowania, którym deleguje się zadania w określonych granicach. Rozmówca podkreśla, że zespół nadal odpowiada za rezultat. Narzędzie nie jest usprawiedliwieniem wdrożenia czegoś, czego człowiek nie potrafi sprawdzić i obronić."
+      ],
+      "videoStart": 8870,
+      "videoEnd": 9100
+    },
+    {
+      "id": "w-07",
+      "title": "Dane i bezpieczeństwo są częścią zadania",
+      "paragraphs": [
+        "Otto zwraca uwagę na rozbieżną gotowość organizacji. Powszechne prywatne używanie chatbotów nie oznacza, że firma ma przygotowane źródła danych, zabezpieczenia, kompetencje i wspólne rozumienie celu. Rozmowa o technologii powinna uwzględniać tę różnicę, zamiast zakładać jeden poziom dojrzałości.",
+        "Bankowy przykład pokazuje też ograniczenia ofert sprzedażowych. Rozwiązanie musi pasować do wymagań dotyczących infrastruktury, chmury i ochrony informacji. Rozmówca opisuje sytuacje, gdy dostawca potrafi obiecać wygodę agentów, ale nie odpowiada na podstawowe pytania o ich bezpieczne zastosowanie w regulowanej instytucji."
+      ],
+      "videoStart": 9100,
+      "videoEnd": 9400
+    },
+    {
+      "id": "w-08",
+      "title": "Nauczyć się współpracy, zanim się ją rozliczy",
+      "paragraphs": [
+        "W końcowej części powraca piaskownica: przestrzeń, w której można bezpiecznie eksperymentować i poznać możliwości technologii przed obudowaniem wdrożenia pełnymi wymaganiami. Zespoły potrzebują kontaktu z działającym rozwiązaniem, aby lepiej rozumieć, czego oczekują od produkcyjnego projektu.",
+        "Kuzdraliński przypomina, że współpraca z modelem nie jest zwykłym przeniesieniem rozmowy między ludźmi. Pojawiają się halucynacje i rezultaty, które użytkownik odbiera jako kłamstwo, choć taki opis nie wyjaśnia mechanizmu. Szybkie oswojenie narzędzi może więc wymagać czasu na próby, sprawdzanie i naukę ich ograniczeń.",
+        "Jego finałowy argument łączy tempo z ostrożnością: pozorna oszczędność znika, jeśli firma wdraża wszystko naraz, a potem wraca do poprzednich rozwiązań. Strategia, małe kroki i współpraca z pracownikami mogą według niego dać lepszy wynik niż seria pospiesznych taktycznych decyzji."
+      ],
+      "videoStart": 9400,
+      "videoEnd": 9645.6
+    }
+  ],
+  "timeline": [
+    {
+      "id": "m-01",
+      "title": "Opór może pokazać błąd",
+      "start": 7754.48,
+      "end": 7894,
+      "paragraphs": [
+        "Opór pracownika może być sygnałem, że narzędzie utrudnia proces zamiast go usprawniać."
+      ]
+    },
+    {
+      "id": "m-02",
+      "title": "Tempo zmiany kontra partnerskie zarządzanie",
+      "start": 7894,
+      "end": 8090,
+      "paragraphs": [
+        "Georgiew i Kuzdraliński spierają się o przywództwo, tempo oraz szacunek dla kompetencji zespołu."
+      ]
+    },
+    {
+      "id": "m-03",
+      "title": "Rozpoznać, skąd bierze się obawa",
+      "start": 8090,
+      "end": 8325,
+      "paragraphs": [
+        "Rozpoznanie przyczyn obaw i wczesnych testerów pozwala rozmawiać o konkretnej zmianie."
+      ]
+    },
+    {
+      "id": "m-04",
+      "title": "Duża organizacja też może być ciekawa",
+      "start": 8325,
+      "end": 8580,
+      "paragraphs": [
+        "Relacja z banku pokazuje zainteresowanie pracowników obok trudności projektowania w dużej organizacji."
+      ]
+    },
+    {
+      "id": "m-05",
+      "title": "Najpierw problem, potem strategia",
+      "start": 8580,
+      "end": 8870,
+      "paragraphs": [
+        "Nieuporządkowana firma może otrzymać strategię, której nie jest jeszcze gotowa wykonać."
+      ]
+    },
+    {
+      "id": "m-06",
+      "title": "Mikrosukces zamiast wielkiej rewolucji",
+      "start": 8870,
+      "end": 9100,
+      "paragraphs": [
+        "Małe sukcesy oraz ograniczone zadania agentów zostawiają odpowiedzialność po stronie zespołu."
+      ]
+    },
+    {
+      "id": "m-07",
+      "title": "Dane i bezpieczeństwo są częścią zadania",
+      "start": 9100,
+      "end": 9400,
+      "paragraphs": [
+        "Gotowość danych i wymagania bezpieczeństwa określają, co da się sensownie wdrożyć."
+      ]
+    },
+    {
+      "id": "m-08",
+      "title": "Nauczyć się współpracy, zanim się ją rozliczy",
+      "start": 9400,
+      "end": 9645.6,
+      "paragraphs": [
+        "Piaskownica oraz uczenie ograniczeń modeli łączą eksperyment z długofalową strategią."
+      ]
+    }
+  ],
+  "sourceNote": "Autorska parafraza panelu z polskich automatycznych napisów pełnego streamu PJAIT. Skład pochodzi z programu i zapowiedzi; głosów nie przypisano na podstawie afiliacji. Liczby i doświadczenia firm pozostają relacjami uczestników. Pominięto promocję podcastu i uczelni, organizacyjne podziękowania oraz nierozpoznane nazwy raportów.",
+  "recording": {
+    "url": "https://www.youtube.com/live/SurotppGtyA",
+    "startSeconds": 7754.48,
+    "endSeconds": 9645.6,
+    "timeBasis": "full_video",
+    "includedRanges": [
+      {
+        "start": 7754.48,
+        "end": 9645.6
+      }
+    ]
+  }
+}

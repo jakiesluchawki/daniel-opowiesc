@@ -37,6 +37,7 @@
     if (focus) chapters[current].querySelector('h1,h2').focus({preventScroll: true});
   }
   function setReading(value, initial = false) {
+    document.querySelectorAll('#collection-menu[open]').forEach(menu => menu.open = false);
     reading = value;
     body.classList.toggle('reading', reading);
     modeButton.setAttribute('aria-pressed', String(reading));
@@ -72,7 +73,7 @@
     } else showChapter(index, {focus: true, scroll: true});
   }));
   document.addEventListener('keydown', event => {
-    if (reading || event.altKey || event.ctrlKey || event.metaKey || /^(INPUT|TEXTAREA|SELECT|BUTTON|SUMMARY|A)$/.test(event.target.tagName)) return;
+    if (reading || document.querySelector('#collection-menu[open]') || event.altKey || event.ctrlKey || event.metaKey || /^(INPUT|TEXTAREA|SELECT|BUTTON|SUMMARY|A)$/.test(event.target.tagName)) return;
     if (event.key === 'ArrowRight' || event.code === 'Space') { event.preventDefault(); showChapter(current + 1, {focus: true, scroll: true}); }
     if (event.key === 'ArrowLeft') { event.preventDefault(); showChapter(current - 1, {focus: true, scroll: true}); }
   });
@@ -81,7 +82,7 @@
     if (e.touches.length === 1) touch = {x: e.touches[0].clientX, y: e.touches[0].clientY};
   }, {passive: true});
   document.querySelector('main').addEventListener('touchend', e => {
-    if (!touch || reading || !e.changedTouches[0]) return;
+    if (!touch || reading || document.querySelector('#collection-menu[open]') || !e.changedTouches[0]) return;
     const dx = e.changedTouches[0].clientX - touch.x;
     const dy = e.changedTouches[0].clientY - touch.y;
     touch = null;

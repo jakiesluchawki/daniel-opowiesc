@@ -2,7 +2,7 @@
 
 Generator: wbudowane `image_gen`. 24 warianty slajdów to **edit/outpaint** wcześniejszych scen (wraz z korektami kompozycji). Panoramiczne otwarcia artykułów rozwijają istniejące motywy; przeplecenia i Q&A to nowe sceny z referencją stylu. Nie zakładamy nieudokumentowanych parametrów modelu, seedów ani ustawień jakości generatora.
 
-Wyniki natywne: slajdy 1672×941 i 941×1672, hero artykułów 1860×846 (Rosiak: 1859×846) (Rosiak: 1859×846), przeplecenia i Q&A 1672×941. Prośby w promptach o 2048×1152 / 1152×2048 nie są rzeczywistym rozmiarem wyjścia. Konwersja do WebP: Pillow, quality=86, method=6, bez cropu i resamplingu. JPG do udostępniania: quality=90, bez zmiany wymiarów i rysunku. Żadnego nowego obrazu nie wygenerowano przy tej integracji.
+Wyniki natywne: slajdy 1672×941 i 941×1672, hero artykułów 1860×846 (Rosiak: 1859×846), przeplecenia i Q&A 1672×941. Prośby w promptach o 2048×1152 / 1152×2048 nie są rzeczywistym rozmiarem wyjścia. Konwersja do WebP: Pillow, quality=86, method=6, bez cropu i resamplingu. JPG do udostępniania: quality=90, bez zmiany wymiarów i rysunku. Żadnego nowego obrazu nie wygenerowano przy tej integracji.
 
 ## Publiczne pliki
 
@@ -1209,3 +1209,17 @@ Use case: style-reference for a NEW illustration. Use the attached graphite draw
   "origin": "generated_images/01a0aa72-f9d3-7ba2-be19-e07dd1115261/exec-85b77ebd-cb41-4963-bb2d-e68f6e7beeb4.png"
 }
 ```
+
+## Ponowne użycie w rozszerzeniu pełnej konferencji
+
+Siedem nowych zakładek korzysta wyłącznie z istniejących szerokich wariantów. Nie uruchamiano nowego generate/edit ani nie zmieniano rysunków. Każda ma obraz na pełną szerokość na początku i jedno przeplecenie w środku. To ilustracje redakcyjne, nie rekonstrukcja sali ani wizerunku prelegenta. Wspólny OG korzysta z istniejącego `assets/preview.jpg`, 1672×941.
+
+| Sesja | Otwarcie | Przeplecenie |
+|---|---|---|
+| [rokosz](rokosz.html) | [assets/ostatni-full-desktop.webp](assets/ostatni-full-desktop.webp) | [assets/odyseja-full-desktop.webp](assets/odyseja-full-desktop.webp) |
+| [digital-media](digital-media.html) | [assets/konferencja-full-desktop.webp](assets/konferencja-full-desktop.webp) | [assets/generalisci-full-desktop.webp](assets/generalisci-full-desktop.webp) |
+| [idziak](idziak.html) | [assets/darek-full-desktop.webp](assets/darek-full-desktop.webp) | [assets/dzieci-full-desktop.webp](assets/dzieci-full-desktop.webp) |
+| [wdrozenia](wdrozenia.html) | [assets/podziekowanie-full-desktop.webp](assets/podziekowanie-full-desktop.webp) | [assets/studenci-full-desktop.webp](assets/studenci-full-desktop.webp) |
+| [pnl](pnl.html) | [assets/generalisci-full-desktop.webp](assets/generalisci-full-desktop.webp) | [assets/skrzynie-full-desktop.webp](assets/skrzynie-full-desktop.webp) |
+| [business](business.html) | [assets/konferencja-full-desktop.webp](assets/konferencja-full-desktop.webp) | [assets/obozy-full-desktop.webp](assets/obozy-full-desktop.webp) |
+| [cybersecurity](cybersecurity.html) | [assets/skrzynie-full-desktop.webp](assets/skrzynie-full-desktop.webp) | [assets/antydaniele-full-desktop.webp](assets/antydaniele-full-desktop.webp) |

@@ -40,15 +40,24 @@
         1,
         2
       ],
-      "duration_seconds": null
+      "duration_seconds": 200.228,
+      "duration_is_approximate": true,
+      "global_start": 35484.711,
+      "global_end": 35684.939,
+      "supplement_format": "editorial_paraphrase"
     },
     {
       "between_parts": [
         2,
         3
       ],
-      "duration_seconds": null
+      "duration_seconds": 12.013,
+      "duration_is_approximate": true,
+      "global_start": 36109.863,
+      "global_end": 36121.876,
+      "supplement_format": "editorial_paraphrase"
     }
   ],
-  "transcript_note": "Trzy lokalne zegary i dwie luki o nieznanej długości; fragmenty nieczytelne i niepewne pozostają oznaczone."
+  "broadcast_source": "https://www.youtube.com/live/SurotppGtyA",
+  "transcript_note": "Trzy lokalne zegary, sprawdzony tekst i dwie wyraźnie oznaczone parafrazy odzyskanych przerw. Linki do streamu używają osobnego, ciągłego zegara; fragmenty nieczytelne i niepewne pozostają oznaczone."
 }

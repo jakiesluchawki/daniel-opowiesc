@@ -1,0 +1,192 @@
+{
+  "id": "rokosz",
+  "title": "Kreska, maszyna i miejsce dla artysty",
+  "programTitle": "Od surrealizmu do sztucznej inteligencji: ciągłość czy przełom?",
+  "participants": [
+    "Jacek Rokosz"
+  ],
+  "participantsBasis": "program/confirmed_announcement",
+  "moderator": null,
+  "lead": "Jacek Rokosz patrzy na AI przez historię animacji. W jego opowieści najciekawsza zmiana nie polega wyłącznie na skróceniu produkcji: maszyna potrafi również zachować ekspresję ręki i przesunąć uwagę twórcy na inne zadania.",
+  "summaryTitle": "Automatyzacja ma długą historię",
+  "summaryParagraphs": [
+    "Wykład prowadzi od cykli ruchu i podziału pracy do rotoskopii oraz kserograficznego przenoszenia rysunków. Rokosz proponuje traktować AI jako część tego ciągu usprawnień, oswajając dzisiejszy niepokój przez porównania z wcześniejszymi zmianami.",
+    "Ta perspektywa ma napięcie: wygoda animatora może oznaczać zniknięcie pracy w innym dziale. Ostateczne kryterium prelegenta jest twórcze — czy narzędzie pozwala lepiej wykorzystać uwagę, umiejętności i osobisty zamiar."
+  ],
+  "keyPoints": [
+    "Animacja zawsze potrzebowała techniki, aby nieruchomy materiał stał się ruchem.",
+    "Liczba rysunków zależy od charakteru gestu, nie tylko od oszczędności.",
+    "Przemysłowy podział pracy zwiększa tempo, lecz może ujednolicać rezultaty.",
+    "Kserografia jest przykładem automatyzacji, która zachowuje ekspresję szkicu.",
+    "Korzyść jednego działu może zmienić zakres pracy innego."
+  ],
+  "sections": [
+    {
+      "id": "w-01",
+      "title": "Niepokój artysty potrzebuje kontekstu",
+      "paragraphs": [
+        "Jacek Rokosz zaczyna od pytań, które słyszy od studentów i znajomych animatorów: czy zostanie dla nich praca, czy nadal warto uczyć się klatek kluczowych i opowiadania historii. Sam patrzy na technologię z perspektywy twórcy, który używa jej intuicyjnie, a nie projektuje jej mechanizmów.",
+        "Jego sposobem oswojenia zmiany jest poszukiwanie dłuższej historii. Animacja od początku łączyła wyobraźnię z urządzeniami: nieruchoma kreska, lalka lub model otrzymywały ruch i emocje dzięki rejestracji kolejnych obrazów. Techniczna zależność sztuki nie zaczęła się wraz z generatywnymi modelami."
+      ],
+      "videoStart": 1518.44,
+      "videoEnd": 1675
+    },
+    {
+      "id": "w-02",
+      "title": "Samolot poprawiany po kawałku",
+      "paragraphs": [
+        "Rokosz przywołuje przypisaną Richardowi Dawkinsowi analogię konstruowania samolotu. Prymitywny pojazd nie od razu staje się sprawną maszyną. Kolejne drobne poprawki skrzydeł, kadłuba i napędu pozwalają mu stopniowo lecieć dalej. Taką perspektywę proponuje również wobec rozwoju animacji.",
+        "W tej opowieści AI jest kolejnym etapem ewolucji narzędzi, a nie początkiem automatyzacji. Widoczne przełomy mają wcześniejsze, mniej efektowne próby i usprawnienia. Prelegent szuka ich także w analogowych rozwiązaniach, żeby nie utożsamiać całej historii pomocy technicznej z komputerami."
+      ],
+      "videoStart": 1675,
+      "videoEnd": 1858
+    },
+    {
+      "id": "w-03",
+      "title": "Mniej rysować, zachować ruch",
+      "paragraphs": [
+        "Pierwsze usprawnienia dotyczą samej konstrukcji ruchu. Powtarzający się cykl pozwala wykorzystać te same rysunki ponownie. Innym pytaniem jest liczba zmian potrzebnych w sekundzie: oszczędność pracy nie może sprawić, że widz zamiast ruchu zobaczy serię oddzielnych obrazów.",
+        "Rokosz rozróżnia szybki gest i subtelne emocje. W jego praktycznym przykładzie bieg lub skok może tolerować rzadsze zmiany, natomiast pocałunek czy delikatny gest wymagają ich więcej. Optymalizacja nie polega więc na jednej stałej recepturze; zależy od tego, co ma odczytać widz."
+      ],
+      "videoStart": 1858,
+      "videoEnd": 1982
+    },
+    {
+      "id": "w-04",
+      "title": "Taśma produkcyjna wchodzi do studia",
+      "paragraphs": [
+        "W historycznej interpretacji Rokosza kryzys gospodarczy końca lat dwudziestych przyspieszył przemysłowe organizowanie filmu. Studia potrzebowały szybciej i taniej produkować dla publiczności dysponującej mniejszą ilością pieniędzy. Punktem odniesienia stała się praca podzielona między wyspecjalizowane działy.",
+        "Prelegent opisuje przepływ materiału między scenarzystami, reżyserami, animatorami i kolejnymi zespołami. Zyskiem jest przewidywalna produkcja; kosztem może być ujednolicenie. Łączy tę zmianę również z dominacją powtarzalnych schematów opowiadania, przedstawiając własną interpretację przemysłowego kina, a nie niepodważalną cezurę całej sztuki."
+      ],
+      "videoStart": 1982,
+      "videoEnd": 2223
+    },
+    {
+      "id": "w-05",
+      "title": "Ciało aktora pomaga rysunkowi",
+      "paragraphs": [
+        "Na przykładzie studia Disneya Rokosz pokazuje ambicję przesuwania granic technicznych: dźwięk, kolor i pełny metraż są w jego opowieści kolejnymi wyzwaniami produkcji. Szczególnie interesuje go sposób ułatwienia animowania ludzkich postaci w Królewnie Śnieżce.",
+        "Opisuje nagranie aktorów, których ruch następnie odrysowywano. Rotoskopia daje animatorowi materiał zamiast konieczności wymyślania każdej pozy ciała od początku. Rokosz zestawia tę technikę ze współczesnym przechwytywaniem ruchu: zmieniają się urządzenia, pozostaje pomysł wykorzystania już istniejącego zachowania."
+      ],
+      "videoStart": 2223,
+      "videoEnd": 2344
+    },
+    {
+      "id": "w-06",
+      "title": "Sto jeden psów i problem skali",
+      "paragraphs": [
+        "Produkcja 101 Dalmatyńczyków stawia problem szczególnie czytelny: wiele postaci, a na każdej ruchome plamy. Rokosz prowadzi słuchaczy przez dawny proces. Animator szkicuje klatki, następny dział przenosi kontury na przezroczysty materiał, nakłada kolory, a kamera rejestruje obrazy nad namalowanym tłem.",
+        "Każdy etap wymaga ręcznej pracy, a światłoczuła taśma dokłada ryzyko pomyłki. Prelegent wspomina własny film lalkowy: przypadkowe błyski ukrył, dodając dźwięk odległego grzmotu. Technologia jest tu zarazem ograniczeniem i okazją do pomysłowego rozwiązania; jej niedoskonałość nie wyklucza twórczego rezultatu."
+      ],
+      "videoStart": 2344,
+      "videoEnd": 2798
+    },
+    {
+      "id": "w-07",
+      "title": "Maszyna zachowuje ślad ręki",
+      "paragraphs": [
+        "Kserograficzne przenoszenie rysunków zmienia nie tylko tempo. Według Rokosza animatorzy zyskują widoczny ślad własnego szkicu, którego wcześniejsze ręczne obrysowywanie mogło pozbawiać ekspresji. Nierówność i przypadkowość linii stają się estetyczną zaletą procesu, zamiast usterką wymagającą usunięcia.",
+        "Zmiana ma też konsekwencje dla pracy innych osób. Prelegent opisuje utratę potrzeby ręcznego tuszowania oraz przesunięcie części pracownic do kolorowania. To ważne napięcie jego argumentu: narzędzie może uwolnić jednych twórców, jednocześnie zmieniając lub likwidując zadania wykonywane przez pozostałych."
+      ],
+      "videoStart": 2798,
+      "videoEnd": 2928
+    },
+    {
+      "id": "w-08",
+      "title": "Oszczędzać pracę dla czegoś ważniejszego",
+      "paragraphs": [
+        "Pokaz fragmentu filmu domyka techniczne przykłady. Rokosz zwraca uwagę również na śnieg: w jego relacji efekt powstał z nagranych przed kamerą płatków śniadaniowych, poddanych obróbce obrazu i nałożonych na animację. Nie trzeba było osobno rysować każdego spadającego elementu.",
+        "Wniosek wraca do początku wykładu. Automatyzacja ma dla Rokosza wartość wtedy, gdy pozwala poświęcić uwagę temu, co wymaga talentu i sprawia twórczą satysfakcję. Jego perspektywa nie usuwa problemu zatrudnienia; daje kontekst do pytania, które czynności warto zachować, a które oddać urządzeniu."
+      ],
+      "videoStart": 2928,
+      "videoEnd": 3082.559
+    }
+  ],
+  "timeline": [
+    {
+      "id": "m-01",
+      "title": "Niepokój artysty potrzebuje kontekstu",
+      "start": 1518.44,
+      "end": 1675,
+      "paragraphs": [
+        "Niepokój o zawód zostaje umieszczony w długiej historii związku animacji i technologii."
+      ]
+    },
+    {
+      "id": "m-02",
+      "title": "Samolot poprawiany po kawałku",
+      "start": 1675,
+      "end": 1858,
+      "paragraphs": [
+        "Analogią drobnych ulepszeń Rokosz uzasadnia swoją perspektywę ewolucji narzędzi."
+      ]
+    },
+    {
+      "id": "m-03",
+      "title": "Mniej rysować, zachować ruch",
+      "start": 1858,
+      "end": 1982,
+      "paragraphs": [
+        "Cykle oraz gęstość klatek pokazują, że oszczędność pracy musi służyć odbiorowi ruchu."
+      ]
+    },
+    {
+      "id": "m-04",
+      "title": "Taśma produkcyjna wchodzi do studia",
+      "start": 1982,
+      "end": 2223,
+      "paragraphs": [
+        "Podział produkcji między działy przyspiesza film, ale w interpretacji prelegenta wpływa też na jego formę."
+      ]
+    },
+    {
+      "id": "m-05",
+      "title": "Ciało aktora pomaga rysunkowi",
+      "start": 2223,
+      "end": 2344,
+      "paragraphs": [
+        "Odrysowywanie zarejestrowanych aktorów służy jako przykład pomocy technicznej poprzedzającej dzisiejsze modele."
+      ]
+    },
+    {
+      "id": "m-06",
+      "title": "Sto jeden psów i problem skali",
+      "start": 2344,
+      "end": 2798,
+      "paragraphs": [
+        "Dalmatyńczyki, ręczne etapy i światłoczuła taśma unaoczniają koszt dawnej produkcji."
+      ]
+    },
+    {
+      "id": "m-07",
+      "title": "Maszyna zachowuje ślad ręki",
+      "start": 2798,
+      "end": 2928,
+      "paragraphs": [
+        "Zmienna kreska i zmiana zadań pracowników pokazują estetyczny oraz społeczny wymiar automatyzacji."
+      ]
+    },
+    {
+      "id": "m-08",
+      "title": "Oszczędzać pracę dla czegoś ważniejszego",
+      "start": 2928,
+      "end": 3082.559,
+      "paragraphs": [
+        "Efekt śniegu prowadzi do pytania, czemu twórca chce poświęcić zaoszczędzoną uwagę."
+      ]
+    }
+  ],
+  "sourceNote": "Autorskie opracowanie prelekcji na podstawie polskich automatycznych napisów pełnego streamu PJAIT. Czas odnosi się do tego wideo. Historyczne zależności i anegdoty przypisano Rokoszowi; nie przedstawiono ich jako osobno potwierdzonych ustaleń. Pominięto zapowiedzi, autopromocję i dialog odtwarzanego filmu.",
+  "recording": {
+    "url": "https://www.youtube.com/live/SurotppGtyA",
+    "startSeconds": 1518.44,
+    "endSeconds": 3082.559,
+    "timeBasis": "full_video",
+    "includedRanges": [
+      {
+        "start": 1518.44,
+        "end": 3082.559
+      }
+    ]
+  }
+}

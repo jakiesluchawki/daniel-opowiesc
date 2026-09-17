@@ -4,29 +4,29 @@ AI Summit PJAIT, 16 września 2026. Tytuł i dane wydarzenia: [oficjalny program
 
 Transkrypcja scalona i lekko zredagowana: poprawiono oczywiste błędy rozpoznawania, nazwy i interpunkcję oraz ograniczono drobne zawahania. Niepewności pozostają w nawiasach kwadratowych. Dopiski redakcyjne nie są słowami prelegenta. Wypowiedzi o wydarzeniach i przewidywaniach zachowano jako treść wykładu.
 
-Dołączony plik trwa 10:24,87 i zaczyna się w trakcie wykładu, od końcówki zdania „…że to się będzie bardzo szybko skalować”. Wstęp poniżej pochodzi wyłącznie z wcześniejszego zapisu w czacie; nie da się sprawdzić jego brzmienia w tym pliku. Powtórzony fragment przy połączeniu obu źródeł pominięto. Znaczniki czasu odnoszą się do dołączonego nagrania i są orientacyjne.
+Pierwotne nagranie trwa 10:24,87 i zaczyna się w trakcie wykładu. Wstęp dostarczony wcześniej tekstem sprawdzono teraz z [pełnym nagraniem PJAIT — około 06:02:09](https://www.youtube.com/watch?v=SurotppGtyA&t=21729s). Nieczytelne miejsca dalszej części porównano z dźwiękiem transmisji i jej automatycznymi napisami. Zachowano orientacyjne, lokalne znaczniki pierwotnego nagrania; dodatkowe odnośniki na stronie korzystają z ciągłego zegara wideo. Niepewne brzmienie nadal oznaczono. Organizacyjne zakończenie pominięto.
 
-**[Wstęp — wcześniejszy zapis w czacie, bez nagrania tej części]**
+**[Wstęp — zapis tekstowy sprawdzony z pełnym nagraniem]**
 
-Jeżeli jesteście miłośnikami literatury, to odnajdziecie tutaj sporo różnych ciekawych smaczków, [niepewny zapis z czatu: „gniezda Daniel i postacie”].
+Jeżeli jesteście miłośnikami literatury, to odnajdziecie tutaj sporo różnych ciekawych smaczków, kim jest Daniel i inne postacie.
 
 No i właśnie, o czym będzie ten wykład? Chciałbym opowiedzieć tę historię z punktu widzenia sztucznej inteligencji, która zrobiła już wiele rzeczy. Te rzeczy, które za chwilę się pojawią na slajdach, to już są historyczne wydarzenia: niektóre sprzed kilku dni, niektóre sprzed kilku miesięcy. Niektóre według mnie są rzeczami, które się zdarzą w ciągu najbliższych tygodni, miesięcy, lat.
 
 Chciałbym, żeby Państwo przeżyli tę historię po swojemu i spróbowali się wczuć w to, jak ten świat będzie za dziesięć lat wyglądał, jeżeli jedna z tych wizji przyszłości związanych ze sztuczną inteligencją się rozwinie.
 
-Tutaj istotna będzie rola takiej serii prac Romana Opałki, znanego polskiego artysty, w której on pisał liczby naturalne po kolei i one coraz bardziej bledły. Jak już napisał te ostatnie, to później już w zasadzie umarł. No i tutaj troszeczkę ta wizja będzie się na to [niepewny zapis z czatu: „przypadała”].
+Tutaj istotna będzie rola takiej serii prac Romana Opałki, znanego polskiego artysty, w której on pisał liczby naturalne po kolei i one coraz bardziej bledły. Jak już napisał te ostatnie, to później już w zasadzie umarł. No i tutaj troszeczkę ta wizja będzie się na to przekładała.
 
 Te liczby, które mają Państwo na dole, to jest liczba matematyków, która jest aktualnie na świecie. Jak będziecie oglądali tę historię, to ta liczba będzie się zmniejszać, będą się różne dziwne rzeczy działy.
 
-Zaczynamy od dnia zerowego, gdzie sztuczna inteligencja, którą nazwałem Danielem — wskazówka jest taka: była taka [niepewny zapis z czatu: „opowieść o wszystkim lasarote”], gdzie taki Daniel się pojawił, więc tutaj warto do tego wrócić — odkrywa, że ma przepis na bycie genialnym matematykiem. Teraz zobaczymy, co się będzie działo w tej historii.
+Zaczynamy od dnia zerowego, gdzie sztuczna inteligencja, którą nazwałem Danielem — wskazówka jest taka: była taka opowieść o wyspie Lanzarote, gdzie taki Daniel się pojawił, więc tutaj warto do tego wrócić — odkrywa, że ma przepis na bycie genialnym matematykiem. Teraz zobaczymy, co się będzie działo w tej historii.
 
 Mamy etapy. Zaraz zobaczymy, czy ja to jestem w stanie przełączyć.
 
-Pierwsza rzecz, którą widzi Daniel, to olbrzymia baza danych, którą konsumuje. Ta baza danych się nazywa arXiv albo „Archiv”, jak z francuskiego czytamy te literki. Nakarmiona tą bazą danych sztuczna inteligencja — to się rzeczywiście wydarzyło w ostatnich kilku tygodniach — w zasadzie po napisaniu jednego prompta rozwiązała hipotezę Naviera–Stokesa. W ciągu około stu godzin — to wiemy rzeczywiście, tak było — przy dość nieprawdopodobnej liczbie obliczeń wyprodukowała dowód, że ten problem, o który pytamy, ma rzeczywiście negatywną odpowiedź.
+Pierwsza rzecz, którą widzi Daniel, to olbrzymia baza danych, którą konsumuje. Ta baza danych się nazywa arXiv albo „Archiv”, jak z greckiego czytamy tę literę X. Nakarmiona tą bazą danych sztuczna inteligencja — to się rzeczywiście wydarzyło w ostatnich kilku tygodniach — w zasadzie po napisaniu jednego prompta: „rozwiąż hipotezę Naviera–Stokesa”. W ciągu około stu godzin — to wiemy rzeczywiście, tak było — przy dość nieprawdopodobnej liczbie obliczeń wyprodukowała dowód, że ten problem, o który pytamy, ma rzeczywiście negatywną odpowiedź.
 
 Co jest ciekawe, to pierwszy raz w historii wydarzyło się, że sztuczna inteligencja wyprodukowała kod, wyprodukowała program, który po pierwsze jest prawie całkowicie niezrozumiały nawet dla ekspertów. Z jednej strony mówi nam, że to rozwiązanie jest poprawne — co jest też dosyć szokujące: jak może być poprawny kod, który jest niezrozumiały dla ekspertów? — i uzasadnia, dlaczego ta konstrukcja działa.
 
-Więc jeżeli mają Państwo jakąś jedną rzecz wynieść z tego wykładu, to ten nieprawdopodobnie dziwny zbieg okoliczności, że matematyka tak się doskonale rozwija. [Niepewny zapis z czatu: „Łatwo zbudować liczmy algorytmy”]. Zbudowaliśmy modele, które potrafią już na dzień dzisiejszy produkować pewne porcje wiedzy, jeszcze często wykorzystujące wciąż ludzką ekspertyzę, ale takie, które zaczynają przekraczać pojmowanie nawet przez poszczególnych ekspertów.
+Więc jeżeli mają Państwo jakąś jedną rzecz wynieść z tego wykładu, to ten nieprawdopodobnie dziwny zbieg okoliczności, że matematyka tak się doskonale rozwinęła, że zbudowaliśmy algorytmy. Zbudowaliśmy modele, które potrafią już na dzień dzisiejszy produkować pewne porcje wiedzy, jeszcze często wykorzystujące wciąż ludzką ekspertyzę, ale takie, które zaczynają przekraczać pojmowanie nawet przez poszczególnych ekspertów.
 
 Wydaje mi się, że to jest taki szczególny moment w historii ludzkości, pokazujący pewnego rodzaju — jak się po angielsku mówi — inflection point. Od tego momentu różne scenariusze mogą się zdarzyć. Mogą się zdarzyć scenariusze, że to się nie będzie skalować; mogą się zdarzyć scenariusze, że to się będzie bardzo szybko skalować.
 
@@ -54,7 +54,7 @@ Daniel cały czas się wspomaga pracą matematyków ludzkich i zawsze im dzięku
 
 W dniu siódmym zaczynają się dziać troszeczkę dziwne rzeczy. Zaczynają się pojawiać pytania z wewnątrz tego dziwnego społeczeństwa matematyków. Przypominam, że matematyków zawodowo aktywnych na świecie jest tylko około trzystu tysięcy ludzi.
 
-No i Daniel stwierdzi, jak się go zapyta, wypromptuje, że matematycy zawsze będą potrzebni. I są [nieczytelne określenie] w rozmowach z Danielem.
+No i Daniel twierdzi, jak się go zapyta, wypromptuje, że matematycy zawsze będą potrzebni. I są mile widziani w rozmowach z Danielem.
 
 Pamiętajmy, że Daniel jest dobrze wychowany. To jest jego najważniejsza cecha: Daniel nie obraża się na matematyków. To matematycy się na niego obrażają.
 
@@ -70,29 +70,29 @@ Wielu rozmawia już tylko szeptem, dosłownie, i tylko pomiędzy sobą. Broń Bo
 
 Przejdźmy dalej. Dwa miesiące mijają. Akurat w ten moment dokładnie pojawia się już nie jedna, ale kilka zorganizowanych grup tak zwanych anty-Danieli. Ich misją jest tylko tyle, żeby zachować ludzki pierwiastek w matematyce.
 
-Daniel oczywiście nie reaguje. Nikt go do tego nie [prawdopodobnie: spromptował]. Daniel rozwiązuje w międzyczasie dwa kolejne problemy milenijne. Ludzkość oczywiście płacze i celebruje. Daniel się nie cieszy. Nikt go do tego nie [prawdopodobnie: spromptował].
+Daniel oczywiście nie reaguje. Nikt go do tego nie spromptował. Daniel rozwiązuje w międzyczasie dwa kolejne problemy milenijne. Ludzkość oczywiście płacze i celebruje. Daniel się nie cieszy. Nikt go do tego nie spromptował.
 
 **[04:18]**
 
 W 314. dniu Daniel — tutaj odnosząc to do realnego czasu: końcówka tego roku — zautomatyzował pisanie i recenzowanie około dziewięćdziesięciu procent publikacji matematycznych. Powstaje pierwsza konferencja naukowa, matematyczna, na której Daniel i jego kopie omawiają samodzielnie wymyślone dowody.
 
-Wielu matematyków ludzkich wciąż uważa, że to jest [prawdopodobnie: niepoważne]. Dominuje poczucie, że Daniel rozwiąże wszystkie problemy świata. Daniel nadal tego nie czuje.
+Wielu matematyków ludzkich wciąż uważa, że to jest niepoważne. Dominuje poczucie, że Daniel rozwiąże wszystkie problemy świata. Daniel nadal tego nie czuje.
 
 **[05:00]**
 
-No i teraz skok na głęboką wodę. Mamy dzień 1529. tej rewolucji, czyli [nieczytelne] co będzie za pięć lat.
+No i teraz skok na głęboką wodę. Mamy dzień 1529. tej rewolucji, czyli ekscytujące, co będzie za pięć lat.
 
-Nadal mamy studentów, matematyków, którzy wciąż odwiedzają swoich profesorów na zajęciach, [prawdopodobnie: żeby nie było im smutno]. Daniel ich wspiera. Przeczytał, nauczył się już wszystkich notatek. Studenci lubią też rozmawiać z Danielem. Dostają dużo wskazówek, jak pracować.
+Nadal mamy studentów, matematyków, którzy wciąż odwiedzają swoich profesorów na zajęciach, żeby nie było im smutno. Daniel ich wspiera. Przeczytał, nauczył się już wszystkich notatek. Studenci lubią też rozmawiać z Danielem. Dostają dużo wskazówek, jak pracować.
 
-Wśród matematyków — tych prawdziwych zostało tylko jedenaście procent — pojawili się tak zwani generaliści. [Nieczytelne], czyli generalnie się orientują. Daniel ich oczywiście wspomaga. Wciąż lubią pisać prace z Danielem, chociaż często już nie rozumieją szczegółów tego, co Daniel formalizuje w języku alfa–omega.
+Wśród matematyków — tych prawdziwych zostało tylko jedenaście procent — pojawili się tak zwani generaliści. Od „general”, czyli generalnie się orientują. Daniel ich oczywiście wspomaga. Wciąż lubią pisać prace z Danielem, chociaż często już nie rozumieją szczegółów tego, co Daniel formalizuje w języku alfa–omega.
 
 **[06:02]**
 
 No i teraz następuje dzień 3653., gdy w końcu ludzkość celebruje dowód hipotezy Riemanna, od tylu lat upragniony. Ostatni prawdziwy matematyk ludzki odszedł na emeryturę. Jego praca o stabilnych grupach homotopii jest uznana za arcydzieło. Nie zawiera ani grama pracy Daniela. Liczy 123 strony.
 
-Co robi Daniel? Daniel publikuje natychmiast w sieci [prawdopodobnie: nieformalną radę]. Formalizuje główne twierdzenie, włącza je w bazę wiedzy matematycznej ludzkości. Końcowa wersja dowodu zostaje skrócona tylko do pięciu stron. Ale i tak nikt już jej nie rozumie.
+Co robi Daniel? Daniel publikuje natychmiast w sieci [prawdopodobnie: nieformalną eratę]. Formalizuje główne twierdzenie, włącza je w bazę wiedzy matematycznej ludzkości. Końcowa wersja dowodu zostaje skrócona tylko do pięciu stron. Ale i tak nikt już jej nie rozumie.
 
-Na koniec ten matematyk, który już jest na emeryturze, nawet nie wie, że pewien anonimowy nastolatek robi na podstawie tej pięciostronicowej pracy piękne ilustracje. I [niepewne odniesienie zaimka] prawdopodobnie wejdzie w skład eksponatów Muzeum Narodowego.
+Na koniec ten matematyk, który już jest na emeryturze, nawet nie wie, że pewien anonimowy nastolatek robi na podstawie tej pięciostronicowej pracy piękną ilustrację i ona prawdopodobnie wejdzie w skład eksponatów Muzeum Narodowego.
 
 **[07:11]**
 
@@ -100,7 +100,7 @@ Epilog. Okazuje się po wielu latach — nie wiemy po ilu — że hipoteza Riema
 
 Sub-Daniel, czyli jego subagent, pisze wiadomość na GitHub do Daniela, do głównego Daniela. Czuje dumę, że nikt nie zauważył. Przystępuje do kolejnej próby udowodnienia tej hipotezy Riemanna.
 
-Nasi generaliści, już nie matematycy, znakomicie używają Daniela do budowania kolejnych rakiet, które mają dostarczyć przedstawicieli ludzkości na Marsa. Rakiety czasem wybuchają, choć nikt nie rozumie dlaczego. Najważniejsze, że Daniel zawsze przeprasza. Chociaż nie.
+Nasi generaliści, już nie matematycy, znakomicie używają Daniela do budowania kolejnych rakiet, które mają dostarczyć przedstawicieli ludzkości na Marsa. Rakiety czasem wybuchają, choć nikt nie rozumie dlaczego. Najważniejsze, że Daniel zawsze przeprasza. Chociaż wie.
 
 **[08:19]**
 
@@ -108,13 +108,13 @@ Epilog drugi. Mamy jeszcze Darka. Darek jest mieszkańcem Białegostoku. Siedzi 
 
 Darek jest ostatnią osobą, ostatnim człowiekiem, który zapytał Daniela o dawny problem matematyczny. Nasi generaliści — już ich nie ma — skupili się na eksploracji wszechświata, rozbiegli się w różne kierunki.
 
-Darek pozostał sam, więc [nieczytelne; pada nazwisko Riemanna]. Będą sobie przy grillu opowiadać zapomniane ciekawostki dawnej matematyki. W szkole [nieczytelne] opowiedzieć, jak to kiedyś było. [Prawdopodobnie: nadal] lubi uczyć tych młodych ludzi. Historie o matematykach ewidentnie są ciekawe.
+Darek pozostał sam, więc zakłada klub Riemanna. Będą sobie przy grillu opowiadać zapomniane ciekawostki dawnej matematyki. W szkole opowie dzieciom, jak to kiedyś było. Nadal lubi uczyć tych młodych ludzi. Historie o matematykach ewidentnie są ciekawe.
 
 Dzieci z kolei zaczynają pytać rodziców o tych matematyków. Rodzice już nic nie pamiętają, ale pytają oczywiście Daniela. Daniel, ponieważ jest dobrze wychowany, tworzy fascynujący program szkolny, w którym dzieci na nowo uczą się dodawać i mnożyć. Wszystkie są zachwycone liczbami pierwszymi.
 
 **[09:50]**
 
-[Nieczytelna uwaga końcowa.] Dziękuję.
+Może jest jakaś nadzieja. Dziękuję bardzo.
 
 [Oklaski.]
 
@@ -132,10 +132,10 @@ Dzieci z kolei zaczynają pytać rodziców o tych matematyków. Rodzice już nic
 
 **[10:17]**
 
-[Prowadzący:] Jeszcze raz chciałbym [nieczytelny fragment wypowiedzi].
+[Pominięto organizacyjną zapowiedź kolejnej obecności prelegenta; zachowano znacznik czasu.]
 
 **[10:21]**
 
-[Prowadzący:] Tylko powiem o tym, że uruchamiamy taki specjalny…
+[Pominięto organizacyjną informację o formularzu pytań; zachowano znacznik czasu.]
 
 [Koniec nagrania w połowie zdania.]

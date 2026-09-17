@@ -66,6 +66,11 @@
           "page": "psyho-baginski-transkrypcja.html",
           "anchor": "t-2902",
           "label": "29:02 · sprawczość"
+        },
+        {
+          "page": "digital-media.html",
+          "anchor": "w-09",
+          "label": "AI & Digital Media · Sprawczość"
         }
       ],
       "sources": [
@@ -201,6 +206,16 @@
           "page": "qa-transkrypcja.html",
           "anchor": "t-p3-1319",
           "label": "Q&A 3 · 13:19 · mierzalność i optymalizacja"
+        },
+        {
+          "page": "digital-media.html",
+          "anchor": "w-01",
+          "label": "AI & Digital Media · Optymalizacja"
+        },
+        {
+          "page": "pnl.html",
+          "anchor": "w-08",
+          "label": "AI WCHODZI DO P&L. PO OBU STRONACH · Optymalizacja"
         }
       ],
       "sources": [
@@ -328,13 +343,13 @@
       "id": "arxiv-preprint",
       "term": "arXiv i preprint",
       "definition": "arXiv jest otwartym repozytorium prac naukowych. Preprint to wersja pracy udostępniona przed formalną publikacją lub recenzją; samo umieszczenie w repozytorium nie potwierdza poprawności wyniku.",
-      "example": "We wstępie z czatu repozytorium stanowi zasób wiedzy dla Daniela. Brzmienia tego wstępu nie ma w dołączonym pliku audio.",
+      "example": "We wstępie pełnego nagrania repozytorium stanowi zasób wiedzy dla Daniela. Prelegent wyjaśnia nazwę przez grecką literę X.",
       "category": "Matematyka i programowanie",
       "occurrences": [
         {
           "page": "transkrypcja.html",
           "anchor": "wstep-z-czatu",
-          "label": "Wstęp z czatu · arXiv",
+          "label": "Wstęp pełnego nagrania · arXiv",
           "needle": "arXiv"
         }
       ],
@@ -360,7 +375,7 @@
         {
           "page": "transkrypcja.html",
           "anchor": "wstep-z-czatu",
-          "label": "Wstęp z czatu · Navier–Stokes",
+          "label": "Wstęp pełnego nagrania · Navier–Stokes",
           "needle": "Naviera"
         }
       ],
@@ -465,6 +480,21 @@
           "page": "transkrypcja.html",
           "anchor": "t-0711",
           "label": "07:11 · sub-Daniel"
+        },
+        {
+          "page": "business.html",
+          "anchor": "w-07",
+          "label": "AI & BUSINESS · Agent AI"
+        },
+        {
+          "page": "idziak.html",
+          "anchor": "w-08",
+          "label": "AI z punktu widzenia emeryta · Agent AI"
+        },
+        {
+          "page": "wdrozenia.html",
+          "anchor": "w-06",
+          "label": "AI & Wdrożenia · Agent AI"
         }
       ],
       "sources": [
@@ -605,6 +635,11 @@
           "page": "psyho-baginski-transkrypcja.html",
           "anchor": "t-3331",
           "label": "33:31 · zalew treści"
+        },
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-02",
+          "label": "AI & CYBERSECURITY · AI slop"
         }
       ],
       "sources": [
@@ -827,6 +862,199 @@
           "url": "https://sjp.pl/kwantyfikacja"
         }
       ]
+    },
+    {
+      "id": "rotoskopia",
+      "term": "Rotoskopia",
+      "category": "Film i animacja",
+      "definition": "Tworzenie animacji przez odrysowywanie ruchu ze zarejestrowanego materiału filmowego. Obraz aktora staje się punktem wyjścia dla rysunku; animator nadal decyduje o stylu i selekcji szczegółów.",
+      "example": "Rokosz przywołuje rotoskopię jako wcześniejszy sposób ułatwienia pracy nad ruchem postaci.",
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-05",
+          "label": "Rokosz · ruch aktora i rysunek"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adobe: Moving Art — Rotoscope Animation",
+          "url": "https://blog.adobe.com/en/publish/2017/11/09/moving-art-how-to-create-a-rotoscope-animation-in-photoshop-cc"
+        }
+      ]
+    },
+    {
+      "id": "klatka-kluczowa",
+      "term": "Klatka kluczowa",
+      "category": "Film i animacja",
+      "definition": "Wybrany moment animacji określający ważną pozycję lub stan. W animacji komputerowej zapisuje wartość właściwości w danym czasie; stany pomiędzy klatkami mogą być wyliczane przez interpolację.",
+      "example": "Rokosz pyta o sens uczenia podstaw animacji także wtedy, gdy część pracy wykonuje narzędzie.",
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-01",
+          "label": "Rokosz · nauka klatek kluczowych"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Blender Manual: Keyframes — Introduction",
+          "url": "https://docs.blender.org/manual/en/2.80/animation/keyframes/introduction.html"
+        }
+      ]
+    },
+    {
+      "id": "deepfake",
+      "term": "Deepfake",
+      "category": "Media i bezpieczeństwo",
+      "definition": "Obraz, dźwięk bądź film wytworzony lub przekształcony przy użyciu AI, który wiarygodnie naśladuje osobę albo zdarzenie. Sam sposób wytworzenia nie przesądza intencji: podobne techniki mogą służyć sztuce, a także podszywaniu się i dezinformacji.",
+      "example": "Panel o mediach cyfrowych odróżnia możliwość stworzenia obrazu od prawdziwości przedstawionego wydarzenia.",
+      "occurrences": [
+        {
+          "page": "digital-media.html",
+          "anchor": "w-05",
+          "label": "Media cyfrowe · prawdziwość obrazu"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST: Is This a Deepfake?",
+          "url": "https://www.nist.gov/document/deepfake-desktop-version"
+        },
+        {
+          "title": "NIST GenAI: Deepfakes 2026",
+          "url": "https://ai-challenges.nist.gov/forensics"
+        }
+      ]
+    },
+    {
+      "id": "piaskownica",
+      "term": "Piaskownica — sandbox",
+      "category": "Eksperyment i wdrożenie",
+      "definition": "W informatyce: kontrolowane środowisko z ograniczonym dostępem do zasobów. W rozmowach konferencji słowo ma również szerszy, eksperymentalny sens: miejsce prób, w którym można uczyć się na błędach przed wdrożeniem produkcyjnym. Te dwa użycia nie są identyczne.",
+      "example": "Idziak proponuje przestrzeń wspólnego eksperymentowania, a panel wdrożeniowy łączy próby z poznawaniem ograniczeń modeli.",
+      "occurrences": [
+        {
+          "page": "idziak.html",
+          "anchor": "w-07",
+          "label": "Idziak · eksperyment edukacyjny"
+        },
+        {
+          "page": "wdrozenia.html",
+          "anchor": "w-08",
+          "label": "Wdrożenia · środowisko prób"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST CSRC Glossary: Sandbox",
+          "url": "https://csrc.nist.gov/glossary/term/sandbox"
+        }
+      ]
+    },
+    {
+      "id": "halucynacja-modelu",
+      "term": "Halucynacja modelu",
+      "category": "Modele i ich ograniczenia",
+      "definition": "Wygenerowana odpowiedź, która brzmi przekonująco, lecz zawiera błąd, zmyślenie lub sprzeczność z dostarczonym materiałem. Pewny ton modelu nie jest miarą prawdziwości jego treści. NIST używa również określenia konfabulacja.",
+      "example": "W rozmowie o wdrożeniach poznanie ograniczeń modelu jest częścią nauki współpracy z nim.",
+      "occurrences": [
+        {
+          "page": "wdrozenia.html",
+          "anchor": "w-08",
+          "label": "Wdrożenia · granice współpracy z modelem"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST AI 600-1: Generative Artificial Intelligence Profile, §2.2",
+          "url": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=958388"
+        }
+      ]
+    },
+    {
+      "id": "token",
+      "term": "Token",
+      "category": "Modele i koszt użycia",
+      "definition": "Jednostka danych przetwarzana przez model. W tekście może odpowiadać znakowi, całemu wyrazowi lub jego części; nie ma stałego przelicznika tokenów na polskie słowa. Liczby tokenów wejścia i wyjścia bywają podstawą rozliczania użycia modelu.",
+      "example": "Prelekcja o P&L rozpoczyna rachunek ekonomiczny AI od kosztu korzystania z modeli.",
+      "occurrences": [
+        {
+          "page": "pnl.html",
+          "anchor": "w-01",
+          "label": "AI i P&L · koszt tokenów"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Cloud: Generative AI glossary — tokens",
+          "url": "https://cloud.google.com/docs/generative-ai/glossary#tokens"
+        }
+      ]
+    },
+    {
+      "id": "rachunek-wynikow",
+      "term": "P&L — rachunek wyników",
+      "category": "Biznes i ekonomia",
+      "definition": "Profit and loss statement: zestawienie przychodów i kosztów w określonym okresie, prowadzące do wyniku — zysku albo straty. To inny obraz finansów niż sam przepływ gotówki. Konferencyjne pytanie dotyczy tego, jak koszty AI i uzyskana wartość wpływają na wynik firmy.",
+      "example": "Prelekcja nie zatrzymuje się na cenie modelu: pyta również o zmianę kosztu i wartości ludzkiej pracy.",
+      "occurrences": [
+        {
+          "page": "pnl.html",
+          "anchor": "w-04",
+          "label": "AI i P&L · wartość po obu stronach rachunku"
+        }
+      ],
+      "sources": [
+        {
+          "title": "SEC: What is an income statement?",
+          "url": "https://www.sec.gov/files/income-statement-building-blocks.pdf"
+        },
+        {
+          "title": "SEC: Beginners’ Guide to Financial Statements",
+          "url": "https://www.sec.gov/about/reports-publications/investorpubsbegfinstmtguide"
+        }
+      ]
+    },
+    {
+      "id": "roi",
+      "term": "ROI — zwrot z inwestycji",
+      "category": "Biznes i ekonomia",
+      "definition": "Return on investment: relacja zysku netto z inwestycji do jej kosztu, zwykle wyrażona procentowo. Wynik zależy od tego, jakie koszty, korzyści i okres pomiaru przyjęto. Samo skrócenie pojedynczego zadania nie wystarcza do policzenia wyniku całego wdrożenia.",
+      "example": "Panel biznesowy odróżnia łatwą do zauważenia wygodę asystenta od mierzalnego rezultatu konkretnego projektu.",
+      "occurrences": [
+        {
+          "page": "business.html",
+          "anchor": "w-01",
+          "label": "Biznes · miara sukcesu wdrożenia"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Australian Government: Key financial terms — Return on investment",
+          "url": "https://business.gov.au/finance/financial-tools-and-templates/key-financial-terms"
+        }
+      ]
+    },
+    {
+      "id": "podatnosc",
+      "term": "Podatność",
+      "category": "Bezpieczeństwo",
+      "definition": "Słabość systemu, jego zabezpieczeń, procedur lub implementacji, którą zagrożenie może wykorzystać albo uruchomić. Wykrycie podatności, możliwość jej praktycznego wykorzystania i dokonany atak oznaczają różne rzeczy.",
+      "example": "Finał panelu cyberbezpieczeństwa rozróżnia znalezienie luki i ocenę tego, co atakujący może dzięki niej zrobić.",
+      "occurrences": [
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-09",
+          "label": "Cyberbezpieczeństwo · luka i jej wykorzystanie"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST CSRC Glossary: vulnerability",
+          "url": "https://csrc.nist.gov/glossary/term/vulnerability"
+        }
+      ]
     }
   ],
   "references": [
@@ -835,7 +1063,7 @@
       "title": "Stefan Banach: analogie między analogiami",
       "kind": "parafraza",
       "explanation": "Dragan przedstawia stopniowanie zdolności matematyków od analogii między twierdzeniami po analogie między analogiami. Stanisław Ulam w autobiografii przypisuje Banachowi krótszą, dwuczłonową wersję tej myśli.",
-      "verification": "Przypisanie ma oparcie w relacji Ulama. Czterostopniowa wersja wykładu nie została potwierdzona jako dosłowny cytat Banacha; zapis o dowodach jest w transkrypcji niepewny.",
+      "verification": "Przypisanie ma oparcie w relacji Ulama. Pełne nagranie pozwoliło odtworzyć również słowa o analogiach między dowodami twierdzeń. Czterostopniowa wersja przedstawiona przez Dragana pozostaje parafrazą; nie potwierdzono jej jako dosłownego cytatu Banacha.",
       "sources": [
         {
           "title": "Los Alamos: Stan Ulam — Vita, Excerpts from Adventures of a Mathematician",
@@ -862,7 +1090,7 @@
       "title": "Roman Opałka — OPALKA 1965 / 1–∞",
       "kind": "inspiracja",
       "explanation": "Cykl kolejno zapisywanych liczb służy jako obraz upływu czasu i zanikania. W praktyce artysta stopniowo rozjaśniał tło kolejnych obrazów, zmniejszając kontrast białych liczb.",
-      "verification": "Identyfikacja cyklu i metoda rozjaśniania są potwierdzone w opisie kolekcji. Wypowiedź we wstępie pochodzi tylko z zapisu w czacie.",
+      "verification": "Identyfikacja cyklu i metoda rozjaśniania są potwierdzone w opisie kolekcji. Wstęp użytkownika sprawdzono teraz z pełnym nagraniem PJAIT, około 06:03:06.",
       "sources": [
         {
           "title": "Starak Family Foundation: Roman Opałka",
@@ -873,7 +1101,7 @@
         {
           "page": "transkrypcja.html",
           "anchor": "wstep-z-czatu",
-          "label": "Wstęp z czatu · Opałka",
+          "label": "Wstęp pełnego nagrania · Opałka",
           "needle": "Romana Opałki"
         }
       ]
@@ -882,8 +1110,8 @@
       "id": "daniel-literatura",
       "title": "Daniel i nieustalone odwołanie literackie",
       "kind": "niepewne",
-      "explanation": "Zapis w czacie zawiera uszkodzoną wskazówkę „opowieść o wszystkim lasarote”. Możliwość wyspy Michela Houellebecqa jest kandydatem do identyfikacji, a nie odtworzonym tytułem wypowiedzi.",
-      "verification": "Dołączone audio nie obejmuje tej wskazówki. Nie rozstrzygnięto tytułu ani tego, czy prelegent wskazał Houellebecqa; link wydawcy dokumentuje wyłącznie istnienie kandydata.",
+      "explanation": "Pełne nagranie przywraca wskazówkę o opowieści związanej z wyspą Lanzarote i postacią Daniela. Możliwość wyspy Michela Houellebecqa pozostaje kandydatem do identyfikacji, nie wypowiedzianym tytułem.",
+      "verification": "W nagraniu około 06:03:45 pada Lanzarote i Daniel. Nie pada nazwisko Houellebecqa ani tytuł książki. Link wydawcy dokumentuje wyłącznie kandydata; atrybucja nadal jest niepewna.",
       "sources": [
         {
           "title": "Penguin Random House: The Possibility of an Island",
@@ -894,8 +1122,8 @@
         {
           "page": "transkrypcja.html",
           "anchor": "wstep-z-czatu",
-          "label": "Wstęp z czatu · literacki Daniel",
-          "needle": "lasarote"
+          "label": "Wstęp pełnego nagrania · literacki Daniel",
+          "needle": "Lanzarote"
         }
       ]
     },
@@ -924,8 +1152,8 @@
       "id": "navier-stokes-ogloszenie",
       "title": "Navier–Stokes: niezweryfikowane ogłoszenie rozwiązania",
       "kind": "niepewne",
-      "explanation": "Wstęp z czatu przypisuje AI rozwiązanie „hipotezy Naviera–Stokesa” w około stu godzin. Nie ustalono publikacji ani dokładnego problemu, do którego odnosi się ta wypowiedź.",
-      "verification": "Brak tego fragmentu w audio. Oficjalna strona Clay opisuje problem milenijny jako nierozwiązany; nie można przedstawiać zapisu z czatu jako dowodu jego rozwiązania.",
+      "explanation": "We wstępie prelegent przywołuje prompt „rozwiąż hipotezę Naviera–Stokesa” oraz około stu godzin pracy. Nie ustalono publikacji ani dokładnego problemu, do którego odnosi się wypowiedź; nie utożsamiono jej z rozwiązaniem całego problemu milenijnego.",
+      "verification": "Fragment jest obecny w pełnym nagraniu około 06:04:28. Odtworzenie wypowiedzi nie weryfikuje jej twierdzenia o badaniach. Oficjalne źródło Clay opisuje problem; nie dopisano identyfikacji innego wyniku na podstawie podobnych liczb.",
       "sources": [
         {
           "title": "Clay Mathematics Institute: Navier–Stokes Equation",
@@ -936,7 +1164,7 @@
         {
           "page": "transkrypcja.html",
           "anchor": "wstep-z-czatu",
-          "label": "Wstęp z czatu · stu godzin pracy",
+          "label": "Wstęp pełnego nagrania · stu godzin pracy",
           "needle": "Naviera"
         }
       ]
@@ -973,7 +1201,7 @@
       "title": "Bernhard Riemann — geometria zakrzywionej przestrzeni",
       "kind": "parafraza",
       "explanation": "Dragan przywołuje Riemanna jako autora matematycznego języka, z którego korzysta opis grawitacji. Zachowane wystąpienie Riemanna dotyczy podstaw geometrii.",
-      "verification": "Źródło potwierdza temat tekstu Riemanna. Nie potwierdzamy określenia „doktorat” ani osi czasu ze słabo rozpoznanego fragmentu wykładu.",
+      "verification": "Źródło potwierdza temat tekstu Riemanna. Pełne nagranie pozwoliło odtworzyć słowa o doktoracie i czasie powstania jego pracy; historycznej poprawności tych szczegółów nie potwierdzono.",
       "sources": [
         {
           "title": "Bernhard Riemann: On the Hypotheses Which Lie at the Bases of Geometry",
@@ -1063,10 +1291,10 @@
     },
     {
       "id": "lorentz-poincare-larmor",
-      "title": "Lorentz, Poincaré i możliwe przywołanie Larmora",
-      "kind": "niepewne",
-      "explanation": "Końcówka wykładu wspomina poprzedników Einsteina w pracach o ruchu, świetle i transformacjach. Część nazw oraz szczegółów czasowych jest nieczytelna.",
-      "verification": "Lorentz i Poincaré są rozpoznawalni w kontekście; Larmor pozostaje kandydatem. Nie potwierdzono opowiedzianej chronologii ani dokładnego udziału każdej osoby.",
+      "title": "Lorentz, Poincaré i Larmor — przywołanie poprzedników",
+      "kind": "odwołanie historyczne",
+      "explanation": "Końcówka wykładu wspomina poprzedników Einsteina w pracach o ruchu, świetle i transformacjach. Jest to relacja prelegenta, nie osobna weryfikacja historii odkryć.",
+      "verification": "Pełne nagranie pozwoliło rozpoznać także nazwisko Larmora: oba automatyczne zapisy różnią się segmentacją, lecz zgodnie wskazują tę nazwę. Nie potwierdzono opowiedzianej chronologii ani dokładnego udziału każdej osoby.",
       "sources": [
         {
           "title": "Einstein Online: Length Contraction",
@@ -1084,10 +1312,10 @@
     },
     {
       "id": "schwarzschild",
-      "title": "Możliwe przywołanie Karla Schwarzschilda",
-      "kind": "niepewne",
-      "explanation": "W historycznym fragmencie wykładu pojawia się kandydat do nazwiska autora rozwiązania równań Einsteina dla pola masy punktowej.",
-      "verification": "Źródło dokumentuje tekst Schwarzschilda. Nie rozstrzyga uszkodzonego nazwiska w audio ani pozostałych szczegółów wypowiedzi.",
+      "title": "Schwarzschild — przywołanie w wykładzie",
+      "kind": "odwołanie historyczne",
+      "explanation": "Dragan wymienia Schwarzschilda wśród badaczy, których wyniki omawia, i odwołuje się do nazwanej jego nazwiskiem metryki.",
+      "verification": "Nowy ASR odtwarza nazwisko Schwarzschild; automatyczne napisy mają zniekształcony zapis fonetyczny. Identyfikacja ma średnią pewność z porównania zapisów, bez ręcznego audytu odsłuchowego. Link dokumentuje tekst autora, a nie wszystkie szczegóły historycznej opowieści prelegenta.",
       "sources": [
         {
           "title": "Karl Schwarzschild: On the Gravitational Field of a Mass Point",
@@ -1139,7 +1367,7 @@
           "page": "panel-finalowy-transkrypcja.html",
           "anchor": "t-0933",
           "label": "09:33 · Fukuyama",
-          "needle": "Fukuyama"
+          "needle": "Fukuyamy"
         }
       ]
     },
@@ -1174,7 +1402,7 @@
       "title": "Michał Anioł: artysta a wartość dzieła",
       "kind": "inspiracja",
       "explanation": "Nazwisko służy w panelu do pytania, czy wartość dzieła zależy od istnienia i udziału konkretnego twórcy.",
-      "verification": "Źródło instytucji dokumentuje twórczość Michała Anioła. Nazwisko w panelu jest czytelne; drugiego nazwiska nie odtwarzamy i nie przypisujemy artyście słów rozmówcy.",
+      "verification": "Źródło instytucji dokumentuje twórczość Michała Anioła. Pełne nagranie pozwoliło odtworzyć także przywołanie Da Vinci w porównaniu rozmówcy. Są to przykłady panelisty; nie przypisujemy artystom jego słów.",
       "sources": [
         {
           "title": "Watykan: Sistine Chapel",
@@ -1216,7 +1444,7 @@
       "title": "Matrix: żart o ludziach jako bateriach",
       "kind": "inspiracja",
       "explanation": "Panel zestawia opowieść o symulowaniu układu nerwowego z motywem ludzi używanych jako baterie w Matrixie.",
-      "verification": "Film jest identyfikowalny; anegdota o wcześniejszym scenariuszu i decyzji producentów pozostaje niezweryfikowana, a nazwisko Wachowskich jest w zapisie niepewne.",
+      "verification": "Film jest identyfikowalny; pełne nagranie pozwoliło odtworzyć przywołanie Wachowskich. Anegdota o wcześniejszym scenariuszu i decyzji producentów pozostaje relacją rozmówcy, bez osobnej weryfikacji.",
       "sources": [
         {
           "title": "Warner Bros.: The Matrix",
@@ -1262,7 +1490,7 @@
       "id": "katedra",
       "title": "Katedra — opowiadanie Dukaja i film Bagińskiego",
       "kind": "inspiracja",
-      "explanation": "Film jest przywoływany w przedstawieniu Tomasza Bagińskiego oraz w Q&A o możliwości rozpoznania wartości dzieła wśród masowo generowanych treści. Adaptacja wyrasta z opowiadania Jacka Dukaja.",
+      "explanation": "Film jest przywoływany w Q&A o możliwości rozpoznania wartości dzieła wśród masowo generowanych treści. Adaptacja wyrasta z opowiadania Jacka Dukaja.",
       "verification": "Film i nominacja do Oscara w kategorii krótkometrażowej animacji są potwierdzone przez Akademię; źródło autora potwierdza opowiadanie i adaptację.",
       "sources": [
         {
@@ -1276,52 +1504,9 @@
       ],
       "occurrences": [
         {
-          "page": "psyho-baginski-transkrypcja.html",
-          "anchor": "t-0618",
-          "label": "06:18 · przedstawienie Bagińskiego",
-          "needle": "Katedry"
-        },
-        {
           "page": "qa-transkrypcja.html",
           "anchor": "t-p1-1551",
           "label": "Q&A 1 · 15:51 · pytanie do Bagińskiego o Katedrę"
-        }
-      ]
-    },
-    {
-      "id": "wiedzmin",
-      "title": "Wiedźmin — serial w przedstawieniu Bagińskiego",
-      "kind": "inspiracja",
-      "explanation": "Moderator wymienia serial przy przedstawianiu dorobku Tomasza Bagińskiego.",
-      "verification": "Oficjalna zapowiedź Netflix z 17 maja 2017 wymienia Tomka Bagińskiego jako producenta wykonawczego. To potwierdzenie roli, nie rekonstrukcja nieczytelnych fragmentów przedstawienia.",
-      "sources": [
-        {
-          "title": "Netflix: The Witcher Saga Coming to Netflix",
-          "url": "https://about.netflix.com/en/news/the-witcher-saga-coming-to-netflix"
-        }
-      ],
-      "occurrences": [
-        {
-          "page": "psyho-baginski-transkrypcja.html",
-          "anchor": "t-0618",
-          "label": "06:18 · przedstawienie Bagińskiego",
-          "needle": "Wiedźmin"
-        }
-      ]
-    },
-    {
-      "id": "baggins",
-      "title": "Baggins — niepewne przezwisko w zapowiedzi",
-      "kind": "niepewne",
-      "explanation": "Podczas przedstawienia Bagińskiego prowadzący próbuje użyć zasłyszanego przezwiska. Możliwy zapis brzmi Baggins.",
-      "verification": "Odczyt jest oznaczony w transkrypcji jako niepewny. Nie przesądzamy aluzji do konkretnego bohatera Tolkiena.",
-      "sources": [],
-      "occurrences": [
-        {
-          "page": "psyho-baginski-transkrypcja.html",
-          "anchor": "t-0618",
-          "label": "06:18 · możliwe przezwisko",
-          "needle": "Baggins"
         }
       ]
     },
@@ -1389,10 +1574,10 @@
     },
     {
       "id": "bach",
-      "title": "Możliwe przywołanie Sebastiana Bacha",
-      "kind": "niepewne",
-      "explanation": "Uszkodzony fragment dyskusji o muzyce może zawierać nazwisko Bacha. Obok padają niepewne określenia matematyczne.",
-      "verification": "Bach jest czytelny tylko w jednym pełnym ASR; drugie przejście i klip nie rozstrzygają. Nie dopisano imienia Johann, utworu ani argumentu o transformacji Fouriera.",
+      "title": "Johann Sebastian Bach — polifonia i analogia",
+      "kind": "parafraza",
+      "explanation": "W czystym nagraniu czytelne jest pełne imię i nazwisko Bacha oraz odniesienia do polifonii i kontrapunktu. Rozmówca używa muzyki jako przykładu analogii; nie wskazuje utworu.",
+      "verification": "Nazwisko, polifonia i kontrapunkt mają zgodne wsparcie clean ASR oraz napisów transmisji. Określenie transformacji Fouriera nadal pozostaje oznaczone jako niepewne w transkrypcji. Nie przekształcamy przykładu rozmówcy w osobno zweryfikowany dowód.",
       "sources": [],
       "occurrences": [
         {
@@ -1420,25 +1605,25 @@
     },
     {
       "id": "steinhaus",
-      "title": "Hugo [niepewne: Steinhaus] i nierozpoznany aforyzm",
+      "title": "Hugo Steinhaus i metafora Ziemi",
       "kind": "niepewne",
-      "explanation": "Po możliwym nazwisku matematyka następuje bardzo uszkodzony fragment, prawdopodobnie przytoczenie metafory.",
-      "verification": "Nazwisko i cytat pozostają nierozstrzygnięte po dwóch pełnych ASR i klipie. Nie wstawiamy znanego aforyzmu z pamięci.",
+      "explanation": "Rozmówca przywołuje Steinhausa i metaforę Ziemi jako kuli. Zapis odtworzony z transmisji nadal zawiera niepewny przyimek w przytoczeniu „Ziemia — kula [niepewne: u] nogi”.",
+      "verification": "Nazwisko odzyskano ze zgodnych rozpoznań pełnego streamu. Nie stwierdzamy, że odtworzono bezbłędny cytat, ani nie wstawiamy wersji aforyzmu z pamięci. Atrybucja pochodzi z wypowiedzi rozmówcy.",
       "sources": [],
       "occurrences": [
         {
           "page": "qa-transkrypcja.html",
           "anchor": "t-p1-0623",
-          "label": "Q&A 1 · 06:23 · możliwe nazwisko i aforyzm"
+          "label": "Q&A 1 · 06:23 · Steinhaus i niepewny aforyzm"
         }
       ]
     },
     {
       "id": "tuwim",
-      "title": "Julian [niepewne: Tuwim] — uszkodzona anegdota",
+      "title": "Julian Tuwim — anegdota przy metaforze",
       "kind": "niepewne",
-      "explanation": "Możliwe nazwisko poety pojawia się po sporze o metafory i odwołaniu do możliwego Steinhausa.",
-      "verification": "Oba ASR uszkadzają nazwisko, klip daje inny odczyt. Treść anegdoty i relacja między osobami nie zostały odtworzone.",
+      "explanation": "Po przywołaniu metafory Steinhausa rozmówca opowiada, że Tuwim docenił dostrzeżoną analogię. Fragment po słowie „uklękł” nadal jest nieczytelny.",
+      "verification": "Imię i nazwisko odzyskano z czystej transmisji. Treść anegdoty pozostaje częściowo niepewna; nie uzupełniamy jej znaną wersją z internetu.",
       "sources": [],
       "occurrences": [
         {
@@ -1450,10 +1635,10 @@
     },
     {
       "id": "picasso",
-      "title": "[Niepewne: Picasso] i nierozpoznany cytat",
-      "kind": "niepewne",
-      "explanation": "W dyskusji o inspiracji pojawia się kandydat do nazwiska Picassa, a następnie nieczytelny aforyzm.",
-      "verification": "Nazwisko nie jest zgodnie potwierdzone przez przejścia ASR. Nie dopisano znanych wersji o pożyczaniu, kradzieży ani podziale na dobrych i wielkich artystów.",
+      "title": "Picasso — sentencja o pożyczaniu i kradzieży",
+      "kind": "niepewna atrybucja",
+      "explanation": "W dyskusji o inspiracji rozmówca przypisuje Picassowi sentencję, że artyści nie pożyczają, tylko kradną. Jest to odtworzone przywołanie z panelu, nie potwierdzenie autorstwa słów.",
+      "verification": "Clean ASR i napisy transmisji zgodnie odzyskały nazwisko oraz sens sentencji. Nie potwierdzono pierwotnego źródła ani autorstwa Picassa; nie zastąpiono wypowiedzi inną popularną wersją aforyzmu.",
       "sources": [],
       "occurrences": [
         {
@@ -1468,7 +1653,7 @@
       "title": "Album fotograficzny — tytuł nieustalony",
       "kind": "niepewne",
       "explanation": "W odpowiedzi o tworzeniu w absurdalnym wszechświecie rozmówca wspomina album własnych zdjęć i przyjemność fotografowania.",
-      "verification": "Tytuł pozostaje nieczytelny. Nie został dobrany na podstawie dorobku fotografa.",
+      "verification": "W tym fragmencie rozmówca nie podaje tytułu albumu. Nie dobrano go na podstawie dorobku fotografa.",
       "sources": [],
       "occurrences": [
         {
@@ -1480,10 +1665,10 @@
     },
     {
       "id": "wojciech-rozmowa",
-      "title": "Wojtek / Wojciech — nieczytelne nazwisko",
+      "title": "Wojtek — nazwisko nadal niepewne",
       "kind": "niepewne",
-      "explanation": "Rozmówca odwołuje się do wcześniejszej dyskusji z osobą o tym imieniu.",
-      "verification": "Oba przejścia rozpoznania dają odmienne, uszkodzone nazwisko. Nie identyfikujemy rozmówcy ani publikacji z domysłu.",
+      "explanation": "Rozmówca przywołuje dyskusję z Wojtkiem o tym, co wymyka się matematyce. Nazwisko ma rozbieżne odczyty Zaremba / Zaręba.",
+      "verification": "Imię i kontekst czytelne w pełnym nagraniu. Nie rozstrzygamy nazwiska ani tożsamości na podstawie dorobku osób o podobnych nazwach.",
       "sources": [],
       "occurrences": [
         {
@@ -1495,10 +1680,10 @@
     },
     {
       "id": "badacz-odejscie",
-      "title": "Odejście badacza AI — nieustalona tożsamość",
+      "title": "Jacob — odejście z Anthropic, nazwisko nieustalone",
       "kind": "niepewne",
-      "explanation": "Moderator pyta o odejście badacza i jego ostrzegawczy komunikat. Nazwisko i możliwa nazwa Anthropic są w audio niepewne.",
-      "verification": "Dwa pełne ASR i filtrowany klip nie odzyskały nazwiska. Wiadomość o podobnym odejściu w internecie nie dowodzi tożsamości osoby wymienionej w nagraniu.",
+      "explanation": "Moderator pyta o odejście osoby przedstawionej jako Jacob z Anthropic i ostrzegawczy komunikat. Nazwisko nadal ma rozbieżne odczyty.",
+      "verification": "Pełny stream potwierdza imię Jacob oraz nazwę Anthropic. Coxon / Cookson pozostają kandydatami fonetycznymi; nie dopasowujemy osoby do wiadomości z internetu i nie dopisujemy treści jej komunikatu.",
       "sources": [],
       "occurrences": [
         {
@@ -1510,10 +1695,10 @@
     },
     {
       "id": "incydent-agentow",
-      "title": "Incydent przy wypuszczeniu agentów — nierozpoznana nazwa",
+      "title": "Przywołany incydent z agentami",
       "kind": "niepewne",
-      "explanation": "Rozmówca przywołuje niedawny incydent, lecz nazwy organizacji i dokładny opis pozostają uszkodzone.",
-      "verification": "Nie identyfikujemy wydarzenia jako konkretnego incydentu Hugging Face lub OpenAI na podstawie samych fonetycznych kandydatów.",
+      "explanation": "W pełnej transmisji czytelne są nazwy Hugging Face i OpenAI. Rozmówca przywołuje incydent jako przykład ryzyka także przy dobrych intencjach, ale część słów opisujących zdarzenie nadal jest nieczytelna.",
+      "verification": "Odzyskane nazwy nie identyfikują jednoznacznie rzeczywistego zdarzenia. Nie dopisujemy daty, wersji systemu, skali ani skutków na podstawie podobnych wiadomości.",
       "sources": [],
       "occurrences": [
         {
@@ -1540,10 +1725,10 @@
     },
     {
       "id": "sutton",
-      "title": "[Niepewne: Richard Sutton] i wizja zastąpienia ludzi",
-      "kind": "niepewne",
-      "explanation": "Rozmówca przywołuje osobę związaną z możliwym uczeniem przez wzmacnianie, a następnie przedstawia aprobatę dla przyszłości zastąpienia ludzi.",
-      "verification": "ACM potwierdza rolę Suttona w uczeniu przez wzmacnianie, ale nie rozstrzyga uszkodzonego nazwiska w nagraniu. Nie przypisujemy mu jako zweryfikowanego cytatu tej wizji ani zdania o człowieku jako ogniwie pośrednim.",
+      "title": "Richard Sutton — przywołanie wizji przyszłości",
+      "kind": "parafraza przypisania",
+      "explanation": "Rozmówca imiennie przywołuje Richarda Suttona, a następnie przedstawia interpretację wizji przyszłości z zastąpieniem ludzi przez AI.",
+      "verification": "Imię i nazwisko odzyskano zgodnie w clean ASR oraz napisach streamu. ACM potwierdza rolę badacza w uczeniu przez wzmacnianie. Nie zweryfikowano źródła tych konkretnych poglądów; nie oznaczamy ich jako dosłownego cytatu Suttona.",
       "sources": [
         {
           "title": "ACM: 2024 Turing Award — Barto and Sutton",
@@ -1554,7 +1739,7 @@
         {
           "page": "qa-transkrypcja.html",
           "anchor": "t-p3-1448",
-          "label": "Q&A 3 · 14:48 · możliwy Sutton i uczenie"
+          "label": "Q&A 3 · 14:48 · Sutton i przypisane mu poglądy"
         }
       ]
     },
@@ -1563,7 +1748,7 @@
       "title": "[Niepewne: Poncjusz Piłat] i pytanie o prawdę",
       "kind": "niepewne",
       "explanation": "Na końcu Q&A pojawia się możliwe odwołanie do Piłata podczas rozmowy o prawdzie i dowodzie.",
-      "verification": "Nazwisko pozostaje kandydatem. Poprzednia kwestia jest rozbieżna w ASR; nie wstawiono kanonicznego cytatu biblijnego ani numeru wersetu.",
+      "verification": "Pełne nagranie pozwoliło odtworzyć pytanie „Czym jest prawda?”. Odczyt imienia Piłata nadal pozostaje niepewny. Nie wstawiono kanonicznego cytatu biblijnego ani numeru wersetu z internetu.",
       "sources": [],
       "occurrences": [
         {
@@ -1627,6 +1812,48 @@
           "page": "qa-transkrypcja.html",
           "anchor": "t-p3-1255",
           "label": "Q&A 3 · 12:55 · własne przeżycie"
+        }
+      ]
+    },
+    {
+      "id": "szum-kahneman",
+      "title": "Szum — Kahneman, Sibony i Sunstein",
+      "kind": "odwołanie do książki",
+      "explanation": "W odzyskanym odcinku Q&A rozmówca wskazuje książkę Szum Kahnemana przy ocenie swobody decyzji sędziowskich. Bibliograficznie Noise: A Flaw in Human Judgment ma trzech autorów: Daniela Kahnemana, Oliviera Sibony’ego i Cassa R. Sunsteina.",
+      "verification": "Tytuł i nazwisko Kahnemana czytelne w obu rozpoznaniach. Źródło wydawcy potwierdza autorów oraz temat rozbieżności osądów; nie potwierdza opinii panelisty o konkretnych regulacjach ani zastosowaniach algorytmów.",
+      "sources": [
+        {
+          "title": "Hachette / Little, Brown Spark: Noise",
+          "url": "https://www.hachettebookgroup.com/titles/daniel-kahneman/noise/9780316451383/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "uzupelnienie-p1-p2",
+          "label": "Q&A · odzyskana przerwa, około 09:53",
+          "needle": "Szum"
+        }
+      ]
+    },
+    {
+      "id": "linia-oporu",
+      "title": "Jacek Dukaj — Linia oporu",
+      "kind": "odwołanie do książki",
+      "explanation": "W rozmowie Psyho i Bagińskiego pada odniesienie do Linii oporu Dukaja przy pytaniu o ludzkie znaczenie i sens życia w środowisku technologicznym. To odwołanie rozmówcy, nie cytat z powieści.",
+      "verification": "Dwa rozpoznania pełnego nagrania odzyskują tytuł Linia oporu. Oficjalna strona autora potwierdza dzieło i opis jego tematu; nie użyto strony do dopisania brakujących słów panelu.",
+      "sources": [
+        {
+          "title": "Jacek Dukaj: Linia oporu",
+          "url": "https://dukaj.pl/pl/book/www-dukaj-pl-book-line-of-resistance"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-3226",
+          "label": "Psyho i Bagiński · 32:26 · Linia oporu",
+          "needle": "Linia"
         }
       ]
     }

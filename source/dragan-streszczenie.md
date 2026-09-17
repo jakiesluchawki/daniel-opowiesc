@@ -29,7 +29,7 @@ Drugi krok prowadzi do geometrii. Pomiar okręgu na obracającej się platformie
 
 Ten sposób myślenia Dragan odnosi do sieci neuronowych. Opisuje je jako kolejne poziomy rozpoznawania podobieństw: jedna warstwa wykrywa wzorce, następna odnajduje relacje między nimi. Powstaje hierarchia analogii.
 
-Przywołuje też przypisywaną Stefanowi Banachowi myśl o matematykach, którzy widzą podobieństwa między twierdzeniami, dowodami, teoriami i wreszcie samymi analogiami. W tym zestawieniu zdolność maszyny do rozpoznawania wzorców staje się poważnym kandydatem na narzędzie odkrywania.
+Prelegent parafrazuje też przypisywaną Stefanowi Banachowi myśl o matematykach, którzy widzą podobieństwa między twierdzeniami, dowodami, teoriami i wreszcie samymi analogiami. To odwołanie nie stanowi potwierdzonego dosłownego cytatu Banacha. W tym zestawieniu zdolność maszyny do rozpoznawania wzorców staje się poważnym kandydatem na narzędzie odkrywania.
 
 ## Rakieta i granica informacji
 
@@ -61,6 +61,6 @@ W zakończeniu Dragan wraca do matematyków i zmiany wywołanej przez AI. Przewi
 
 Pozostawia jednak myśl o możliwej pomocy dla innych: jeśli matematycy znajdą sposób na życie i pracę w tej sytuacji, ich doświadczenie może przydać się kolejnym ludziom. Pytanie o granice maszyn staje się pytaniem o to, jak odnaleźć się po zmianie własnej roli.
 
-Nagranie trwa 42 minuty 22 sekundy i obejmuje zapowiedź oraz wykład. Pełny transkrypt zawiera znaczniki czasu i oznaczenia niepewnych fragmentów. Zapis odwołań do slajdów zachowuje wypowiedzi prelegenta; treść samych slajdów nie była dostępna.
+Dostarczone nagranie trwa 42 minuty 22 sekundy i obejmuje zapowiedź oraz wykład. Transkrypt uzupełniono przez porównanie niezależnej automatycznej transkrypcji dźwięku pełnej konferencji z jej napisami. Zachowano lokalne znaczniki czasu i oznaczenia nierozstrzygniętych fragmentów; początek lokalnego nagrania odpowiada w przybliżeniu 07:47:55 pełnej konferencji. Komunikaty organizacyjne i pominięte dygresje oznaczono w zapisie. Odwołania do rysunków zachowują rozpoznane wypowiedzi, a parafraza przypisywana Banachowi nie jest gwarancją literalnego cytatu. Opinie, hipotezy i prognozy pozostają stanowiskiem prelegenta.
 
 [Oficjalny program wykładu](https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/).

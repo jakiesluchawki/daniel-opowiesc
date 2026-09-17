@@ -33,7 +33,7 @@
       "timeSeconds": 530,
       "paragraphs": [
         "Ten sposób myślenia Dragan odnosi do sieci neuronowych. Opisuje je jako kolejne poziomy rozpoznawania podobieństw: jedna warstwa wykrywa wzorce, następna odnajduje relacje między nimi. Powstaje hierarchia analogii.",
-        "Przywołuje też przypisywaną Stefanowi Banachowi myśl o matematykach, którzy widzą podobieństwa między twierdzeniami, dowodami, teoriami i wreszcie samymi analogiami. W tym zestawieniu zdolność maszyny do rozpoznawania wzorców staje się poważnym kandydatem na narzędzie odkrywania."
+        "Prelegent parafrazuje też przypisywaną Stefanowi Banachowi myśl o matematykach, którzy widzą podobieństwa między twierdzeniami, dowodami, teoriami i wreszcie samymi analogiami. To odwołanie nie stanowi potwierdzonego dosłownego cytatu Banacha. W tym zestawieniu zdolność maszyny do rozpoznawania wzorców staje się poważnym kandydatem na narzędzie odkrywania."
       ]
     },
     {
@@ -77,6 +77,6 @@
       ]
     }
   ],
-  "sourceNote": "Nagranie trwa 42 minuty 22 sekundy i obejmuje zapowiedź oraz wykład. Pełny transkrypt zawiera znaczniki czasu i oznaczenia niepewnych fragmentów. Zapis odwołań do slajdów zachowuje wypowiedzi prelegenta; treść samych slajdów nie była dostępna.",
+  "sourceNote": "Dostarczone nagranie trwa 42 minuty 22 sekundy i obejmuje zapowiedź oraz wykład. Transkrypt uzupełniono przez porównanie niezależnej automatycznej transkrypcji dźwięku pełnej konferencji z jej napisami. Zachowano lokalne znaczniki czasu i oznaczenia nierozstrzygniętych fragmentów; początek lokalnego nagrania odpowiada w przybliżeniu 07:47:55 pełnej konferencji. Komunikaty organizacyjne i pominięte dygresje oznaczono w zapisie. Odwołania do rysunków zachowują rozpoznane wypowiedzi, a parafraza przypisywana Banachowi nie jest gwarancją literalnego cytatu. Opinie, hipotezy i prognozy pozostają stanowiskiem prelegenta.",
   "artworkAlt": "Szkic pofałdowanej geometrii łączącej ciemne zagłębienie z jasnym otwarciem; mała postać obserwuje ją z brzegu."
 }

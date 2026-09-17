@@ -1,0 +1,192 @@
+{
+  "id": "pnl",
+  "title": "AI musi się policzyć",
+  "programTitle": "AI WCHODZI DO P&L. PO OBU STRONACH",
+  "participants": [
+    "Artur Stankiewicz"
+  ],
+  "participantsBasis": "program",
+  "moderator": null,
+  "lead": "Artur Stankiewicz opowiada o wdrażaniu AI w Orange przez koszty, odpowiedzialność i wartość procesu. Technologia trafia do rachunku wyników po obu stronach: zużywa zasoby i ma przynosić mierzalny efekt.",
+  "summaryTitle": "Najpierw wartość, potem model",
+  "summaryParagraphs": [
+    "Prelegent porządkuje doświadczenia w kilka praktycznych spostrzeżeń. Cena pojedynczego tokena nie wystarcza do oceny kosztów, bo rośnie także wykorzystanie modeli. Rozliczanie biznesowe wymaga właściciela budżetu, monitorowania zużycia i gotowości do zmiany dostawcy lub modelu. W jego relacji uzasadnienie projektu zaczyna się od problemu i celu procesu, a nie od wyboru najbardziej imponującej technologii.",
+    "Trzy przykłady pokazują, że gotowość techniczna i gotowość organizacji nie są tym samym. Obsługę klienta łatwiej uzasadnić znanym kosztem kontaktu. Przy tworzeniu oprogramowania trudniej wykazać pełną wartość usprawnienia, a oszczędności w analityce bywają rozproszone między wieloma pracownikami. To opis doświadczeń i ambicji Orange przedstawiony przez Stankiewicza, nie niezależny audyt wyników tych wdrożeń."
+  ],
+  "keyPoints": [
+    "Koszt zależy zarówno od zużycia, jak i warunków rozliczenia modelu; jedna prognoza cen nie zastąpi analizy konkretnego zastosowania.",
+    "Projekt powinien mieć plan awaryjny, ponieważ dostawca może zakończyć udostępnianie używanego modelu.",
+    "Zmienny koszt potrzebuje wskazanego właściciela i zasad korzystania; duża liczba tokenów sama nie dowodzi produktywności.",
+    "Bezpieczne narzędzie dla wszystkich pracowników pełni inną funkcję niż projekt rozliczany z konkretnego zwrotu.",
+    "Mierzalna oszczędność i wdrożenie zmiany w organizacji są równie ważne jak działająca technologia."
+  ],
+  "sections": [
+    {
+      "id": "w-01",
+      "title": "Dwa pokrętła kosztu",
+      "videoStart": 11584,
+      "videoEnd": 11760,
+      "paragraphs": [
+        "Stankiewicz zaczyna od rozdzielenia dwóch czynników: ile firma korzysta z modeli i ile płaci za jednostkę tego wykorzystania. Spodziewa się wzrostu zużycia, ale nie przedstawia pewnej prognozy cen. Zestawia obietnice wydajniejszej infrastruktury z kosztami inwestycji i pamięci, aby pokazać niepewność biznesowego rachunku.",
+        "Taryfy porównuje do dawnych skomplikowanych ofert telekomunikacyjnych. Znaczenie mają także sposób naliczania zużycia, dopłaty i możliwości optymalizacji. Przywołane przez niego szczegóły ofert są przykładami z wystąpienia, a nie aktualnym cennikiem. Dla projektu ważna jest obserwacja całego rachunku zamiast samej reklamowanej ceny jednostkowej."
+      ]
+    },
+    {
+      "id": "w-02",
+      "title": "Model może zniknąć",
+      "videoStart": 11760,
+      "videoEnd": 11881,
+      "paragraphs": [
+        "Prelegent relacjonuje, że po kilku miesiącach pracy nad jednym projektem dostawca zapowiedział wyłączenie używanego modelu. To argument za przygotowaniem planu awaryjnego już na starcie. Gotowa aplikacja nie usuwa zależności od decyzji firmy, która dostarcza jej najważniejszy składnik.",
+        "Dobór modelu wiąże następnie z zadaniem: obsługą klienta, tworzeniem oprogramowania lub raportowaniem. W odpowiedzi na pytanie dyrektora finansowego o przyszłe koszty odchodzi od szukania jednego wspólnego współczynnika. Proponuje rozpatrywanie założeń osobno dla modeli i zastosowań, które rzeczywiście wejdą do projektu."
+      ]
+    },
+    {
+      "id": "w-03",
+      "title": "Budżet musi mieć właściciela",
+      "videoStart": 11881,
+      "videoEnd": 11960,
+      "paragraphs": [
+        "Prywatna subskrypcja przyzwyczaja do stałej opłaty. Stankiewicz podkreśla, że biznesowe wykorzystanie modeli może działać inaczej: koszt zależy od skali użycia i może szybko wzrosnąć. Dlatego wskazuje potrzebę jednoznacznej odpowiedzialności za zużycie oraz kontroli wydatków w konkretnym obszarze firmy.",
+        "Przywołuje też opowieść o rankingach zużycia tokenów w innej organizacji. Przykład służy krytyce mylenia intensywności korzystania z osiągniętym efektem. Z jego perspektywy limity i zarządzanie wykorzystaniem stają się częścią wdrożenia, a nie czynnością odkładaną do momentu otrzymania wysokiego rachunku."
+      ]
+    },
+    {
+      "id": "w-04",
+      "title": "Celem jest wynik procesu",
+      "videoStart": 11960,
+      "videoEnd": 12055,
+      "paragraphs": [
+        "W części o danych prelegent przesuwa uwagę na rozumienie problemu. Za kluczowych uznaje ludzi biznesu, którzy wiedzą, gdzie chcą zastosować narzędzie i jakiej wartości oczekują. Sama dostępność technologii nie wyjaśnia jeszcze, czy projekt poprawi to, co firma próbuje osiągnąć.",
+        "Rozróżnia usprawnianie istniejących czynności od ponownego przemyślenia ich celu. W jego argumentacji najważniejsze jest ustalenie, po co proces istnieje i jaki efekt ma przynieść. Dopiero wtedy można ocenić, czy AI pojawi się w rachunku wyników wyłącznie jako wydatek, czy także jako korzyść."
+      ]
+    },
+    {
+      "id": "w-05",
+      "title": "Narzędzie podstawowe i projekt inwestycyjny",
+      "videoStart": 12055,
+      "videoEnd": 12198,
+      "paragraphs": [
+        "Stankiewicz opisuje wewnętrzne bezpieczne środowisko udostępniające pracownikom modele. Jego funkcją jest umożliwienie kontaktu z technologią i codziennego używania. Taką warstwę porównuje do podstawowego wyposażenia biurowego: nie wymaga uzasadnienia każdej pojedynczej czynności użytkownika, choć jej łączny koszt nadal jest kontrolowany.",
+        "Inaczej traktuje konkretne projekty o dużej zakładanej wartości. Te mają uzasadnienie inwestycyjne i oczekiwany zwrot, a koszt AI jest jednym z parametrów rachunku. Według jego relacji tempo prac zależy w dużej mierze od tego, czy zespół potrafi wyraźnie określić korzyść, którą chce uzyskać."
+      ]
+    },
+    {
+      "id": "w-06",
+      "title": "Obsługa klienta: wartość łatwa do nazwania",
+      "videoStart": 12198,
+      "videoEnd": 12322,
+      "paragraphs": [
+        "Pierwszy przykład dotyczy obsługi klienta. Stankiewicz mówi o testach produkcyjnych i przygotowaniach do skalowania. Nie przedstawia tego obszaru jako prostego ani wolnego od ryzyka: kontakt z klientem jest dla operatora szczególnie wrażliwy. Łatwiejsze okazuje się przede wszystkim policzenie ekonomicznego punktu wyjścia.",
+        "Firma zna koszt rozmowy obsługiwanej przez człowieka, więc może oszacować korzyść z automatyzacji części kontaktów. Prelegent wspomina także ambicję późniejszego zastosowania podobnych narzędzi w sprzedaży. To zapowiedziany kierunek i oczekiwany potencjał, nie potwierdzony w materiale wynik przyszłego projektu."
+      ]
+    },
+    {
+      "id": "w-07",
+      "title": "Oprogramowanie: działanie to jeszcze nie pomiar",
+      "videoStart": 12322,
+      "videoEnd": 12390,
+      "paragraphs": [
+        "Drugi obszar to tworzenie oprogramowania. Stankiewicz wiąże jego znaczenie ze skalą wydatków firmy i możliwością usprawnienia całego procesu. W jego relacji sam etap programowania jest już technicznie przygotowany do wykorzystania AI, ale ocena całościowego efektu nadal stanowi wyzwanie.",
+        "W tym miejscu mocno pojawia się zarządzanie zmianą. Trzeba pokazać, gdzie powstaje wartość, jak będzie wykazana i jak nowy sposób pracy zostanie przyjęty. Prelegent wyraża przekonanie o dużym potencjale projektu; nie podaje jednak w tej części zakończonego pomiaru, który rozstrzygałby jego skuteczność."
+      ]
+    },
+    {
+      "id": "w-08",
+      "title": "Rozproszone oszczędności, realny lęk",
+      "videoStart": 12390,
+      "videoEnd": 12578.88,
+      "paragraphs": [
+        "Trzeci przykład to raportowanie i analityka. Prelegent opisuje pomysł konwersacyjnego dostępu do wiedzy firmowej zamiast szukania i interpretowania konkretnych raportów. Badanie organizacji wskazywało wiele zaangażowanych osób, ale przy bliższym oglądzie zadania analityczne zajmowały niewielką część czasu poszczególnych pracowników. Zsumowanie drobnych usprawnień nie daje automatycznie łatwej zmiany organizacyjnej.",
+        "Stankiewicz wskazuje rolę kierownictwa, które musi rozumieć narzędzia i wyobrazić sobie przyszły sposób działania firmy. Dostrzega przy tym naturalny opór ludzi obawiających się utraty pracy. Uczenie się nowych technologii i przechodzenie do innych zajęć przedstawia jako możliwy kierunek odpowiedzi, a nie gwarancję bezbolesnej transformacji."
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "m-01",
+      "title": "Zużycie i cena tokenów",
+      "start": 11584,
+      "end": 11760,
+      "paragraphs": [
+        "Dwa źródła wydatków oraz niepewność warunków rozliczania modeli; prelegent wyjaśnia, dlaczego trudno przewidzieć łączny koszt."
+      ]
+    },
+    {
+      "id": "m-02",
+      "title": "Plan awaryjny i dobór modelu",
+      "start": 11760,
+      "end": 11881,
+      "paragraphs": [
+        "Relacja o wyłączanym modelu prowadzi do pytania o zależności od dostawcy i osobne założenia kosztowe dla różnych projektów."
+      ]
+    },
+    {
+      "id": "m-03",
+      "title": "Odpowiedzialność za budżet",
+      "start": 11881,
+      "end": 11960,
+      "paragraphs": [
+        "Zmienny koszt, właściciel zużycia oraz ograniczenia chroniące przed utożsamianiem liczby tokenów z produktywnością."
+      ]
+    },
+    {
+      "id": "m-04",
+      "title": "Problem i wartość biznesowa",
+      "start": 11960,
+      "end": 12055,
+      "paragraphs": [
+        "Rozumienie celu procesu jako punkt wyjścia do decyzji, gdzie AI ma przynieść wymierny efekt."
+      ]
+    },
+    {
+      "id": "m-05",
+      "title": "Dwie warstwy adopcji",
+      "start": 12055,
+      "end": 12198,
+      "paragraphs": [
+        "Bezpieczne narzędzie dostępne wszystkim pracownikom oraz projekty oceniane przez ich oczekiwaną wartość i zwrot."
+      ]
+    },
+    {
+      "id": "m-06",
+      "title": "Customer care",
+      "start": 12198,
+      "end": 12322,
+      "paragraphs": [
+        "Znany koszt kontaktu ułatwia rachunek automatyzacji, choć sam obszar obsługi klienta pozostaje wrażliwy."
+      ]
+    },
+    {
+      "id": "m-07",
+      "title": "Tworzenie oprogramowania",
+      "start": 12322,
+      "end": 12390,
+      "paragraphs": [
+        "Różnica między gotowością techniczną a wykazaniem wartości usprawnienia i zmianą sposobu pracy."
+      ]
+    },
+    {
+      "id": "m-08",
+      "title": "Analityka i zmiana organizacji",
+      "start": 12390,
+      "end": 12578.88,
+      "paragraphs": [
+        "Rozproszone zadania raportowe, udział kierownictwa oraz obawy pracowników przed konsekwencjami automatyzacji."
+      ]
+    }
+  ],
+  "sourceNote": "Autorskie opracowanie merytorycznej części wystąpienia z pełnego nagrania AI Summit PJAIT. Mapa używa globalnego czasu streamu; początki fragmentów są orientacyjne i wynikają z cue automatycznych napisów. Niepewnych nazw narzędzi i szczegółów cenników nie odtwarzano z domysłu. Przykłady Orange, ambicje projektów i oceny kosztów przypisano Arturowi Stankiewiczowi. Pominięto powitania i informacje organizacyjne.",
+  "recording": {
+    "url": "https://www.youtube.com/live/SurotppGtyA",
+    "startSeconds": 11563.399,
+    "endSeconds": 12578.88,
+    "timeBasis": "full_video",
+    "includedRanges": [
+      {
+        "start": 11563.399,
+        "end": 12578.88
+      }
+    ]
+  }
+}

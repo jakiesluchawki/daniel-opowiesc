@@ -1,0 +1,196 @@
+{
+  "title": "AI Summit PJAIT 2026 PL",
+  "channel": "PJAIT",
+  "url": "https://www.youtube.com/live/SurotppGtyA",
+  "durationSeconds": 38325,
+  "timeBasis": "full_video",
+  "precisionNote": "Orientacyjne granice oraz dopasowanie do cue napisów, zwykle z dokładnością kilku sekund.",
+  "newSessions": [
+    {
+      "id": "rokosz",
+      "start": 1518.44,
+      "end": 3082.559,
+      "includedRanges": [
+        {
+          "start": 1518.44,
+          "end": 3082.559
+        }
+      ],
+      "planned": {
+        "date": "2026-09-16",
+        "timeZone": "Europe/Warsaw",
+        "startLocal": "09:45",
+        "endLocal": "10:05",
+        "sourceUrl": "https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/"
+      }
+    },
+    {
+      "id": "digital-media",
+      "start": 3173.64,
+      "end": 5265.6,
+      "includedRanges": [
+        {
+          "start": 3173.64,
+          "end": 4343.84
+        },
+        {
+          "start": 4346.4,
+          "end": 4692.92
+        },
+        {
+          "start": 4715.36,
+          "end": 5159.679
+        },
+        {
+          "start": 5206.76,
+          "end": 5265.6
+        }
+      ],
+      "planned": {
+        "date": "2026-09-16",
+        "timeZone": "Europe/Warsaw",
+        "startLocal": "10:05",
+        "endLocal": "10:50",
+        "sourceUrl": "https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/"
+      }
+    },
+    {
+      "id": "idziak",
+      "start": 5500.6,
+      "end": 7482.079,
+      "includedRanges": [
+        {
+          "start": 5500.6,
+          "end": 6970.52
+        },
+        {
+          "start": 6986.36,
+          "end": 7482.079
+        }
+      ],
+      "planned": {
+        "date": "2026-09-16",
+        "timeZone": "Europe/Warsaw",
+        "startLocal": "10:50",
+        "endLocal": "11:15",
+        "sourceUrl": "https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/"
+      }
+    },
+    {
+      "id": "wdrozenia",
+      "start": 7754.48,
+      "end": 9645.6,
+      "includedRanges": [
+        {
+          "start": 7754.48,
+          "end": 9645.6
+        }
+      ],
+      "planned": {
+        "date": "2026-09-16",
+        "timeZone": "Europe/Warsaw",
+        "startLocal": "11:15",
+        "endLocal": "12:00",
+        "sourceUrl": "https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/"
+      }
+    },
+    {
+      "id": "pnl",
+      "start": 11563.399,
+      "end": 12578.88,
+      "includedRanges": [
+        {
+          "start": 11563.399,
+          "end": 12578.88
+        }
+      ],
+      "planned": {
+        "date": "2026-09-16",
+        "timeZone": "Europe/Warsaw",
+        "startLocal": "12:30",
+        "endLocal": "12:50",
+        "sourceUrl": "https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/"
+      }
+    },
+    {
+      "id": "business",
+      "start": 12745.64,
+      "end": 15029.239,
+      "includedRanges": [
+        {
+          "start": 12745.64,
+          "end": 15029.239
+        }
+      ],
+      "planned": {
+        "date": "2026-09-16",
+        "timeZone": "Europe/Warsaw",
+        "startLocal": "12:50",
+        "endLocal": "13:40",
+        "sourceUrl": "https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/"
+      }
+    },
+    {
+      "id": "cybersecurity",
+      "start": 15255.239,
+      "end": 17671.798,
+      "includedRanges": [
+        {
+          "start": 15255.239,
+          "end": 17671.798
+        }
+      ],
+      "planned": {
+        "date": "2026-09-16",
+        "timeZone": "Europe/Warsaw",
+        "startLocal": "13:40",
+        "endLocal": "14:30",
+        "sourceUrl": "https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/"
+      }
+    }
+  ],
+  "legacyAlignment": {
+    "daniel": {
+      "offsetSeconds": 21958.381,
+      "scale": 1.00144265,
+      "matchedPhrases": 140,
+      "captionResidualMedianAbsoluteSeconds": 0.672
+    },
+    "psyho": {
+      "offsetSeconds": 22739.205,
+      "scale": 0.99996346,
+      "matchedPhrases": 800,
+      "captionResidualMedianAbsoluteSeconds": 0.543
+    },
+    "dragan": {
+      "offsetSeconds": 28075.451,
+      "scale": 1.00010683,
+      "matchedPhrases": 320,
+      "captionResidualMedianAbsoluteSeconds": 0.525
+    },
+    "final": {
+      "offsetSeconds": 30665.869,
+      "scale": 0.99997787,
+      "matchedPhrases": 764,
+      "captionResidualMedianAbsoluteSeconds": 0.604
+    },
+    "qa-p1": {
+      "offsetSeconds": 34002.308,
+      "scale": 1.00002376,
+      "matchedPhrases": 302,
+      "captionResidualMedianAbsoluteSeconds": 0.592
+    },
+    "qa-p2": {
+      "offsetSeconds": 35684.939,
+      "scale": 0.9994639,
+      "matchedPhrases": 83,
+      "captionResidualMedianAbsoluteSeconds": 0.542
+    },
+    "qa-p3": {
+      "offsetSeconds": 36121.876,
+      "scale": 0.99981739,
+      "matchedPhrases": 225,
+      "captionResidualMedianAbsoluteSeconds": 0.64
+    }
+  }
+}

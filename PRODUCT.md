@@ -1,8 +1,8 @@
 # Produkt
 
-Kolekcja wykładów AI Summit PJAIT z 16 września 2026, otwierana jednym linkiem na telefonie lub komputerze. Pięć wydarzeń: Naskręcki, Psyho i Bagiński, Dragan, Rosiak i Q&A; osobny Słowniczek pojęć, cytatów i odniesień.
+Kolekcja wykładów AI Summit PJAIT z 16 września 2026, otwierana jednym linkiem na telefonie lub komputerze. Dwanaście sesji: Rokosz, Media cyfrowe, Idziak, Wdrożenia, AI i P&L, Biznes, Cyberbezpieczeństwo, Naskręcki, Psyho i Bagiński, Dragan, Rosiak i Q&A. Osobny Słowniczek pojęć, cytatów i odniesień.
 
-Daniel jest bohaterem literackiej adaptacji wykładu Bartosza Naskręckiego. Dwanaście krótkich slajdów mieści się w jednym ekranie; dłuższa adaptacja pozostaje pod „Czytaj całość”. Pozostałe wydarzenia mają ciągłe streszczenia i pełne transkrypty. Czytelnik decyduje o tempie.
+Daniel jest bohaterem literackiej adaptacji wykładu Bartosza Naskręckiego. Dwanaście krótkich slajdów mieści się w jednym ekranie; dłuższa adaptacja pozostaje pod „Czytaj całość”. Pięć pierwotnych wydarzeń ma pełne transkrypty dostarczonego materiału, teraz sprawdzone z transmisją. Siedem nowych sesji ma szczegółowe autorskie opracowania i mapy nagrania. Czytelnik decyduje o tempie.
 
 ## Kryteria jakości
 
@@ -10,7 +10,8 @@ Daniel jest bohaterem literackiej adaptacji wykładu Bartosza Naskręckiego. Dwa
 - Natychmiastowy dostęp do całej treści, obsługa klawiaturą i dotykiem, czytelność na małym telefonie.
 - Rozróżnienie adaptacji, transkrypcji, streszczenia, opinii, prognozy i faktu.
 - Pojęcia objaśnione własnymi słowami; cytaty odróżnione od parafraz i niepewnych przypisań. Źródła oraz wzajemne linki do fragmentów.
-- Q&A zachowuje trzy lokalne zegary i dwie przerwy o nieznanej długości. Nieznanych mówców i nazw nie odgaduje się z internetu.
+- Q&A zachowuje trzy lokalne zegary. Odzyskane przerwy, około 3:20 i 0:12, są osobno oznaczonymi parafrazami z czasami transmisji. Nieznanych mówców i nazw nie odgaduje się z internetu.
+- Promocję i organizację pomija się także wewnątrz paneli. Opracowanie nie udaje dosłownego zapisu.
 - Bez surowego audio, prywatnych ścieżek, analityki i zależności od zewnętrznych fontów.
 
 Publikacja na istniejącym GitHub Pages, z kontrolą konkretnego commita, zgodności publicznych plików oraz publicznego interfejsu.

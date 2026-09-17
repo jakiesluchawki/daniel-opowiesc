@@ -148,3 +148,55 @@ h1,h2{letter-spacing:-.035em;line-height:1.1;margin:0}
 .glossary-section-title{margin:4rem 0 2rem!important}
 @media(max-width:900px){.glossary-index,.glossary-column{width:calc(100% - 2*var(--gutter));margin-left:auto;margin-right:auto}}
 @media(max-width:700px){.lecture-switch{gap:.3rem}.lecture-switch a{font-size:.75rem}}
+
+/* Conference index: twelve sessions, one quiet masthead row. */
+.site-header .lecture-switch{position:static;gap:1.1rem}
+.site-header .lecture-shortcuts{display:flex;align-items:center;gap:clamp(.9rem,1.5vw,1.5rem)}
+.site-header .lecture-shortcuts a.is-active{color:var(--ink);font-weight:700;border-bottom-color:var(--blue)}
+.site-header .lecture-switch .lecture-current{display:none}
+.site-header .collection-menu{position:static;flex:0 0 auto}
+.site-header .collection-menu>summary{display:flex;align-items:center;min-height:2.75rem;padding:.65rem 0;font-size:.82rem;white-space:nowrap;list-style:none;color:var(--ink)}
+.site-header .collection-menu>summary::-webkit-details-marker{display:none}
+.collection-trigger-short{display:none}
+.collection-total{color:var(--muted);margin-left:.3rem;font-variant-numeric:tabular-nums}
+.collection-toggle{margin-left:.4rem;color:var(--blue)}
+.collection-toggle:after{content:'+'}
+.collection-menu[open] .collection-toggle:after{content:'−'}
+.site-header .collection-index{position:absolute;z-index:20;left:0;right:0;top:100%;max-height:min(70dvh,calc(100dvh - 10rem));overflow-y:auto;overscroll-behavior:contain;background:var(--paper);padding:1.5rem var(--gutter) 2rem;border:0;box-shadow:none}
+.collection-index-label{font-size:.8rem;color:var(--muted);margin:0 0 1rem}
+.collection-index ol{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.35rem 2rem;list-style:none;margin:0;padding:0}
+.site-header .collection-index a,.story-body.enhanced:not(.reading) .site-header .collection-index a{display:flex;flex-direction:column;align-items:flex-start;justify-content:center;gap:.25rem;min-height:2.75rem;padding:.75rem 0;font-size:1rem;line-height:1.4;white-space:normal;color:var(--ink);border:0;text-decoration:none;overflow-wrap:anywhere}
+.collection-session-label{font-weight:700}
+.collection-session-title{font-size:.85rem;color:var(--muted);font-weight:400}
+.site-header .collection-index a[aria-current=page],.story-body.enhanced:not(.reading) .site-header .collection-index a[aria-current=page]{color:var(--blue)}
+.site-header .collection-index a:hover .collection-session-label{text-decoration:underline;text-underline-offset:.22em}
+@media(min-width:1200px){
+ .site-header{grid-template-columns:auto minmax(0,1fr) auto}
+ .site-header .lecture-switch{justify-content:center}
+}
+@media(min-width:1200px) and (max-width:1359px){
+ .site-header{grid-template-columns:minmax(0,1fr) auto}
+ .site-header .collection-label{display:none}
+ .site-header .lecture-switch{justify-content:flex-start}
+}
+@media(max-width:1199px){
+ .site-header .lecture-shortcuts{display:none}
+ .site-header .lecture-switch,.story-body.enhanced:not(.reading) .site-header .lecture-switch{justify-content:space-between;gap:.75rem}
+ .site-header .lecture-switch .lecture-current,.story-body.enhanced:not(.reading) .site-header .lecture-switch .lecture-current{display:inline-flex;align-items:center;min-height:2.75rem;font-size:.875rem;color:var(--ink);font-weight:700}
+ .site-header .collection-menu>summary{font-size:.82rem}
+ .collection-trigger-long{display:none}
+ .collection-trigger-short{display:inline}
+}
+@media(max-width:900px){.collection-index ol{grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem 1.5rem}}
+@media(max-width:600px){.collection-index ol{grid-template-columns:minmax(0,1fr)}.site-header .collection-index{padding-block:1rem 1.5rem}}
+
+@media(max-width:600px){
+ .site-header .collection-menu[open]:before{content:'';position:fixed;inset:0;z-index:-1;background:var(--paper);pointer-events:none}
+}
+/* The original local timestamp stays visible beside the continuous video clock. */
+.broadcast-note { display:block; margin-top:.25em; font-family:Roobert,sans-serif; font-size:.72em; font-weight:400; line-height:1.45; color:var(--muted); }
+.broadcast-note a { text-underline-offset:.2em; }
+.recording-map { padding-left:1.2em; }
+.recording-map li { margin:1.5rem 0 2rem; padding-left:.3em; }
+.recording-map h3 { font-size:1.05rem; font-family:Roobert,sans-serif; font-weight:400; line-height:1.5; }
+.recording-clock { display:block; color:var(--muted); font-variant-numeric:tabular-nums; font-size:.8em; }

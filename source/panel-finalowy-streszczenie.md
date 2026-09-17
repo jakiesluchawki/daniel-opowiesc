@@ -50,7 +50,7 @@ Pojawia się jednak istotne zastrzeżenie do tej analogii. W szachach skuteczna 
 
 Pytanie o optymalizację zmienia skalę rozmowy. Co miałby optymalizować człowiek: przeżycie, szczęście, skuteczność działania? W dyskusji pojawia się także myśl, że przestrzeń dla kultury i nauki powstała wtedy, gdy ludzie mogli zająć się czymś więcej niż bezpośrednim przetrwaniem.
 
-Pojawia się odróżnienie opisu ewolucyjnego od pytania o jednostkę uznaną za podmiot. Pada stwierdzenie, że człowiek jako podmiot nie ma celu, podczas gdy narzędzia go mają. Na tym tle pojawia się obawa, że AI mogłaby sprowadzić człowieka do roli narzędzia.
+Pojawia się odróżnienie ewolucyjnego opisu gatunku od pytania o jednostkę uznaną za podmiot. Rozmówca podkreśla, że jednostka sama tworzy system wartości i wybiera cele; narzędzie ma cel zadany. Na tym tle pojawia się obawa, że AI mogłaby sprowadzić człowieka do roli narzędzia.
 
 ## Dzisiejszy punkt czy przyszła trajektoria?
 
@@ -70,6 +70,6 @@ Demokracja zostaje przedstawiona jako technologia zarządzania społeczeństwem,
 
 Odpowiedź akcentuje wartość demokracji jako mechanizmu korekcji błędów: skoro nie umiemy zaprojektować dobrego systemu bez pomyłek, potrzebujemy możliwości jego poprawiania. W zakończeniu wraca przestroga przed przekonaniem, że jeden projektant może zrozumieć całość. Alternatywą w tej wypowiedzi jest budowanie mechanizmów doskonalenia, bez roszczenia do zaprojektowania wszystkiego od początku do końca.
 
-Pełny transkrypt obejmuje całe nagranie trwające 54 minuty 55 sekund. Zawiera znaczniki czasu oraz jawne oznaczenia fragmentów niezrozumiałych i niepewnych. Nazwiska wskazują skład panelu z programu; wypowiedzi pozostają bez przypisania do osób tam, gdzie identyfikacja głosu nie była pewna.
+Transkrypt zachowuje lokalne znaczniki całego nagrania trwającego 54 minuty 55 sekund. Sprawdzono go także z pełną transmisją konferencji, jej napisami i niezależnym rozpoznaniem czystego audio. Jawnie oznaczono nierozstrzygnięte brzmienia oraz pominięcia organizacyjne. Nazwiska wskazują skład panelu z programu; wypowiedzi pozostają bez przypisania do osób tam, gdzie identyfikacja głosu nie była pewna.
 
 [Oficjalny program panelu](https://aisummit.pja.edu.pl/program-konferencji-ai-summit-pjait/).

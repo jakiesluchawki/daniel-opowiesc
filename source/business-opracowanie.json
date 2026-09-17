@@ -1,0 +1,226 @@
+{
+  "id": "business",
+  "title": "Od zachwytu do rachunku",
+  "programTitle": "AI & BUSINESS",
+  "participants": [
+    "Wojciech Ogórek",
+    "Artur Stankiewicz",
+    "Tomasz Ciąpała",
+    "Maciej Tąkiel",
+    "Adam Simon",
+    "Paweł Wróbel"
+  ],
+  "participantsBasis": "program",
+  "moderator": "Adrian Bąk",
+  "lead": "Jak poznać, że wdrożenie AI naprawdę się opłaciło? Rozmowa przechodzi od ogólnego entuzjazmu do konkretnych procesów, odpowiedzialności, nawyków pracowników i kosztów infrastruktury.",
+  "summaryTitle": "Wartość ma adres i właściciela",
+  "summaryParagraphs": [
+    "Panel zaczyna się pytaniem o koniec wdrażania AI tylko dlatego, że wszyscy o nim mówią. Rozmówcy opisują oszczędność czasu w ogłoszeniach motoryzacyjnych, analizę dokumentów bankowych, przygotowywanie zdjęć i poszukiwanie klientów. Przykłady pokazują różne miary sukcesu: krótszą czynność, sprawniejszą sprzedaż lub nową usługę. Nie powstaje jednak jedna odpowiedź obowiązująca każdą branżę.",
+    "Drugą osią dyskusji jest organizacja. Sprawny użytkownik może pracować inaczej niż jego zespół, a agent działający na firmowych danych potrzebuje innych granic niż prywatny eksperyment. Rozmowa kończy się bezpieczeństwem klientów i polskimi inwestycjami. Wyniki firm oraz przewidywania są relacjami uczestników, nie niezależnie zweryfikowanymi wskaźnikami."
+  ],
+  "keyPoints": [
+    "Projekt zaczyna się od problemu oraz ustalenia, po czym organizacja rozpozna jego rozwiązanie.",
+    "Finansowanie raportu i kontekst badania mają znaczenie przy przenoszeniu jego wniosków do własnej firmy.",
+    "Możliwość techniczna nie przesądza, że warto oddać systemowi decyzję dotyczącą klienta.",
+    "Poufność danych i sposób naliczania przychodów mogą ograniczać wdrożenie agentów nawet tam, gdzie narzędzia działają.",
+    "Szkolenie nie wystarcza bez zmiany procesów, oczekiwań i codziennych nawyków zespołu.",
+    "Polskie kompetencje, koszt kapitału i dostęp do energii są w panelu osobnymi elementami rachunku inwestycji."
+  ],
+  "sections": [
+    {
+      "id": "w-01",
+      "title": "Po czym poznać sukces?",
+      "videoStart": 12745.64,
+      "videoEnd": 12905,
+      "paragraphs": [
+        "Moderator pyta o przejście od potrzeby posiadania AI do mierzenia wartości. W odpowiedzi pojawia się postulat nazwania konkretnego problemu biznesowego. Samo zużycie zasobów nie świadczy jeszcze, że organizacja osiągnęła korzyść.",
+        "Panelista rozróżnia codziennego asystenta od projektu rozliczanego ze zwrotu. Przy tym drugim trzeba wcześniej ustalić miarę sukcesu. To zmiana sposobu podejmowania decyzji, nie tylko wybór oprogramowania."
+      ]
+    },
+    {
+      "id": "w-02",
+      "title": "Raport też ma perspektywę",
+      "videoStart": 12905,
+      "videoEnd": 13066,
+      "paragraphs": [
+        "Rozmówca występujący z perspektywy akademickiej zachęca do sprawdzania, kto finansuje przywoływane badania. Według niego sprzeczne raporty potrafią wesprzeć bardzo różne tezy o opłacalności AI. Nie odrzuca ich wiedzy, ale przestrzega przed przyjmowaniem wyników bez uwzględnienia interesów i ograniczeń źródła.",
+        "Doświadczenia dużej spółki technologicznej nie przekładają się automatycznie na możliwości mniejszej firmy. Konkretne przykłady mają inspirować, a nie zastępować własny rachunek. To argument za krytycznym czytaniem materiałów i uczeniem się z faktycznych wdrożeń."
+      ]
+    },
+    {
+      "id": "w-03",
+      "title": "Ogłoszenie i samochód znaleziony szybciej",
+      "videoStart": 13066,
+      "videoEnd": 13230,
+      "paragraphs": [
+        "W przykładzie Otomoto AI pomaga tworzyć ogłoszenie ze zdjęć lub krótkiego filmu oraz dopasowywać opis do danych i szablonu sprzedawcy. Rozmówca powołuje się na badania firmy wskazujące krótszy czas publikacji. Korzyść wiąże z powtarzalną pracą profesjonalnych sprzedawców, nie z samym faktem użycia modelu.",
+        "Po stronie kupującego opisuje wyszukiwanie przez potrzeby życiowe zamiast znajomości wielu technicznych filtrów. Szybsze znalezienie odpowiedniego auta ma wspierać przejście do zakupu. To dwa różne cele jednej platformy: usprawnienie przygotowania oferty i ułatwienie decyzji klienta."
+      ]
+    },
+    {
+      "id": "w-04",
+      "title": "Bank nie może oddać odpowiedzialności",
+      "videoStart": 13230,
+      "videoEnd": 13548,
+      "paragraphs": [
+        "Bankowy przykład obejmuje wsparcie programowania, ekstrakcję informacji z dokumentów klienta oraz narzędzia korzystające z wiedzy i systemów organizacji. Rozmówca podkreśla, że potencjalnych zastosowań jest więcej niż możliwości równoczesnego wdrażania. Pomysły powinny wychodzić z jednostek znających własne procesy i problemy.",
+        "W rozmowie o kontakcie z klientem pojawia się granica między techniczną możliwością a dopuszczalnym ryzykiem. Wysoka średnia poprawność może nie wystarczyć, gdy pojedynczy błąd szkodzi klientowi lub przypisuje bankowi niewłaściwe zobowiązanie. Ostateczna decyzja człowieka pozostaje ważna w opisanym procesie analizy kredytowej."
+      ]
+    },
+    {
+      "id": "w-05",
+      "title": "Oszczędność i nowy przychód",
+      "videoStart": 13548,
+      "videoEnd": 13989,
+      "paragraphs": [
+        "Przedsiębiorca rozdziela projekty obniżające koszty od zmieniających model przychodowy. Wymienia zdjęcia produktów przygotowywane z AI, tłumaczenia, analizę poprawności zdjęć biometrycznych i wyszukiwanie potencjalnych odbiorców opakowań. Podkreśla zarazem, że rozwiązanie dające przewagę może zostać szybko powtórzone przez konkurencję.",
+        "Rozmówcę niepokoi też udział wydatków technologicznych w przychodach. Stankiewicz nie przypomina sobie zamykania nieefektywnych projektów, ale uzależnia dalsze wydatki od efektu. Nadal widzi potencjał skrócenia drogi od pomysłu do realizacji. Panel zachowuje różnicę między entuzjazmem a rachunkiem."
+      ]
+    },
+    {
+      "id": "w-06",
+      "title": "Ludzie wracają do starych nawyków",
+      "videoStart": 13989,
+      "videoEnd": 14126,
+      "paragraphs": [
+        "Wdrożenie zostaje opisane jako transformacja organizacji. Pracownicy muszą rozumieć cel zmiany, własną korzyść i sposób pracy. Wiedza o możliwościach narzędzia nie oznacza jeszcze umiejętności ani gotowości do regularnego korzystania z niego.",
+        "Rozmówcy mówią o utrwalaniu nowych zachowań, zmianie celów i odpowiedzialności rozłożonej od kierownictwa po HR oraz zespół projektu. Bez takiego wsparcia pod presją czasu łatwo wrócić do znajomej metody. Jednorazowe szkolenie i dostęp do asystenta nie domykają opisanej zmiany."
+      ]
+    },
+    {
+      "id": "w-07",
+      "title": "Agent działa w istniejącej organizacji",
+      "videoStart": 14126,
+      "videoEnd": 14586,
+      "paragraphs": [
+        "Przykład kancelarii pokazuje różnicę między osobistym środowiskiem eksperymentalnym a pracą na poufnych danych klientów. Rozmówca wskazuje też napięcie stawki godzinowej: przy niezmienionym modelu rozliczenia krótsza praca może oznaczać mniejszy przychód. Techniczna efektywność nie rozwiązuje sama sprzecznych bodźców biznesowych.",
+        "Drugim napięciem jest różnica tempa między bardzo sprawnym użytkownikiem a resztą zespołu. W przykładzie platformy motoryzacyjnej menedżerowie i wewnętrzna wymiana gotowych zastosowań pomagają zwiększać adopcję. Agenci pojawiają się więc razem z poufnością, procesami i oczekiwaniami wobec ludzi, a nie jako samodzielna recepta na produktywność."
+      ]
+    },
+    {
+      "id": "w-08",
+      "title": "Obrona firmy i obrona klienta",
+      "videoStart": 14586,
+      "videoEnd": 14800,
+      "paragraphs": [
+        "W bankowej odpowiedzi na pytanie o oszustwa pada opis ciągłego wyścigu i coraz krótszego czasu na reakcję. Rozmówca wskazuje zabezpieczenia warstwowe oraz plany działania także na poważne zakłócenia. Nie przedstawia jednego narzędzia jako rozwiązania wszystkich zagrożeń.",
+        "Rozdziela następnie atak na system firmy od oszustwa wymierzonego bezpośrednio w klienta lub pracownika. Przy spersonalizowanych wiadomościach, nagraniach i telefonach akcentuje edukację oraz testowanie czujności. Ocena skuteczności tych środków pozostaje stanowiskiem uczestnika; panel nie zawiera niezależnego porównania wyników obrony."
+      ]
+    },
+    {
+      "id": "w-09",
+      "title": "Polska: kompetencje, kapitał, energia",
+      "videoStart": 14800,
+      "videoEnd": 15029.239,
+      "paragraphs": [
+        "W końcowej rundzie rozmówca wiąże trudności polskich firm z kosztem finansowania, przejęciami i ograniczoną zdolnością globalnej ekspansji. Wyraża sceptycyzm wobec dużej roli państwa, choć dopuszcza jego pomoc. To jego diagnoza strukturalnych ograniczeń, nie wspólnie przyjęty wniosek wszystkich uczestników.",
+        "Odpowiedź o atrakcyjności Polski podkreśla specjalistów i zaplecze naukowe. Stankiewicz proponuje patrzeć na krajowe centra danych również przez bezpieczeństwo, a zarazem wskazuje kapitałochłonność i potrzebę zapewnienia energii. Dyskusja pozostawia obok siebie potencjał kompetencji i warunki niezbędne do dużych inwestycji."
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": "m-01",
+      "title": "Po co firmie AI?",
+      "start": 12745.64,
+      "end": 12905,
+      "paragraphs": [
+        "Moderator otwiera rozmowę o przejściu od potrzeby posiadania narzędzia do zdefiniowanej wartości projektu."
+      ]
+    },
+    {
+      "id": "m-02",
+      "title": "Krytyczne czytanie raportów",
+      "start": 12905,
+      "end": 13066,
+      "paragraphs": [
+        "Finansowanie badań i różnica skali organizacji ograniczają proste przenoszenie cudzych wniosków."
+      ]
+    },
+    {
+      "id": "m-03",
+      "title": "Motoryzacja",
+      "start": 13066,
+      "end": 13230,
+      "paragraphs": [
+        "Automatyzacja ogłoszeń i wyszukiwanie samochodu przez opis potrzeb pokazują dwa konkretne cele usługi."
+      ]
+    },
+    {
+      "id": "m-04",
+      "title": "Dokumenty i ryzyko w banku",
+      "start": 13230,
+      "end": 13548,
+      "paragraphs": [
+        "Wsparcie analityka i granica samodzielnego działania systemu w kontakcie z klientem."
+      ]
+    },
+    {
+      "id": "m-05",
+      "title": "Koszty i model przychodowy",
+      "start": 13548,
+      "end": 13797,
+      "paragraphs": [
+        "Zdjęcia, biometria i opakowania; rozmówca pyta również o trwałość przewagi i wydatki technologiczne."
+      ]
+    },
+    {
+      "id": "m-06",
+      "title": "Projekt bez wyniku",
+      "start": 13797,
+      "end": 13989,
+      "paragraphs": [
+        "Pytanie o zamykanie wdrożeń oraz odpowiedź Stankiewicza o efektach i krótszej drodze od pomysłu do działania."
+      ]
+    },
+    {
+      "id": "m-07",
+      "title": "Zmiana sposobu pracy",
+      "start": 13989,
+      "end": 14126,
+      "paragraphs": [
+        "Umiejętności, cele, utrwalanie nawyków i odpowiedzialność całej organizacji."
+      ]
+    },
+    {
+      "id": "m-08",
+      "title": "Agenci, poufność i bodźce",
+      "start": 14126,
+      "end": 14586,
+      "paragraphs": [
+        "Przykłady kancelarii i platformy technologicznej pokazują organizacyjne warunki korzystania z agentów."
+      ]
+    },
+    {
+      "id": "m-09",
+      "title": "Oszuści i zabezpieczenia",
+      "start": 14586,
+      "end": 14800,
+      "paragraphs": [
+        "Warstwowa obrona infrastruktury oraz odrębny problem ataków wymierzonych w klientów."
+      ]
+    },
+    {
+      "id": "m-10",
+      "title": "Warunki inwestycji w Polsce",
+      "start": 14800,
+      "end": 15029.239,
+      "paragraphs": [
+        "Koszt kapitału, ekspansja, specjaliści, centra danych i dostęp do energii w końcowej rundzie panelu."
+      ]
+    }
+  ],
+  "sourceNote": "Autorskie opracowanie panelu z pełnego nagrania. Skład i moderator według programu; niepewnych głosów nie przypisano do nazwisk. Globalne czasy streamu wyznaczono z automatycznych napisów, z marginesem kilku sekund. Pominięto promocję podcastu, przedstawienia i zamknięcie organizacyjne; zachowano merytoryczne przykłady firm. Nie publikowano surowych napisów ani dosłownego transkryptu.",
+  "recording": {
+    "url": "https://www.youtube.com/live/SurotppGtyA",
+    "startSeconds": 12745.64,
+    "endSeconds": 15029.239,
+    "timeBasis": "full_video",
+    "includedRanges": [
+      {
+        "start": 12745.64,
+        "end": 15029.239
+      }
+    ]
+  }
+}
