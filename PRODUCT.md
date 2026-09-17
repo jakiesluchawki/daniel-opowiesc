@@ -7,6 +7,8 @@ Daniel jest bohaterem literackiej adaptacji wykładu Bartosza Naskręckiego. Dwa
 ## Kryteria jakości
 
 - Piękne pełnoekranowe i szerokie szkice, bez kart, ramek i małych prostokątów obok artykułu.
+- Widoczny link „Skrypt” na każdej stronie, tekst konkretnej sesji oraz pełny TXT do pobrania.
+- Odnośniki przy fragmentach prowadzą do tekstu i nagrania; słowniczek działa w obie strony także w zbiorczym skrypcie.
 - Natychmiastowy dostęp do całej treści, obsługa klawiaturą i dotykiem, czytelność na małym telefonie.
 - Rozróżnienie adaptacji, transkrypcji, streszczenia, opinii, prognozy i faktu.
 - Pojęcia objaśnione własnymi słowami; cytaty odróżnione od parafraz i niepewnych przypisań. Źródła oraz wzajemne linki do fragmentów.

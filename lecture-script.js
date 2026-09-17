@@ -120,6 +120,25 @@
     apply();
   }
 
+  // A native deep link can be positioned before the licensed fonts finish
+  // laying out this long document. Resolve the requested target after layout.
+  let hashNavigation = 0;
+  function followHash() {
+    const requestedHash = location.hash;
+    const navigation = ++hashNavigation;
+    if (!requestedHash) return;
+    document.fonts.ready.then(() => requestAnimationFrame(() => requestAnimationFrame(() => {
+      if (navigation !== hashNavigation || location.hash !== requestedHash) return;
+      let id;
+      try { id = decodeURIComponent(requestedHash.slice(1)); } catch { return; }
+      const target = document.getElementById(id);
+      if (!target || target.closest('[hidden]')) return;
+      const index = matches.findIndex(item => item.element === target);
+      if (filtering && index >= 0) jump(index);
+      else target.scrollIntoView({block: 'start', behavior: 'instant'});
+    })));
+  }
+
   query.addEventListener('input', () => {
     clearTimeout(timer);
     timer = setTimeout(() => apply(), 140);
@@ -148,7 +167,9 @@
     query.value = url.searchParams.get('q') || '';
     scope.value = url.searchParams.get('sesja') || '';
     apply({writeUrl: false});
+    followHash();
   });
+  window.addEventListener('hashchange', followHash);
   const url = new URL(location.href);
   query.value = url.searchParams.get('q') || '';
   const requestedSession = url.searchParams.get('sesja');
@@ -156,6 +177,5 @@
   form.hidden = false;
   document.querySelector('.script-nojs').hidden = true;
   apply({writeUrl: false});
-  const initial = matches.findIndex(item => `#${item.element.id}` === location.hash);
-  if (initial >= 0 && filtering) requestAnimationFrame(() => jump(initial));
+  followHash();
 })();

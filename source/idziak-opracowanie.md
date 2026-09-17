@@ -75,7 +75,7 @@ Zespołowi potrzebna jest przestrzeń prób. Prelegent proponuje piaskownicę in
 
 ## Różni mentorzy, wspólna piaskownica
 
-Idziak pyta, jak uniknąć otrzymywania podobnych rozwiązań od tego samego modelu. Opisuje eksperyment edukacyjny z osobnymi agentami opartymi na wybranych mentorach. Uczestnik wybiera postać, której sposób myślenia ma stanowić określony punkt odniesienia dla porad i rozmowy.
+Idziak pyta, jak uniknąć otrzymywania podobnych rozwiązań od tego samego modelu. Opisuje eksperyment edukacyjny z osobnymi agentami opartymi na wybranych mentorach. Projektowi nadaje żartobliwą nazwę „Stowarzyszenie umarłych filmowców”, przedstawianą jako parafraza filmowego tytułu. Uczestnik wybiera postać, której sposób myślenia ma stanowić określony punkt odniesienia dla porad i rozmowy.
 
 Te profile nie mają tylko odpowiadać pojedynczemu użytkownikowi. W opisywanym pomyśle drugi mechanizm wyszukuje osoby o wspólnych zainteresowaniach lub uzupełniających się umiejętnościach. Ludzie i ich agenci spotykają się przy projekcie, dyskutują, a szerszy model pomaga porządkować powstający materiał.
 

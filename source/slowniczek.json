@@ -216,6 +216,12 @@
           "page": "pnl.html",
           "anchor": "w-08",
           "label": "AI WCHODZI DO P&L. PO OBU STRONACH · Optymalizacja"
+        },
+        {
+          "page": "rokosz.html",
+          "anchor": "w-03",
+          "label": "Rokosz · optymalizacja zależna od gestu",
+          "needle": "Optymalizacja nie polega więc na jednej stałej recepturze"
         }
       ],
       "sources": [
@@ -236,6 +242,12 @@
           "page": "panel-finalowy-transkrypcja.html",
           "anchor": "t-2245",
           "label": "22:45 · ograniczenia obliczeń"
+        },
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-2245",
+          "needle": "maszyny Turinga",
+          "label": "Rosiak · 22:45 · zadania poza zasięgiem maszyny"
         }
       ],
       "sources": [
@@ -364,7 +376,7 @@
       "id": "problemy-milenijne",
       "term": "Problemy milenijne",
       "definition": "Siedem wybitnych problemów matematycznych wybranych przez Clay Mathematics Institute. Nagrody dotyczą poprawnie rozwiązanych problemów; głośne ogłoszenie dowodu nie jest jego uznaniem.",
-      "example": "Opowieść wykorzystuje rozwiązywanie kolejnych problemów jako miarę przewagi Daniela. Navier–Stokes w niezweryfikowanym wstępie wymaga osobnej ostrożności.",
+      "example": "Opowieść wykorzystuje rozwiązywanie kolejnych problemów jako miarę przewagi Daniela. Tekst wstępu został sprawdzony z pełnym nagraniem; przywołane w nim twierdzenie o wyniku dotyczącym równań Naviera–Stokesa nie zostało tutaj niezależnie zweryfikowane.",
       "category": "Matematyka i programowanie",
       "occurrences": [
         {
@@ -428,8 +440,9 @@
       "occurrences": [
         {
           "page": "dragan-transkrypcja.html",
-          "anchor": "t-0832",
-          "label": "08:32 · wektory i wagi"
+          "anchor": "t-0906",
+          "label": "Dragan · 09:06 · perceptrony, wektory i wagi",
+          "needle": "iloczyny skalarne"
         }
       ],
       "sources": [
@@ -540,6 +553,12 @@
           "page": "psyho-baginski-transkrypcja.html",
           "anchor": "t-4251",
           "label": "42:51 · alignment i władza"
+        },
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-4702",
+          "needle": "spinacze",
+          "label": "Rosiak · 47:02 · cel a skutki optymalizacji"
         }
       ],
       "sources": [
@@ -590,6 +609,12 @@
           "page": "psyho-baginski-transkrypcja.html",
           "anchor": "t-4540",
           "label": "45:40 · tysiące asystentów"
+        },
+        {
+          "page": "pnl.html",
+          "anchor": "w-06",
+          "label": "AI i P&L · od testu do większej skali",
+          "needle": "przygotowaniach do skalowania"
         }
       ],
       "sources": [
@@ -723,13 +748,14 @@
       "id": "skrocenie-lorentza",
       "term": "Skrócenie Lorentza",
       "definition": "Obiekt poruszający się względem obserwatora inercjalnego ma w kierunku ruchu długość mniejszą od swojej długości spoczynkowej. Pomiar wymaga określenia jednoczesności w układzie obserwatora.",
-      "example": "Wykład przywołuje ten efekt przy przejściu od ruchu do geometrii. Sama nazwa w nagraniu jest oznaczona jako niepewna.",
+      "example": "Dragan nazywa efekt wprost i opisuje skracanie poruszającej się linijki w przykładzie obrotowej platformy.",
       "category": "Fizyka",
       "occurrences": [
         {
           "page": "dragan-transkrypcja.html",
           "anchor": "t-0659",
-          "label": "06:59 · możliwe przywołanie efektu"
+          "label": "Dragan · 06:59 · obracająca się platforma",
+          "needle": "skrócenie Lorentza"
         }
       ],
       "sources": [
@@ -981,8 +1007,9 @@
       "occurrences": [
         {
           "page": "pnl.html",
-          "anchor": "w-01",
-          "label": "AI i P&L · koszt tokenów"
+          "anchor": "w-03",
+          "label": "AI i P&L · zużycie tokenów nie mierzy wyniku",
+          "needle": "rankingach zużycia tokenów"
         }
       ],
       "sources": [
@@ -1027,6 +1054,12 @@
           "page": "business.html",
           "anchor": "w-01",
           "label": "Biznes · miara sukcesu wdrożenia"
+        },
+        {
+          "page": "pnl.html",
+          "anchor": "w-05",
+          "label": "AI i P&L · projekt inwestycyjny i oczekiwany zwrot",
+          "needle": "uzasadnienie inwestycyjne i oczekiwany zwrot"
         }
       ],
       "sources": [
@@ -1053,6 +1086,1180 @@
         {
           "title": "NIST CSRC Glossary: vulnerability",
           "url": "https://csrc.nist.gov/glossary/term/vulnerability"
+        }
+      ]
+    },
+    {
+      "id": "animatik",
+      "term": "Animatik",
+      "category": "Film i animacja",
+      "definition": "Robocza wersja filmu złożona z obrazów storyboardu, którym nadano czas trwania; może zawierać przejścia, ruch kamery i tymczasowy dźwięk. Pozwala sprawdzić rytm oraz dramaturgię przed wykonaniem pełnej animacji.",
+      "example": "Rokosz opisuje roboczy dubbing animatiku jako pomoc w układaniu scen filmu w nieznanym mu języku. Poprawki osób znających język nadal były potrzebne.",
+      "occurrences": [
+        {
+          "page": "digital-media.html",
+          "anchor": "w-02",
+          "label": "Media cyfrowe · dubbing animatiku",
+          "needle": "roboczego dubbingu animatiku"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adobe: animatic storyboards — ruch, dialog i audio",
+          "url": "https://www.adobe.com/uk/creativecloud/animation/discover/animation-storyboarding.html"
+        },
+        {
+          "title": "Toon Boom Storyboard Pro: tworzenie animatiku",
+          "url": "https://docs.toonboom.com/help/storyboard-pro-22/storyboard/getting-started/animatic.html"
+        }
+      ]
+    },
+    {
+      "id": "cykl-animacji",
+      "term": "Cykl animacji",
+      "category": "Film i animacja",
+      "definition": "Sekwencja obrazów lub pozycji odtwarzana wielokrotnie, na przykład przy chodzeniu lub biegu postaci. Pętla pozwala ponownie wykorzystać przygotowany ruch; jej płynność zależy również od połączenia końca z początkiem.",
+      "example": "Rokosz pokazuje powtarzanie tych samych rysunków jako wcześniejszy sposób oszczędzania pracy animatora.",
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-03",
+          "label": "Rokosz · powtarzanie ruchu",
+          "needle": "Powtarzający się cykl"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adobe: What is a walk cycle? — powtarzanie sekwencji ruchu",
+          "url": "https://www.adobe.com/creativecloud/animation/discover/animation-walk-cycle.html"
+        },
+        {
+          "title": "Toon Boom Game Studio: Paste Cycle",
+          "url": "https://docs.toonboom.com/help/game-studio-24/game-asset-editor/reference/menu/main/edit-menu.html"
+        }
+      ]
+    },
+    {
+      "id": "kserografia",
+      "term": "Kserografia",
+      "category": "Film i animacja",
+      "definition": "Technika kopiowania wykorzystująca światło, ładunek elektrostatyczny i suchy toner: wzór ładunku pozwala przenieść obraz na podłoże. W historii animacji stosowano ją także do przenoszenia rysunków na przezroczyste folie.",
+      "example": "Rokosz wiąże ten proces z zachowaniem ekspresji szkicu i zmianą zadań osób wcześniej ręcznie tuszujących rysunki. To jego interpretacja konsekwencji dla twórców.",
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-07",
+          "label": "Rokosz · kreska i kserografia",
+          "needle": "Kserograficzne przenoszenie rysunków"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Xerox: Chester Carlson i kserografia",
+          "url": "https://www.xerox.com/da-dk/innovation/indsigt/chester-carlson-xerography"
+        },
+        {
+          "title": "Disney D23: One Hundred and One Dalmatians",
+          "url": "https://d23.com/a-to-z/one-hundred-and-one-dalmatians-film/"
+        }
+      ]
+    },
+    {
+      "id": "przechwytywanie-ruchu",
+      "term": "Przechwytywanie ruchu / motion capture",
+      "category": "Film i animacja",
+      "definition": "Rejestrowanie ruchu człowieka lub obiektu i przekształcanie go w dane, którymi można sterować animowaną postacią. Dane o ruchu nie są tym samym co gotowy wygląd postaci ani pełne nagranie jej występu.",
+      "example": "Rokosz zestawia przechwytywanie ruchu z rotoskopią: obie techniki korzystają z istniejącego zachowania, choć przetwarzają je innymi metodami.",
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-05",
+          "label": "Rokosz · od aktora do animacji",
+          "needle": "współczesnym przechwytywaniem ruchu"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Adobe: What is motion capture?",
+          "url": "https://www.adobe.com/uk/creativecloud/animation/discover/motion-capture.html"
+        }
+      ]
+    },
+    {
+      "id": "generatywna-ai",
+      "term": "Generatywna AI",
+      "category": "AI i modele",
+      "definition": "Systemy AI tworzące nowe treści, na przykład tekst, obrazy, dźwięk, wideo lub kod, na podstawie wzorców wyuczonych z danych. Wytworzenie przekonującej treści nie oznacza potwierdzenia jej prawdziwości, oryginalności ani praw do jej użycia.",
+      "example": "Idziak umieszcza generatywne narzędzia pośród zmian, które obserwował od produkcji analogowej przez cyfrową. Rokosz podkreśla dłuższą historię urządzeń pomagających twórcom.",
+      "occurrences": [
+        {
+          "page": "idziak.html",
+          "anchor": "w-01",
+          "label": "Idziak · od analogu do generowania",
+          "needle": "do generatywnych narzędzi"
+        },
+        {
+          "page": "rokosz.html",
+          "anchor": "w-01",
+          "label": "Rokosz · technologia i twórczość",
+          "needle": "generatywnymi modelami"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST: What is GenAI?",
+          "url": "https://pages.nist.gov/REPO/sections/intro/what-is-genai.html"
+        }
+      ]
+    },
+    {
+      "id": "gra-paragrafowa",
+      "term": "Gra paragrafowa / narracja rozgałęziona",
+      "category": "Narracja i twórczość",
+      "definition": "Opowieść podzielona na fragmenty, w której wybór czytelnika lub gracza prowadzi do kolejnego fragmentu i może zmieniać przebieg historii. Numerowanie paragrafów jest jednym sposobem organizacji takiej narracji; istotna jest struktura wyborów i przejść.",
+      "example": "Jeden z rozmówców panelu o mediach opisuje własną grę paragrafową rozwijaną w dialogu z AI i uzupełnioną ilustracjami. Oryginalność rezultatu pozostaje jego oceną.",
+      "occurrences": [
+        {
+          "page": "digital-media.html",
+          "anchor": "w-03",
+          "label": "Media cyfrowe · wybory w opowieści",
+          "needle": "własną grę paragrafową"
+        }
+      ],
+      "sources": [
+        {
+          "title": "inkle: Writing with ink — wybory i rozgałęzienia",
+          "url": "https://www.inklestudios.com/ink/web-tutorial/"
+        }
+      ]
+    },
+    {
+      "id": "awatar",
+      "term": "Awatar",
+      "category": "AI i człowiek",
+      "definition": "Cyfrowa reprezentacja osoby lub postaci. Może być prostym obrazem, animowaną postacią albo interaktywnym profilem; sama nazwa nie oznacza świadomości, tożsamości ani wiernego odtworzenia reprezentowanego człowieka.",
+      "example": "Idziak pokazuje awatary powstałe z jego materiałów, a następnie spekuluje o profilach korzystających z wiedzy i poglądów ludzi po ich śmierci. Nie przedstawia tego jako gotowego rynku.",
+      "occurrences": [
+        {
+          "page": "idziak.html",
+          "anchor": "w-01",
+          "label": "Idziak · cyfrowa reprezentacja",
+          "needle": "Pokazuje też awatary"
+        },
+        {
+          "page": "idziak.html",
+          "anchor": "w-02",
+          "label": "Idziak · wiedza po śmierci pierwowzoru",
+          "needle": "tworzenie awatarów"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Microsoft Learn: reprezentacje video i photo avatar",
+          "url": "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-text-to-speech-avatar"
+        },
+        {
+          "title": "Cambridge Dictionary: avatar",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/avatar"
+        }
+      ]
+    },
+    {
+      "id": "metoda-miejsc",
+      "term": "Metoda miejsc / metoda loci",
+      "category": "Pamięć i poznanie",
+      "definition": "Technika zapamiętywania polegająca na kojarzeniu informacji z kolejnymi miejscami znanej lub wyobrażonej trasy. Podczas przypominania odtwarza się drogę i związane z miejscami obrazy.",
+      "example": "Idziak opisuje bohatera umieszczającego wspomnienia na wyobrażonej drodze. W opracowaniu nie pada nazwa metody: hasło objaśnia opisany mechanizm, nie dopisuje terminologii do jego wypowiedzi.",
+      "occurrences": [
+        {
+          "page": "idziak.html",
+          "anchor": "w-03",
+          "label": "Idziak · wspomnienia na wyobrażonej drodze",
+          "needle": "Bohater porządkuje wspomnienia przez wyobrażoną drogę"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Badanie pierwotne Scientific Reports: method of loci — sekcja metody",
+          "url": "https://www.nature.com/articles/s41598-021-82663-w"
+        },
+        {
+          "title": "Badanie pierwotne: Durable memories and efficient neural coding through mnemonic training using the method of loci",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7929507/"
+        }
+      ]
+    },
+    {
+      "id": "interdyscyplinarnosc",
+      "term": "Interdyscyplinarność",
+      "category": "Edukacja i organizacja",
+      "definition": "Łączenie pojęć, metod, danych lub sposobów patrzenia z co najmniej dwóch dyscyplin, aby rozwiązać problem przekraczający zakres jednej z nich. Oznacza integrację wiedzy, a nie tylko obecność specjalistów w tym samym miejscu.",
+      "example": "Idziak chce, aby współpraca artystów, programistów i osób zajmujących się człowiekiem wpływała na projektowanie od początku, zamiast pojawiać się dopiero przy gotowym problemie.",
+      "occurrences": [
+        {
+          "page": "idziak.html",
+          "anchor": "w-06",
+          "label": "Idziak · projektowanie między dyscyplinami",
+          "needle": "połączenia między dyscyplinami"
+        }
+      ],
+      "sources": [
+        {
+          "title": "National Science Foundation: interdisciplinary research",
+          "url": "https://www.nsf.gov/funding/learn/research-types/learn-about-interdisciplinary-research"
+        }
+      ]
+    },
+    {
+      "id": "srodowisko-produkcyjne",
+      "term": "Środowisko produkcyjne",
+      "category": "Wdrażanie technologii",
+      "definition": "Warunki, w których system wykonuje rzeczywiste zadania dla użytkowników lub organizacji, w odróżnieniu od środowiska eksperymentów i testów. Obejmują działające dane, integracje, utrzymanie oraz obserwowanie jakości i błędów.",
+      "example": "Bargiel podkreśla, że demonstracja nie dowodzi jeszcze działania w produkcji. Stankiewicz mówi o testach produkcyjnych obsługi klienta i planach skalowania, a nie o zakończonym wyniku przyszłego projektu.",
+      "occurrences": [
+        {
+          "page": "wdrozenia.html",
+          "anchor": "w-05",
+          "label": "Wdrożenia · demonstracja i produkcja",
+          "needle": "Demonstracja nie jest jeszcze dowodem"
+        },
+        {
+          "page": "pnl.html",
+          "anchor": "w-06",
+          "label": "AI i P&L · testy produkcyjne",
+          "needle": "testach produkcyjnych"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google Cloud: GenAI and MLOps blueprint — development and operational environments",
+          "url": "https://docs.cloud.google.com/architecture/blueprints/genai-mlops-blueprint"
+        }
+      ]
+    },
+    {
+      "id": "zarzadzanie-zmiana",
+      "term": "Zarządzanie zmianą",
+      "category": "Edukacja i organizacja",
+      "definition": "Przygotowywanie i wspieranie ludzi przechodzących do nowego sposobu pracy: wyjaśnianie celu, rozwijanie umiejętności, rozpoznawanie obaw oraz utrwalanie nowych zachowań. Sam zakup narzędzia lub pojedyncze szkolenie nie wyczerpują tego procesu.",
+      "example": "Otto rozdziela przyczyny oporu wobec wdrożenia. Panel biznesowy zwraca uwagę na powrót do starych nawyków pod presją czasu, a Stankiewicz na wykazanie wartości nowego sposobu pracy.",
+      "occurrences": [
+        {
+          "page": "wdrozenia.html",
+          "anchor": "w-03",
+          "label": "Wdrożenia · różne przyczyny oporu",
+          "needle": "ku zarządzaniu zmianą"
+        },
+        {
+          "page": "business.html",
+          "anchor": "w-06",
+          "label": "Biznes · utrwalanie nowych zachowań",
+          "needle": "utrwalaniu nowych zachowań"
+        },
+        {
+          "page": "pnl.html",
+          "anchor": "w-07",
+          "label": "AI i P&L · wartość i przyjęcie zmiany",
+          "needle": "zarządzanie zmianą"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Prosci: What is change management?",
+          "url": "https://www.prosci.com/change-management"
+        }
+      ]
+    },
+    {
+      "id": "tajemnica-przedsiebiorstwa",
+      "term": "Tajemnica przedsiębiorstwa",
+      "category": "Prawo i dane",
+      "definition": "W unijnej definicji: informacje, które nie są powszechnie znane ani łatwo dostępne w danym kręgu, mają wartość handlową z powodu poufności i są chronione rozsądnymi działaniami służącymi zachowaniu ich w tajemnicy. To pojęcie szersze od konkretnego pliku oznaczonego jako poufny.",
+      "example": "Panel cyberbezpieczeństwa wskazuje ryzyko udostępnienia firmowych informacji przy nieodpowiednim użyciu narzędzia przez pracownika. Przykład nie rozstrzyga statusu prawnego konkretnej informacji ani usługi.",
+      "occurrences": [
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-05",
+          "label": "Cyberbezpieczeństwo · poufne informacje firmy",
+          "needle": "tajemnicy przedsiębiorstwa"
+        }
+      ],
+      "sources": [
+        {
+          "title": "WIPO: Trade Secrets — warunki uznania informacji za tajemnicę",
+          "url": "https://www.wipo.int/en/web/trade-secrets"
+        },
+        {
+          "title": "Dyrektywa (UE) 2016/943, art. 2: definicja tajemnicy przedsiębiorstwa",
+          "url": "https://eur-lex.europa.eu/eli/dir/2016/943/art_2/pnt_1/oj/eng"
+        }
+      ]
+    },
+    {
+      "id": "ai-act",
+      "term": "AI Act",
+      "category": "Prawo i dane",
+      "definition": "Rozporządzenie UE 2024/1689 ustanawiające wspólne ramy dotyczące AI: zakazanych praktyk, określonych systemów wysokiego ryzyka, przejrzystości oraz modeli ogólnego przeznaczenia. Zakres wymagań zależy od systemu i roli podmiotu; hasło nie ustala aktualnego harmonogramu obowiązków.",
+      "example": "W panelu cyberbezpieczeństwa AI Act pojawia się obok ochrony danych i regulacji cyberbezpieczeństwa jako temat do rozpoznania na początku projektu, a nie dopiero przed uruchomieniem.",
+      "occurrences": [
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-07",
+          "label": "Cyberbezpieczeństwo · regulacje na początku projektu",
+          "needle": "AI Act, ochrona danych"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Komisja Europejska, AI Act Service Desk: art. 1 — przedmiot rozporządzenia",
+          "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-1"
+        }
+      ]
+    },
+    {
+      "id": "nadzor-czlowieka",
+      "term": "Nadzór człowieka nad AI",
+      "category": "AI i odpowiedzialność",
+      "definition": "Możliwość rozumienia i monitorowania działania systemu, krytycznej oceny wyniku oraz skutecznej interwencji, zmiany decyzji lub zatrzymania działania. W AI Act nadzór nad systemami wysokiego ryzyka opisuje art. 14; nie oznacza to identycznego obowiązku dla każdej aplikacji.",
+      "example": "Bankowy przykład pozostawia człowiekowi ostateczną decyzję w analizie kredytowej. Idziak pyta o przyszłą rolę osoby nadzorującej pracę nad dubbingiem; nie są to gotowe procedury nadzoru.",
+      "occurrences": [
+        {
+          "page": "business.html",
+          "anchor": "w-04",
+          "label": "Biznes · ostateczna decyzja człowieka",
+          "needle": "Ostateczna decyzja człowieka"
+        },
+        {
+          "page": "idziak.html",
+          "anchor": "w-03",
+          "label": "Idziak · człowiek nadzorujący dubbing",
+          "needle": "rolę nadzorującego człowieka"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Komisja Europejska, AI Act Service Desk: art. 14 — human oversight",
+          "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-14"
+        }
+      ]
+    },
+    {
+      "id": "wykorzystanie-podatnosci",
+      "term": "Wykorzystanie podatności / exploit",
+      "category": "Bezpieczeństwo",
+      "definition": "Sposób, kod, dane lub sekwencja działań wykorzystujące słabość systemu do naruszenia jego bezpieczeństwa albo wywołania niezamierzonego zachowania. Znalezienie luki nie jest jeszcze dowodem, że powstał skuteczny atak w rzeczywistych warunkach.",
+      "example": "Końcowy wątek panelu cyberbezpieczeństwa rozdziela wykrycie podatności, warunki testu i możliwość przeprowadzenia użytecznego ataku. Ocena konkretnego narzędzia pozostaje przedmiotem sporu.",
+      "occurrences": [
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-09",
+          "label": "Cyberbezpieczeństwo · od luki do ataku",
+          "needle": "znalezionej luki od możliwości przeprowadzenia użytecznego ataku"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Microsoft Security Response Center: Exploitability Index — exploit code i uruchomienie podatności",
+          "url": "https://www.microsoft.com/en-us/msrc/exploitability-index"
+        },
+        {
+          "title": "CISA NICCS Glossary: exploit",
+          "url": "https://niccs.cisa.gov/about-niccs/glossary"
+        },
+        {
+          "title": "DHS/CISA: Common Cybersecurity Vulnerabilities in Industrial Control Systems — glossary",
+          "url": "https://www.cisa.gov/sites/default/files/recommended_practices/DHS_Common_Cybersecurity_Vulnerabilities_ICS_2010.pdf"
+        }
+      ]
+    },
+    {
+      "id": "zabezpieczenia-warstwowe",
+      "term": "Zabezpieczenia warstwowe / defense in depth",
+      "category": "Bezpieczeństwo",
+      "definition": "Łączenie kilku uzupełniających się środków technicznych, procedur i działań ludzi, aby jedna nieskuteczna bariera nie przesądzała o powodzeniu ataku. Kolejne warstwy mogą utrudniać działanie, wykrywać je i ograniczać skutki; nie gwarantują całkowitego bezpieczeństwa.",
+      "example": "W bankowej odpowiedzi panelu biznesowego zabezpieczenia warstwowe występują razem z planami działania na zakłócenia oraz edukacją klientów. Rozmówca nie wskazuje jednego narzędzia rozwiązującego wszystkie zagrożenia.",
+      "occurrences": [
+        {
+          "page": "business.html",
+          "anchor": "w-08",
+          "label": "Biznes · wiele warstw obrony",
+          "needle": "zabezpieczenia warstwowe"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST CSRC Glossary: defense in depth",
+          "url": "https://csrc.nist.gov/glossary/term/defense_in_depth"
+        }
+      ]
+    },
+    {
+      "id": "ciaglosc-dzialania",
+      "term": "Ciągłość działania",
+      "category": "Bezpieczeństwo i organizacja",
+      "definition": "Zdolność utrzymania lub przywrócenia najważniejszych procesów organizacji podczas poważnego zakłócenia i po nim. Plan ciągłości ustala wcześniej działania oraz odpowiedzialność, zamiast polegać wyłącznie na improwizacji w chwili awarii.",
+      "example": "Panel biznesowy wspomina plany działania także na poważne zakłócenia. To objaśnienie kierunku wypowiedzi, nie potwierdzenie zakresu ani skuteczności konkretnego planu banku.",
+      "occurrences": [
+        {
+          "page": "business.html",
+          "anchor": "w-08",
+          "label": "Biznes · przygotowanie na zakłócenia",
+          "needle": "plany działania także na poważne zakłócenia"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST CSRC Glossary: business continuity plan",
+          "url": "https://csrc.nist.gov/glossary/term/business_continuity_plan"
+        }
+      ]
+    },
+    {
+      "id": "prawa-autorskie",
+      "term": "Autorstwo i prawa autorskie",
+      "category": "Prawo i twórczość",
+      "definition": "Prawo autorskie dotyczy praw twórców do ich utworów. Rozróżnia interesy osobiste autora i prawa majątkowe związane z korzystaniem z dzieła; chroniona jest forma wyrażenia, a nie sama idea czy metoda. Ustalenie autorstwa, właściciela praw i dozwolonego użycia materiału to odrębne pytania.",
+      "example": "Panel o mediach rozdziela ludzką pracę nad konceptem, przekazywanie praw, odpowiedzialność kupującego i ochronę zasobów archiwum. Stanowiska rozmówców nie rozstrzygają prawnie każdego materiału wygenerowanego z AI.",
+      "occurrences": [
+        {
+          "page": "digital-media.html",
+          "anchor": "w-05",
+          "label": "Media cyfrowe · autorstwo, prawa i odpowiedzialność",
+          "needle": "ludzkie autorstwo jako podstawę ochrony"
+        },
+        {
+          "page": "digital-media.html",
+          "anchor": "w-06",
+          "label": "Media cyfrowe · obowiązki archiwum wobec autorów",
+          "needle": "ochrony praw autorów"
+        }
+      ],
+      "sources": [
+        {
+          "title": "WIPO: Copyright — ochrona, prawa osobiste i majątkowe",
+          "url": "https://www.wipo.int/en/web/copyright"
+        }
+      ]
+    },
+    {
+      "id": "ryzyko",
+      "term": "Ryzyko",
+      "category": "Bezpieczeństwo i decyzje",
+      "definition": "Ocena możliwych niekorzystnych skutków zdarzenia z uwzględnieniem prawdopodobieństwa jego wystąpienia. Duża szkoda i duża częstość to różne składniki oceny; nie każde ryzyko da się wiarygodnie zamknąć w jednej liczbie.",
+      "example": "Panel cyberbezpieczeństwa odróżnia osobiste poczucie strachu od technicznej oceny i zarządzania zagrożeniami. Bankowy przykład przypomina, że wysoka średnia poprawność nie usuwa ryzyka szkody z pojedynczego błędu.",
+      "occurrences": [
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-02",
+          "label": "Cyberbezpieczeństwo · strach a ocena techniczna",
+          "needle": "odrębną od oceny technicznej"
+        },
+        {
+          "page": "business.html",
+          "anchor": "w-04",
+          "label": "Biznes · poprawność i skutek pojedynczego błędu",
+          "needle": "dopuszczalnym ryzykiem"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST CSRC Glossary: risk",
+          "url": "https://csrc.nist.gov/glossary/term/risk"
+        }
+      ]
+    },
+    {
+      "id": "socjotechnika",
+      "term": "Socjotechnika / social engineering",
+      "category": "Bezpieczeństwo",
+      "definition": "W cyberbezpieczeństwie: oszukiwanie lub manipulowanie człowiekiem, aby ujawnił wrażliwe informacje, umożliwił nieuprawniony dostęp albo wykonał działanie prowadzące do oszustwa. Atak wykorzystuje zaufanie i zachowanie osoby, nie musi zaczynać się od złamania technicznego zabezpieczenia.",
+      "example": "Panel biznesowy rozdziela atak na system firmy od oszustwa wymierzonego w klienta lub pracownika przez spersonalizowane wiadomości, nagrania i telefon. Hasło nazywa opisany rodzaj działania; nie dopisuje tej nazwy do wypowiedzi.",
+      "occurrences": [
+        {
+          "page": "business.html",
+          "anchor": "w-08",
+          "label": "Biznes · oszustwo skierowane do człowieka",
+          "needle": "oszustwa wymierzonego bezpośrednio w klienta lub pracownika"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST CSRC Glossary: social engineering",
+          "url": "https://csrc.nist.gov/glossary/term/social_engineering"
+        }
+      ]
+    },
+    {
+      "id": "stronniczosc-ai",
+      "term": "Stronniczość danych i systemu AI",
+      "category": "AI i odpowiedzialność",
+      "definition": "Systematyczne odchylenie związane z danymi, sposobem modelowania, decyzjami ludzi lub kontekstem użycia, które może prowadzić do nierównego działania systemu wobec różnych grup. Niereprezentatywna próbka jest jednym ze źródeł; nie każdy błąd jest stronniczością i nie każdy przypadek wynika z celowej dyskryminacji.",
+      "example": "W panelu cyberbezpieczeństwa pojawia się możliwość pominięcia grup w danych szkoleniowych i błędnych decyzji bez krytycznej oceny wyniku. To opis ryzyka, bez twierdzenia, że każdy model ma taki sam problem.",
+      "occurrences": [
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-06",
+          "label": "Cyberbezpieczeństwo · kto znika z danych szkoleniowych",
+          "needle": "możliwość pominięcia grup"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST SP 1270: Towards a Standard for Identifying and Managing Bias in Artificial Intelligence",
+          "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf"
+        }
+      ]
+    },
+    {
+      "id": "inferencja",
+      "term": "Inferencja",
+      "definition": "Użycie wytrenowanego modelu do uzyskania wyniku dla nowego wejścia, na przykład odpowiedzi na pytanie. To etap działania modelu; uczenie zmienia jego parametry.",
+      "example": "Rozmówcy odróżniają koszt używania systemu od kosztu jego przygotowania. Wielodniowe obliczenia przy odpowiedzi są w Q&A scenariuszem rozwoju.",
+      "category": "AI i informatyka",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-0215",
+          "needle": "koszta inferencji",
+          "label": "Psyho i Bagiński · 02:15 · koszt inferencji"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0347",
+          "needle": "inferują przez wiele dni",
+          "label": "Q&A 1 · 03:47 · czas obliczania odpowiedzi"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google for Developers: Machine Learning Glossary",
+          "url": "https://developers.google.com/machine-learning/glossary"
+        }
+      ]
+    },
+    {
+      "id": "research-taste",
+      "term": "Research taste — wyczucie kierunku badań",
+      "definition": "Wyczucie, które pomysły badawcze warto sprawdzić i które mają szansę zadziałać. Dotyczy wyboru pytań i eksperymentów, a nie samego wykonywania kodu.",
+      "example": "W rozmowie o przyspieszaniu badań przez modele podobne określenie występuje z oznaczeniem „niepewne”. Definicja objaśnia możliwy termin, nie rozstrzyga odsłuchu.",
+      "category": "AI i informatyka",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-4504",
+          "needle": "research taste",
+          "label": "Psyho i Bagiński · 45:04 · niepewny odczyt terminu"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Anthropic: Automated alignment researchers",
+          "url": "https://www.anthropic.com/news/automated-alignment-researchers"
+        }
+      ]
+    },
+    {
+      "id": "discoverability",
+      "term": "Discoverability — odnajdywalność",
+      "definition": "Możliwość dotarcia odbiorcy do interesującego go dzieła w dużym zbiorze treści. Zależy między innymi od wyszukiwania, rekomendacji i widoczności w katalogu.",
+      "example": "Psyho i Bagiński rozważają rozjazd między malejącym kosztem generowania treści a czasem potrzebnym do ich oceny i odnalezienia.",
+      "category": "Sztuka i filozofia",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-3124",
+          "needle": "discoverability",
+          "label": "Psyho i Bagiński · 31:24 · widoczność dzieł"
+        },
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-3331",
+          "needle": "discoverability",
+          "label": "Psyho i Bagiński · 33:31 · produkcja a ocena treści"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Valve: Visibility on Steam — Steamworks Documentation",
+          "url": "https://partner.steamgames.com/doc/marketing/visibility"
+        }
+      ]
+    },
+    {
+      "id": "benchmark",
+      "term": "Benchmark",
+      "definition": "Test albo zestaw zadań z ustalonym sposobem oceny, służący do porównywania systemów. Wynik dotyczy warunków danego testu i nie mierzy automatycznie każdej zdolności modelu.",
+      "example": "Przejście nowej gry łamigłówkowej pojawia się jako propozycja sprawdzianu modeli. Ocena, że niemal już to potrafią, należy do uczestnika rozmowy.",
+      "category": "AI i informatyka",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-4618",
+          "needle": "benchmarkiem",
+          "label": "Psyho i Bagiński · 46:18 · nowa gra jako test"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0115",
+          "needle": "benchmarków",
+          "label": "Dragan · 01:15 · próba wymyślenia teorii"
+        }
+      ],
+      "sources": [
+        {
+          "title": "MLCommons: Benchmarks",
+          "url": "https://mlcommons.org/benchmarks/"
+        }
+      ]
+    },
+    {
+      "id": "petla-sprzezenia-zwrotnego",
+      "term": "Pętla sprzężenia zwrotnego",
+      "definition": "Układ, w którym wyniki działania wracają jako informacja wpływająca na dalsze działanie. W uczeniu maszynowym przewidywania mogą zmieniać dane wykorzystywane później do uczenia.",
+      "example": "Rozmówca rozważa przyszły obieg: generowanie misji, reakcje graczy i wzmacnianie lepiej przyjmowanych pomysłów. Wypowiedź jest możliwością, nie opisem pewnego wdrożenia.",
+      "category": "AI i informatyka",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-1928",
+          "needle": "feedback loopu",
+          "label": "Psyho i Bagiński · 19:28 · reakcje graczy jako sprzężenie"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google for Developers: Machine Learning Glossary",
+          "url": "https://developers.google.com/machine-learning/glossary"
+        }
+      ]
+    },
+    {
+      "id": "rozpoznawanie-wzorcow",
+      "term": "Rozpoznawanie wzorców — pattern recognition",
+      "definition": "Dostrzeganie regularności lub podobieństw w danych i wykorzystywanie ich na przykład do rozpoznania kategorii albo przewidywania wyniku. Sam termin nie rozstrzyga filozoficznego sporu o inteligencję.",
+      "example": "Dragan pyta, czy odkrywanie analogii naukowych różni się zasadniczo od rozpoznawania wzorców. To argument prelegenta.",
+      "category": "AI i informatyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0157",
+          "needle": "pattern recognition",
+          "label": "Dragan · 01:57 · wzorce a odkrycie"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0244",
+          "needle": "pattern recognition",
+          "label": "Dragan · 02:44 · „łączenie kropek”"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0504",
+          "needle": "pattern recognition",
+          "label": "Q&A 1 · 05:04 · spór o słowo „tylko”"
+        }
+      ],
+      "sources": [
+        {
+          "title": "IBM: What Are Machine Learning Algorithms?",
+          "url": "https://www.ibm.com/think/topics/machine-learning-algorithms"
+        }
+      ]
+    },
+    {
+      "id": "uczenie-przez-wzmocnienie",
+      "term": "Uczenie przez wzmocnienie — RL",
+      "definition": "Uczenie sposobu działania przez interakcje ze środowiskiem i informacje o nagrodach. Agent dobiera działania, aby zwiększać oczekiwaną łączną nagrodę; środowisko i reguły oceny mogą być przygotowane przez ludzi.",
+      "example": "W końcowym Q&A termin pojawia się przy Richardzie Suttonie. Opis „bez ludzkich danych” jest uproszczeniem wypowiedzi, nie warunkiem każdej metody RL.",
+      "category": "AI i informatyka",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1448",
+          "needle": "uczenia przez wzmocnienie",
+          "label": "Q&A 3 · 14:48 · sposób uczenia modeli"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google for Developers: Machine Learning Glossary",
+          "url": "https://developers.google.com/machine-learning/glossary"
+        }
+      ]
+    },
+    {
+      "id": "modele-otwartowagowe",
+      "term": "Modele otwartowagowe",
+      "definition": "Modele, których wyuczone parametry udostępniono do pobrania i użycia na określonych warunkach. Dostęp do wag nie oznacza sam przez się dostępu do danych treningowych, pełnego kodu ani wszystkich swobód open source.",
+      "example": "W Q&A uczestnik rozważa, czy udostępnienie takich modeli zmieni konkurencję między laboratoriami. Jest to przewidywanie.",
+      "category": "AI i informatyka",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-1251",
+          "needle": "modele otwartowagowe",
+          "label": "Q&A 1 · 12:51 · wagi a konkurencja"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google: Gemma — release of model weights",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-open-models/"
+        },
+        {
+          "title": "Open Source Initiative: The Open Source AI Definition 1.0",
+          "url": "https://opensource.org/ai/open-source-ai-definition"
+        }
+      ]
+    },
+    {
+      "id": "polifonia-kontrapunkt",
+      "term": "Polifonia i kontrapunkt",
+      "definition": "Polifonia to współbrzmienie kilku odrębnych linii melodycznych. Kontrapunkt dotyczy ich łączenia i relacji między nimi; może opierać się na imitacji lub na niezależnych liniach.",
+      "example": "W Q&A pojęcia pojawiają się przy Bachu i analogiach. Określenie kontrapunktu jako analogii jest interpretacją rozmówcy.",
+      "category": "Sztuka i filozofia",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0553",
+          "needle": "Polifonia",
+          "label": "Q&A 1 · 05:53 · głosy u Bacha"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Yale Open Courses, Craig Wright: Rhythm — Jazz, Pop and Classical",
+          "url": "https://oyc.yale.edu/music/musi-112/lecture-4"
+        }
+      ]
+    },
+    {
+      "id": "transformata-fouriera",
+      "term": "Transformata Fouriera",
+      "definition": "Matematyczne przekształcenie przedstawiające sygnał lub funkcję przez składowe oscylacyjne. Dla dźwięku pozwala opisać, jakie częstotliwości i z jakimi amplitudami go tworzą.",
+      "example": "Nazwa w zdaniu o Bachu jest oznaczona jako niepewna. Objaśnienie metody nie potwierdza odczytu ani nie mierzy wartości artystycznej muzyki.",
+      "category": "Matematyka",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p1-0553",
+          "needle": "Fouriera",
+          "label": "Q&A 1 · 05:53 · niepewna nazwa przekształcenia"
+        }
+      ],
+      "sources": [
+        {
+          "title": "MIT OCW, W. C. Carter: The Fourier Transform and its Interpretations",
+          "url": "https://ocw.mit.edu/courses/3-016-mathematics-for-materials-scientists-and-engineers-fall-2005/f12503898cdc9d852e433261cd3f418b_lecture_18.pdf"
+        }
+      ]
+    },
+    {
+      "id": "hiperbola",
+      "term": "Hiperbola",
+      "definition": "Krzywa, dla której bezwzględna różnica odległości od dwóch ustalonych ognisk jest stała. Ma dwie gałęzie i dwie asymptoty; wykres y = 1/x jest przykładem hiperboli.",
+      "example": "Dragan używa hiperboli do rysowania trajektorii rakiety ze stałym przyspieszeniem własnym w czasoprzestrzeni.",
+      "category": "Matematyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-1424",
+          "needle": "hiperbola",
+          "label": "Dragan · 14:24 · trajektoria przyspieszania"
+        }
+      ],
+      "sources": [
+        {
+          "title": "OpenStax: Precalculus 2e, The Hyperbola",
+          "url": "https://openstax.org/books/precalculus-2e/pages/10-2-the-hyperbola"
+        }
+      ]
+    },
+    {
+      "id": "dylatacja-czasu",
+      "term": "Dylatacja czasu",
+      "definition": "Różnica między czasem porównywanym przez obserwatorów. W szczególnej teorii względności zegar poruszający się względem danego obserwatora odmierza mniej czasu między porównywanymi zdarzeniami; wymaga to określenia układu i sposobu porównania.",
+      "example": "Prelegent porównuje zegary w przyspieszającej rakiecie z opisem z zewnątrz. Nie oznacza to, że pasażer odczuwa własny czas jako zwalniający.",
+      "category": "Fizyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-1535",
+          "needle": "dylatacja czasu",
+          "label": "Dragan · 15:35 · porównywanie zegarów"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Max Planck Institute / Einstein Online: Light clocks and time dilation",
+          "url": "https://www.einstein-online.info/en/spotlight/light-clocks-time-dilation/"
+        }
+      ]
+    },
+    {
+      "id": "entropia-strzalka-czasu",
+      "term": "Entropia i strzałka czasu",
+      "definition": "Entropia jest wielkością termodynamiczną, którą w opisie statystycznym można wiązać z liczbą możliwych mikrostanów. Termodynamiczna strzałka czasu opisuje asymetrię procesów związanych z produkcją entropii; nie jest instrukcją odwracania czasu.",
+      "example": "Dragan przechodzi od „Lodu” Dukaja do odwrócenia kierunku czasu na diagramie. Powieść, formalny diagram i fizyczna realizacja to różne poziomy tej opowieści.",
+      "category": "Fizyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-2503",
+          "needle": "wzrostu entropii",
+          "label": "Dragan · 25:03 · termodynamika i „Lód”"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-2930",
+          "needle": "strzałki czasu",
+          "label": "Dragan · 29:30 · odwrócenie diagramu"
+        }
+      ],
+      "sources": [
+        {
+          "title": "OpenStax: Chemistry 2e, Entropy",
+          "url": "https://openstax.org/books/chemistry-2e/pages/16-2-entropy"
+        },
+        {
+          "title": "Parrondo, van den Broeck, Kawai: Entropy production and the arrow of time",
+          "url": "https://arxiv.org/abs/0904.1573"
+        }
+      ]
+    },
+    {
+      "id": "metryka-czasoprzestrzeni",
+      "term": "Metryka czasoprzestrzeni",
+      "definition": "Matematyczny obiekt określający lokalną geometrię czasoprzestrzeni: sposób obliczania interwałów oraz czasu własnego wzdłuż toru. Metryka Schwarzschilda jest konkretnym rozwiązaniem używanym w opisie sferycznie symetrycznej geometrii.",
+      "example": "Dragan pyta, jak odczytywać geometrię czarnej i białej dziury. Słowniczek objaśnia metrykę, bez zamiany wykładowej analogii w obserwacyjne potwierdzenie białych dziur.",
+      "category": "Fizyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-3019",
+          "needle": "metryka czasoprzestrzeni",
+          "label": "Dragan · 30:19 · geometria a diagram"
+        }
+      ],
+      "sources": [
+        {
+          "title": "David Tong: General Relativity, Introducing Riemannian Geometry",
+          "url": "https://davidtong.org/teaching/general-relativity/grhtml/S3"
+        }
+      ]
+    },
+    {
+      "id": "geometria-algebraiczna",
+      "term": "Geometria algebraiczna",
+      "definition": "Dziedzina badająca geometryczne obiekty opisane równaniami wielomianowymi. Łączy badanie rozwiązań równań z ich strukturą geometryczną.",
+      "example": "Dragan podaje ją jako przykład połączenia dwóch języków matematyki. To bardziej konkretny związek niż samo podobieństwo obrazków i liczb.",
+      "category": "Matematyka",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-3438",
+          "needle": "Geometria algebraiczna",
+          "label": "Dragan · 34:38 · spotkanie dwóch dziedzin"
+        }
+      ],
+      "sources": [
+        {
+          "title": "MIT Department of Mathematics: Algebra & Algebraic Geometry",
+          "url": "https://math.mit.edu/research/pure/algebra.html"
+        }
+      ]
+    },
+    {
+      "id": "automaty-komorkowe",
+      "term": "Automaty komórkowe",
+      "definition": "Modele z siatką komórek o dyskretnych stanach. W kolejnych krokach stan komórki zmienia się według lokalnej reguły, zależnej od sąsiedztwa; proste reguły mogą dawać złożone wzory całego układu.",
+      "example": "Panel wykorzystuje je do rozmowy o emergencji. Nazwa konkretnego przykładu — „mrówka Langtona” — pozostaje w transkrypcji oznaczona jako niepewna.",
+      "category": "AI i informatyka",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-0800",
+          "needle": "automaty komórkowe",
+          "label": "Rosiak · 08:00 · proste reguły i złożony wynik"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stephen Wolfram: Cellular Automata, Los Alamos Science (1983)",
+          "url": "https://content.wolfram.com/sw-publications/2020/07/cellular-automata.pdf"
+        }
+      ]
+    },
+    {
+      "id": "konektom",
+      "term": "Konektom",
+      "definition": "Mapa połączeń między neuronami w określonym układzie nerwowym. Opisuje strukturę połączeń; sama mapa nie jest pełnym opisem działania ani świadomości organizmu.",
+      "example": "Uczestnik panelu przywołuje układ nerwowy muszki. Gatunek nie został rozpoznany w nagraniu, a anegdot o grach i bitcoinach nie zweryfikowano jako ustaleń badania.",
+      "category": "Mózg i poznanie",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-3139",
+          "needle": "konektom",
+          "label": "Rosiak · 31:39 · mapa sieci neuronów"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Dorkenwald i współautorzy: Neuronal wiring diagram of an adult brain",
+          "url": "https://www.nature.com/articles/s41586-024-07558-y"
+        }
+      ]
+    },
+    {
+      "id": "teoria-gier",
+      "term": "Teoria gier",
+      "definition": "Matematyczne badanie decyzji, których skutki zależą również od wyborów innych uczestników. Opisuje strategie, interesy i możliwe wyniki interakcji; nie wymaga, aby chodziło o grę komputerową.",
+      "example": "Panel odnosi ją do zachowań społecznych, a rozmowa Psyho i Bagińskiego do konkurencji laboratoriów oraz trudności wspólnego ograniczenia rozwoju AI.",
+      "category": "Matematyka",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-1104",
+          "needle": "teorii gier",
+          "label": "Rosiak · 11:04 · wyjaśnianie zachowań"
+        },
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-4206",
+          "needle": "teoriogrowo",
+          "label": "Psyho i Bagiński · 42:06 · strategie laboratoriów"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Game Theory",
+          "url": "https://plato.stanford.edu/entries/game-theory/"
+        }
+      ]
+    },
+    {
+      "id": "prymitywy-kryptograficzne",
+      "term": "Prymitywy kryptograficzne",
+      "definition": "Podstawowe algorytmy używane jako elementy większych operacji kryptograficznych. Ich bezpieczeństwo zależy od konkretnej konstrukcji i założeń, a nie od samej nazwy tej kategorii.",
+      "example": "W Q&A naruszenie fundamentów kryptografii pada jako hipoteza o przyszłych zdolnościach AI. Liczba „cztery czy pięć” jest sformułowaniem rozmówcy, nie katalogiem całej kryptografii.",
+      "category": "AI i informatyka",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-0543",
+          "needle": "cryptographic primitives",
+          "label": "Q&A 3 · 05:43 · hipotetyczne zagrożenie"
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST CSRC: Primitive",
+          "url": "https://csrc.nist.gov/glossary/term/Primitive"
+        }
+      ]
+    },
+    {
+      "id": "wolna-wola",
+      "term": "Wolna wola",
+      "definition": "Filozoficzne pojęcie kontroli nad własnymi wyborami i działaniami. Istnieją różne stanowiska co do tego, jakiej kontroli wymaga oraz czy jest zgodna z determinizmem.",
+      "example": "Uczestnik panelu kwestionuje spontaniczne przekonanie o wolnej woli w rozmowie o wyjaśnianiu ludzkiego zachowania. Słowniczek nie przedstawia jego stanowiska jako zakończonego rozstrzygnięcia naukowego.",
+      "category": "Sztuka i filozofia",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-1225",
+          "needle": "wolną wolę",
+          "label": "Rosiak · 12:25 · kontrola nad wyborem"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Free Will",
+          "url": "https://plato.stanford.edu/entries/freewill/"
+        }
+      ]
+    },
+    {
+      "id": "grupy-homotopii",
+      "term": "Grupy homotopii i stabilizacja",
+      "definition": "Grupy homotopii opisują, jak można ciągle odwzorować sferę w przestrzeń i które takie odwzorowania można przeprowadzić jedno w drugie przez ciągłą deformację. W odmianie stabilnej bada się zachowanie tych obiektów przy wielokrotnym zwiększaniu wymiaru przez operację zawieszenia. To narzędzie topologii algebraicznej, a nie prosty licznik dziur w dowolnym przedmiocie.",
+      "example": "Pod koniec opowieści Naskręckiego ostatni ludzki matematyk przedstawia pracę o stabilnych grupach homotopii. Ta praca należy do fikcyjnej historii prelegenta; nie wskazujemy rzeczywistego artykułu ani odkrycia Daniela.",
+      "category": "Matematyka i poznanie",
+      "occurrences": [
+        {
+          "page": "transkrypcja.html",
+          "anchor": "t-0602",
+          "label": "Naskręcki · 06:02 · fikcyjna praca matematyczna",
+          "needle": "stabilnych grupach homotopii"
+        }
+      ],
+      "sources": [
+        {
+          "title": "MIT OpenCourseWare — Haynes Miller, Algebraic Topology II: homotopy groups and stable homotopy",
+          "url": "https://ocw.mit.edu/courses/18-906-algebraic-topology-ii-spring-2020/e8a061a73ca1a451df8809c7a7fbc846_MIT18_906S20_notes.pdf"
+        }
+      ]
+    },
+    {
+      "id": "odciazanie-poznawcze",
+      "term": "Odciążanie poznawcze / cognitive offloading",
+      "definition": "Przenoszenie części pracy umysłowej do działania lub zewnętrznego narzędzia: zapisanie informacji, ustawienie przypomnienia czy przechowanie kontaktów w urządzeniu zmienia zadanie tak, by wymagało mniej wewnętrznego przetwarzania. Może ułatwiać wykonanie pracy; samo korzystanie z pomocy nie dowodzi zaniku pamięci.",
+      "example": "Idziak wspomina, że numery i adresy, które dawniej pamiętał, dziś przechowują urządzenia. To trafny przykład mechanizmu, choć termin jest tu objaśnieniem redakcyjnym. Jego uwaga o rzadszym ćwiczeniu własnej zdolności pozostaje osobistą oceną.",
+      "category": "Umysł i narzędzia",
+      "occurrences": [
+        {
+          "page": "idziak.html",
+          "anchor": "w-03",
+          "label": "Idziak · pamięć i zewnętrzny magazyn",
+          "needle": "dziś przechowują je urządzenia"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Risko i Gilbert — Cognitive Offloading, autorski manuskrypt w repozytorium UCL",
+          "url": "https://discovery.ucl.ac.uk/id/eprint/1508770/1/gilbert_TiCS_OFFLOADING_RPS.pdf"
+        }
+      ]
+    },
+    {
+      "id": "system-rekomendacyjny",
+      "term": "System rekomendacyjny",
+      "definition": "System, który wybiera i porządkuje propozycje na podstawie modelu zainteresowań, zachowania użytkownika albo podobieństwa do innych treści. Może działać bez wpisanego zapytania, podsuwając kolejne materiały. Cel jego optymalizacji, na przykład zainteresowanie lub kliknięcia, nie jest automatycznie miarą prawdziwości i jakości.",
+      "example": "W części 3 Q&A rozmówca opisuje dobieranie i promowanie wiadomości przez algorytmy oraz nagłówki optymalizowane pod kliknięcia. To jego krytyczna ocena praktyki medialnej; nie rozszerzamy jej na każdy serwis i każdy algorytm.",
+      "category": "Modele i informacja",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-0908",
+          "label": "Q&A 3 · 09:08 · wybór i promowanie treści",
+          "needle": "masz algorytmy"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-0947",
+          "label": "Q&A 3 · 09:47 · optymalizacja pod kliknięcia",
+          "needle": "zostało tak optymalizowane"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Google for Developers — Recommendation systems overview",
+          "url": "https://developers.google.com/machine-learning/recommendation/overview"
+        }
+      ]
+    },
+    {
+      "id": "technicolor",
+      "term": "Technicolor",
+      "definition": "Nazwa rodziny historycznych procesów uzyskiwania barwnego obrazu filmowego. Rozdzielano składowe barwne i łączono je podczas wytwarzania kolorowej kopii; słynna wersja trójbarwna wykorzystywała oddzielne obrazy składowe. Technicolor nie oznacza jedynie współczesnego filtra o nasyconych kolorach.",
+      "example": "Rokosz wskazuje Kwiaty i drzewa jako przykład wejścia koloru do animacji i nazywa technikę Technicolor. Objaśnienie nie zakłada, że proces fotografowania animacji był identyczny z działaniem trójtaśmowej kamery do scen aktorskich.",
+      "category": "Film i technika",
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-05",
+          "label": "Rokosz · 00:37:45 · kolor w animacji",
+          "needle": "Technicolor",
+          "videoStart": 2265
+        }
+      ],
+      "sources": [
+        {
+          "title": "Science Museum Group — Technicolor cine camera",
+          "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8225572"
+        },
+        {
+          "title": "D23, oficjalna encyklopedia Disneya — Flowers and Trees",
+          "url": "https://d23.com/a-to-z/flowers-and-trees-film/"
+        }
+      ]
+    },
+    {
+      "id": "fosa-konkurencyjna",
+      "term": "Fosa konkurencyjna / economic moat",
+      "definition": "Metafora barier, które chronią przewagę firmy przed konkurencją i naśladowaniem: mogą wynikać na przykład z kosztów lub rozpoznawalnej marki. Istotna jest zdolność utrzymania przewagi, a nie sam chwilowy sukces. To opis strategii, bez gwarancji przyszłych wyników.",
+      "example": "W panelu biznesowym rozmówca odwołuje się do Buffetta i ostrzega, że AI może szybko zasypywać takie fosy, ułatwiając konkurentom dogonienie nowego modelu biznesowego. Wypowiedź dotyczy kruchości przewagi w tym otoczeniu.",
+      "category": "Biznes i zmiana",
+      "occurrences": [
+        {
+          "page": "business.html",
+          "anchor": "w-05",
+          "label": "Biznes · 03:47:20 · przewaga i naśladowanie",
+          "needle": "fosy",
+          "videoStart": 13640
+        }
+      ],
+      "sources": [
+        {
+          "title": "Berkshire Hathaway — list Warrena Buffetta do akcjonariuszy, 2007",
+          "url": "https://www.berkshirehathaway.com/letters/2007ltr.pdf"
+        }
+      ]
+    },
+    {
+      "id": "early-adopters",
+      "term": "Early adopters — wcześni użytkownicy",
+      "definition": "Osoby, które wcześnie podejmują próbę korzystania z nowego rozwiązania. W pracy organizacji mogą testować użyteczność, przekazywać informacje zwrotne i pomagać innym poznać narzędzie. Nie każdy wcześniejszy użytkownik staje się ambasadorem i nie każdy program pilotażowy obejmuje wyłącznie entuzjastów technologii.",
+      "example": "W panelu o wdrożeniach rozmówca proponuje sprawdzić pomysł w praktyce i znaleźć early adopters. Dopiero dostrzeżona pomoc ma przekonać ich do roli ambasadorów zmiany. Panelista sam zastrzega, że opis dalszego rozpowszechniania jest dużym uproszczeniem.",
+      "category": "Biznes i zmiana",
+      "occurrences": [
+        {
+          "page": "wdrozenia.html",
+          "anchor": "w-03",
+          "label": "Wdrożenia · 02:18:07 · ambasadorzy zmiany",
+          "needle": "early adopters",
+          "videoStart": 8287
+        }
+      ],
+      "sources": [
+        {
+          "title": "Microsoft — Early Adoption Program Guide",
+          "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Adoption-Guide-Supplemental-Early-Adoption-Program-Guide.pdf"
+        }
+      ]
+    },
+    {
+      "id": "shadow-ai",
+      "term": "Shadow AI",
+      "definition": "Używanie narzędzi AI do pracy bez wiedzy lub uzgodnienia z odpowiedzialnymi zespołami organizacji. Może utrudnić kontrolę obiegu danych, dostępu i zasad użycia. Nazwa wskazuje brak widoczności lub zatwierdzenia; sama nie dowodzi wycieku, ataku ani bezprawności każdej prywatnej usługi.",
+      "example": "W panelu o cyberbezpieczeństwie Shadow AI pojawia się obok zarządzania AI, czynnika ludzkiego i ryzyka ujawnienia danych. Nie utożsamiamy wszystkich przykładów manipulacji pracownikiem z tym jednym zjawiskiem.",
+      "category": "Bezpieczeństwo i odpowiedzialność",
+      "occurrences": [
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-05",
+          "label": "Cyberbezpieczeństwo · 04:30:09 · zasady używania narzędzi",
+          "needle": "Shadow AI",
+          "videoStart": 16209
+        }
+      ],
+      "sources": [
+        {
+          "title": "Microsoft Learn — Shadow AI discovery",
+          "url": "https://learn.microsoft.com/en-us/entra/global-secure-access/concept-shadow-ai-discovery"
+        }
+      ]
+    },
+    {
+      "id": "powierzchnia-ataku",
+      "term": "Powierzchnia ataku / attack surface",
+      "definition": "Zbiór punktów na granicy systemu, przez które napastnik może próbować wejść, oddziaływać na system lub wydobyć dane. Obejmuje dostępne interfejsy i drogi oddziaływania; nie jest po prostu liczbą wszystkich zgłoszonych podatności. Realna możliwość ataku zależy także od warunków i wykorzystania danego punktu.",
+      "example": "Panelista mówi o rosnącej powierzchni ataku i presji na szybką obronę, zarazem przyznając, że nie każda wykryta podatność nadaje się do użytecznego ataku. Jego ocena skali zagrożenia pozostaje przypisana rozmówcy.",
+      "category": "Bezpieczeństwo i odpowiedzialność",
+      "occurrences": [
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-09",
+          "label": "Cyberbezpieczeństwo · 04:54:01 · presja na obrońców",
+          "needle": "powierzchni ataku",
+          "videoStart": 17638
+        }
+      ],
+      "sources": [
+        {
+          "title": "NIST Computer Security Resource Center — attack surface",
+          "url": "https://csrc.nist.gov/glossary/term/attack_surface"
         }
       ]
     }
@@ -1443,7 +2650,7 @@
       "id": "matrix",
       "title": "Matrix: żart o ludziach jako bateriach",
       "kind": "inspiracja",
-      "explanation": "Panel zestawia opowieść o symulowaniu układu nerwowego z motywem ludzi używanych jako baterie w Matrixie.",
+      "explanation": "Panel zestawia opowieść o symulowaniu układu nerwowego z motywem ludzi używanych jako baterie w Matrixie. W części 3 Q&A Matrix powraca jako metafora świata, w którym tkwimy, nazwanego przez rozmówcę „klatką na ludzi”. Rozmówca rozważa, czy sposoby docierania do prawdy mogą stać się efektywniejsze niż ludzkie mózgi. To jego metafora i rozważanie, nie stwierdzenie o rzeczywistym działaniu modeli AI.",
       "verification": "Film jest identyfikowalny; pełne nagranie pozwoliło odtworzyć przywołanie Wachowskich. Anegdota o wcześniejszym scenariuszu i decyzji producentów pozostaje relacją rozmówcy, bez osobnej weryfikacji.",
       "sources": [
         {
@@ -1462,6 +2669,12 @@
           "page": "panel-finalowy-transkrypcja.html",
           "anchor": "t-3225",
           "label": "32:25 · anegdota o scenariuszu"
+        },
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-1601",
+          "needle": "Matrixa",
+          "label": "Q&A 3 · 16:01 · metafora świata i dążenie do prawdy"
         }
       ]
     },
@@ -1490,7 +2703,7 @@
       "id": "katedra",
       "title": "Katedra — opowiadanie Dukaja i film Bagińskiego",
       "kind": "inspiracja",
-      "explanation": "Film jest przywoływany w Q&A o możliwości rozpoznania wartości dzieła wśród masowo generowanych treści. Adaptacja wyrasta z opowiadania Jacka Dukaja.",
+      "explanation": "W części 1 Q&A pada pytanie, czy film wyglądałby tak samo, gdyby podczas jego powstawania AI była równie dostępna jak dziś. Bagiński odpowiada przecząco. Adaptacja wyrasta z opowiadania Jacka Dukaja.",
       "verification": "Film i nominacja do Oscara w kategorii krótkometrażowej animacji są potwierdzone przez Akademię; źródło autora potwierdza opowiadanie i adaptację.",
       "sources": [
         {
@@ -1506,7 +2719,8 @@
         {
           "page": "qa-transkrypcja.html",
           "anchor": "t-p1-1551",
-          "label": "Q&A 1 · 15:51 · pytanie do Bagińskiego o Katedrę"
+          "label": "Q&A 1 · 15:51 · czy Katedra wyglądałaby tak samo z AI",
+          "needle": "film wyglądałby tak samo"
         }
       ]
     },
@@ -1762,7 +2976,7 @@
       "id": "katedra-widz-pytanie",
       "title": "Pytanie widza: Katedra wśród masowych treści",
       "kind": "parafraza",
-      "explanation": "Moderator odczytuje pytanie o możliwość rozpoznania wartości filmu w świecie bardzo licznych, podobnych rezultatów twórczych.",
+      "explanation": "Moderator odczytuje pytanie widza, który porównuje budowlę z Katedry do modeli uczących się na wcześniejszej twórczości. Widz pyta, czy autorskie dzieła staną się rzadkie, drogie i dostępne dla nielicznych, podczas gdy pozostali odbiorcy dostaną masowo generowane treści. Te oceny należą do autora pytania.",
       "verification": "To pytanie nadesłane przez widza, nie stwierdzenie moderatora ani potwierdzona prognoza. Nieczytelne słowa pozostają w transkrypcji oznaczone.",
       "sources": [
         {
@@ -1774,7 +2988,8 @@
         {
           "page": "qa-transkrypcja.html",
           "anchor": "t-p1-1702",
-          "label": "Q&A 1 · 17:05 · cytowane pytanie widza"
+          "label": "Q&A 1 · 17:02 · pytanie widza o autorską twórczość",
+          "needle": "prawdziwa autorska twórczość"
         }
       ]
     },
@@ -1854,6 +3069,682 @@
           "anchor": "t-3226",
           "label": "Psyho i Bagiński · 32:26 · Linia oporu",
           "needle": "Linia"
+        }
+      ]
+    },
+    {
+      "id": "dawkins-samolot",
+      "title": "Richard Dawkins — analogia stopniowo ulepszanego samolotu",
+      "kind": "parafraza; niepotwierdzona atrybucja",
+      "explanation": "Rokosz przypisuje Dawkinsowi obraz samolotu ulepszanego małymi krokami. Używa go jako ramy dla historii animacji i automatyzacji: widoczny przełom ma wcześniejsze próby. Opracowanie nie podaje literalnego cytatu ani tytułu książki.",
+      "verification": "Nazwisko jest obecne w tekście. Oficjalna fundacja potwierdza dorobek Dawkinsa związany z ewolucją, lecz nie potwierdzono w konkretnym jego dziele dokładnie tej analogii. Przypisanie pozostaje relacją Rokosza.",
+      "sources": [
+        {
+          "title": "Richard Dawkins Foundation: dorobek autora",
+          "url": "https://richarddawkins.net/richarddawkins/"
+        },
+        {
+          "title": "PJAIT: pełne nagranie konferencji AI Summit",
+          "url": "https://www.youtube.com/live/SurotppGtyA"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-02",
+          "label": "Rokosz · analogia przypisana Dawkinsowi",
+          "needle": "przypisaną Richardowi Dawkinsowi"
+        }
+      ]
+    },
+    {
+      "id": "krolewna-sniezka",
+      "title": "Królewna Śnieżka i siedmiu krasnoludków — film Disneya",
+      "kind": "odwołanie do filmu",
+      "explanation": "Rokosz przywołuje film jako przykład technicznej ambicji animacji pełnometrażowej i wykorzystania nagranego ruchu aktorów przy rysowaniu postaci. To opis produkcji w jego wykładzie, nie cytat z filmu.",
+      "verification": "Oficjalne archiwum Disney D23 potwierdza film Snow White and the Seven Dwarfs oraz premierę w 1937 r. Te dane bibliograficzne są oddzielone od technicznej interpretacji Rokosza; źródła nie użyto do dopisania wypowiedzi.",
+      "sources": [
+        {
+          "title": "Disney D23: Snow White and the Seven Dwarfs",
+          "url": "https://d23.com/a-to-z/snow-white-and-the-seven-dwarfs-film/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-05",
+          "label": "Rokosz · animowanie ludzkich postaci",
+          "needle": "w Królewnie Śnieżce"
+        }
+      ]
+    },
+    {
+      "id": "sto-jeden-dalmatynczykow",
+      "title": "101 Dalmatyńczyków — film i kserograficzna kreska",
+      "kind": "odwołanie do filmu",
+      "explanation": "Film pojawia się u Rokosza przy pracy potrzebnej do animowania wielu cętkowanych postaci, przenoszenia konturów i zachowania ekspresji szkicu. Historia służy rozmowie o tym, które zadania przejmuje technologia.",
+      "verification": "Oficjalne archiwum Disney D23 potwierdza film z 1961 r. oraz przenoszenie rysunków na folie procesem Xerox zamiast wcześniejszego ręcznego tuszowania. Nie potwierdzano tam wszystkich anegdot wykładu ani skutków zatrudnienia.",
+      "sources": [
+        {
+          "title": "Disney D23: One Hundred and One Dalmatians",
+          "url": "https://d23.com/a-to-z/one-hundred-and-one-dalmatians-film/"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-06",
+          "label": "Rokosz · cętki i proces produkcyjny",
+          "needle": "Produkcja 101 Dalmatyńczyków"
+        },
+        {
+          "page": "rokosz.html",
+          "anchor": "w-07",
+          "label": "Rokosz · kserografia i ekspresja szkicu",
+          "needle": "Kserograficzne przenoszenie rysunków"
+        }
+      ]
+    },
+    {
+      "id": "droga-idziak",
+      "title": "Droga — powieść przywołana przez Idziaka",
+      "kind": "odwołanie do książki; parafraza",
+      "explanation": "Idziak wraca do opowieści o ojcu i synu w świecie po katastrofie oraz przekazywaniu wartości. Następnie rozwija własną fantazję o ocalałej technologii jako początku nowego mitu. Ten drugi obraz nie jest przedstawiany jako fragment powieści.",
+      "verification": "W kanonicznym opracowaniu pada tytuł Droga, lecz nie nazwisko autora. Oficjalny opis wydawcy The Road potwierdza kontekst powieści o ojcu i synu po katastrofie; nie służy do uzupełniania nazwiska w zapisie wypowiedzi. Nie zamieszczono literalnego cytatu.",
+      "sources": [
+        {
+          "title": "Penguin Random House: The Road — opis i reading guide",
+          "url": "https://www.penguinrandomhouse.com/books/110490/the-road-by-cormac-mccarthy/readers-guide"
+        },
+        {
+          "title": "PJAIT: pełne nagranie konferencji AI Summit",
+          "url": "https://www.youtube.com/live/SurotppGtyA"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "idziak.html",
+          "anchor": "w-04",
+          "label": "Idziak · ojciec, syn i przekazywanie wartości",
+          "needle": "Powieść Droga"
+        }
+      ]
+    },
+    {
+      "id": "pamiec-film-idziak",
+      "title": "Opowieść o człowieku pamiętającym niemal wszystko — tytuł niepodany",
+      "kind": "przywołanie; nierozpoznane dzieło",
+      "explanation": "Idziak przywołuje pracę nad opowieścią, w której bohater organizuje wspomnienia na wyobrażonej drodze. Przykład dotyczy przełożenia wewnętrznego doświadczenia na obraz czytelny dla widza.",
+      "verification": "Tekst nie podaje tytułu ani autora dzieła. Nie identyfikowano ich przez podobieństwo fabuły do utworów znalezionych w internecie. Odsyłacz zachowuje rzeczywisty zakres rozpoznania.",
+      "sources": [
+        {
+          "title": "PJAIT: pełne nagranie konferencji AI Summit",
+          "url": "https://www.youtube.com/live/SurotppGtyA"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "idziak.html",
+          "anchor": "w-03",
+          "label": "Idziak · pamięć i język filmowego obrazu",
+          "needle": "pracę nad opowieścią o człowieku pamiętającym niemal wszystko"
+        }
+      ]
+    },
+    {
+      "id": "mythos-panel",
+      "title": "Mythos — nazwa narzędzia w sporze o podatności",
+      "kind": "przywołanie; niezweryfikowane twierdzenia",
+      "explanation": "W końcowej części panelu cyberbezpieczeństwa nazwa Mythos pojawia się przy narzędziu wyszukującym i sprawdzającym podatności. Rozmówcy spierają się o marketing, wiarygodność testów oraz presję na obrońców. Opracowanie zachowuje argumenty jako wypowiedzi uczestników.",
+      "verification": "Nazwa jest obecna w tekście i nagraniu konferencyjnym. Nie potwierdzono tu konkretnej dokumentacji dostawcy ani niezależnych wyników testów; nie dopisano producenta, wersji, liczb ani gwarantowanych możliwości systemu.",
+      "sources": [
+        {
+          "title": "PJAIT: pełne nagranie konferencji AI Summit",
+          "url": "https://www.youtube.com/live/SurotppGtyA"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-09",
+          "label": "Cyberbezpieczeństwo · testy i marketing Mythos",
+          "needle": "modelu przywołanym jako Mythos"
+        }
+      ]
+    },
+    {
+      "id": "illusion-of-thinking",
+      "title": "„The Illusion of Thinking” — artykuł i krytyka",
+      "kind": "parafraza",
+      "explanation": "Dragan przywołuje badanie modeli rozumujących i ostro je ocenia. Rzeczywista praca Apple analizuje zadania o kontrolowanej złożoności. Istnieje komentarz A. Lawsena dotyczący między innymi limitów odpowiedzi i oceniania zadań.",
+      "verification": "Bibliografia pracy Apple jest potwierdzona. Komentarz Lawsena ma oficjalny tytuł „Comment on The Illusion of Thinking…”, dlatego nie gwarantujemy, że to dokładnie tekst nazwany w wykładzie „Illusion of Illusion of Thinking”. Oceny doświadczenia autorów i sensu eksperymentów należą do prelegenta.",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0157",
+          "needle": "Illusion of Thinking",
+          "label": "Dragan · 01:57 · krytyka badania"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Apple Machine Learning Research: The Illusion of Thinking",
+          "url": "https://machinelearning.apple.com/research/illusion-of-thinking"
+        },
+        {
+          "title": "A. Lawsen: Comment on The Illusion of Thinking",
+          "url": "https://arxiv.org/abs/2506.09250"
+        }
+      ]
+    },
+    {
+      "id": "lod-dukaj",
+      "title": "Jacek Dukaj — „Lód”",
+      "kind": "odwołanie do książki",
+      "explanation": "Dragan przywołuje powieść podczas opowieści o entropii i odwracaniu kierunku czasu. Literatura stanowi inspirację wywodu, a nie dowód fizyczny.",
+      "verification": "Tytuł i autor są wyraźne w transkrypcji. Oficjalna strona Dukaja potwierdza pierwsze wydanie przez Wydawnictwo Literackie w 2007 roku.",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-2503",
+          "needle": "„Lód”",
+          "label": "Dragan · 25:03 · inspiracja literacka"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Jacek Dukaj: Lód — oficjalna strona książki",
+          "url": "https://www.dukaj.pl/pl/book/ice"
+        }
+      ]
+    },
+    {
+      "id": "wilson-socjobiologia",
+      "title": "Edward Wilson i socjobiologia",
+      "kind": "parafraza",
+      "explanation": "Uczestnik panelu przywołuje Wilsona jako przykład wyjaśniania zachowań społecznych za pomocą prostszych mechanizmów. Nazwa dyscypliny w nagraniu pozostaje niepewna.",
+      "verification": "Oficjalne wspomnienie naukowe Harvardu potwierdza książkę „Sociobiology: The New Synthesis” (1975) i badanie biologicznych podstaw zachowania społecznego. Nie potwierdza odczytu słowa ani nie sprowadza całego programu Wilsona do teorii gier.",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-1104",
+          "needle": "Edward Wilson",
+          "label": "Rosiak · 11:04 · autor i niepewna nazwa dyscypliny"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Harvard University: Edward Osborne Wilson, 92",
+          "url": "https://news.harvard.edu/gazette/story/2023/05/edward-osborne-wilson-92/"
+        }
+      ]
+    },
+    {
+      "id": "boltzmann-mikro-makro",
+      "title": "Boltzmann — mikroświat i własności zbiorowe",
+      "kind": "odwołanie historyczne",
+      "explanation": "Panel przywołuje Boltzmanna, przechodząc od temperatury i ciśnienia do statystycznego opisu materii. To przykład argumentu o poziomach wyjaśniania.",
+      "verification": "Podręcznik potwierdza statystyczny związek entropii z mikrostanami. Biograficzny komentarz z panelu nie został potwierdzony i nie jest ustaleniem słowniczka.",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-0647",
+          "needle": "Boltzmann",
+          "label": "Rosiak · 06:47 · od mikro do makro"
+        }
+      ],
+      "sources": [
+        {
+          "title": "OpenStax: Chemistry 2e, Entropy and Microstates",
+          "url": "https://openstax.org/books/chemistry-2e/pages/16-2-entropy"
+        }
+      ]
+    },
+    {
+      "id": "kasparow-deep-blue",
+      "title": "Kasparow i komputer szachowy",
+      "kind": "parafraza przypisania",
+      "explanation": "Uczestnik panelu przywołuje Garry’ego Kasparowa i dwie tezy: wyższość człowieka nad maszyną oraz przewagę współpracy człowieka z silnikiem. Są to relacjonowane poglądy w wypowiedzi panelowej.",
+      "verification": "IBM potwierdza, że Deep Blue wygrał mecz z ówczesnym mistrzem świata w 1997 roku. Źródło nie potwierdza dokładnego brzmienia przypisanych tez ani ogólnego wniosku, że człowiek nigdy nic nie wnosi do współpracy.",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-2503",
+          "needle": "Kasparow",
+          "label": "Rosiak · 25:03 · relacjonowane tezy"
+        },
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-2601",
+          "needle": "Kasparowa",
+          "label": "Rosiak · 26:01 · ocena współpracy"
+        }
+      ],
+      "sources": [
+        {
+          "title": "IBM: Deep Blue — history of the system",
+          "url": "https://www.ibm.com/history/deep-blue"
+        }
+      ]
+    },
+    {
+      "id": "tao-ai-matematyka",
+      "title": "Terence Tao — matematyka i AI",
+      "kind": "parafraza przypisania",
+      "explanation": "Panel przypisuje Tao zmianę poglądów: od sceptycyzmu do współpracy matematyków z AI. Jest to relacja rozmówcy, bez wskazania źródła starszych wypowiedzi.",
+      "verification": "Potwierdzony jest esej Tao „Mathematics in the age of AI” z sierpnia 2026, który rozważa reakcję społeczności na narzędzia zdolne do badań matematycznych. Esej przyjmuje przyszłe zdolności warunkowo; nie potwierdza przywołanego wcześniejszego wyśmiewania AI.",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-2540",
+          "needle": "Terence Tao",
+          "label": "Rosiak · 25:40 · relacjonowana zmiana stanowiska"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Terence Tao: Mathematics in the age of AI",
+          "url": "https://arxiv.org/abs/2608.16753"
+        }
+      ]
+    },
+    {
+      "id": "galileusz-relatywnosc",
+      "title": "Galileusz — względność ruchu",
+      "kind": "odwołanie historyczne",
+      "explanation": "Dragan mówi, że Galileusz mógł wyciągnąć dalej idące wnioski prowadzące do teorii względności. To kontrfaktyczna ocena prelegenta.",
+      "verification": "Museo Galileo potwierdza prace o ruchu i rozważania o jego względności w „Dialogu”. Nie potwierdza, że odkrycie szczególnej teorii względności było wtedy historycznie gotowe.",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-3606",
+          "needle": "Galileusz",
+          "label": "Dragan · 36:06 · kontrfaktyczna ocena"
+        },
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-3639",
+          "needle": "Galileusz",
+          "label": "Dragan · 36:39 · rola doświadczenia"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Museo Galileo: Galileo and the science of motion",
+          "url": "https://catalogue.museogalileo.it/multimedia/GalileoScienceMotionBis.html"
+        }
+      ]
+    },
+    {
+      "id": "dirac-analogia",
+      "title": "Paul Dirac — analogie mechaniki",
+      "kind": "odwołanie historyczne",
+      "explanation": "Dragan przywołuje analogie między prawami kwantowymi i mechaniką klasyczną jako sposób budowania rozumienia nowej teorii.",
+      "verification": "Potwierdzony jest artykuł Diraca „On the Analogy Between Classical and Quantum Mechanics” (1945). Oryginalny wykład noblowski Richarda Feynmana opisuje inspirację wcześniejszą analogią Diraca. Nie przypisujemy Diracowi długiego literalnego cytatu.",
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-3811",
+          "needle": "Paul Dirac",
+          "label": "Dragan · 38:11 · klasyczne i kwantowe prawa"
+        }
+      ],
+      "sources": [
+        {
+          "title": "P. A. M. Dirac: On the Analogy Between Classical and Quantum Mechanics",
+          "url": "https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.17.195"
+        },
+        {
+          "title": "Richard P. Feynman: Nobel Lecture (1965), Caltech archive",
+          "url": "https://www.feynmanlectures.caltech.edu/info/other/Feynmans_Nobel_Lecture.pdf"
+        }
+      ]
+    },
+    {
+      "id": "galen-medycyna",
+      "title": "Galen — dawny autorytet medyczny",
+      "kind": "odwołanie historyczne",
+      "explanation": "W panelu dawna medycyna i upuszczanie krwi służą jako analogia do obrony istniejącego systemu tylko dlatego, że nie ma pod ręką lepszego.",
+      "verification": "Wystawa NLM potwierdza długie oddziaływanie dzieł Galena i teorii humoralnych. Zastosowanie tej historii do demokracji jest argumentem rozmówcy.",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-4822",
+          "needle": "Galena",
+          "label": "Rosiak · 48:22 · analogia dawnej medycyny"
+        }
+      ],
+      "sources": [
+        {
+          "title": "US National Library of Medicine: Greek Medicine — Galen",
+          "url": "https://www.nlm.nih.gov/hmd/topics/greek-medicine/index.html"
+        }
+      ]
+    },
+    {
+      "id": "monteskiusz-ustroj",
+      "title": "Monteskiusz — podział władz",
+      "kind": "odwołanie historyczne",
+      "explanation": "Monteskiusz pojawia się w panelu przy opisie demokracji jako historycznie rozwijanej technologii organizowania społeczeństwa.",
+      "verification": "Akademickie źródło potwierdza teorię oddzielania władzy ustawodawczej, wykonawczej i sądowniczej. Ocena, że współczesny ustrój jest przestarzałą technologią, należy do uczestnika panelu.",
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-4906",
+          "needle": "Monteskiusza",
+          "label": "Rosiak · 49:06 · instytucje i historia"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Stanford Encyclopedia of Philosophy: Baron de Montesquieu",
+          "url": "https://plato.stanford.edu/entries/montesquieu/"
+        }
+      ]
+    },
+    {
+      "id": "minecraft-gra",
+      "title": "Minecraft — gra i wartość estetyczna",
+      "kind": "inspiracja",
+      "explanation": "W Q&A Minecraft jest odpowiedzią na pytanie o popularne gry, których wygląd nie pasuje do wąskiego pojęcia efektownej grafiki. Rozmowa rozdziela radość grania od jednego kryterium estetycznego.",
+      "verification": "Oficjalna strona potwierdza tożsamość gry oraz świat budowany z bloków. Określenie gry jako brzydkiej jest oceną rozmówców, nie faktem katalogowym.",
+      "occurrences": [
+        {
+          "page": "qa-transkrypcja.html",
+          "anchor": "t-p3-0825",
+          "needle": "Minecraft",
+          "label": "Q&A 3 · 08:25 · wygląd a doświadczenie gry"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mojang / Minecraft: What is Minecraft?",
+          "url": "https://www.minecraft.net/en-us/article/what-minecraft"
+        }
+      ]
+    },
+    {
+      "id": "wiedzmin-serial",
+      "title": "„Wiedźmin” — serial i pytanie o narzędzia",
+      "kind": "inspiracja",
+      "explanation": "Moderator pyta o użycie narzędzi AI przy ostatnim sezonie „Wiedźmina”. Odpowiedź kieruje rozmowę ku zastosowaniom w pracy filmowej.",
+      "verification": "Netflix potwierdza tożsamość serialu „The Witcher”. Oficjalna karta nie potwierdza użycia AI w konkretnym sezonie; pytania z rozmowy nie zamieniamy w informację produkcyjną.",
+      "occurrences": [
+        {
+          "page": "psyho-baginski-transkrypcja.html",
+          "anchor": "t-2146",
+          "needle": "Wiedźmina",
+          "label": "Psyho i Bagiński · 21:46 · pytanie o produkcję"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Netflix Media Center: The Witcher",
+          "url": "https://media.netflix.com/en/only-on-netflix/80189685"
+        }
+      ]
+    },
+    {
+      "id": "dragan-inteligencja-analogie",
+      "title": "Dragan: inteligencja jako dostrzeganie analogii",
+      "kind": "cytat z transkrypcji; opinia prelegenta",
+      "explanation": "Andrzej Dragan tak przedstawia własne rozumienie inteligencji, polemizując z przeciwstawieniem jej rozpoznawaniu wzorców. To stanowisko prelegenta, nie przyjęta bezspornie definicja naukowa.",
+      "verification": "Krótki cytat dosłowny z czytelnego akapitu kanonicznej transkrypcji wykładu Andrzeja Dragana. Nie jest cytatem z omawianej pracy Apple.",
+      "sources": [
+        {
+          "title": "AI Summit PJAIT 2026 — pełne nagranie konferencji",
+          "url": "https://www.youtube.com/live/SurotppGtyA"
+        },
+        {
+          "title": "Kanoniczna transkrypcja: Dragan · 02:44 · definicja inteligencji",
+          "url": "https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-0244"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-0244",
+          "label": "Dragan · 02:44 · definicja inteligencji",
+          "needle": "Dla mnie definicją inteligencji jest dostrzeganie analogii, łączenie kropek, dostrzeganie patternów."
+        }
+      ],
+      "quotedText": "Dla mnie definicją inteligencji jest dostrzeganie analogii, łączenie kropek, dostrzeganie patternów."
+    },
+    {
+      "id": "dragan-granice-rozumienia",
+      "title": "Dragan: granice rozumienia i analogii",
+      "kind": "cytat z transkrypcji; opinia prelegenta",
+      "explanation": "To fragment końcowego wniosku Andrzeja Dragana. Prelegent wiąże zrozumienie abstrakcyjnych teorii z rozpoznaniem związku z czymś już znanym; nie ogłasza dowodu, że wszystkie rodzaje rozumienia sprowadzają się do analogii.",
+      "verification": "Krótki dosłowny fragment czytelnego zdania w zakończeniu kanonicznej transkrypcji. Wielokrotnie omawiana analogia Diraca jest tłem wypowiedzi, nie autorem tego cytatu.",
+      "sources": [
+        {
+          "title": "AI Summit PJAIT 2026 — pełne nagranie konferencji",
+          "url": "https://www.youtube.com/live/SurotppGtyA"
+        },
+        {
+          "title": "Kanoniczna transkrypcja: Dragan · 38:11 · granice rozumienia",
+          "url": "https://jakiesluchawki.github.io/daniel-opowiesc/dragan-transkrypcja.html#t-3811"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "dragan-transkrypcja.html",
+          "anchor": "t-3811",
+          "label": "Dragan · 38:11 · granice rozumienia",
+          "needle": "nasze rozumienie jest mocno ograniczone tym, jakie analogie jesteśmy w stanie dostrzegać."
+        }
+      ],
+      "quotedText": "nasze rozumienie jest mocno ograniczone tym, jakie analogie jesteśmy w stanie dostrzegać."
+    },
+    {
+      "id": "panel-demokracja-technologia",
+      "title": "Panel Rosiaka: demokracja jako technologia",
+      "kind": "cytat z transkrypcji; mówca nieoznaczony",
+      "explanation": "Jeden z uczestników panelu używa tej tezy, aby krytycznie pytać o możliwość zmiany instytucji politycznych. To argument rozmówcy, nie wspólna deklaracja panelistów ani ustalony opis wyższości konkretnego ustroju.",
+      "verification": "Krótki cytat dosłowny z czytelnej kanonicznej transkrypcji panelu. W tym fragmencie nie ma wystarczającej podstawy do imiennego oznaczenia głosu; oznaczona luka w dalszym zdaniu pozostaje nieuzupełniona.",
+      "sources": [
+        {
+          "title": "AI Summit PJAIT 2026 — pełne nagranie konferencji",
+          "url": "https://www.youtube.com/live/SurotppGtyA"
+        },
+        {
+          "title": "Kanoniczna transkrypcja: Rosiak · 49:06 · demokracja jako technologia",
+          "url": "https://jakiesluchawki.github.io/daniel-opowiesc/panel-finalowy-transkrypcja.html#t-4906"
+        }
+      ],
+      "occurrences": [
+        {
+          "page": "panel-finalowy-transkrypcja.html",
+          "anchor": "t-4906",
+          "label": "Rosiak · 49:06 · demokracja jako technologia",
+          "needle": "Demokracja jest technologią zarządzania społeczeństwami."
+        }
+      ],
+      "quotedText": "Demokracja jest technologią zarządzania społeczeństwami."
+    },
+    {
+      "id": "kwiaty-i-drzewa",
+      "title": "Kwiaty i drzewa — kolor w animacji",
+      "kind": "odwołanie do filmu",
+      "explanation": "Flowers and Trees to krótka animacja Disneya z 1932 roku, wykorzystująca Technicolor. Rokosz przywołuje ją w opowieści o kolejnych wyzwaniach technicznych kina: kolor jest tutaj zmianą procesu produkcji, a nie tylko dekoracją.",
+      "verification": "Tytuł i Technicolor są wyraźnie przywołane w zachowanych napisach. Oficjalna karta Disneya potwierdza film i technikę. Nie powtarzamy bez zastrzeżenia szerszego określenia „pierwszy kolorowy film” użytego w wypowiedzi.",
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-05",
+          "label": "Rokosz · 00:37:45 · Kwiaty i drzewa",
+          "needle": "Kwiaty i drzewa",
+          "videoStart": 2265
+        }
+      ],
+      "sources": [
+        {
+          "title": "D23, oficjalna encyklopedia Disneya — Flowers and Trees",
+          "url": "https://d23.com/a-to-z/flowers-and-trees-film/"
+        },
+        {
+          "title": "AI Summit PJAIT 2026 — pełne nagranie konferencji",
+          "url": "https://www.youtube.com/watch?v=SurotppGtyA&t=2265s"
+        }
+      ]
+    },
+    {
+      "id": "buffett-fosa",
+      "title": "Buffett: metafora fosy konkurencyjnej",
+      "kind": "parafraza odwołania do metafory",
+      "explanation": "Rozmówca panelu biznesowego przypisuje Buffettowi metaforę fosy, która chroni przewagę konkurencyjną. Sam podkreśla możliwość jej szybkiego zasypania przez konkurencję używającą AI. Nie jest to literalny cytat z listu Buffetta.",
+      "verification": "Oryginalny list do akcjonariuszy Berkshire Hathaway z 2007 roku rzeczywiście posługuje się metaforą trwałej fosy i barier dla konkurencji. Jest źródłem objaśnienia idei; nie ustala, do którego dokumentu odwołał się panelista ani dokładnych słów Buffetta z konferencji.",
+      "occurrences": [
+        {
+          "page": "business.html",
+          "anchor": "w-05",
+          "label": "Biznes · 03:47:23 · odwołanie do Buffetta",
+          "needle": "Buffetta",
+          "videoStart": 13640
+        }
+      ],
+      "sources": [
+        {
+          "title": "Berkshire Hathaway — list Warrena Buffetta do akcjonariuszy, 2007",
+          "url": "https://www.berkshirehathaway.com/letters/2007ltr.pdf"
+        },
+        {
+          "title": "AI Summit PJAIT 2026 — pełne nagranie konferencji",
+          "url": "https://www.youtube.com/watch?v=SurotppGtyA&t=13643s"
+        }
+      ]
+    },
+    {
+      "id": "umarli-filmowcy",
+      "title": "Stowarzyszenie umarłych filmowców — żart Idziaka",
+      "kind": "parafraza tytułu; prawdopodobne nawiązanie",
+      "explanation": "Idziak żartobliwie nazywa eksperyment z agentami opartymi na zmarłych mentorach „Stowarzyszeniem umarłych filmowców” i określa nazwę jako parafrazę filmu Petera Weira. Najbardziej prawdopodobnym nawiązaniem jest Stowarzyszenie umarłych poetów / Dead Poets Society.",
+      "verification": "Zapis potwierdza zmodyfikowaną nazwę i wzmiankę o parafrazie. Oficjalna karta filmu oraz program Kina Muranów potwierdzają tytuł i reżysera. Oryginalny tytuł jest tu rozpoznanym prawdopodobnym kontekstem, a nie odtworzonym literalnym zdaniem Idziaka. Pominięto promocję wydarzenia.",
+      "occurrences": [
+        {
+          "page": "idziak.html",
+          "anchor": "w-08",
+          "label": "Idziak · 02:02:28 · agenci i mentorzy",
+          "needle": "Stowarzyszenie umarłych filmowców",
+          "videoStart": 7348
+        }
+      ],
+      "sources": [
+        {
+          "title": "D23, oficjalna encyklopedia Disneya — Dead Poets Society",
+          "url": "https://d23.com/a-to-z/dead-poets-society-film/"
+        },
+        {
+          "title": "Kino Muranów — Stowarzyszenie Umarłych Poetów, karta filmu",
+          "url": "https://kinomuranow.pl/film/stowarzyszenie-umarlych-poetow"
+        },
+        {
+          "title": "AI Summit PJAIT 2026 — pełne nagranie konferencji",
+          "url": "https://www.youtube.com/watch?v=SurotppGtyA&t=7348s"
+        }
+      ]
+    },
+    {
+      "id": "samolubny-gen",
+      "title": "Richard Dawkins — Samolubny gen",
+      "kind": "odwołanie do książki",
+      "explanation": "Rokosz przedstawia Richarda Dawkinsa przez Samolubny gen. Książka ujmuje ewolucję z perspektywy genów; w wystąpieniu tytuł identyfikuje autora przed późniejszą analogią stopniowego budowania sprawnego samolotu.",
+      "verification": "Tytuł i autor są wymienione w źródłowym fragmencie, a karta Oxford University Press potwierdza książkę i jej perspektywę. Nie ustalono, że przypisana Dawkinsowi analogia samolotu pochodzi z tej książki; jej wcześniejsza niepewna atrybucja pozostaje osobnym wpisem.",
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-02",
+          "label": "Rokosz · 00:28:03 · autor Samolubnego genu",
+          "needle": "Samolubnego genu",
+          "videoStart": 1681
+        }
+      ],
+      "sources": [
+        {
+          "title": "Oxford University Press — Richard Dawkins, The Selfish Gene",
+          "url": "https://www.oup.com.au/books/general-interest/biological-sciences/9780198788607"
+        },
+        {
+          "title": "AI Summit PJAIT 2026 — pełne nagranie konferencji",
+          "url": "https://www.youtube.com/watch?v=SurotppGtyA&t=1683s"
+        }
+      ]
+    },
+    {
+      "id": "grona-gniewu",
+      "title": "John Steinbeck — Grona gniewu",
+      "kind": "odwołanie do książki",
+      "explanation": "Powieść Steinbecka o doświadczeniu wielkiego kryzysu i rodzinie zmuszonej do opuszczenia swojego gospodarstwa. Rokosz przywołuje ją jako literacki obraz społecznego wstrząsu, zanim przechodzi do swojej interpretacji przemysłowych zmian w kinie.",
+      "verification": "Autor i polski tytuł są wyraźnie wymienieni w zachowanym fragmencie. Karta wydawcy potwierdza angielski tytuł The Grapes of Wrath i treść powieści. Odwołanie literackie nie jest dowodem wszystkich historycznych zależności przedstawionych przez prelegenta.",
+      "occurrences": [
+        {
+          "page": "rokosz.html",
+          "anchor": "w-04",
+          "label": "Rokosz · 00:34:51 · literacki obraz kryzysu",
+          "needle": "Grona gniewu",
+          "videoStart": 2091
+        }
+      ],
+      "sources": [
+        {
+          "title": "Penguin Random House — John Steinbeck, The Grapes of Wrath",
+          "url": "https://www.penguinrandomhouse.com/books/354795/the-grapes-of-wrath-by-john-steinbeck/"
+        },
+        {
+          "title": "AI Summit PJAIT 2026 — pełne nagranie konferencji",
+          "url": "https://www.youtube.com/watch?v=SurotppGtyA&t=2091s"
+        }
+      ]
+    },
+    {
+      "id": "hancock-siekiera",
+      "title": "Herbie Hancock: przypisana anegdota o narzędziu",
+      "kind": "parafraza; niepotwierdzona atrybucja",
+      "explanation": "Rokosz przypisuje Herbiemu Hancockowi porównanie syntezatora do siekiery: narzędzie może pomagać albo krzywdzić zależnie od użycia. Moderator odpowiada, że skala szkód masowo stosowanej technologii może przekraczać następstwa działania jednej osoby.",
+      "verification": "Źródłowy fragment potwierdza, że to Rokosz przywołuje Hancocka i anegdotę. Nie odnaleziono pierwotnej wypowiedzi artysty, miejsca ani daty. Publikujemy własną parafrazę z oznaczonym przypisaniem, bez gwarancji literalnego cytatu Hancocka i bez dopisywania jego biografii.",
+      "occurrences": [
+        {
+          "page": "digital-media.html",
+          "anchor": "w-08",
+          "label": "Media cyfrowe · 01:23:39 · analogia narzędzia",
+          "needle": "Hancockowi",
+          "videoStart": 5019
+        }
+      ],
+      "sources": [
+        {
+          "title": "AI Summit PJAIT 2026 — pełne nagranie konferencji",
+          "url": "https://www.youtube.com/watch?v=SurotppGtyA&t=5019s"
+        }
+      ]
+    },
+    {
+      "id": "npt-analogia",
+      "title": "NPT — analogia zastosowań cywilnych i wojskowych",
+      "kind": "odwołanie do traktatu; analogia rozmówcy",
+      "explanation": "Treaty on the Non-Proliferation of Nuclear Weapons dotyczy nierozprzestrzeniania broni jądrowej oraz pokojowego wykorzystania energii jądrowej. Panelista używa podziału cywilne–wojskowe, rozważając możliwe standardy dla AI i strategiczne interesy państw.",
+      "verification": "NPT jest wymieniony w panelu; pełna angielska nazwa w automatycznych napisach jest zniekształcona. Autentyczny tekst traktatu w UN Treaty Series i opis IAEA potwierdzają jego zakres. To ograniczona analogia panelisty, a nie informacja o obowiązującym traktacie regulującym AI.",
+      "occurrences": [
+        {
+          "page": "cybersecurity.html",
+          "anchor": "w-08",
+          "label": "Cyberbezpieczeństwo · 04:49:00 · cywilne i wojskowe zastosowania",
+          "needle": "NPT",
+          "videoStart": 17340
+        }
+      ],
+      "sources": [
+        {
+          "title": "United Nations Treaty Series — Treaty on the Non-Proliferation of Nuclear Weapons, autentyczny tekst",
+          "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%20729/volume-729-I-10485-English.pdf"
+        },
+        {
+          "title": "IAEA — Treaty on the Non-Proliferation of Nuclear Weapons",
+          "url": "https://www.iaea.org/topics/non-proliferation-treaty"
+        },
+        {
+          "title": "AI Summit PJAIT 2026 — pełne nagranie konferencji",
+          "url": "https://www.youtube.com/watch?v=SurotppGtyA&t=17340s"
         }
       ]
     }

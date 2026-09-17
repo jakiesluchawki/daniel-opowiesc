@@ -200,3 +200,11 @@ h1,h2{letter-spacing:-.035em;line-height:1.1;margin:0}
 .recording-map li { margin:1.5rem 0 2rem; padding-left:.3em; }
 .recording-map h3 { font-size:1.05rem; font-family:Roobert,sans-serif; font-weight:400; line-height:1.5; }
 .recording-clock { display:block; color:var(--muted); font-variant-numeric:tabular-nums; font-size:.8em; }
+.header-nav{flex-wrap:wrap}
+.header-nav .script-link{color:var(--blue);font-weight:700}
+.script-session-links{margin:0 0 1.5rem;font-size:1rem}
+.script-session-links a:first-child{font-weight:700}
+.glossary-occurrence{display:block;margin:0 0 .8rem}
+@media(min-width:1200px) and (max-width:1519px){.site-header{grid-template-columns:minmax(0,1fr) auto}.site-header .collection-label{display:none}.site-header .lecture-switch{justify-content:flex-start}}
+.story-body.enhanced:not(.reading) .header-nav{flex-wrap:nowrap}
+@media(max-width:700px){.story-body.enhanced:not(.reading) .header-nav{gap:.35rem;font-size:.7rem}}

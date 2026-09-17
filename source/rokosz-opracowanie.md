@@ -26,7 +26,7 @@ Jego sposobem oswojenia zmiany jest poszukiwanie dłuższej historii. Animacja o
 
 ## Samolot poprawiany po kawałku
 
-Rokosz przywołuje przypisaną Richardowi Dawkinsowi analogię konstruowania samolotu. Prymitywny pojazd nie od razu staje się sprawną maszyną. Kolejne drobne poprawki skrzydeł, kadłuba i napędu pozwalają mu stopniowo lecieć dalej. Taką perspektywę proponuje również wobec rozwoju animacji.
+Przed przywołaniem analogii Rokosz przedstawia Richarda Dawkinsa jako autora Samolubnego genu. Rokosz przywołuje przypisaną Richardowi Dawkinsowi analogię konstruowania samolotu. Prymitywny pojazd nie od razu staje się sprawną maszyną. Kolejne drobne poprawki skrzydeł, kadłuba i napędu pozwalają mu stopniowo lecieć dalej. Taką perspektywę proponuje również wobec rozwoju animacji.
 
 W tej opowieści AI jest kolejnym etapem ewolucji narzędzi, a nie początkiem automatyzacji. Widoczne przełomy mają wcześniejsze, mniej efektowne próby i usprawnienia. Prelegent szuka ich także w analogowych rozwiązaniach, żeby nie utożsamiać całej historii pomocy technicznej z komputerami.
 
@@ -42,7 +42,7 @@ Rokosz rozróżnia szybki gest i subtelne emocje. W jego praktycznym przykładzi
 
 ## Taśma produkcyjna wchodzi do studia
 
-W historycznej interpretacji Rokosza kryzys gospodarczy końca lat dwudziestych przyspieszył przemysłowe organizowanie filmu. Studia potrzebowały szybciej i taniej produkować dla publiczności dysponującej mniejszą ilością pieniędzy. Punktem odniesienia stała się praca podzielona między wyspecjalizowane działy.
+W historycznej interpretacji Rokosza kryzys gospodarczy końca lat dwudziestych przyspieszył przemysłowe organizowanie filmu. Studia potrzebowały szybciej i taniej produkować dla publiczności dysponującej mniejszą ilością pieniędzy. Punktem odniesienia stała się praca podzielona między wyspecjalizowane działy. Przywołuje Grona gniewu Johna Steinbecka jako literacki obraz społecznego wstrząsu.
 
 Prelegent opisuje przepływ materiału między scenarzystami, reżyserami, animatorami i kolejnymi zespołami. Zyskiem jest przewidywalna produkcja; kosztem może być ujednolicenie. Łączy tę zmianę również z dominacją powtarzalnych schematów opowiadania, przedstawiając własną interpretację przemysłowego kina, a nie niepodważalną cezurę całej sztuki.
 
@@ -50,7 +50,7 @@ Prelegent opisuje przepływ materiału między scenarzystami, reżyserami, anima
 
 ## Ciało aktora pomaga rysunkowi
 
-Na przykładzie studia Disneya Rokosz pokazuje ambicję przesuwania granic technicznych: dźwięk, kolor i pełny metraż są w jego opowieści kolejnymi wyzwaniami produkcji. Szczególnie interesuje go sposób ułatwienia animowania ludzkich postaci w Królewnie Śnieżce.
+Na przykładzie studia Disneya Rokosz pokazuje ambicję przesuwania granic technicznych: dźwięk, kolor i pełny metraż są w jego opowieści kolejnymi wyzwaniami produkcji. Wspomina Kwiaty i drzewa oraz technikę Technicolor, pokazując, że również kolor wymagał nowego procesu. Szczególnie interesuje go sposób ułatwienia animowania ludzkich postaci w Królewnie Śnieżce.
 
 Opisuje nagranie aktorów, których ruch następnie odrysowywano. Rotoskopia daje animatorowi materiał zamiast konieczności wymyślania każdej pozy ciała od początku. Rokosz zestawia tę technikę ze współczesnym przechwytywaniem ruchu: zmieniają się urządzenia, pozostaje pomysł wykorzystania już istniejącego zachowania.
 

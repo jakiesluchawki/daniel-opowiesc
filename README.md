@@ -6,11 +6,13 @@
 - [Naskręcki](index.html): 12 pełnoekranowych scen z osobnymi wariantami szerokimi i pionowymi. Trzy krótkie akapity widoczne od razu. „Czytaj całość” i no-JS zachowują 36 dłuższych akapitów. Daniel jest bohaterem adaptacji; prelegentem jest Bartosz Naskręcki.
 - [Psyho i Bagiński](psyho-baginski.html), [Dragan](dragan.html), [Rosiak](panel-finalowy.html): artykuły z panoramicznym otwarciem i jednym przepleceniem. Pełne transkrypcje sprawdzono z transmisją; zachowano lokalne znaczniki i dodano odnośniki do ciągłego zegara wideo.
 - [Q&A](qa.html): 13 wątków, jeden szeroki obraz oraz [transkrypt](qa-transkrypcja.html). Pierwotne części 24:42, 7:05, 17:41 zachowują własne zegary i wszystkie 98 anchorów. Odzyskane przerwy, około 3:20 i 0:12, są osobno oznaczonymi parafrazami z czasami transmisji.
-- [Słowniczek](slowniczek.html): 44 pojęcia i 40 odniesień do cytatów, autorów oraz dzieł. Objaśnienia, źródła i powroty do fragmentów; adnotacje również w nowych opracowaniach.
+- [Słowniczek](slowniczek.html): 93 pojęcia i 68 odniesień do cytatów, autorów oraz dzieł, opracowanych na podstawie wszystkich dwunastu tekstów. 222 powroty do konkretnych fragmentów skryptu i nagrania; adnotacje również w transkryptach i nowych opracowaniach. Cytaty literalne, parafrazy i niepewne przypisania mają osobne oznaczenia.
 
 ## Zbiorczy skrypt
 
 [Skrypt wykładów](skrypt.html) łączy dwanaście sesji w jeden przeszukiwalny tekst. Pobierz [TXT](source/skrypt.txt) lub [Markdown](source/skrypt.md) do czytania i wyszukiwania offline. Pięć wcześniejszych sesji zachowuje dostarczone transkrypcje; siedem nowych ma autorskie szczegółowe opracowania, oznaczone jako parafrazy.
+
+Widoczny link „Skrypt” jest w nagłówku każdej strony. Opracowania prowadzą bezpośrednio do tekstu swojej sesji i pełnego TXT. Mapy wątków i znaczniki transkryptów oferują obok siebie tekst i nagranie. Czytnik zawiera adnotacje do słowniczka, a słowniczek wraca do konkretnego akapitu i czasu wideo. [Mapa odnośników](source/script-links.json) zachowuje identyfikatory źródeł i lokalne zegary Q&A.
 
 ## Redakcja i źródła
 

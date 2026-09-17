@@ -37,7 +37,7 @@ Adam Kuzdraliński polemizuje z takim sposobem postępowania. Uważa, że wdroż
 
 Katarzyna Otto kieruje rozmowę ku zarządzaniu zmianą. Opór może wynikać z braku kompetencji, zagrożenia dla pracy albo niejasnego celu. Te przyczyny wymagają różnych odpowiedzi; samo przekonywanie, że nowa technologia jest szybsza, nie tłumaczy każdemu, co zyska i za co będzie odpowiadać.
 
-W innym przykładzie rozmówca proponuje najpierw sprawdzić rozwiązanie samemu i znaleźć osoby gotowe testować je wcześnie. Gdy widzą realną pomoc, stają się ambasadorami zmiany. Pozostali nie muszą wtedy wierzyć wyłącznie w deklarację kierownictwa: mogą zobaczyć działający przykład i sami poprosić o dostęp.
+W innym przykładzie rozmówca proponuje najpierw sprawdzić rozwiązanie samemu i znaleźć osoby gotowe testować je wcześnie — early adopters. Gdy widzą realną pomoc, stają się ambasadorami zmiany. Pozostali nie muszą wtedy wierzyć wyłącznie w deklarację kierownictwa: mogą zobaczyć działający przykład i sami poprosić o dostęp.
 
 [Pełne nagranie · 02:14:50](https://www.youtube.com/watch?v=SurotppGtyA&t=8090s)
 

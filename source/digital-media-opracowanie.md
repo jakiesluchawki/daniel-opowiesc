@@ -78,7 +78,7 @@ Automatyczne przygotowanie i publikowanie materiałów marketingowych daje duż�
 
 Inny przykład dotyczy analizowania zachowania ludzi w przestrzeni. Opis systemu prowadzi do sporu o granice regulacji, prywatności i sprzedażowego wykorzystania obserwacji. Techniczna możliwość pomiaru nie rozstrzyga, czy chcemy, żeby tak działały publiczne miejsca.
 
-Panel wraca też do metafory narzędzia, którym można zrobić coś pożytecznego albo krzywdzącego. Moderator zwraca uwagę na różnicę skali: szkody wyrządzane przez masowo używaną technologię mogą przekroczyć lokalne następstwa działania pojedynczej osoby. Sama analogia do znanego przedmiotu nie zamyka problemu odpowiedzialności.
+Rokosz przywołuje przypisaną Herbiemu Hancockowi anegdotę: syntezator, podobnie jak siekiera, może służyć do pożytecznego albo krzywdzącego działania. Moderator zwraca uwagę na różnicę skali: szkody wyrządzane przez masowo używaną technologię mogą przekroczyć lokalne następstwa działania pojedynczej osoby. Sama analogia do znanego przedmiotu nie zamyka problemu odpowiedzialności.
 
 [Pełne nagranie · 01:18:35](https://www.youtube.com/watch?v=SurotppGtyA&t=4715s)
 

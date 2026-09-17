@@ -51,7 +51,7 @@ W hipotetycznym przykładzie intensywnego ataku powietrznego pojawia się pytani
 
 ## Organizacja zmienia się wolniej
 
-Prawnicza odpowiedź najpierw wskazuje nierówne tempo: technologie szybko się zmieniają, a firmy nadal ustalają zasady ich używania. Panelistka stawia człowieka w centrum zarządzania. Zwraca uwagę na ryzyko udostępnienia danych, tajemnicy przedsiębiorstwa i podatnych systemów przy nieodpowiednim działaniu pracownika.
+Prawnicza odpowiedź najpierw wskazuje nierówne tempo: technologie szybko się zmieniają, a firmy nadal ustalają zasady ich używania. Panelistka stawia człowieka w centrum zarządzania. Zwraca uwagę na ryzyko udostępnienia danych, tajemnicy przedsiębiorstwa i podatnych systemów przy nieodpowiednim działaniu pracownika. Przywołuje też Shadow AI. Nieuzgodnione użycie narzędzi w pracy jest dodatkowym problemem zarządzania; sam termin nie przesądza, że nastąpił już wyciek lub atak.
 
 W jej ujęciu ramy prawne powinny wyznaczać kierunki i pomagać rozpoznawać ryzyka, a nie bezrefleksyjnie blokować zastosowania. Wspomina klasyfikowanie systemów według ryzyka. Ta część opracowania oddaje stanowisko z panelu; nie zastępuje sprawdzenia obowiązków prawnych konkretnej usługi ani aktualnej dokumentacji regulacyjnej.
 
@@ -77,7 +77,7 @@ W jej wypowiedzi AI Act, ochrona danych i przepisy cyberbezpieczeństwa dotyczą
 
 Praktyk kwestionuje koszty i widoczne efekty części regulacji. Inne głosy wskazują, że europejskie zasady nie zatrzymają rozwoju w krajach przyjmujących odmienne podejście. Pojawia się również problem materiałów udostępnianych platformom przez same firmy i świadomości dalszego używania tych danych.
 
-Analogia do technologii atomowej zostaje ograniczona przez tempo rozwoju AI. W perspektywie wojskowej rozmówca nie spodziewa się dobrowolnego ograniczania strategicznych możliwości państw. Te oceny nie są dowodem nieskuteczności każdego przepisu; pokazują napięcie między globalnym wyścigiem, lokalnymi obowiązkami i cywilnymi zastosowaniami.
+Analogia do technologii atomowej zostaje ograniczona przez tempo rozwoju AI. Rozmówca przywołuje NPT, rozdzielając cywilne i wojskowe zastosowania energii jądrowej, i używa tego podziału jako analogii w rozmowie o AI. W perspektywie wojskowej rozmówca nie spodziewa się dobrowolnego ograniczania strategicznych możliwości państw. Te oceny nie są dowodem nieskuteczności każdego przepisu; pokazują napięcie między globalnym wyścigiem, lokalnymi obowiązkami i cywilnymi zastosowaniami.
 
 [Pełne nagranie · 04:44:52](https://www.youtube.com/watch?v=SurotppGtyA&t=17092s)
 
@@ -85,7 +85,7 @@ Analogia do technologii atomowej zostaje ograniczona przez tempo rozwoju AI. W p
 
 W wątku o modelu przywołanym jako Mythos rozmówca oddziela promocję od niezależnej weryfikacji. Opisuje narzędzie wyszukujące i sprawdzające podatności, ale kwestionuje prezentowanie testów. Przykład przeglądarki służy rozróżnieniu znalezionej luki od możliwości przeprowadzenia użytecznego ataku.
 
-Odpowiedź podkreśla, że nawet niedoskonałe wyniki zwiększają presję na obrońców. Panelista wskazuje sprawność modeli w rozpoznawaniu systemów i potrzebę szybkich poprawek. Liczby oraz szczegóły testów nie są tu podawane jako ustalone fakty; pozostaje spór o ocenę zagrożenia i warunki obrony.
+Odpowiedź podkreśla, że nawet niedoskonałe wyniki zwiększają presję na obrońców. Panelista zastrzega, że nie każda wykryta podatność nadaje się do użytecznego ataku; mimo tego mówi o powiększaniu powierzchni ataku. Wskazuje sprawność modeli w rozpoznawaniu systemów i potrzebę szybkich poprawek. Liczby oraz szczegóły testów nie są tu podawane jako ustalone fakty; pozostaje spór o ocenę zagrożenia i warunki obrony.
 
 [Pełne nagranie · 04:49:55](https://www.youtube.com/watch?v=SurotppGtyA&t=17395s)
 
